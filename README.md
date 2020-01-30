@@ -38,7 +38,7 @@ You can find example of projects listed in the different [brainhack events](http
 - [openMR 2020 hackathon](https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues)
 - [OHBM 2019 hackathon](https://github.com/ohbm/hackathon2019/issues)
 - [Brainhack Princeton 2019](https://github.com/brainhack-princeton/brainhack-princeton-2019)
-- [Brainhack Open Geneva 2020]("https://brainhack.ch/#portfolio)
+- [Brainhack Open Geneva 2020](https://brainhack.ch/#portfolio)
 - [BrainHack Ghent 2018](https://brainhackghent.github.io)
 
 
