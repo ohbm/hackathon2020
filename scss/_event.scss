@@ -1,0 +1,151 @@
+/* Event Time Area css
+============================================================================================ */
+.event_time_area{
+	padding-bottom: 120px;
+	&.ab_event{
+		.event_time_inner{
+			margin-top: 0px;
+		}
+	}
+}
+.event_time_inner{
+	max-width: 944px;
+	margin: auto;
+	background: #fff;
+	margin-top: -90px;
+	border-radius: 5px;
+	box-shadow: 0px 8px 30px 0px rgba(153, 153, 153, 0.1);
+	padding-top: 45px;
+	padding-bottom: 50px;
+	.event_text{
+		padding-left: 65px;
+		h3{
+			color: $dip;
+			font-size: 21px;
+			text-transform: uppercase;
+			margin-bottom: 15px;
+		}
+		p{
+			margin-bottom: 0px;
+		}
+	}
+}
+.timer_inner{
+	text-align: center;
+	overflow: hidden;
+	h5{
+		font-size: 36px;
+		font-family: $rob;
+		font-weight: bold;
+		margin-bottom: 35px; 
+	}
+	p{
+		font-size: 24px;
+		font-family: $rob;
+		font-weight: bold;
+		margin-bottom: 0px;
+		margin-top: 25px;
+	}
+	.timer{
+		max-width: 380px;
+		margin: auto;
+		background: rgba(255, 255, 255, 1);
+		display: flex;
+		flex-wrap: wrap;
+		position: relative;
+		border-radius: 5px;
+		.timer__section{
+			flex: 0 0 25%;
+			max-width: 25%;
+			padding-top: 20px;
+			padding-bottom: 0px;
+			position: relative;
+			.timer__number{
+				font-size: 36px;
+				color: $dip;
+				font-family: $hee;
+				font-weight: bold;
+			}
+			.timer__label{
+				font-size: 14px;
+				font-family: $rob;
+				margin-top: 6px;
+				color: $pfont;
+				text-transform: capitalize;
+			}
+		}
+	}
+}
+/* End Event Time Area css
+============================================================================================ */
+
+/* Event Schedule Area css
+============================================================================================ */
+.event_schedule_area{
+	
+}
+.event_schedule_inner{
+	.nav-tabs{
+		border: none;
+		background-image: -moz-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
+		background-image: -webkit-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
+		background-image: -ms-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
+		border-radius: 5px;
+		overflow: hidden;
+		li{
+			margin-bottom: 0px;
+			a{
+				border: none;
+				background: transparent;
+				text-decoration: none;
+				border-radius: 0px;
+				padding: 0px 50px;
+				line-height: 80px;
+				color: #fff;
+				font-size: 16px;
+				font-weight: bold;
+				font-family: $hee;
+				text-transform: uppercase;
+				&.active, &:hover{
+					background: #4331b0;
+					border: none;
+					color: #fff;
+				}
+			}
+		}
+	}
+	.tab-pane{
+		background: #f9f9ff;
+		.media{
+			padding: 30px;
+			margin: 0px;
+			@include transition;
+			.d-flex{
+				padding-right: 25px;
+			}
+			.media-body{
+				h5{
+					font-size: 14px;
+					font-weight: normal;
+					font-family: $rob;
+				}
+				h4{
+					font-size: 21px;
+					font-family: $hee;
+					font-weight: bold;
+					color: $dip;
+					text-transform: uppercase;
+				}
+				p{
+					margin-bottom: 0px;
+				}
+			}
+			&:hover{
+				background: #fff;
+				box-shadow: 0px 8px 30px 0px rgba(153, 153, 153, 0.1);
+			}
+		}
+	}
+}
+/* End Event Schedule Area css
+============================================================================================ */
