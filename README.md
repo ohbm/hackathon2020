@@ -6,13 +6,7 @@ The [Open Science Special Interest Group](https://ossig.netlify.com/) is very ha
 
 ## What is a hackathon?
 
-The word `hackathon` can be split into "hacking" and "marathon”.
-
-A *hackathon* can then be defined as an event in which you can intensively (that's the **marathon** part) and collaboratively work (that's the **hacking** part) on a common project. Hackathons are different than the typical academic conference sessions because individuals will be actively trying to accomplish something rather than merely attending. As a rule of thumb, think of hackathon attendees as saying "I am here to help" and of a hackathon leader being able to tell them "here's what you can do to help."
-
-**Although many hackathon projects might involve coding, it is not necessarily the case and many projects can be done using only google docs for example.**
-
-After the hackathon, you can keep collaborating to finish the project and even decide to publish it depending on the predefined goals.
+At the OHBM hackathon members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ from typical academic conference in that because attendees can actively take part in the program and co-learn from each other will be actively trying to create something rather than passively attend. Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.
 
 ## What kind of projects can you find in a hackathon?
 
@@ -28,13 +22,12 @@ You can find example of projects listed in the different [brainhack events](http
 
 ## Applications are now open for Hackathon Travel Awards
 
-The Hackathon Travel Awards will include free registration at the hackathon plus $500 that will go towards covering part of the expenses incurred to attend the event. To submit an application, please fill out our survey at:
+The Open Science Special Interest Group is pleased to offer 20 travel awards that will include free registration at the hackathon plus $500 that will go towards covering part of the expenses incurred to attend the hackathon. To submit an application, please fill out our [survey](https://docs.google.com/forms/d/19E7gMIWKaP5i5S2nM16ezOH2CTaTSt0fyMYC5q-OVpU/edit?usp=sharing) no later than March 2nd.
 
-**Add link here**
 
 ## Registration for the hackathon will open early March.
 
-In the past two years the hackathon was fully booked and we therefore recommend interested attendees to register early. Seats will be allocated on a first come first serve basis. In an effort to increase diversity at the event, we will reserve part of the seats to attendees who attend a hackathon for the first time or who come from traditionally under-represented groups in science or in past hackathons.
+Soon after abstract acceptances are sent out, registration will open. In the past two years the hackathon was fully booked and we therefore recommend interested attendees to register early. Seats will be allocated on a first come first serve basis. In an effort to increase diversity at the event, we will reserve part of the seats to attendees who attend a hackathon for the first time or who come from traditionally under-represented groups in science or in past hackathons.
 
 ## Please contribute!
 
@@ -46,3 +39,6 @@ For most recent updates please see the [OS SIG website](https://ossig.netlify.co
 ## Sponsors
 
 We thank the [International Neuroinformatics Coordinating Facility](https://www.incf.org/) and [Openneuro](https://openneuro.org/) for their generous contributions in support of the 2020 OHBM Hackathon!
+
+<img src="images/logos/incfLogo.jpeg" alt="INCF" height="100"/> 
+<img src="images/logos/OpenNeuro_Logo.png" alt="openneuro" height="100"/>
