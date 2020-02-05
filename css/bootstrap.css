@@ -510,6 +510,12 @@ mark {
     content: "\2014 \00A0"
 }
 
+.img-circle {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto
+}
+
 .img-fluid {
     max-width: 100%;
     height: auto

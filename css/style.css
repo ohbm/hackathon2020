@@ -384,7 +384,7 @@ button:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  background: url(../img/banner/mtl_photo.jpg) no-repeat scroll center center;
   background-size: cover;
 }
 
@@ -402,12 +402,16 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .banner_content {
-  color: #fff;
   vertical-align: middle;
   -ms-flex-item-align: center;
   align-self: center;
+  margin-top: -30vh;
   text-align: center;
+  border-color: black;
+  text-shadow: 2px 2px #4400bb;
+  color: white;
 }
+
 
 .home_banner_area .banner_inner .banner_content h2 {
   margin-top: 0px;
@@ -420,7 +424,7 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .banner_content p {
-  color: #f9f9ff;
+  color: black;
   font-family: "Roboto", sans-serif;
   max-width: 680px;
   font-size: 16px;
