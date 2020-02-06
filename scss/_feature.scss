@@ -1,0 +1,26 @@
+/*  Area css
+============================================================================================ */
+.welcome_area{
+}
+.welcome_inner{
+	.col-lg-6{
+		vertical-align: middle;
+		align-self: center;
+	}
+}
+.welcome_text{
+	h3{
+		color: $dip;
+		font-size: 36px;
+		text-transform: uppercase;
+		margin-bottom: 30px;
+	}
+	p{
+		margin-bottom: 25px;
+	}
+	.main_btn{
+		margin-top: 15px;
+	}
+}
+/* Event Time Area css
+============================================================================================ */

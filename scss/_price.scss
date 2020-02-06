@@ -1,0 +1,114 @@
+/* Price Area css
+============================================================================================ */
+.price_area{
+	background: #fafcff;
+	padding-bottom: 170px;
+	.price_inner{
+		background: #fff;
+		border-radius: 10px;
+		box-shadow: 0px 10px 30px 0px rgba(98, 71, 234, 0.1);
+		.col-lg-3{
+			&:last-child{
+				.price_item{
+					.price_text{
+						&:before{
+							display: none;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+.price_item{
+	border-top: 2px solid #fff;
+	.price_text{
+		padding-top: 75px;
+		padding-bottom: 75px;
+		padding-left: 45px;
+		position: relative;
+		&:before{
+			content: "";
+			width: 1px;
+			background: #eeeeee;
+			height: 336px;
+			position: absolute;
+			right: 0px;
+			bottom: 0px;
+		}
+		h3{
+			font-size: 21px;
+			color: $dip;
+			margin-bottom: 12px;
+			text-transform: uppercase;
+		}
+		h5{
+			font-size: 14px;
+			color: $pfont;
+			font-family: $rob;
+			margin-bottom: 20px;
+			font-weight: normal;
+		}
+		h2{
+			font-size: 36px;
+			background: linear-gradient(to right, #2c28b1 0%, #9b5cf6 25%);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			margin-bottom: 40px;
+			span{
+				font-weight: 300;
+				font-size: 14px;
+				font-family: $rob;
+				color: $pfont;
+			}
+		}
+		.list{
+			li{
+				margin-bottom: 20px;
+				a{
+					color: $pfont;
+					font-family: $rob;
+					font-weight: normal;
+				}
+				&:last-child{
+					margin-bottom: 0px;
+				}
+			}
+		}
+	}
+	.price_btn{
+		display: block;
+		text-align: center;
+		background-image: -moz-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
+		background-image: -webkit-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
+		background-image: -ms-linear-gradient( 0deg, rgb(20,29,162) 0%, rgb(155,92,246) 100%);
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		line-height: 50px;
+		color: #fff;
+		font-family: $rob;
+		font-weight: 500;
+		font-size: 12px;
+		opacity: 0;
+		margin-bottom: -50px;
+	}
+	&:hover{
+		border-color: $baseColor;
+		.price_text{
+			h2{
+				color: $baseColor;
+				span{
+					color: $baseColor;
+				}
+			}
+		}
+		.price_btn{
+			opacity: 1;
+		}
+	}
+	&:last-child{
+		
+	}
+}
+/* End Price Area css
+============================================================================================ */
