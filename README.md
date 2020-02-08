@@ -31,7 +31,7 @@ Soon after abstract acceptances are sent out, registration will open. In the pas
 
 ## Please contribute!
 
-**Add link here**
+Are there specific topics that you would like to see covered in the Hackathon training sessions? Please let us know using this [form](https://forms.gle/LbngA8xVDYj3Ep9W7).
 
 ## For more information
 For most recent updates please see the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
@@ -40,5 +40,5 @@ For most recent updates please see the [OS SIG website](https://ossig.netlify.co
 
 We thank the [International Neuroinformatics Coordinating Facility](https://www.incf.org/) and [Openneuro](https://openneuro.org/) for their generous contributions in support of the 2020 OHBM Hackathon!
 
-<img src="images/logos/incfLogo.jpeg" alt="INCF" height="100"/> 
-<img src="images/logos/OpenNeuro_Logo.png" alt="openneuro" height="100"/>
+<img src="img/logos/incfLogo.jpeg" alt="INCF" height="100"/>
+<img src="img/logos/OpenNeuro_Logo.png" alt="openneuro" height="150"/>
