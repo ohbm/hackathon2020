@@ -1,0 +1,26 @@
+<!-- About Section -->
+<section id="guest2" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.guest2Title }}</h3>
+            <div class="row guest2-details">
+                {% assign animationDelay = 0 %}
+                {% for guest2 in site.guest2Block %}
+                <!-- {% assign colWidth = 12 | divided_by: forloop.length %} -->
+                {% assign colWidth = 12 | divided_by: 4 %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ guest2.title }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ guest2.image }}" height="128" width="128" alt="{{ guest2.title }}">
+                        <p>{{ guest2.text }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End About Section -->
