@@ -1,0 +1,47 @@
+- 
+  date: "2018-05-02"
+  dateReadable: "2nd May Morning"
+  tracks: 
+    - {title: "Getting inspired", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "10:00",
+    	sessionIds: [307]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [001]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [503]
+    }
+- 
+  date: "2018-05-02"
+  dateReadable: "2nd May Afternoon"
+  tracks: 
+    - {title: "Hackathon", color: "#90be4e"}
+  timeslots: 
+    - {
+    	startTime: "13:00",
+    	endTime: "17:00",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "17:00",
+    	endTime: "18:00",
+    	sessionIds: [004]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "00:00",
+        sessionIds: [005]
+    }

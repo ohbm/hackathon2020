@@ -1,0 +1,37 @@
+-
+  id: 307
+  title: "Registration with free coffee and pulla"
+  place: "NBE"
+  service: true
+  description: "The best time to start talking with others"
+-
+  id: 503
+  title: "Lunch break"
+  place: "Dining room"
+  description: "Free lunch only for registered participants"
+  service: true
+-
+  id: 001
+  title: "Unconference"
+  description: "This session will give us different insights on current approaches and limitations in neuroscience. <a href=\"https://twitter.com/abc_aalto/status/991572160169689088\">You can find a link to the recorded stream here.</a>"
+  speakers: [1, 2, 3]
+-
+  id: 002
+  title: "Ignite Talks"
+  description: "Ignite talks are 5 minutes (exactly 5 minutes!) presentations where each presenter will pitch the audience for a method or an idea to be used in the hackathon part"
+  speakers: [12, 13, 14, 15, 16, 17, 18]
+-
+  id: 003
+  title: "Hackathon"
+  description: "Ideas, methods, and datasets presented in the ignite talks will be hacked together by smaller groups of participants."
+  service: true
+-
+  id: 004
+  title: "Hackathon wrap up"
+  description: "Small informal presentations from each hackathon project"
+  service: true
+-
+  id: 005
+  title: "Brainhack never stops"
+  description: "Who wants to stay is free to do so. Brainhack global continues for 4 more days with broadcasts from other brainhack locations."
+  service: true

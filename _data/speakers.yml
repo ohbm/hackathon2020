@@ -1,0 +1,80 @@
+- 
+  id: 1
+  name: "prof. em. Riitta Hari (Aalto University)"
+  title: "We know about the brain almost everything, except how it works. So what?"
+  thumbnailUrl: hari.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}    
+- 
+  id: 2
+  name: "prof. Lauri Parkkonen (Aalto University)"
+  title: "The unseen in brain imaging"
+  thumbnailUrl: parkkonen.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}            
+- 
+  id: 3
+  name: "prof. Arto Klami (University of Helsinki)"
+  title: "Machines reading minds -- can AI really do that?"
+  thumbnailUrl: aklami.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 12
+  name: "prof. Mikko Kivelä (Aalto University)"
+  title: "The multilayer networks framework"
+  thumbnailUrl: kivela.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}            
+- 
+  id: 13
+  name: "Anna Alexandrou (Aalto University)"
+  title: "Detecting the cortical source of MEG data: Dynamic Imaging of Coherent Sources"
+  thumbnailUrl: alexandrou.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 14
+  name: "prof. Kai Puolamäki &amp; Emilia Oikarinen (Aalto University)"
+  title: "Human-guided  visual data exploration: how to find the one needle that you want in a haystack"
+  thumbnailUrl: oikarinen.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}    
+- 
+  id: 15
+  name: "Marijn van Vliet (Aalto University)"
+  title: "Monkey-patching linear models: boosting performance by injecting prior knowledge"
+  thumbnailUrl: vliet.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}            
+- 
+  id: 16
+  name: "Juho Piironen (Aalto University)"
+  title: "Model selection with Stan"
+  thumbnailUrl: piironen.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}  
+- 
+  id: 17
+  name: "Alexander Zhigalov (Aalto University)"
+  title: "Uncovering neuronal sources using independent component analysis"
+  thumbnailUrl: zhigalov.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}   
+- 
+  id: 18
+  name: "Enrico Glerean (Aalto University)"
+  title: "Brain imaging: open datasets and open challenges"
+  thumbnailUrl: glerean.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}    

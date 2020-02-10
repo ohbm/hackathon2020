@@ -43,6 +43,10 @@ In the past two years the hackathon was fully booked and we therefore recommend 
 ## For more information
 For most recent updates please see the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
 
+## Website template
+Websate is based on the [Zeppelin](https://github.com/gdg-x/zeppelin)  template 
+developed by GDG-X and the version adapted by [Brainhack Global Finland 2018](https://brainhackfinland.github.io/2018/). 
+
 ## Sponsors
 
 We thank the [International Neuroinformatics Coordinating Facility](https://www.incf.org/) and [Openneuro](https://openneuro.org/) for their generous contributions in support of the 2020 OHBM Hackathon!
