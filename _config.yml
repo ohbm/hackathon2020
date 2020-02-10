@@ -14,7 +14,7 @@ title: "OHBM BrainHack 2020"
 email: ""
 description: "OHBM Brainhack June 23-25th, 2020. Organized by the OHBM Open Science SIG."
 baseurl: "/hackathon2020"
-url: "https://brainhackfinland.github.io"
+url: "https://ohbm.github.io/hackathon2020"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -43,12 +43,12 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#about/", text: "About"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/#about", text: "About"}
+ - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/schedule", text: "Schedule"}
+ - {permalink: "/logistics", text: "Logistics"}
+ - {permalink: "/hackathon", text: "Hackathon"}
+ - {permalink: "/team", text: "Team"}
 bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 # - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
