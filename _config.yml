@@ -87,20 +87,11 @@ aboutBlock:
 guestTitle: "Unconference talks"
 guestBlock:
  - {title: "Riitta<br>Hari", image: "hari.jpg", text: "Prof. Em. Riitta Hari has pioneered the use of magnetoencephalography for studying sensory processing and motor control in healthy subjects and patient groups, with a main interest in the dynamics of human brain functions in naturalistic conditions. She will challenge our views during the unconference by sharing with us the unsolved questions of neuroscience."}
- - {title: "Lauri<br>Parkkonen", image: "parkkonen.jpg", text: "Prof. Lauri Parkkonen has been developing instrumentation and analysis tools for MEG since early 1990's and has an impressive knowledge of the most intricate MEG details. He will share his views on the current limitations of brain imaging methods and in which direction neuroimaging should be going next"}
- - {title: "Arto<br>Klami", image: "aklami.jpg", text: "Prof. Arto Klami is an expert on statistical machine learning and artificial intelligence. His main focus is in Bayesian modeling of complex data collections. He will talk about how well 'brain reading' works nowadays and what novel approaches could be used in studying the brain and its functions."}
 
 # Guests2 block
 guest2Title: "Ignite talks"
 guest2Block:
  - {title: "Anna<br>Alexandrou", image: "alexandrou.jpg", text: ""}
- - {title: "Enrico<br>Glerean", image: "glerean.jpg", text: ""}
- - {title: "Mikko<br>Kivela", image: "kivela.jpg", text: ""}
- - {title: "Emilia<br>Oikarinen", image: "oikarinen.jpg", text: ""}
- - {title: "Juho<br>Piironen", image: "piironen.jpg", text: ""}
- - {title: "Kai<br>Puolamaki", image: "puolamaki.png", text: ""}
- - {title: "Marijn<br>van Vliet", image: "vliet.jpg", text: ""}
- - {title: "Alexander<br>Zhigalov", image: "zhigalov.jpg", text: ""}
 
 
 # Statistic Block
@@ -219,9 +210,6 @@ footerBlocks:
   title: "Organizers and contacts"
   links:
    - {link: "https://twitter.com/eglerean", text: "Enrico Glerean (chair)"}
-   - {link: "https://twitter.com/tijh", text: "Tommi Himberg"}
-   - {link: "https://twitter.com/wmvanvliet", text: "Marijn van Vliet"}
-   - {link: "https://twitter.com/abc_aalto", text: "Aalto Brain Centre (sponsor)"}
    - {link: "mailto:brainhackfinland@gmail.com", text: "brainhackfinland@gmail.com"}
  -
   title: "FAQ"
@@ -267,23 +255,14 @@ directionDetailsWideCards:
     title: "Hotels"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Registration"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Attendance Details"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
@@ -292,9 +271,8 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Hackathon projects"
 hackathonRows:
- - {title: "Automated Cortical Lesion Detection using Python Tools", image: "brain_lesion.png", details: "More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."}
- - {title: "Multi-table PCA methods for group and individual functional connectivity", image: "matrix.png", details: "C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference for Neuroimaging in R. The C stands generally for connectivity, but specifically and statistically: covariance or correlation. The C-MARINeR project aims to develop and distribute an R package and ShinyApp. Together, R + Shiny allows for ease of use and, hopefully, simpler exploration of such complex data, and quicker adoption of the techniques. <br> More info here: <a href=https://github.com/jennyrieck/C-MARINeR>https://github.com/jennyrieck/C-MARINeR</a>."}
- - {title: "Bring your own method/data", image: "whatever.png", details: "The three methods suggested above are just a starting point. If a group of participants wants to work on something else, this is of course possible. We have also prepare some data to use the methods above, but if you have your own data, please bring it with you and try to hack it with the methods presented."}
+ - {title: "Multiplex networks", image: "muxnet.png", details: "Mikko's multiplex networks software is available at <a href=\"http://www.mkivela.com/pymnet/\">http://www.mkivela.com/pymnet/</a>. There are also some other software for analysing multiplex networks. For example <a href=\"http://muxviz.net\">http://muxviz.net</a> , <a href=\"https://graph-tool.skewed.de\">https://graph-tool.skewed.de</a>."}
+ - {title: "SideR", image: "sideR.png", details: "<b>SideR</b> can be found here: <a href=\"http://www.iki.fi/kaip/sider.html\">http://www.iki.fi/kaip/sider.html</a>. Before coming to the hackathon, you need to have the following software installed before running sideR:<br>* R 3.4.0 or higher with the following packages which can be installed from CRAN (see https://www.r-bloggers.com/installing-r-packages/ for instructions): shiny, fastICA.<br>* A modern web browser such as Google Chrome.<br><br>We have tested sideR with a unix system (Mac OS X) but it should work in any system that has R with the above mentioned packages installed.<br><br>NB: R 3.4.0 includes somes substantial speedups to matrix computations which may affect the performance of the sideR. If you have an older version of R installed we therefore strongly recommended you to update to R 3.4.0 or newer!<br><br>An alternative to sideR is <br>tileR</b> which can be found here <a href=\"https://github.com/aheneliu/tiler\">https://github.com/aheneliu/tiler</a> along with installation instructions."}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -304,8 +282,6 @@ judgesTitle: "Judges"
 prizesTitle: "Prizes"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
