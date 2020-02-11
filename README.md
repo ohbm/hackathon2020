@@ -2,7 +2,7 @@
 
 The [Open Science Special Interest Group](https://ossig.netlify.com/) is very happy to announce that the 8th Annual OHBM Hackathon will be held on June 23-25 in Montreal.
 
-![landing_image](images/landing_hackathon_2020.jpg)
+![landing_image](img/landing_hackathon_2020.jpg)
 
 ## What is a hackathon?
 
@@ -37,8 +37,8 @@ Are there specific topics that you would like to see covered in the Hackathon tr
 For most recent updates please see the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
 
 ## Website template
-Websate is based on the [Zeppelin](https://github.com/gdg-x/zeppelin)  template 
-developed by GDG-X and the version adapted by [Brainhack Global Finland 2018](https://brainhackfinland.github.io/2018/). 
+Websate is based on the [Zeppelin](https://github.com/gdg-x/zeppelin)  template
+developed by GDG-X and the version adapted by [Brainhack Global Finland 2018](https://brainhackfinland.github.io/2018/).
 
 ## Sponsors
 
