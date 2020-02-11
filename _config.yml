@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/hackathon", text: "Hackathon"}
- - {permalink: "/teams", text: "Team"}
+ - {permalink: "/team", text: "Team"}
 bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 # - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
@@ -91,7 +91,7 @@ guestBlock:
 guest2Title: "Ignite talks"
 guest2Block:
  - {title: "Anna<br>Alexandrou", image: "alexandrou.jpg", text: ""}
- - {title: "Enrico<br>Glerean", image: "glerean.jpg", text: ""} 
+ - {title: "Enrico<br>Glerean", image: "glerean.jpg", text: ""}
  - {title: "Mikko<br>Kivela", image: "kivela.jpg", text: ""}
  - {title: "Emilia<br>Oikarinen", image: "oikarinen.jpg", text: ""}
  - {title: "Juho<br>Piironen", image: "piironen.jpg", text: ""}
