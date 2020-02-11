@@ -207,7 +207,7 @@ ticketsOffers:
 # Footer
 socialLinks:
 # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=abc_aalto", icon: "twitter"}
+ - {link: "https://twitter.com/ohbmopen", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
