@@ -1,20 +1,57 @@
 -
-  id: 307
-  title: "Registration with free coffee and pulla"
-  place: "NBE"
+  id: 100
+  title: "Registration & breakfast"
+  place: ""
   service: true
   description: "The best time to start talking with others"
 -
-  id: 503
+  id: 101
+  title: "Welcome + Intro"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 102
+  title: "Mingling + Project Pitches"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 103
   title: "Lunch break"
   place: "Dining room"
-  description: "Free lunch only for registered participants"
+  description: ""
   service: true
 -
-  id: 001
+  id: 104
+  title: "Hacking"
+  place: ""
+  description: ""
+  service: true
+
+-
+  id: 105
+  title: "ReproNim"
+  place: ""
+  description: "ReproNim: Reproducibility Basics"
+  service: true
+-
+  id: 106
+  title: "BIDS"
+  place: ""
+  description: "Intro to Brain Imaging Data Structure"
+  service: true
+-
+  id: 107
+  title: "Git/GitHub"
+  place: ""
+  description: ""
+  service: true
+-
+  id: 108
   title: "Unconference"
-  description: "This session will give us different insights on current approaches and limitations in neuroscience. <a href=\"https://twitter.com/abc_aalto/status/991572160169689088\">You can find a link to the recorded stream here.</a>"
-  speakers: [1, 2, 3]
+  description: ""
+  speakers: []
 -
   id: 002
   title: "Ignite Talks"
