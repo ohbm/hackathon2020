@@ -135,7 +135,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -215,7 +215,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "The OHBM Open Science SIG mission is to advance neuroimaging research by fostering the open sharing of ideas, data, and tools between members of the OHBM community. This will be accomplished by organizing educational events, supporting collaborative initiatives, and providing mentorship to junior researchers. In our first year, the SIG will focus on three contributions to the OHBM annual meeting: 1) organize a Hackathon to precede the annual meeting, 2) introduce the tools of open science by proposing a “Brainhacking 101” educational course, and 3) propose hands-on tutorials and collaborative Open Science projects during the OHBM conference."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -264,13 +264,13 @@ hackathonRows:
  - {title: "SideR", image: "sideR.png", details: "<b>SideR</b> can be found here: <a href=\"http://www.iki.fi/kaip/sider.html\">http://www.iki.fi/kaip/sider.html</a>. Before coming to the hackathon, you need to have the following software installed before running sideR:<br>* R 3.4.0 or higher with the following packages which can be installed from CRAN (see https://www.r-bloggers.com/installing-r-packages/ for instructions): shiny, fastICA.<br>* A modern web browser such as Google Chrome.<br><br>We have tested sideR with a unix system (Mac OS X) but it should work in any system that has R with the above mentioned packages installed.<br><br>NB: R 3.4.0 includes somes substantial speedups to matrix computations which may affect the performance of the sideR. If you have an older version of R installed we therefore strongly recommended you to update to R 3.4.0 or newer!<br><br>An alternative to sideR is <br>tileR</b> which can be found here <a href=\"https://github.com/aheneliu/tiler\">https://github.com/aheneliu/tiler</a> along with installation instructions."}
 
 # Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+# judgesImage: "judges.jpg"
+# judgesTitle: "Judges"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+# prizesTitle: "Prizes"
+# prizes:
+#  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
