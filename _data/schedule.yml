@@ -18,37 +18,30 @@
     - {
     	startTime: "10:00",
     	endTime: "12:00",
-    	sessionIds: [102,002]
+    	sessionIds: [102]
     }
     - {
       startTime: "12:00",
       endTime: "13:00",
       sessionIds: [103]
-    }
+    } 
     - {
       startTime: "13:00",
+      endTime: "15:00",
+      sessionIds: [105, 104]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "16:00",
+      sessionIds: [106, 104]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "17:00",
+      sessionIds: [107, 104]
+    }
+    - {
+      startTime: "17:00",
       endTime: "18:00",
-      sessionIds: [404, 104]
-    }
-
-- 
-  date: "2018-05-02"
-  dateReadable: "2nd May Afternoon"
-  tracks: 
-    - {title: "Hackathon", color: "#90be4e"}
-  timeslots: 
-    - {
-    	startTime: "13:00",
-    	endTime: "17:00",
-    	sessionIds: [003]
-    }
-    - {
-    	startTime: "17:00",
-    	endTime: "18:00",
-    	sessionIds: [004]
-    }
-    - {
-        startTime: "18:00",
-        endTime: "00:00",
-        sessionIds: [005]
+      sessionIds: [108]
     }

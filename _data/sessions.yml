@@ -33,14 +33,25 @@
   id: 105
   title: "ReproNim"
   place: ""
+  description: "ReproNim: Reproducibility Basics"
+  service: true
+-
+  id: 106
+  title: "BIDS"
+  place: ""
+  description: "Intro to Brain Imaging Data Structure"
+  service: true
+-
+  id: 107
+  title: "Git/GitHub"
+  place: ""
   description: ""
   service: true
-
 -
-  id: 001
+  id: 108
   title: "Unconference"
-  description: "This session will give us different insights on current approaches and limitations in neuroscience. <a href=\"https://twitter.com/abc_aalto/status/991572160169689088\">You can find a link to the recorded stream here.</a>"
-  speakers: [1, 2, 3]
+  description: ""
+  speakers: []
 -
   id: 002
   title: "Ignite Talks"
