@@ -3,6 +3,7 @@ layout: post
 title: Code of conduct
 permalink: /coc/
 isStaticPost: true
+image: cod.jpg
 ---
 
 # Introduction
