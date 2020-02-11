@@ -1,134 +1,127 @@
-- 
+-
   id: 0
   name: "Liza"
   surname: "Levitis"
   title: "Hackathon Co-chair"
   thumbnailUrl: liza_levitis.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
     - {name: "github", link: "https://github.com/llevitis"}
-- 
+-
   id: 1
   name: "Remi"
   surname: "Gau"
   title: "Hackathon Co-chair"
   thumbnailUrl: remi_gau.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/RemiGau"}
-- 
+-
   id: 2
   name: "Camille"
   surname: "Maumet"
   title: "OS SIG Chair"
   thumbnailUrl: camille_maumet.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/cmaumet"}
-- 
+-
   id: 3
   name: "Ana"
   surname: "Van Gulick"
   title: "OS SIG Secretary"
   thumbnailUrl: ana_van_gulick.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/anavangulick"}
-- 
+-
   id: 4
   name: "Eugene"
   surname: "Duff"
   title: "OS SIG Treasurer"
   thumbnailUrl: eugene_duff.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/EugenePDuff"}
-- 
+-
   id: 5
   name: "Cassandra"
   surname: "Gould van Praag"
   title: "Open Science Room Co-organizer"
   thumbnailUrl: cassgvp.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/cassgvp"}
-- 
+-
   id: 6
   name: "Stephan"
   surname: "Heunis"
   title: "Open Science Room Co-organizer"
   thumbnailUrl: stephan_heunis.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/fmrwhy"}
-- 
+-
   id: 7
   name: "Kirstie"
   surname: "Whitaker"
   title: "Past OS SIG Chair"
   thumbnailUrl: kirstie_whitaker.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/kirstie_j"}
-- 
+-
   id: 8
   name: "Elizabeth"
   surname: "DuPre"
   title: "Past OS SIG Secretary"
   thumbnailUrl: elizabeth_dupre.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/emdupre_"}
-- 
+-
   id: 9
   name: "Gregory"
   surname: "Kiar"
   title: "Past OS SIG Treasurer"
   thumbnailUrl: greg_kiar.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/g_kiar"}
-- 
+-
   id: 10
   name: "Aki"
   surname: "Nikolaidis"
   title: "OS SIG Chair Elect"
   thumbnailUrl: aki_nikolaidis.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/AkiNikolaidis"}
-- 
+-
   id: 11
   name: "Katie"
   surname: "Bottenhorn"
   title: "OS SIG Secretary Elect"
   thumbnailUrl: katie_bottenhorn.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/62442katieb"}
-- 
+-
   id: 12
   name: "Tristan"
   surname: "Glatard"
   title: "OS SIG Treasurer Elect"
-  thumbnailUrl: katie_bottenhorn.jpg
+  thumbnailUrl: tristan_glatard.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/TristanGlatard"}
-- 
+-
   id: 13
   name: "Thomas"
   surname: "Nichols"
   title: "OHBM Council Liason"
   thumbnailUrl: tom_nichols.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/ten_photos"}
-
-
-
-
-
-
-
