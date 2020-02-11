@@ -194,7 +194,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.brainhack.org/global2018", text: "Brainhack Global 2018"}
+   - {link: "https://ossig.netlify.com/", text: "OHBM Open Science SIG"}
+   - {link: "https://www.brainhack.org/", text: "Brainhack"}
  -
   title: "Organizers and contacts"
   links:
