@@ -130,8 +130,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "OHBMHackathon"
+twitterFeed: "https://twitter.com/search?q=%23OHBMHackathon&src=typed_query"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -198,12 +198,13 @@ footerBlocks:
  -
   title: "Organizers and contacts"
   links:
-   - {link: "https://twitter.com/eglerean", text: "Enrico Glerean (chair)"}
-   - {link: "mailto:brainhackfinland@gmail.com", text: "brainhackfinland@gmail.com"}
+   - {link: "https://twitter.com/LevitisLiza", text: "Liza Levitis (Hackathon Co-chair)"}
+   - {link: "https://twitter.com/RemiGau", text: "Remi Gau (Hackathon Co-chair)"}
+   - {link: "mailto:ossig2019@inria.fr", text: "ossig2019@inria.fr."}
  -
   title: "FAQ"
   links:
-   - {link: "http://www.brainhack.org/global2018/codeofconduct.html", text: "Code of Conduct"}
+   - {link: "/hackathon2020/coc", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
