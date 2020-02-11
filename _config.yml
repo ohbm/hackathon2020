@@ -50,6 +50,7 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "Hackathon"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "CoC"}
+ - {permalink: "/sponsors", text: "Sponsors"}
 bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 # - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
