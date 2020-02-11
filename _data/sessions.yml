@@ -1,15 +1,41 @@
 -
-  id: 307
-  title: "Registration with free coffee and pulla"
-  place: "NBE"
+  id: 100
+  title: "Registration & breakfast"
+  place: ""
   service: true
   description: "The best time to start talking with others"
 -
-  id: 503
+  id: 101
+  title: "Welcome + Intro"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 102
+  title: "Mingling + Project Pitches"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 103
   title: "Lunch break"
   place: "Dining room"
-  description: "Free lunch only for registered participants"
+  description: ""
   service: true
+-
+  id: 104
+  title: "Hacking"
+  place: ""
+  description: ""
+  service: true
+
+-
+  id: 105
+  title: "ReproNim"
+  place: ""
+  description: ""
+  service: true
+
 -
   id: 001
   title: "Unconference"

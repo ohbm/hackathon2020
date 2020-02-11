@@ -1,29 +1,36 @@
 - 
-  date: "2018-05-02"
-  dateReadable: "2nd May Morning"
+  date: "2020-06-23"
+  dateReadable: "June 23rd, Day 1"
   tracks: 
-    - {title: "Getting inspired", color: "#90be4e"}
+    - {title: "TrainTrack", color: "#90be4e"}
+    - {title: "HackTrack", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "09:00",
-    	endTime: "10:00",
-    	sessionIds: [307]
+    	startTime: "08:00",
+    	endTime: "09:00",
+    	sessionIds: [100]
     }
     - {
-        startTime: "10:00",
-        endTime: "11:00",
-        sessionIds: [001]
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [101]
     }
     - {
-    	startTime: "11:00",
+    	startTime: "10:00",
     	endTime: "12:00",
-    	sessionIds: [002]
+    	sessionIds: [102,002]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
-        sessionIds: [503]
+      startTime: "12:00",
+      endTime: "13:00",
+      sessionIds: [103]
     }
+    - {
+      startTime: "13:00",
+      endTime: "18:00",
+      sessionIds: [404, 104]
+    }
+
 - 
   date: "2018-05-02"
   dateReadable: "2nd May Afternoon"

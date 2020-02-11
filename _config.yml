@@ -44,21 +44,21 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#about", text: "About"}
- - {permalink: "/speakers", text: "Speakers"}
+ #- {permalink: "/speakers", text: "Speakers"}
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/hackathon", text: "Hackathon"}
- - {permalink: "/team", text: "Team"}
+ - {permalink: "/teams", text: "Team"}
 bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 # - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
 # - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks"}
- - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
-rightNavigationButtons:
+# - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+#rightNavigationButtons:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
 # - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
 # - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
- - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+# - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
 
 # Hero Block
 heroImage: "mtl_photo.jpg"
@@ -251,11 +251,11 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Montreal"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'The Pierre Elliot Trudeau (YUL) airport is about 30 minutes driving from the Old Port.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Montreal. Google maps is great for getting around, and the Transit app is handy for checking bus times if you choose to take public transportation. your way in Google Maps.'}
+ - {title: "Lodging", information: 'For easy commuting to the Old Port, we recommend staying in an airbnb or hotel either in the Old Port, Griffintown, Downtown, or the Plateau.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
