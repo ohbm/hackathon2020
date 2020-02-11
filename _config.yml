@@ -53,15 +53,9 @@ navigationLinks:
  - {permalink: "/sponsors", text: "Sponsors"}
 
 bottomNavigationLinks:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
-# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
-# - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks"}
-# - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
-#rightNavigationButtons:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
-# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
-# - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
-# - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+ - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+rightNavigationButtons:
+ - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
 
 # Hero Block
 heroImage: "mtl_photo.jpg"
@@ -70,9 +64,6 @@ eventDate: "23rd June 2020"
 typeoutTextValues: '"June 23-25th, 2020", "Montreal, QC", ""'
 typeoutFallback: ""
 heroButtons:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
-# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
-# - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
 
 # About Block
@@ -84,14 +75,14 @@ aboutBlock:
  - {title: "Learn Tools", image: "learn.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
 
 # Guests block
-guestTitle: "Unconference talks"
-guestBlock:
- - {title: "Riitta<br>Hari", image: "hari.jpg", text: "Prof. Em. Riitta Hari has pioneered the use of magnetoencephalography for studying sensory processing and motor control in healthy subjects and patient groups, with a main interest in the dynamics of human brain functions in naturalistic conditions. She will challenge our views during the unconference by sharing with us the unsolved questions of neuroscience."}
+# guestTitle: "Unconference talks"
+# guestBlock:
+#  - {title: "Riitta<br>Hari", image: "hari.jpg", text: "Prof. Em. Riitta Hari has pioneered the use of magnetoencephalography for studying sensory processing and motor control in healthy subjects and patient groups, with a main interest in the dynamics of human brain functions in naturalistic conditions. She will challenge our views during the unconference by sharing with us the unsolved questions of neuroscience."}
 
 # Guests2 block
-guest2Title: "Ignite talks"
-guest2Block:
- - {title: "Anna<br>Alexandrou", image: "alexandrou.jpg", text: ""}
+# guest2Title: "Ignite talks"
+# guest2Block:
+#  - {title: "Anna<br>Alexandrou", image: "alexandrou.jpg", text: ""}
 
 
 # Statistic Block
@@ -197,9 +188,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
-# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/ohbmopen", icon: "twitter"}
-# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
