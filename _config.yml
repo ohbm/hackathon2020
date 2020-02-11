@@ -53,15 +53,9 @@ navigationLinks:
  - {permalink: "/sponsors", text: "Sponsors"}
 
 bottomNavigationLinks:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
-# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
-# - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks"}
-# - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
-#rightNavigationButtons:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
-# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
-# - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
-# - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+ - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+rightNavigationButtons:
+ - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
 
 # Hero Block
 heroImage: "mtl_photo.jpg"
@@ -70,9 +64,6 @@ eventDate: "23rd June 2020"
 typeoutTextValues: '"June 23-25th, 2020", "Montreal, QC", ""'
 typeoutFallback: ""
 heroButtons:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdDHWdmixckSRi9LEvvIZHfzsoVbiwFbfHyOIms9DWZGMB7iQ/viewform?hl=en", text: "Join Brainhack Finland 2018"}
-# - {link: "mailto:brainhackfinland@gmail.com", text: "Registrations are closed"}
-# - {link: "https://twitter.com/abc_aalto/status/991572160169689088", text: "Recordings of the unconference talks."}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
 
 # About Block
@@ -80,27 +71,18 @@ aboutTitle: "About OHBM BrainHack 2020"
 aboutBlock:
  - {title: "Share Ideas", image: "share.png", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
  - {title: "Build Projects", image: "code.png", text: "Try the presented tools on provided data or bring your own tools/data!" }
- - {title: "Be social", image: "community.png", text: "Brainhack Finland is a speed-dating event between neuroscientists and computer scientists in Finland." }
+ - {title: "Be social", image: "community.png", text: "Get to meet and socialize with people from all over the world!"}
  - {title: "Learn Tools", image: "learn.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
 
 # Guests block
-guestTitle: "Unconference talks"
-guestBlock:
- - {title: "Riitta<br>Hari", image: "hari.jpg", text: "Prof. Em. Riitta Hari has pioneered the use of magnetoencephalography for studying sensory processing and motor control in healthy subjects and patient groups, with a main interest in the dynamics of human brain functions in naturalistic conditions. She will challenge our views during the unconference by sharing with us the unsolved questions of neuroscience."}
- - {title: "Lauri<br>Parkkonen", image: "parkkonen.jpg", text: "Prof. Lauri Parkkonen has been developing instrumentation and analysis tools for MEG since early 1990's and has an impressive knowledge of the most intricate MEG details. He will share his views on the current limitations of brain imaging methods and in which direction neuroimaging should be going next"}
- - {title: "Arto<br>Klami", image: "aklami.jpg", text: "Prof. Arto Klami is an expert on statistical machine learning and artificial intelligence. His main focus is in Bayesian modeling of complex data collections. He will talk about how well 'brain reading' works nowadays and what novel approaches could be used in studying the brain and its functions."}
+# guestTitle: "Unconference talks"
+# guestBlock:
+#  - {title: "Riitta<br>Hari", image: "hari.jpg", text: "Prof. Em. Riitta Hari has pioneered the use of magnetoencephalography for studying sensory processing and motor control in healthy subjects and patient groups, with a main interest in the dynamics of human brain functions in naturalistic conditions. She will challenge our views during the unconference by sharing with us the unsolved questions of neuroscience."}
 
 # Guests2 block
-guest2Title: "Ignite talks"
-guest2Block:
- - {title: "Anna<br>Alexandrou", image: "alexandrou.jpg", text: ""}
- - {title: "Enrico<br>Glerean", image: "glerean.jpg", text: ""}
- - {title: "Mikko<br>Kivela", image: "kivela.jpg", text: ""}
- - {title: "Emilia<br>Oikarinen", image: "oikarinen.jpg", text: ""}
- - {title: "Juho<br>Piironen", image: "piironen.jpg", text: ""}
- - {title: "Kai<br>Puolamaki", image: "puolamaki.png", text: ""}
- - {title: "Marijn<br>van Vliet", image: "vliet.jpg", text: ""}
- - {title: "Alexander<br>Zhigalov", image: "zhigalov.jpg", text: ""}
+# guest2Title: "Ignite talks"
+# guest2Block:
+#  - {title: "Anna<br>Alexandrou", image: "alexandrou.jpg", text: ""}
 
 
 # Statistic Block
@@ -148,12 +130,12 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "OHBMHackathon"
+twitterFeed: "https://twitter.com/search?q=%23OHBMHackathon&src=typed_query"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -206,27 +188,24 @@ ticketsOffers:
 
 # Footer
 socialLinks:
-# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=abc_aalto", icon: "twitter"}
-# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/ohbmopen", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.brainhack.org/global2018", text: "Brainhack Global 2018"}
+   - {link: "https://ossig.netlify.com/", text: "OHBM Open Science SIG"}
+   - {link: "https://www.brainhack.org/", text: "Brainhack"}
  -
   title: "Organizers and contacts"
   links:
-   - {link: "https://twitter.com/eglerean", text: "Enrico Glerean (chair)"}
-   - {link: "https://twitter.com/tijh", text: "Tommi Himberg"}
-   - {link: "https://twitter.com/wmvanvliet", text: "Marijn van Vliet"}
-   - {link: "https://twitter.com/abc_aalto", text: "Aalto Brain Centre (sponsor)"}
-   - {link: "mailto:brainhackfinland@gmail.com", text: "brainhackfinland@gmail.com"}
+   - {link: "https://twitter.com/LevitisLiza", text: "Liza Levitis (Hackathon Co-chair)"}
+   - {link: "https://twitter.com/RemiGau", text: "Remi Gau (Hackathon Co-chair)"}
+   - {link: "mailto:ossig2019@inria.fr", text: "ossig2019@inria.fr."}
  -
   title: "FAQ"
   links:
-   - {link: "http://www.brainhack.org/global2018/codeofconduct.html", text: "Code of Conduct"}
+   - {link: "/hackathon2020/coc", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
@@ -238,7 +217,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "The OHBM Open Science SIG mission is to advance neuroimaging research by fostering the open sharing of ideas, data, and tools between members of the OHBM community. This will be accomplished by organizing educational events, supporting collaborative initiatives, and providing mentorship to junior researchers. In our first year, the SIG will focus on three contributions to the OHBM annual meeting: 1) organize a Hackathon to precede the annual meeting, 2) introduce the tools of open science by proposing a “Brainhacking 101” educational course, and 3) propose hands-on tutorials and collaborative Open Science projects during the OHBM conference."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -267,23 +246,14 @@ directionDetailsWideCards:
     title: "Hotels"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Registration"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Attendance Details"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
