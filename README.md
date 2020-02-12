@@ -44,5 +44,5 @@ developed by GDG-X and the version adapted by [Brainhack Global Finland 2018](ht
 
 We thank the [International Neuroinformatics Coordinating Facility](https://www.incf.org/) and [Openneuro](https://openneuro.org/) for their generous contributions in support of the 2020 OHBM Hackathon!
 
-<img src="img/logos/incfLogo.jpeg" alt="INCF" height="100"/>
-<img src="img/logos/OpenNeuro_Logo.png" alt="openneuro" height="150"/>
+<img src="img/partners/incfLogo.jpeg" alt="INCF" height="100"/>
+<img src="img/partners/OpenNeuro_Logo.png" alt="openneuro" height="150"/>
