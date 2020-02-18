@@ -6,7 +6,9 @@ The [Open Science Special Interest Group](https://ossig.netlify.com/) is very ha
 
 ## What is a hackathon?
 
-At the OHBM hackathon members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ from typical academic conference in that because attendees can actively take part in the program and co-learn from each other will be actively trying to create something rather than passively attend. Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.
+At the OHBM hackathon members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials are provided. Hackathons differ from typical academic conference in that because attendees can actively take part in the program and co-learn from each other will be actively trying to create something rather than passively attend. Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.
+
+For this years’s hackathon, we want to create an atmosphere where people who have never attended such event before can feel welcome. We want to make sure that attendees not only have the opportunity to learn new open-science skills in the traintrack that will help them in their future work but that they also get the chance to directly practice some of those skills by joining and collaborate on a hackathon project.
 
 ## What kind of projects can you find in a hackathon?
 
@@ -22,10 +24,9 @@ You can find example of projects listed in the different [brainhack events](http
 
 ## Applications are now open for Hackathon Travel Awards
 
-The Open Science Special Interest Group is pleased to offer 20 travel awards that will include free registration at the hackathon plus $500 that will go towards covering part of the expenses incurred to attend the hackathon. To submit an application, please fill out our [survey](https://docs.google.com/forms/d/19E7gMIWKaP5i5S2nM16ezOH2CTaTSt0fyMYC5q-OVpU/edit?usp=sharing) no later than March 2nd.
+The Open Science Special Interest Group is pleased to offer 20 travel awards that will include free registration at the hackathon plus $500 that will go towards covering part of the expenses incurred to attend the hackathon. For more information see this [page](./travel_awards.md).
 
-
-## Registration for the hackathon will open early March.
+## Registration for the hackathon will open mid-March.
 
 Soon after abstract acceptances are sent out, registration will open. In the past two years the hackathon was fully booked and we therefore recommend interested attendees to register early. Seats will be allocated on a first come first serve basis. In an effort to increase diversity at the event, we will reserve part of the seats to attendees who attend a hackathon for the first time or who come from traditionally under-represented groups in science or in past hackathons.
 
