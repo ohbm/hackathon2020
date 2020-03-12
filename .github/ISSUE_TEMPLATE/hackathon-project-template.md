@@ -83,7 +83,7 @@ Provide links to preparation material/online tutorials. You can, for example, ha
 ## Communication
 Link to the communication channel for your project.
 
-You can, for example, create a Slack channel for your project inside the [OpenMR Slack Workspace](https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU), and include a Slack badge <a href="https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU"><img style="float: right;" src="https://img.shields.io/badge/chat-on%20slack-red"></a> to invite people to OpenMR Slack, where they can then find and join your channel.
+You can, for example, create a mattermost channel for your project inside the [brainhack mattermost](https://mattermost.brainhack.org/), and include a Mattermost badge <a href="https://mattermost.brainhack.org/"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px /> to invite people to the brainhack mattermost, where they can then find and join your channel.
 
 Or create a community on [gitter](https://gitter.im/) and link to the chat by including a Gitter badge linking to your community
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/yourRoom/Lobby#)
