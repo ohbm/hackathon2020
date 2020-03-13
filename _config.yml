@@ -203,9 +203,10 @@ footerBlocks:
    - {link: "https://twitter.com/RemiGau", text: "Remi Gau (Hackathon Co-chair)"}
    - {link: "mailto:ossig2019@inria.fr", text: "ossig2019@inria.fr."}
  -
-  title: "FAQ"
+  title: "Resources"
   links:
    - {link: "/hackathon2020/coc", text: "Code of Conduct"}
+   - {link: "/hackathon2020/FAQ/", text: "FAQ"}   
 
 # Blog
 blogTitle: "Latest news"

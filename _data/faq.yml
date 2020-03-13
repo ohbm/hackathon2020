@@ -1,0 +1,23 @@
+-
+  group: "General questions"
+  questions:
+    - {question: "What is a hackathon?", answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+    - {question: "Who can participate in a hackathon?", answer: "OHBM"}
+    - {question: "Why should I participate in a hackathon?", answer: "OHBM"}
+    - {question: "Who can submit a project at a hackathon?", answer: "OHBM"}
+    - {question: "How do I join a project at a hackathon?", answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+
+-
+  group: "Brainhack global questions"
+  questions:
+    - {question: "What is the Distributed Hackathon?", answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+    - {question: "What is the difference between Distributed Hackathon and Brainhack Global events?", answer: "OHBM"}
+    - {question: "Is the Distributed Hackathon run by an institute/company/individuals?", answer: "OHBM"}
+    - {question: "What is the difference between the central OHBM Hackathon and the local Brainhack events?", answer: "OHBM"}
+    - {question: "What are the benefits of running a Brainhack event through the Distributed Hackathon?", answer: "OHBM"}
+    - {question: "May I be involved with the Distributed Hackathon team?", answer: "OHBM"}
+    - {question: "Is there a limit on the number of local events held each year?", answer: "OHBM"}
+    - {question: "Is there any funding available by Distributed Hackathon to the local event sites or attendees?", answer: "OHBM"}
+    - {question: "How can we contact the Distributed Hackathon team?", answer: "OHBM"}
+    - {question: "Where can I see the contents regarding the previous years’ events?", answer: "OHBM"}
+    - {question: "Where can I see the current event locations?", answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
