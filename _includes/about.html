@@ -4,13 +4,13 @@
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
 						<div style="font-size:24px;text-align:left;"><div style="font-size:16px;float:right;width:338px;"><img src="/hackathon2020/img/brainhack_venn_diagram.png" width="400" height="400" alt="brainhack venn diagram"><br><b>Brainhack as a venn diagram, from <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Craddock et al (2016)</a></b></div>At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ from typical academic conference in that attendees can actively take part in the program and co-learn from each other. Thus, they will be actively trying to create something rather than passively attend. Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.</div>
-			<br style="clear:both;"> 
+			<br style="clear:both;">
             <div class="row about-details" style="margin-top:15px;">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 <!-- {% assign colWidth = 12 | divided_by: forloop.length %} -->
                 {% assign colWidth = 12 | divided_by: 4 %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="col-md-{{ colWidth }} col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
                         <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
