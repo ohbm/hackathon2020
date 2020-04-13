@@ -29,7 +29,7 @@ organizerLogo: ""
 organizerLink: ""
 
 # Head
-metaKeywords: "brainhack, montreal, neuroscience, AI"
+metaKeywords: "brainhack, neuroscience, AI"
 twitterAccount: "@OhbmOpen"
 socialImageSrcGooglePlus: ""
 socialImageSrcTwitter: ""
@@ -51,6 +51,7 @@ navigationLinks:
  - {permalink: "/team", text: "Team"}
  - {permalink: "/coc", text: "CoC"}
  - {permalink: "/sponsors", text: "Sponsors"}
+ - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
  - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
@@ -61,7 +62,7 @@ rightNavigationButtons:
 heroImage: "mtl_photo.jpg"
 heroTitle: "OHBM Brainhack <typeout>"
 eventDate: "June 23-25th 2020"
-typeoutTextValues: '"June 23-25th, 2020", "Montreal, QC", ""'
+typeoutTextValues: '"June 23-25th, 2020", "Third planet from the sun", ""'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
@@ -119,11 +120,11 @@ mapCenterCoordinates: "60.1877229, 24.8294535"
 mapMobileCenterCoordinates: "60.1877229, 24.8294535"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBlockTitle: "The third planet from the Sun"
+venueBigImage: "city_lights_namerica_8k.jpg"
+venueSmallImage1: "louis-maniquet-71QXQUSC_Do-unsplash.jpg"
+venueSmallImage2: "louis-maniquet-71QXQUSC_Do-unsplash.jpg"
+venueSmallImage3: "louis-maniquet-71QXQUSC_Do-unsplash.jpg"
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
