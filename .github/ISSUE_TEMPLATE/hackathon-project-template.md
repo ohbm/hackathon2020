@@ -10,7 +10,7 @@ assignees: ''
 
 We have prepared a checklist to help you submit your project. You don't have to have checked all of those to open the issue. Our team will help you finalize all the steps.
 
-If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).
+If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).git push --set-upstream origin 2020_04_21_update_to_virtual_eventgit push --set-upstream origin 2020_04_21_update_to_virtual_event
 
 **Project submission checklist**
 
@@ -32,13 +32,13 @@ Main idea and context.
 
 ### Project leaders
 
-Because projects will be coordinated across several time zones, it is important to identify the project leaders and their time zone.
+Because projects will be coordinated across several time zones, it is important to identify the project leaders and their time zones.
 
 **List of time zones with cities**
 
 ### Link to your repository
 
-If your project involves any code you will want to set up a GitHub or GitLab repository for it, if you don't have one already.
+If your project involves any code you will want to set up a GitHub or GitLab repository for it (if you don't have one already).
 
 If your project does not involve any coding, simply add a link to the relevant documents (google docs or on the open science framework) you will be working on.
 
@@ -51,9 +51,9 @@ If your project does not involve any coding, simply add a link to the relevant d
 ### Specific goal
 Try to describe what you want to achieve during this hackathon.
 
-If your project is just starting it might simply be "discuss, set up a roadmap and identify potential obstacles".
+If your project is just starting it might simply be "discuss, set up a roadmap, and identify potential obstacles".
 
-For some other projects it could be something these could be **SMART** goals:
+For some other projects it could be a set of **SMART** goals:
 -   Specific (simple, sensible, significant).
 -   Measurable (meaningful, motivating).
 -   Achievable (agreed, attainable).
@@ -64,9 +64,10 @@ If you have set up a repository for your code, we will ask you to open at least 
 
 Some examples:
 -   implement a new feature for a package
+-   create a tutorial for a package
 -   make a python version of your matlab based toolbox
--   come up a prototype of standardized consent form that can be used by different labs
--   create an fantastic list of neuroscience ressources that will help generations of young researchers to come
+-   come up with a prototype of a standardized consent form that can be used by different labs
+-   create a fantastic list of neuroscience ressources that will help generations of young researchers to come
 
 ## Skills required to participate
 
@@ -74,17 +75,17 @@ What different types of people could contribute?
 
 ### Participant capacity
 
-As a project leader it is important that you do not overstretch yourself. Try to estimate the maximum number of people you think you can have on your team you feel comfortable with.
+As a project leader it is important that you do not overstretch yourself. Try to estimate the maximum number of people you would be comfortable having on your team.
 
 ### Integration
 
-How would your project integrate a physicist/imager/clinician/psychologist/computational scientist/maker/artist/lawyer as collaborator?
+How would your project integrate a physicist/imager/clinician/psychologist/computational scientist/maker/artist/lawyer as a collaborator?
 
 You can check the Mozilla Open Leadership material on [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
 
 ### Coding skills
 
--   no coding sills required
+-   no coding skills required
 
 or use the table below
 
@@ -119,7 +120,18 @@ or use one of the tables below
 
 | software   | level of expertise required   |
 |------------|-------------------------------|
-| ???        | beginner / confirmed / expert |
+| Brainstorm | beginner / confirmed / expert |
+| other      | beginner / confirmed / expert |
+
+**Data standards**
+
+| Standard   | level of expertise required   |
+|------------|-------------------------------|
+| BIDS       | beginner / confirmed / expert |
+| NWB        | beginner / confirmed / expert |
+| other      | beginner / confirmed / expert |
+
+
 
 ### GIT / GITHUB skills required
 
@@ -142,7 +154,7 @@ If you already have a [slack]() workspace or are using [gitter]() or [discord]()
 
 ### Video calls
 
-To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) / google hangout or some similar service so you can interact live with all project members where ever they are.
+To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) / google hangout or some similar service so you can interact live with all project members wherever they are.
 
 ### Suggested meeting time
 We recommend you have at least daily video meetings with your team members to organize things and keep track of progress.
