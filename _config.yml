@@ -12,7 +12,7 @@ exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "OHBM BrainHack 2020"
 email: ""
-description: "OHBM Brainhack June 23-25th, 2020. Organized by the OHBM Open Science SIG."
+description: "OHBM Brainhack June 16-18th, 2020. Organized by the OHBM Open Science SIG."
 baseurl: "/hackathon2020"
 url: "https://ohbm.github.io/hackathon2020"
 permalink: "/blog/:title"
@@ -60,8 +60,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "mtl_photo.jpg"
 heroTitle: "OHBM Brainhack <typeout>"
-eventDate: "June 23-25th 2020"
-typeoutTextValues: '"June 23-25th, 2020", "Montreal, QC", ""'
+eventDate: "June 16-18th 2020"
+typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
