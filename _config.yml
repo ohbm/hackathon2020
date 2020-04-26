@@ -50,6 +50,7 @@ navigationLinks:
  - {permalink: "/hackathon", text: "Hackathon"}
  - {permalink: "/team", text: "Team"}
  - {permalink: "/coc", text: "CoC"}
+ - {permalink: "/faq", text: "FAQ"}
  - {permalink: "/sponsors", text: "Sponsors"}
 
 bottomNavigationLinks:
