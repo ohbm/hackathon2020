@@ -10,7 +10,7 @@ assignees: ''
 
 We have prepared a checklist to help you submit your project. You don't have to have checked all of those to open the issue. Our team will help you finalize all the steps.
 
-If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).git push --set-upstream origin 2020_04_21_update_to_virtual_eventgit push --set-upstream origin 2020_04_21_update_to_virtual_event
+If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).
 
 **Project submission checklist**
 
