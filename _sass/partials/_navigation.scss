@@ -1,5 +1,5 @@
-$nav-color: #fff;
-$nav-color-hover: #cfcfcf;
+$nav-color: rgb(78, 77, 69);
+$nav-color-hover: #0a0606;
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 
@@ -19,7 +19,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         }
     }
     .overlay {
-        opacity: 0;
+        opacity: 1;
         transition: $base-transition;
     }
 }
