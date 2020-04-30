@@ -18,10 +18,16 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
        padding: 34px 0 30px 34px;
     }
     @media (max-width: 991px) {
-       padding: 34px 0 0px 34px;
+       padding: 34px 34px 0px 34px;
     }
     &.after-scroll {
         padding-bottom: 0px;
+        @media (min-width: 768px) {
+           padding: 0px 0 0px 34px;
+        }
+        @media (max-width: 991px) {
+           padding: 0px 34px 0px 34px;
+        }
     }
     .overlay {
         opacity: 1;
