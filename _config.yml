@@ -63,8 +63,8 @@ heroTitle: "OHBM Brainhack <typeout>"
 eventDate: "June 16-18th 2020"
 typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
-heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
+# heroButtons:
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
 
 # About Block
 aboutTitle: "About OHBM BrainHack 2020"
