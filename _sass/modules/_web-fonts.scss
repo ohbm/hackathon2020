@@ -87,5 +87,4 @@
   }
   $url: "#{$protocol}//fonts.googleapis.com/css?family=";
   $url: $url + wf-serialize($fonts);
-  @import url($url);
 }
