@@ -1,0 +1,59 @@
+.faq  {
+    h5 {
+       margin-top: 30px;
+    }
+    .list-inline {
+        margin-bottom: 65px;
+        li {
+            width: 16%;
+            max-width: 180px;
+            margin: 13px 7px;
+            @media (max-width: 767px) {
+                width: 40%;
+                max-width: 160px;
+            }
+        }
+    }
+    img {
+        width: 100%;
+        transition: $base-transition;
+        filter: grayscale(1);
+        &:hover {
+            filter: grayscale(0);
+        }
+    }
+    .faq-subsection {
+       margin-top: 100px;
+    }
+    .faq-TOC {
+      .row {
+        margin-top: 60px;
+        ul {
+          list-style: none;
+          text-align: left;
+          li {
+              font-size: 24px;
+              margin-bottom: 20px;
+          }
+        }
+
+      }
+
+    }
+
+    .faq-question {
+      .row {
+        .col-md {
+          border-bottom: 5px #000;
+          h5 {
+            font-weight: 300;
+          }
+          p {
+            font-size: 24px;
+            text-align: left;
+            line-height: 200%;
+          }
+        }
+      }
+    }
+}
