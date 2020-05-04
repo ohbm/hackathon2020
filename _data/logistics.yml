@@ -10,7 +10,7 @@
   group: "Softwares"
   questions:
     - {question: "Crowdcast", answer: "Each hub will be using Crowdcast for the main sessions, and this content will be streamed on Youtube simultaneously such that those who are not formally registered can follow along as well."}
-    - {question: "Mattermost", answer: "<ul>Generic channels: <b>HBM-hackathon</b>, <b>Town Square</b>, and <b>General</b> are existing channels.</ul>
+    - {question: "Mattermost", answer: "<ul>Generic channels: <b>hbm-hackathon</b>, <b>Town Square</b>, and <b>General</b> are existing channels.</ul>
                                         <ul>Project channel: Each project will have its own channel.</ul>
                                         <ul>Help desk: We will have a set of topic and programming language specific channels where you can ping volunteers for help."} 
 -
