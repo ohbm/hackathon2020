@@ -1,27 +1,87 @@
 <!-- Begin FAQ Section -->
-<section id="partners" class="partners">
+<section id="faq" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
 
-            <h3>Frequently asked questions</h3>
+            <div class="container">
+              <div class="row">
+                {% for section in site.data.faq %}
+                  <p class="text-lg-left" style="font-size: 150%"> {{ section.group }} </p>
+                  <ul class="text-lg-left">
+                    {% for question in section.questions %}
+                      <li>
+                        <a href="#" target="_blank">{{ question.question }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endfor %}
+              </div>
+            </div>
 
             {% for section in site.data.faq %}
 
-            <h4>{{ section.group }}</h4>
+            <div class="container">
+              <div class="row">
+                <div class="col mt-60">
+                  <div>
+                    <h4>{{ section.group }}</h4>
+                  </div>
+                </div>
+              </div>
+            </div>
 
-            <ul class="list-inline">
+            <div class="container">
+
+              {% for question in section.questions %}
+              <div class="row">
+                <div class="col-md">
+
+                      <h5>{{ question.question }}</h5>
+
+                      <p class="text-lg-left"  style="font-size: 150%; text-align:left;"> {{ question.answer }} </p>
+
+                </div>
+              </div>
+              {% endfor %}
+
+              <!-- <div class="accordion" id="accordionExample">
 
                 {% for question in section.questions %}
+                <div class="col-md-12">
+                  <div class="card">
+                    <div class="card-header" id="heading{{forloop.length}}">
+                      <h5 class="mb-50">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{forloop.length}}" aria-expanded="true" aria-controls="collapse{{forloop.length}}">
+                          {{ question.question }}
+                        </button>
+                      </h5>
+                    </div>
 
-                <h6>{{ question.question }}</h6>
-
-                <p> {{ question.answer }} </p>
-
+                    <div id="collapse{{forloop.length}}" class="collapse show" aria-labelledby="heading{{forloop.length}}" data-parent="#accordionExample">
+                      <div class="card-body">
+                        {{ question.answer }}
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 {% endfor %}
 
-            </ul>
+              </div> -->
+
+
+
+            </div>
+
+
+
+
 
             {% endfor %}
+
+
+
+
+
 
         </div>
 

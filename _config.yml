@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/hackathon", text: "Hackathon"}
  - {permalink: "/team", text: "Team"}
  - {permalink: "/coc", text: "CoC"}
- - {permalink: "/faq", text: "FAQ"}
+ - {permalink: "/FAQ", text: "FAQ"}
  - {permalink: "/sponsors", text: "Sponsors"}
 
 bottomNavigationLinks:
@@ -207,7 +207,7 @@ footerBlocks:
   title: "Resources"
   links:
    - {link: "/hackathon2020/coc", text: "Code of Conduct"}
-   - {link: "/hackathon2020/FAQ/", text: "FAQ"}   
+   - {link: "/hackathon2020/FAQ/", text: "FAQ"}
 
 # Blog
 blogTitle: "Latest news"
