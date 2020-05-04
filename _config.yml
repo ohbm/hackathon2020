@@ -218,10 +218,13 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "The OHBM Open Science SIG mission is to advance neuroimaging research by fostering the open sharing of ideas, data, and tools between members of the OHBM community. This will be accomplished by organizing educational events, supporting collaborative initiatives, and providing mentorship to junior researchers.
-As with previous years, our three main contributions to the OHBM annual meetings are: 
-
-<ul>1) organizing a Hackathon to precede the annual meeting</ul><ul>2) introducing the tools of open science via interactive tutorials as part of the TrainTrack </ul>3) facilitating collaborative work on a wide range of open science projects.
-This year the event is happening virtually, and we look forward to this opportunity to reach out to a larger and more diverse audience and to introduce a number of innovations that will enhance virtual collaborations!."
+As with previous years, our three main contributions to the OHBM annual meetings are:
+<ol>
+<li>organizing a Hackathon to precede the annual meeting</li>
+<li>introducing the tools of open science via interactive tutorials as part of the TrainTrack</li>
+<li>facilitating collaborative work on a wide range of open science projects</li>
+</ol>
+<p class='text-justify'>This year the event is happening virtually, and we look forward to this opportunity to reach out to a larger and more diverse audience and to introduce a number of innovations that will enhance virtual collaborations!.</p>"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
