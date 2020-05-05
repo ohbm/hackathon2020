@@ -8,21 +8,27 @@ assignees: ''
 
 ---
 
-We have prepared a checklist to help you submit your project. You don't have to have checked all of those to open the issue. Our team will help you finalize all the steps.
+We have prepared a checklist to help you submit your project. You don't have to have checked all of those to open the issue. If you are confused about what to do, simply keep all the content below and open an issue with the name of your project: our team will help you finalize all the steps.
 
 If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).
 
 **Project submission checklist**
 
--   [ ] Project description
--   [ ] URL to project repository or documents
--   [ ] Goals: set up 2 `good first issues` issues
--   [ ] Coding and GIT skills required (if applicable)
--   [ ] Project leaders names and time zones
+Make sure you at least provide the information for the `{REQUIRED}` in the list below.
+
+-   [ ] Project title () {REQUIRED}
+-   [ ] Project description () {REQUIRED}
+-   [ ] URL to project repository or documents {REQUIRED}
+-   [ ] Goals: set up 2 `good first issues` issues {REQUIRED}
+-   [ ] Coding and GIT skills required (if applicable) {REQUIRED}
+-   [ ] Skills you are particularly looking for {REQUIRED}
+-   [ ] Project leaders names {REQUIRED}
+-   [ ] Project leaders time zones
 -   [ ] Number of participants
 -   [ ] Chat channel
 -   [ ] Video-call "venue"
 -   [ ] Suggested daily meeting time
+-   [ ] Provide an image of your project for the hackathon website
 
 # Name of your awesome project
 
@@ -69,9 +75,11 @@ Some examples:
 -   come up with a prototype of a standardized consent form that can be used by different labs
 -   create a fantastic list of neuroscience ressources that will help generations of young researchers to come
 
-## Skills required to participate
+## Skills we are particularly looking for
 
 What different types of people could contribute?
+
+It is not all about coding. Are you interested by someone with a good flair for good visualization? Someone with more experience what makes a good user interface ? Someone who knows what makes a good, tidy and clear documentation ?
 
 ### Participant capacity
 
@@ -125,11 +133,11 @@ or use one of the tables below
 
 **Data standards**
 
-| Standard   | level of expertise required   |
-|------------|-------------------------------|
-| BIDS       | beginner / confirmed / expert |
-| NWB        | beginner / confirmed / expert |
-| other      | beginner / confirmed / expert |
+| Standard                    | level of expertise required   |
+|-----------------------------|-------------------------------|
+| Brain Imagig Data Structure | beginner / confirmed / expert |
+| Neurodata Without Borders   | beginner / confirmed / expert |
+| other                       | beginner / confirmed / expert |
 
 
 
@@ -160,3 +168,13 @@ To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit
 We recommend you have at least daily video meetings with your team members to organize things and keep track of progress.
 
 Try to suggest a time when meetings will happen. Of course this can then be changed and adapted if it turns out that most of the people who come to help you live on a completely different time zone from yours.
+
+### Code template to add
+
+If you want to help us to list your project on the hackathon, you can paste your `PROJECT TITLE` and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can also provide an image for your project.
+
+If you want you can then open a pull-request to add this code in the `_config.yml` file (section: `# Hackathon About Block` ; line 262). If you no idea how to do this, don't worry: we are here to help.
+
+```
+- {title: "PROJECT TITLE", image: "whatever.png", details: "PROJECT DESCRIPTION <br> More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"}
+```
