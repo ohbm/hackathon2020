@@ -6,6 +6,16 @@
 	    margin: 50px 0 20px;
 	    text-align: center;
 	}
+	.content-wrapper {
+			font-size: 24px;
+			line-height: 300%;
+			.text-justify {
+				font-size: 24px;
+				line-height: 300%;
+			}
+			ol {
+				text-align: left;
+				margin-left: 50px;
+			}
+	}
 }
-
-
