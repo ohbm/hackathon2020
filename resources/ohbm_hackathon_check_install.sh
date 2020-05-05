@@ -69,7 +69,6 @@ packages=(
     sklearn
     statsmodels
     seaborn
-    virtualenv
 )
 
 # check basic installations
@@ -78,6 +77,7 @@ check_installed conda
 check_installed python
 check_installed code
 check_installed docker
+check_installed octave
 
 # check vscode extensions
 
