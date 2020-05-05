@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: post
 title: Get ready for the first virtual OHBM Hackathon!
+isStaticPost: true
 permalink: /logistics/
 ---
-
-{% include top-section.html %}
 
 ##### OHBM Hackathon Hubs
 {% accordion hackathonHubs %}
@@ -15,7 +14,9 @@ In addition to this event being the first ever virtual OHBM hackathon, it will a
 * Asia and Pacific Oceania Hub
 {% endcollapse %}
 
-{% collapse Keywords, Identifiers, and Operators %} 
-In the above example, the highlighted code differentiates between:
+{% collapse Hub structure and general organization %} 
+Each hub has two hosts.
 {% endcollapse %}
 {% endaccordion %}
+
+##### Software
