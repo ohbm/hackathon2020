@@ -52,6 +52,7 @@ navigationLinks:
  - {permalink: "/coc", text: "CoC"}
  - {permalink: "/FAQ", text: "FAQ"}
  - {permalink: "/sponsors", text: "Sponsors"}
+ - {permalink: "/contact", text: "Contact"}
  - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
