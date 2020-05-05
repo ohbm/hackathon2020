@@ -1,0 +1,74 @@
+- hub:
+  name: "Brainhack"
+  team:
+    -
+      id: 0
+      name: "Anibal"
+      surname: " "
+      title: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: " "}
+        - {name: "github", link: " "}
+    -
+      id: 1
+      name: "Isil"
+      surname: ""
+      title: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: " "}
+
+
+- hub:
+  name: "Hub Americas"
+  team:
+    -
+      id: 0
+      name: "Liza"
+      surname: "Levitis"
+      title: "Hackathon Co-host"
+      thumbnailUrl: liza_levitis.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
+        - {name: "github", link: "https://github.com/llevitis"}
+
+
+- hub:
+  name: "Hub Europe, Middle East & Africa"
+  team:
+    -
+      id: 0
+      name: "Remi"
+      surname: "Gau"
+      title: "Hackathon Co-host"
+      thumbnailUrl: remi_gau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RemiGau"}
+
+
+- hub:
+  name: "Hub Asia & Pacific Oceania"
+  team:
+    -
+      id: 0
+      name: "Angela"
+      surname: "Tam"
+      title: "Hackathon Co-host"
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: ""}
+    -
+      id: 1
+      name: "Chao-Gan"
+      surname: "Yan"
+      title: "Hackathon Co-host"
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: ""}
