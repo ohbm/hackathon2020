@@ -6,13 +6,22 @@
     - {title: "HackTrack", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "08:00",
-    	endTime: "09:00",
+    	startTime: "10 00-11 00 UTC+10 (Brisbane) <br/> 
+                  08 00-09 00 UTC+08 (Beijing) <br/> 
+                  09 00-10 00 UTC+03 (Addis Ababa) <br/> 
+                  07 00-08 00 UTC+01 (London) <br/> 
+                  10 00-11 00 UTC-04 (Montreal) <br/> 
+                  07 00-08 00 UTC-07 (Los Angeles)<br/>",
+    	endTime: "",
     	sessionIds: [000]
     }
     - {
-        startTime: "09:00",
-        endTime: "10:00",
+        startTime: "11 00-12 00 UTC+10 (Brisbane) <br/> 
+                    09 00-10 00 UTC+08 (Beijing) <br/> 
+                    10 00-11 00 UTC+03 (Addis Ababa) <br/> 
+                    08 00-09 00 UTC+01 (London) <br/> 
+                    11 00-12 00 UTC-04 (Montreal) <br/> 
+                    08 00-09 00 UTC-07 (Los Angeles)<br/>",
         sessionIds: [101]
     }
     - {
