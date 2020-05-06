@@ -7,7 +7,7 @@ permalink: /logistics/
 
 <img align="right" src="../img/undraw_connected_world_wuay.svg" alt="connected_world" width="40%">
 
-##### OHBM Hackathon Hubs
+#### OHBM Hackathon Hubs
 
 {% accordion hackathonHubs %}
 {% collapse What are the hubs? %} 
@@ -22,7 +22,7 @@ Each hub has two hosts.
 {% endcollapse %}
 {% endaccordion %}
 
-##### Platforms
+#### Platforms
 
 {% accordion software %}
 {% collapse Crowdcast %}
@@ -44,17 +44,50 @@ Each project will be using Zoom or Jitsi for their individual calls.
 {% endaccordion %}
 
 
-##### HackTrack 
+#### HackTrack 
 
 
-##### TrainTrack 
+#### TrainTrack 
 The TrainTrack will cover topics ranging from good code practices, code and data version control, high performance computing, 
 data visualization, and machine learning. Each session will have its own computing requirements, but at a baseline, 
 we strongly recommend that participants make sure that they have the following general computing requirements satisfied. 
 We will have a virtual help desk available to help participants with installation issues. 
 
-{% accordion traintrack %}
+{% accordion TrainTrack %}
 {% collapse General computing requirements %}
-
+In addition to some software that we will list in the subsequent section, these are the general computing requirements: 
+1. Administrative access to your computer such that you can install software on your own. 
+2. If you're using Windows, the required version is Windows 10. 
 {% endcollapse %}
+
+{% collapse Required software %}
+Along with the platforms that we will be using for virtual TrainTrack presentations and communication, we ask that you 
+install the following software. 
+
+* A command-line shell: Bash
+* A version control system: Git
+* A remote-capable text editor: VSCode
+* Python 3 via Miniconda
+* A virtualization system: Docker
+* A GitHub account
+* Mattermost (can be used in the browser as well)
+* Zoom
+* A modern browser (for using Crowdcast and Jitsi)
+{% endcollapse %}
+
+
 {% endaccordion %}
+
+#### OS-specific installation instructions
+{% accordion os_specific_installation_instructions %}
+
+{% collapse Linux %} 
+{% endcollapse %}
+
+{% collapse MacOS %} 
+{% endcollapse %}
+
+{% collapse Windows %} 
+{% endcollapse %}
+
+{% endaccordion%}
