@@ -1,3 +1,12 @@
+# Dummy
+-
+  id: 999
+  title: " "
+  place: " "
+  service: true
+  description: " "
+
+
 # 000 Breaks, socials and that sort of things
 
 -
@@ -5,7 +14,7 @@
   title: "Coffee / Breakfast / Lunch"
   place: "Breakout room"
   service: true
-  description: "The best time to start talking with others"
+  description: "Join if you feel like"
 -
   id: 001
   title: "Social / Coffee / Food break"
@@ -33,26 +42,41 @@
   title: "Project Pitches"
   place: "Crowdcast"
   service: true
-  description: ""
+  description: "Project leaders have 2 minutes to describe their project."
 -
   id: 103
   title: "Project Q&A"
   place: "Crowdcast"
   service: true
-  description: ""
+  description: "All the attendees can go and meet the project leaders in their video breakout room to talk with thelm about the project."
 -
-  id: 103
+  id: 104
   title: "Project kickoff"
   place: "Crowdcast"
   service: true
   description: "The first time all the project team 'gathers around a table', discuss how they want to work together and how to get started."
 
 -
-  id: 101
+  id: 105
   title: "Daily intro and presentation of the Traintrack"
   place: "Crowdcast"
   service: true
   description: ""
+
+-
+  id: 106
+  title: "Daily wrap-up"
+  place: "Crowdcast"
+  service: true
+  description: ""
+
+-
+  id: 107
+  title: "Final wrap-up"
+  place: "Crowdcast"
+  service: true
+  description: "We all get together to hear what was accomplished in the past 3 days."
+
 
 # Hacking... More hacking
 -
