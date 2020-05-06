@@ -5,20 +5,25 @@
 
             <h3>{{ site.venueBlockTitle }}</h3>
 
-            <div class="row venue-row">
-
-                <div class="col-md-4 col-sm-4 venue-col venue-small-col">
-
-                    {% for venue in site.data.venue %}
-                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+              <div class="row venue-row">
+              {% for venue in site.data.venue %}
+              {% if forloop.index | modulo: 3 == 1%}
+                    <div class="col-md-4" style="padding: 5px 5px;">
                         <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
                     </div>
-                    {% endfor %}
+              {% elsif forloop.index | modulo: 3 == 2%}
+                    <div class="col-md-4 col-md-offset-4">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                    </div>
+              {% elsif forloop.index | modulo: 3 == 0%}
+                    <div class="col-md-4 col-md-offset-8">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                    </div>
 
-                </div>
+              {% endif %}
+              {% endfor %}
+              </div>
 
-            </div>
-        </div>
     </div>
 </section>
 <!-- End Venue Section -->
