@@ -91,60 +91,60 @@
 -
   id: 301
   title: "Git - GitHub"
-  place: "Home"
+  place: "Crowdcast"
   description: "Learn to version control your code and to work collaboratively with others wherever they are."
   service: true
 -
   id: 302
   title: "Good coding practices with matlab"
-  place: "Home"
+  place: "Crowdcast"
   description: "Learn to trust your own code so sharing it feels less scary."
   service: true
 -
   id: 303
   title: "Good coding practices with python"
-  place: "Home"
+  place: "Crowdcast"
   description: "Learn to trust your own code so sharing it feels less scary."
   service: true
 -
   id: 304
   title: "Brain Imaging Data Structure"
-  place: "Home"
+  place: "Crowdcast"
   description: "How to organize your data, so you will never hate your past 'self' ever again. "
   service: true
 -
   id: 305
   title: "Brain visualization"
-  place: "Home"
+  place: "Crowdcast"
   description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain. It is an informative and efficient way to represent our data and results, which follows the scientific principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize the data, display the results, communicate the information, as well as change the way we perceive the world. The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization, and make the brain visualization novel, creative, aesthetic and fun to the community."
   service: true
 -
   id: 306
   title: "Docker / Singularity"
-  place: "Home"
+  place: "Crowdcast"
   description: "Mody dock and a black hole walk into a bar."
   service: true
 -
   id: 307
   title: "BIDS apps"
-  place: "Home"
+  place: "Crowdcast"
   description: "Have BIDS, will travel..."
   service: true
 -
   id: 308
   title: "Jupyter notebook"
-  place: "Home"
+  place: "Crowdcast"
   description: "..."
   service: true
 -
   id: 309
   title: "Nilearn / Sklearn"
-  place: "Home"
+  place: "Crowdcast"
   description: "..."
   service: true
 -
   id: 310
   title: "Datalad"
-  place: "Home"
+  place: "Crowdcast"
   description: "Version control applied to your data... and much more."
   service: true
