@@ -1,5 +1,5 @@
 ---
-name: Hackathon Project Template
+name: Brainhack Project Template
 about: This provides the backbone structure for your project description. Please delete
   all unnecessary content, but keep the headings and structure.
 title: ''
@@ -28,7 +28,7 @@ Make sure you at least provide the information for the `{REQUIRED}` in the list 
 -   [ ] Chat channel
 -   [ ] Video-call "venue"
 -   [ ] Suggested daily meeting time
--   [ ] Provide an image of your project for the hackathon website
+-   [ ] Provide an image of your project for the OHBM brainhack website
 
 # Name of your awesome project
 
@@ -55,7 +55,7 @@ If your project does not involve any coding, simply add a link to the relevant d
 -   and if you want, additional files such as [Contributors.md](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/), to specify which types of people can contribute how.
 
 ### Specific goal
-Try to describe what you want to achieve during this hackathon.
+Try to describe what you want to achieve during this brainhack.
 
 If your project is just starting it might simply be "discuss, set up a roadmap, and identify potential obstacles".
 
@@ -66,7 +66,7 @@ For some other projects it could be a set of **SMART** goals:
 -   Relevant (reasonable, realistic and resourced, results-based).
 -   Time bound (time-based, time limited, time/cost limited, timely, time-sensitive).
 
-If you have set up a repository for your code, we will ask you to open at least 2 `good first issues` issues that describe the goals you would like to achieve in this hackathon.
+If you have set up a repository for your code, we will ask you to open at least 2 `good first issues` issues that describe the goals you would like to achieve in this brainhack.
 
 Some examples:
 -   implement a new feature for a package
@@ -135,7 +135,7 @@ or use one of the tables below
 
 | Standard                    | level of expertise required   |
 |-----------------------------|-------------------------------|
-| Brain Imagig Data Structure | beginner / confirmed / expert |
+| Brain Imaging Data Structure | beginner / confirmed / expert |
 | Neurodata Without Borders   | beginner / confirmed / expert |
 | other                       | beginner / confirmed / expert |
 
