@@ -17,6 +17,7 @@
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/RemiGau"}
+    - {name: "github", link: "https://github.com/Remi-Gau"}
 -
   id: 2
   name: "Camille"

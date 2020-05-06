@@ -21,6 +21,9 @@
                             <div class="clearfix"></div>
                             <span class="position">{{ teamMember.title }}</span>
                         </div>
+
+                        {{ teamMember.location }}
+
                         {% for social in teamMember.social %}
                         <a href="{{ social["link"] }}" target="_blank">
                             <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
@@ -28,6 +31,7 @@
                             </svg>
                         </a>
                         {% endfor %}
+
                     </figcaption>
                 </figure>
 

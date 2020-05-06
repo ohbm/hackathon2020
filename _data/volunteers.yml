@@ -6,6 +6,7 @@
       name: "Anibal"
       surname: " "
       title: " "
+      location: "Texas, USA"
       thumbnailUrl:
       team: true
       social:
@@ -16,11 +17,11 @@
       name: "Isil"
       surname: ""
       title: " "
+      location: " "
       thumbnailUrl:
       team: true
       social:
         - {name: "twitter", link: " "}
-
 
 - hub:
   name: "Hub Americas"
@@ -30,12 +31,12 @@
       name: "Liza"
       surname: "Levitis"
       title: "Hackathon Co-host"
+      location: "Montreal, Canada"
       thumbnailUrl: liza_levitis.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
         - {name: "github", link: "https://github.com/llevitis"}
-
 
 - hub:
   name: "Hub Europe, Middle East & Africa"
@@ -45,11 +46,12 @@
       name: "Remi"
       surname: "Gau"
       title: "Hackathon Co-host"
+      location: "Brussels, Belgium"
       thumbnailUrl: remi_gau.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/RemiGau"}
-
+        - {name: "github", link: "https://github.com/Remi-Gau"}
 
 - hub:
   name: "Hub Asia & Pacific Oceania"
@@ -59,6 +61,7 @@
       name: "Angela"
       surname: "Tam"
       title: "Hackathon Co-host"
+      location: " "
       thumbnailUrl:
       team: true
       social:
@@ -68,6 +71,7 @@
       name: "Chao-Gan"
       surname: "Yan"
       title: "Hackathon Co-host"
+      location: " "
       thumbnailUrl:
       team: true
       social:
