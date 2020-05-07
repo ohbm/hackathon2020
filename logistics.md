@@ -79,7 +79,20 @@ Each project will be using Zoom or Jitsi for their individual calls.
 
 #### HackTrack
 {% accordion HackTrack %} 
+As with previous OHBM hackathons, we've developed a project template that we would like project leads to use for submitting 
+their project proposals.  
 {% collapse Project submission %}
+Each project is allocated to a project helper who will follow the project from submission until the end of the hackathon.
+To make sure that project helpers have enough time to review project submissions, we're setting two deadlines: 
+1. 2 weeks before the hackathon: submit a draft for project helpers to give feedback on
+2. 1 week before hackathon: hard deadline
+
+[**Project checklist**](https://docs.google.com/spreadsheets/d/1SY-Hnhc-bPX0RA47icVukUVVJ-BrX9ykPFQUBY-U1go/edit#gid=0): this is a spreadsheet to help the project helpers making sure that each project is on track and submitted everything.
+
+[**Github issue template**](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/hackathon-project-template.md): This will be the way to submit hackathon projects. It comes with a checklist to make sure that project leaders and participants can start in the best conditions.
+
+Once a project has been submitted the project helper can tag it using issue labels to make it easier to search amongst the different projects.
+
 {% endcollapse %}
 
 {% endaccordion %}
