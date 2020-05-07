@@ -78,7 +78,11 @@ Each project will be using Zoom or Jitsi for their individual calls.
 
 
 #### HackTrack
+{% accordion HackTrack %} 
+{% collapse Project submission %}
+{% endcollapse %}
 
+{% endaccordion %}
 
 
 #### TrainTrack 
