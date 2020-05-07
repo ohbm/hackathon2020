@@ -12,6 +12,8 @@ We have prepared a checklist to help you submit your project. You don't have to 
 
 If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).
 
+You can also opt for the [google doc template](https://docs.google.com/document/d/11eyTp5m2odaraAeRHdWytlMOUW3Cwvu0nMaxCbf1cqo/edit?usp=sharing) version of project submission we have prepared.
+
 **Project submission checklist**
 
 Make sure you at least provide the information for the `{REQUIRED}` in the list below.
@@ -25,6 +27,7 @@ Make sure you at least provide the information for the `{REQUIRED}` in the list 
 -   [ ] Project leaders names {REQUIRED}
 -   [ ] Project leaders time zones
 -   [ ] Number of participants
+-   [ ] Prepare a contributor section on the project's repository or documents
 -   [ ] Chat channel
 -   [ ] Video-call "venue"
 -   [ ] Suggested daily meeting time
@@ -40,7 +43,31 @@ Main idea and context.
 
 Because projects will be coordinated across several time zones, it is important to identify the project leaders and their time zones.
 
-**List of time zones with cities**
+-   Fairbanks UTC-8
+-   Los Angeles UTC-7
+-   Denver UTC-6
+-   Minneapolis UTC-5
+-   Montreal UTC-4
+-   Brasilia UTC-3
+-   UTC-2
+-   UTC-1
+-   Timbuktu UTC-0
+-   London UTC+1
+-   Berlin UTC+2
+-   Moscow UTC+3
+-   New Delhi UTC+3.5
+-   Yekaterinburg
+-   UTC+5
+-   UTC+6
+-   UTC+7
+-   Beijing UTC+8
+-   Tokyo UTC+9
+-   Brisbane UTC+10
+-   UTC+11
+-   Auckland UTC+12
+-   UTC-11
+-   UTC-10
+-   UTC-9
 
 ### Link to your repository
 
@@ -90,6 +117,8 @@ As a project leader it is important that you do not overstretch yourself. Try to
 How would your project integrate a physicist/imager/clinician/psychologist/computational scientist/maker/artist/lawyer as a collaborator?
 
 You can check the Mozilla Open Leadership material on [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
+
+### Crediting contribution
 
 ### Coding skills
 
@@ -173,8 +202,39 @@ Try to suggest a time when meetings will happen. Of course this can then be chan
 
 If you want to help us to list your project on the hackathon, you can paste your `PROJECT TITLE` and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can also provide an image for your project.
 
-If you want you can then open a pull-request to add this code in the `_config.yml` file (section: `# Hackathon About Block` ; line 262). If you no idea how to do this, don't worry: we are here to help.
+If you want you can then open a pull-request to add this code in the `_config.yml` file (section: `# Hackathon About Block` ; line 262). If you no idea how to do this, don't worry: we are here to help. If you want to add an image to illustrate your project it should go in the `img/hackathon` folder.
 
 ```
-- {title: "PROJECT TITLE", image: "whatever.png", details: "PROJECT DESCRIPTION <br> More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"}
+- {title: "PROJECT TITLE", image: "IMAGE_FILENAME", details: "PROJECT DESCRIPTION <br> More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"}
+```
+
+## Project check-points
+
+### Project pitch
+Tweet content for project pitch
+```
+Problem / Goal
+Repo URL
+Project leader twitter handle
+#OHBMHackathon #Brainhack #OHBM2020
+```
+### Day 1: summary
+-   What was done? What problem was solved? How?
+-   What new problem / question emerged?
+-   What needs to be discussed?
+
+### Day 2: summary
+-   What was done? What problem was solved? How?
+-   What new problem / question emerged?
+-   What needs to be discussed?
+
+### Day 3:
+Tweet content for final wrap up
+```
+Short description of was done
+What’s next?
+Twitter handles of the people involved
+URL to project repo
+Images
+#OHBMHackathon #Brainhack #OHBM2020
 ```
