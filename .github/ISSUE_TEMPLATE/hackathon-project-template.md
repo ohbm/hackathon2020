@@ -100,13 +100,13 @@ Some examples:
 -   create a tutorial for a package
 -   make a python version of your matlab based toolbox
 -   come up with a prototype of a standardized consent form that can be used by different labs
--   create a fantastic list of neuroscience ressources that will help generations of young researchers to come
+-   create a fantastic list of neuroscience resources that will help generations of young researchers to come
 
 ## Skills we are particularly looking for
 
 What different types of people could contribute?
 
-It is not all about coding. Are you interested by someone with a good flair for good visualization? Someone with more experience what makes a good user interface ? Someone who knows what makes a good, tidy and clear documentation ?
+It is not all about coding. Are you interested in collaborating with someone with a good flair for good visualization? Someone with more experience who can makes a good user interface? Someone who knows how to develop good, tidy and clear documentation ?
 
 ### Participant capacity
 
@@ -164,7 +164,7 @@ or use one of the tables below
 
 | Standard                    | level of expertise required   |
 |-----------------------------|-------------------------------|
-| Brain Imaging Data Structure | beginner / confirmed / expert |
+| Brain Imaging Data Structure| beginner / confirmed / expert |
 | Neurodata Without Borders   | beginner / confirmed / expert |
 | other                       | beginner / confirmed / expert |
 
@@ -200,7 +200,7 @@ Try to suggest a time when meetings will happen. Of course this can then be chan
 
 ### Code template to add
 
-If you want to help us to list your project on the hackathon, you can paste your `PROJECT TITLE` and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can also provide an image for your project.
+If you want to help us list your project on the hackathon website, you can paste your `PROJECT TITLE` and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can also provide an image for your project.
 
 If you want you can then open a pull-request to add this code in the `_config.yml` file (section: `# Hackathon About Block` ; line 262). If you no idea how to do this, don't worry: we are here to help. If you want to add an image to illustrate your project it should go in the `img/hackathon` folder.
 
