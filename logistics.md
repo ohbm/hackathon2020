@@ -12,14 +12,47 @@ permalink: /logistics/
 {% accordion hackathonHubs %}
 {% collapse What are the hubs? %} 
 In addition to this event being the first ever virtual OHBM hackathon, it will also be happening three times within a 24 hour window, across multiple time-zones. The goal here is to ensure that more people from around the world are able to join in during reasonable working hours for them. 
-* Americas Hub
-* Europe, Middle East, and Africa Hub
-* Asia and Pacific Oceania Hub
+* Americas Hub - Hosts: Liza Levitis 
+* Europe, Middle East, and Africa Hub - Hosts: Remi Gau
+* Asia and Pacific Oceania Hub - Hosts: Angela Tam and Chao-Gan Yan
 {% endcollapse %}
 
 {% collapse Hub structure and general organization %} 
-Each hub has two hosts.
+In order for the event to run as smoothly as possible across all hubs, each hub will have a list of roles filled by volunteers. 
+Some of the roles are selected by the OS-SIG while others are open to volunteers.
+
+##### Selected by the OS-SIG
+{% collapse Hackathon hub hosts %}
+Each hub has two hackathon hosts who welcome the participants during the kickoff and project pitches, moderate the unconferences, and liase with the other volunteers.
 {% endcollapse %}
+{% collapse Hub manager %}
+The hub manager makes sure that everything is running smoothly in the background! 
+{% endcollapse %}
+{% collapse TrainTrack instructors %}
+Each TrainTrack session has an instructor, and there will be TAs available for answering questions while a TrainTrack session is being presented. 
+{% endcollapse %}
+{% collapse Youtube master %}
+The Youtube master ensures that all content is streamed to different platforms.
+{% endcollapse %}
+##### Open to volunteers
+{% collapse Project helpers %}
+In the weeks preceding the hackathon, project helpers will review submitted projects and make sure that they are set up following hackathon project setup guidelines. Then during the hackathon they can provide support and especially help project leaders who might feel a bit lost if it is their first time managing a team. 
+{% endcollapse %}
+{% collapse Hackathon mentor %}
+You’ve already attended a hackathon, are keen in welcoming new members in the Brainhack community? As a hackathon mentor, you will make sure that your mentees have followed the participant onboarding, you will spend 1-hour a day with them to help with their on-boarding. 
+{% endcollapse %}
+{% collapse Help desk %}
+Signup for the hackathon helpdesk and answer attendees technical questions. As a member of the helpdesk you will sign up for monitoring the helpdesk chat and answer any question.
+{% endcollapse %}
+{% collapse Social breakout host %}
+Each hub will have a virtual room where people can go and chat, meet with people for their morning or afternoon coffee, lunch, or evening drinks. The social breakout host's role is keep the conversation going in a relaxed and inclusive atmosphere.
+{% endcollapse %}
+{% collapse Social media person %}
+
+{% endcollapse %}
+
+{% endcollapse %}
+
 {% endaccordion %}
 
 #### Platforms
@@ -44,7 +77,8 @@ Each project will be using Zoom or Jitsi for their individual calls.
 {% endaccordion %}
 
 
-#### HackTrack 
+#### HackTrack
+
 
 
 #### TrainTrack 
