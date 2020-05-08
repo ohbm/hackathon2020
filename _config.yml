@@ -6,8 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['README.md', 'LICENSE.txt', 'CNAME', 'vendor', 
-          'Gemfile', 'Gemfile.lock', 'Rakefile']
+exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
