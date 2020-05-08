@@ -3,6 +3,7 @@ layout: post
 title: Get ready for the first virtual OHBM Hackathon!
 isStaticPost: true
 permalink: /logistics/
+image: schedule.jpg
 ---
 
 <div>
