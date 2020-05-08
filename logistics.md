@@ -95,7 +95,8 @@ To make sure that project helpers have enough time to review project submissions
 - 2 weeks before the hackathon: submit a draft for project helpers to give feedback on
 - 1 week before hackathon: hard deadline
 
-[**Project checklist**](https://docs.google.com/spreadsheets/d/1SY-Hnhc-bPX0RA47icVukUVVJ-BrX9ykPFQUBY-U1go/edit#gid=0): this is a spreadsheet to help the project helpers making sure that each project is on track and submitted everything.
+[**Project checklist**](https://docs.google.com/spreadsheets/d/1SY-Hnhc-bPX0RA47icVukUVVJ-BrX9ykPFQUBY-U1go/edit?usp=sharing): this is a spreadsheet to help the project helpers making sure that each project is on track and submitted everything.
+
 
 [**Github issue template**](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/hackathon-project-template.md): This will be the way to submit hackathon projects. It comes with a checklist to make sure that project leaders and participants can start in the best conditions.
 
