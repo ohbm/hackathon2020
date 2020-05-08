@@ -5,41 +5,47 @@ isStaticPost: true
 permalink: /logistics/
 ---
 
+<div>
+
 <img align="right" src="../img/undraw_connected_world_wuay.svg" alt="connected_world" width="40%">
 
-#### OHBM Hackathon Hubs
+
+<h5 style="padding-top: 100px">OHBM Hackathon Hubs</h5>
 
 {% accordion hackathonHubs %}
-{% collapse What are the hubs? %} 
-In addition to this event being the first ever virtual OHBM hackathon, it will also be happening three times within a 24 hour window, across multiple time-zones. The goal here is to ensure that more people from around the world are able to join in during reasonable working hours for them. 
-* Americas Hub - Hosts: Liza Levitis 
-* Europe, Middle East, and Africa Hub - Hosts: Remi Gau
-* Asia and Pacific Oceania Hub - Hosts: Angela Tam and Chao-Gan Yan
+{% collapse What are the hubs? %}
+In addition to this event being the first ever virtual OHBM hackathon, it will also be happening three times within a 24 hour window, across multiple time-zones. The goal here is to ensure that more people from around the world are able to join in during reasonable working hours for them.
+* Americas Hub
+* Europe, Middle East, and Africa Hub
+* Asia and Pacific Hub
 {% endcollapse %}
 
-{% collapse Hub structure and general organization %} 
-In order for the event to run as smoothly as possible across all hubs, each hub will have a list of roles filled by volunteers. 
+{% collapse Hub structure and general organization %}
+In order for the event to run as smoothly as possible across all hubs, each hub will have a list of roles filled by volunteers.
 Some of the roles are selected by the OS-SIG while others are open to volunteers.
 
-##### Selected by the OS-SIG
+<h6 style="padding-top: 80px">Selected by the OS-SIG</h6>
+
 {% collapse Hackathon hub hosts %}
 Each hub has two hackathon hosts who welcome the participants during the kickoff and project pitches, moderate the unconferences, and liase with the other volunteers.
 {% endcollapse %}
 {% collapse Hub manager %}
-The hub manager makes sure that everything is running smoothly in the background! 
+The hub manager makes sure that everything is running smoothly in the background!
 {% endcollapse %}
 {% collapse TrainTrack instructors %}
-Each TrainTrack session has an instructor, and there will be TAs available for answering questions while a TrainTrack session is being presented. 
+Each TrainTrack session has an instructor, and there will be TAs available for answering questions while a TrainTrack session is being presented.
 {% endcollapse %}
 {% collapse Youtube master %}
 The Youtube master ensures that all content is streamed to different platforms.
 {% endcollapse %}
-##### Open to volunteers
+
+<h6 style="padding-top: 80px">Open to volunteers</h6>
+
 {% collapse Project helpers %}
-In the weeks preceding the hackathon, project helpers will review submitted projects and make sure that they are set up following hackathon project setup guidelines. Then during the hackathon they can provide support and especially help project leaders who might feel a bit lost if it is their first time managing a team. 
+In the weeks preceding the hackathon, project helpers will review submitted projects and make sure that they are set up following hackathon project setup guidelines. Then during the hackathon they can provide support and especially help project leaders who might feel a bit lost if it is their first time managing a team.
 {% endcollapse %}
 {% collapse Hackathon mentor %}
-You’ve already attended a hackathon, are keen in welcoming new members in the Brainhack community? As a hackathon mentor, you will make sure that your mentees have followed the participant onboarding, you will spend 1-hour a day with them to help with their on-boarding. 
+You’ve already attended a hackathon, are keen in welcoming new members in the Brainhack community? As a hackathon mentor, you will make sure that your mentees have followed the participant onboarding, you will spend 1-hour a day with them to help with their on-boarding.
 {% endcollapse %}
 {% collapse Help desk %}
 Signup for the hackathon helpdesk and answer attendees technical questions. As a member of the helpdesk you will sign up for monitoring the helpdesk chat and answer any question.
@@ -55,15 +61,16 @@ Each hub will have a virtual room where people can go and chat, meet with people
 
 {% endaccordion %}
 
-#### Platforms
+
+<h5 style="padding-top: 100px">Platforms</h5>
 
 {% accordion software %}
 {% collapse Crowdcast %}
 Each hub will be using Crowdcast for the main sessions, and this content will be streamed on Youtube simultaneously such that those who are not formally registered can follow along as well.
-{% endcollapse %} 
+{% endcollapse %}
 
 {% collapse Mattermost %}
-* Generic channels: 
+* Generic channels:
   * [HBM-hackathon](https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon)
   * [General](https://mattermost.brainhack.org/brainhack/channels/general)
   * [Town Square](https://mattermost.brainhack.org/brainhack/channels/town-square)
@@ -73,19 +80,20 @@ Each hub will be using Crowdcast for the main sessions, and this content will be
 
 {% collapse Zoom/Jitsi %}
 Each project will be using Zoom or Jitsi for their individual calls.
-{% endcollapse %} 
+{% endcollapse %}
 {% endaccordion %}
 
 
-#### HackTrack
-{% accordion HackTrack %} 
-As with previous OHBM hackathons, we've developed a project template that we would like project leads to use for submitting 
+<h5 style="padding-top: 100px">HackTrack</h5>
+
+{% accordion HackTrack %}
+As with previous OHBM hackathons, we've developed a project template that we would like project leads to use for submitting
 their project proposals.  
 {% collapse Project submission %}
 Each project is allocated to a project helper who will follow the project from submission until the end of the hackathon.
-To make sure that project helpers have enough time to review project submissions, we're setting two deadlines: 
-1. 2 weeks before the hackathon: submit a draft for project helpers to give feedback on
-2. 1 week before hackathon: hard deadline
+To make sure that project helpers have enough time to review project submissions, we're setting two deadlines:
+- 2 weeks before the hackathon: submit a draft for project helpers to give feedback on
+- 1 week before hackathon: hard deadline
 
 [**Project checklist**](https://docs.google.com/spreadsheets/d/1SY-Hnhc-bPX0RA47icVukUVVJ-BrX9ykPFQUBY-U1go/edit#gid=0): this is a spreadsheet to help the project helpers making sure that each project is on track and submitted everything.
 
@@ -98,22 +106,23 @@ Once a project has been submitted the project helper can tag it using issue labe
 {% endaccordion %}
 
 
-#### TrainTrack 
-The TrainTrack will cover topics ranging from good code practices, code and data version control, high performance computing, 
-data visualization, and machine learning. Each session will have its own computing requirements, but at a baseline, 
-we strongly recommend that participants make sure that they have the following general computing requirements satisfied. 
-We will have a virtual help desk available to help participants with installation issues. 
+<h5 style="padding-top: 100px">TrainTrack</h5>
+
+The TrainTrack will cover topics ranging from good code practices, code and data version control, high performance computing,
+data visualization, and machine learning. Each session will have its own computing requirements, but at a baseline,
+we strongly recommend that participants make sure that they have the following general computing requirements satisfied.
+We will have a virtual help desk available to help participants with installation issues.
 
 {% accordion TrainTrack %}
 {% collapse General computing requirements %}
-In addition to some software that we will list in the subsequent section, these are the general computing requirements: 
-1. Administrative access to your computer such that you can install software on your own. 
-2. If you're using Windows, the required version is Windows 10. 
+In addition to some software that we will list in the subsequent section, these are the general computing requirements:
+- Administrative access to your computer such that you can install software on your own.
+- If you're using Windows, the required version is Windows 10.
 {% endcollapse %}
 
 {% collapse Required software %}
-Along with the platforms that we will be using for virtual TrainTrack presentations and communication, we ask that you 
-install the following software. 
+Along with the platforms that we will be using for virtual TrainTrack presentations and communication, we ask that you
+install the following software.
 
 * A command-line shell: Bash
 * A version control system: Git
@@ -129,16 +138,19 @@ install the following software.
 
 {% endaccordion %}
 
-#### OS-specific installation instructions
+<h5 style="padding-top: 100px">OS-specific installation instructions</h5>
+
 {% accordion os_specific_installation_instructions %}
 
-{% collapse Linux %} 
+{% collapse Linux %}
 {% endcollapse %}
 
-{% collapse MacOS %} 
+{% collapse MacOS %}
 {% endcollapse %}
 
-{% collapse Windows %} 
+{% collapse Windows %}
 {% endcollapse %}
 
 {% endaccordion%}
+
+</div>
