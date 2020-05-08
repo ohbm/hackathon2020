@@ -1,7 +1,7 @@
 -
   date: "2020-06-16"
   dateReadable: "June 16th, Day 1"
-  tablelabel: "Your time in Bankgok, London, Los Angeles"
+  tablelabel: "Your time in:<br>Bankgok, Jakarta<br>London, Abidjan<br>Los Angeles"
   tracks:
     - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
@@ -65,7 +65,7 @@
 -
   date: "2020-06-17"
   dateReadable: "June 17th, Day 2"
-  tablelabel: "Your time in Bankgok, London, Los Angeles"
+  tablelabel: "Your time in:<br>Bankgok, Jakarta<br>London, Abidjan<br>Los Angeles"
   tracks:
     - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
@@ -119,7 +119,7 @@
 -
   date: "2020-06-18"
   dateReadable: "June 18th, Day 3"
-  tablelabel: "Your time in Bankgok, London, Los Angeles"
+  tablelabel: "Your time in:<br>Bankgok, Jakarta<br>London, Abidjan<br>Los Angeles"
   tracks:
     - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
