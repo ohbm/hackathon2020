@@ -72,13 +72,6 @@ $small-label-width: 80px;
     margin: 0;
     font-size: $title-font-size;
     line-height: 1;
-    p {
-    margin: 0px;
-    padding: 0px;
-    }
-    ul {
-        margin-top: 0px;
-    }
     @media (max-width: 767px) {
         font-size: 18px;
         width: $small-label-width;
@@ -126,8 +119,9 @@ $small-label-width: 80px;
 }
 .track-header-title {
     @extend .slot-title;
-    font-size: 24px;
+    font-size: 30px;
     text-align: center;
+    margin-top: 30px;
 }
 .track-header-slot {
     padding: 10px 15px 60px;
