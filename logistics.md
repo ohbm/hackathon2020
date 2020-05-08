@@ -11,7 +11,7 @@ image: schedule.jpg
 <img align="right" src="../img/undraw_connected_world_wuay.svg" alt="connected_world" width="40%">
 
 
-<h5 style="padding-top: 100px">OHBM Hackathon Hubs</h5>
+<h5 style="padding-top: 100px"><b>OHBM Hackathon Hubs</b></h5>
 
 {% accordion hackathonHubs %}
 {% collapse What are the hubs? %}
@@ -25,7 +25,7 @@ In addition to this event being the first ever virtual OHBM hackathon, it will a
 In order for the event to run as smoothly as possible across all hubs, each hub will have a list of roles filled by volunteers.
 Some of the roles are selected by the OS-SIG while others are open to volunteers.
 
-<h6 style="padding-top: 80px">Selected by the OS-SIG</h6>
+<h6 style="padding-top: 50px">Selected by the OS-SIG</h6>
 
 {% collapse Hackathon hub hosts %}
 Each hub has two hackathon hosts who welcome the participants during the kickoff and project pitches, moderate the unconferences, and liase with the other volunteers.
@@ -40,10 +40,10 @@ Each TrainTrack session has an instructor, and there will be TAs available for a
 The Youtube master ensures that all content is streamed to different platforms.
 {% endcollapse %}
 
-<h6 style="padding-top: 80px">Open to volunteers</h6>
+<h6 style="padding-top: 50px">Open to volunteers</h6>
 
-{% collapse Project helpers %}
-In the weeks preceding the hackathon, project helpers will review submitted projects and make sure that they are set up following hackathon project setup guidelines. Then during the hackathon they can provide support and especially help project leaders who might feel a bit lost if it is their first time managing a team.
+{% collapse Project advisor %}
+In the weeks preceding the hackathon, project advisors will review submitted projects and make sure that they are set up following hackathon project setup guidelines. Then during the hackathon they can provide support and especially help project leaders who might feel a bit lost if it is their first time managing a team.
 {% endcollapse %}
 {% collapse Hackathon mentor %}
 You’ve already attended a hackathon, are keen in welcoming new members in the Brainhack community? As a hackathon mentor, you will make sure that your mentees have followed the participant onboarding, you will spend 1-hour a day with them to help with their on-boarding.
@@ -63,7 +63,7 @@ Each hub will have a virtual room where people can go and chat, meet with people
 {% endaccordion %}
 
 
-<h5 style="padding-top: 100px">Platforms</h5>
+<h5 style="padding-top: 80px"><b>Platforms</b></h5>
 
 {% accordion software %}
 {% collapse Crowdcast %}
@@ -85,7 +85,7 @@ Each project will be using Zoom or Jitsi for their individual calls.
 {% endaccordion %}
 
 
-<h5 style="padding-top: 100px">HackTrack</h5>
+<h5 style="padding-top: 80px"><b>HackTrack</b></h5>
 
 {% accordion HackTrack %}
 As with previous OHBM hackathons, we've developed a project template that we would like project leads to use for submitting
@@ -108,7 +108,7 @@ Once a project has been submitted the project helper can tag it using issue labe
 {% endaccordion %}
 
 
-<h5 style="padding-top: 100px">TrainTrack</h5>
+<h5 style="padding-top: 80px"><b>TrainTrack</b></h5>
 
 The TrainTrack will cover topics ranging from good code practices, code and data version control, high performance computing,
 data visualization, and machine learning. Each session will have its own computing requirements, but at a baseline,
@@ -119,7 +119,7 @@ We will have a virtual help desk available to help participants with installatio
 {% collapse General computing requirements %}
 In addition to some software that we will list in the subsequent section, these are the general computing requirements:
 - Administrative access to your computer such that you can install software on your own.
-- If you're using Windows, the required version is Windows 10.
+- If you're using Windows, the required version is the 64 bit version of Windows 10. Please contact us if you don't have either MacOS, Linux, or a Windows 10 64-bit machine. 
 {% endcollapse %}
 
 {% collapse Required software %}
@@ -140,11 +140,18 @@ install the following software.
 
 {% endaccordion %}
 
-<h5 style="padding-top: 100px">OS-specific installation instructions</h5>
-
-{% accordion os_specific_installation_instructions %}
+<h5 style="padding-top: 80px"><b>OS-specific installation instructions</b></h5>
+Coming soon!
+<!-- {% accordion os_specific_installation_instructions %}
 
 {% collapse Linux %}
+###### **Bash shell**
+
+All Ubuntu and other Linux distros come with Bash as the default shell, so no need to download it!
+Some versions of Linux may require that you type bash inside the terminal to access it. To verify if this is the case, follow
+these steps: 
+
+Open a terminal and type `echo $SHELL`. If it reads `/bin/bash` then you are all set! If it does not, then for all parts of the subsequent instructions, whenever the instructions read “open a terminal,” please assume you are to open a terminal, type bash, and the proceed with the instructions as specified.
 {% endcollapse %}
 
 {% collapse MacOS %}
@@ -153,6 +160,6 @@ install the following software.
 {% collapse Windows %}
 {% endcollapse %}
 
-{% endaccordion%}
+{% endaccordion%} -->
 
 </div>

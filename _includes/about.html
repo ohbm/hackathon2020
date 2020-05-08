@@ -1,10 +1,11 @@
 <!-- About Section -->
 <section id="about" class="about">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
+        <div class="col-lg-8 col-lg-offset-2">
             <h3>{{ site.aboutTitle }}</h3>
-						<div style="font-size:24px;text-align:left;"><div style="font-size:16px;float:right;width:338px;"><img src="/hackathon2020/img/brainhack_venn_diagram.png" width="400" height="400" alt="brainhack venn diagram"><br><b>Brainhack as a venn diagram, from <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Craddock et al (2016)</a></b></div>At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ from typical academic conference in that attendees can actively take part in the program and co-learn from each other. Thus, they will be actively trying to create something rather than passively attend. Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.</div>
-			<br style="clear:both;">
+            <div style="font-size:18px;text-align:left;"><div style="font-size:16px;float:right;width:338px;"><img src="/hackathon2020/img/brainhack_venn_diagram.png" width="400" height="400" alt="brainhack venn diagram"><br><b>Brainhack as a venn diagram, from <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Craddock et al (2016)</a></b></div>{{ site.aboutBrainHack }}</div>
+            <br style="clear:both;">
+            
             <div class="row about-details" style="margin-top:15px;">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
