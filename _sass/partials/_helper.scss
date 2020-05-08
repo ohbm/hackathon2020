@@ -35,16 +35,35 @@
     text-transform: uppercase;
     padding: 7px 17px;
 }
+// .card {
+//     position: relative;
+//     overflow: hidden;
+//     height: 100%;
+//     margin-bottom: 10px;
+//     padding: 4px 4px 8px;
+//     border-radius: 4px;
+//     background: #fff;
+//     box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .15);
+// }
+
 .card {
     position: relative;
-    overflow: hidden;
-    height: 100%;
-    margin-bottom: 10px;
-    padding: 24px 24px 50px;
-    border-radius: 4px;
-    background: #fff;
-    box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .15);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    padding: 4px 4px 8px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
 }
+
 .same-height {
     margin-bottom: 15px;
 }
