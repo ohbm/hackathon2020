@@ -69,10 +69,10 @@ typeoutFallback: ""
 # About Block
 aboutTitle: "About OHBM BrainHack 2020"
 aboutBlock:
- - {title: "Share Ideas", image: "share.png", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
- - {title: "Build Projects", image: "code.png", text: "Try the presented tools on provided data or bring your own tools/data!" }
- - {title: "Be social", image: "community.png", text: "Get to meet and socialize with people from all over the world!"}
- - {title: "Learn Tools", image: "learn.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
+ - {title: "Share Ideas", image: "undraw/undraw_share_link_qtxe.png", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
+ - {title: "Build Projects", image: "undraw/undraw_code_typing_7jnv.png", text: "Try the presented tools on provided data or bring your own tools/data!" }
+ - {title: "Be social", image: "undraw/undraw_Connecting_Teams_8ntu.png", text: "Get to meet and socialize with people from all over the world!"}
+ - {title: "Learn Tools", image: "undraw/undraw_book_reading_kx9s.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
 
 # Guests block
 # guestTitle: "Unconference talks"
