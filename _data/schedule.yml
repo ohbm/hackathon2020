@@ -1,27 +1,19 @@
 -
   date: "2020-06-16"
   dateReadable: "June 16th, Day 1"
+  tablelabel: "Your time in Bankgok, London, Los Angeles"
   tracks:
     - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10 00-11 00 UTC+10 (Brisbane) <br/> 
-                  08 00-09 00 UTC+08 (Beijing) <br/> 
-                  09 00-10 00 UTC+03 (Addis Ababa) <br/> 
-                  07 00-08 00 UTC+01 (London) <br/> 
-                  10 00-11 00 UTC-04 (Montreal) <br/> 
-                  07 00-08 00 UTC-07 (Los Angeles)<br/>",
-    	endTime: "",
+    	startTime: "08:00",
+        endTime: "09:00",
     	sessionIds: [000]
     }
     - {
-        startTime: "11 00-12 00 UTC+10 (Brisbane) <br/> 
-                    09 00-10 00 UTC+08 (Beijing) <br/> 
-                    10 00-11 00 UTC+03 (Addis Ababa) <br/> 
-                    08 00-09 00 UTC+01 (London) <br/> 
-                    11 00-12 00 UTC-04 (Montreal) <br/> 
-                    08 00-09 00 UTC-07 (Los Angeles)<br/>",
+        startTime: "09:00",
+        endTime: "10:00",
         sessionIds: [101]
     }
     - {
@@ -69,6 +61,7 @@
 -
   date: "2020-06-17"
   dateReadable: "June 17th, Day 2"
+  tablelabel: "Your time in Bankgok, London, Los Angeles"
   tracks:
     - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
@@ -112,6 +105,7 @@
 -
   date: "2020-06-18"
   dateReadable: "June 18th, Day 3"
+  tablelabel: "Your time in Bankgok, London, Los Angeles"
   tracks:
     - {title: "TrainTrack", color: "#90be4e"}
     - {title: "HackTrack", color: "#03a9f4"}
