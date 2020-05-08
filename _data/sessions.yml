@@ -148,3 +148,17 @@
   place: "Crowdcast"
   description: "Version control applied to your data... and much more."
   service: true
+
+# Asynchronous activities...
+-
+  id: 401
+  title: "Go and explore"
+  place: "Home"
+  description: "Use the extra time that falls within working hours in your time zone to spend some time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
+  service: true
+
+- id: 402
+  title: "Strech up"
+  place: "Home"
+  description: "Use the extra time that falls within working hours in your time zone to spend some time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
+  service: true
