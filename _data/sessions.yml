@@ -158,7 +158,7 @@
   service: true
 
 - id: 402
-  title: "Strech up"
+  title: "Stretch up"
   place: "Home"
   description: "Use the extra time that falls within working hours in your time zone to spend some time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
   service: true
