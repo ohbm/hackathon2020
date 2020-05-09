@@ -1,7 +1,7 @@
 $speaker-image-size: 40px;
 $schedule-border: 1px solid #e7e7e7;
-$title-font-size: 25px;
-$label-width: 100px;
+$title-font-size: 15px;
+$label-width: 250px;
 $small-label-width: 80px;
  .schedule {
     ul {
@@ -66,7 +66,7 @@ $small-label-width: 80px;
 }
 .track-header-label {
     position: absolute;
-    padding: 10px 15px 20px;
+    padding: 10px 15px 30px;
     width: $label-width;
     text-align: left;
     margin: 0;
@@ -119,9 +119,12 @@ $small-label-width: 80px;
 }
 .track-header-title {
     @extend .slot-title;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
 }
 .track-header-slot {
-    padding: 10px 15px 10px;
+    padding: 10px 15px 60px;
     text-align: left;
     transition: $base-transition;
     border-right: $schedule-border;
