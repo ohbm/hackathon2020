@@ -4,9 +4,11 @@
   {% for hub in site.data.volunteers %}
   <div class="content-wrapper">
 
-    <div class="col-lg-10 col-lg-offset-1 text-center">
+    <div class="col-lg-8 col-lg-offset-2">
 
         <h4 class="animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">{{ hub.name }}</h4>
+
+        <p class="text-justify animated hiding" data-animation="fadeInUp" data-delay="0">{{ hub.description }}</p>
 
         {% for teamMember in hub.team %} {% if teamMember.team != null %}
         <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
