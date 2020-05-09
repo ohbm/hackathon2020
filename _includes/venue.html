@@ -2,34 +2,45 @@
 <section id="venue">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+
             <h3>{{ site.venueBlockTitle }}</h3>
-            <div class="row venue-row">
-                <div class="col-md-8 col-sm-8 venue-col">
-                    <div class="venue-elem-wrapper">
-                        <div class="venue-elem image-section venue-big-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueBigImage }})"></div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 venue-col venue-small-col">
-                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>
-                    </div>
-                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem venue-small-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0">
-                            <h5>{{ site.venueTitle }}</h5>
-                            {% for feature in site.venueFeatures %}
-                            <p>{{ feature }}</p>
-                            {% endfor %}
-                        </div>
-                    </div>
-                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage2 }})"></div>
-                    </div>
-                    <div class="venue-elem-wrapper col-xs-6 visible-xs">
-                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})"></div>
-                    </div>
-                </div>
+
+            <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 venue-box" style="">
+
+                <p>All the events organized by the Open-Science Special Interest Group of OHBM will be virtual, so we won't meet in person in Montreal this year. But we want the venue page of this brainhack to reflect the beauty and the diversity of places and people that can be found on our planet.</p>
+
+                <p>We would very much like for every brainhack attendee to add to this page a picture related to:</p>
+
+                <ul>
+                  <li>their home town or home country,</li>
+                  <li>or the town or country they now live in,</li>
+                  <li>or a place on this planet dear to their heart.</li>
+                </ul>
+
+                <p>
+                  To do that you can follow the instruction in this <a href="#">issue</a> to guide you on how to make a pull request to this repository to add your image.</p>
+
             </div>
-        </div>
+
+            <div class="row venue-row">
+            {% for venue in site.data.venue %}
+            {% if forloop.index | modulo: 3 == 1%}
+                  <div class="col-md-4 venue-image">
+                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                  </div>
+            {% elsif forloop.index | modulo: 3 == 2%}
+                  <div class="col-md-4 col-md-offset-4 venue-image">
+                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                  </div>
+            {% elsif forloop.index | modulo: 3 == 0%}
+                  <div class="col-md-4 col-md-offset-8 venue-image">
+                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                  </div>
+
+            {% endif %}
+            {% endfor %}
+            </div>
+
     </div>
 </section>
 <!-- End Venue Section -->

@@ -29,7 +29,7 @@ organizerLogo: ""
 organizerLink: ""
 
 # Head
-metaKeywords: "brainhack, montreal, neuroscience, AI"
+metaKeywords: "brainhack, neuroscience, AI"
 twitterAccount: "@OhbmOpen"
 socialImageSrcGooglePlus: ""
 socialImageSrcTwitter: ""
@@ -52,6 +52,7 @@ navigationLinks:
  - {permalink: "/coc", text: "CoC"}
  - {permalink: "/FAQ", text: "FAQ"}
  - {permalink: "/sponsors", text: "Sponsors"}
+ - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
  - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
@@ -120,13 +121,8 @@ mapCenterCoordinates: "60.1877229, 24.8294535"
 mapMobileCenterCoordinates: "60.1877229, 24.8294535"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBlockTitle: "The third planet from the Sun"
+venueBigImage: "city_lights_namerica_8k_cropped.jpg"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
