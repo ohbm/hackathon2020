@@ -1,74 +1,164 @@
+# Dummy
 -
-  id: 100
-  title: "Registration & breakfast"
-  place: ""
+  id: 999
+  title: " "
+  place: " "
   service: true
+  description: " "
+
+
+# 000 Breaks, socials and that sort of things
+
+-
+  id: 000
+  title: "Coffee / Breakfast / Lunch"
+  place: "Breakout room"
+  service: true
+  description: "Join if you feel like"
+-
+  id: 001
+  title: "Social / Coffee / Food break"
+  place: "Breakout room"
   description: "The best time to start talking with others"
+  service: true
+-
+  id: 002
+  title: "Social / Coffee / Food break + Unconference !!!"
+  place: "Crowdcast"
+  description: "The best time to start talking with others"
+  service: true
+
+
+# Intro, wrap up, project pitches
+
 -
   id: 101
-  title: "Welcome + Intro"
-  place: ""
+  title: "Welcome"
+  place: "Crowdcast"
   service: true
   description: ""
 -
   id: 102
-  title: "Mingling + Project Pitches"
-  place: ""
+  title: "Project Pitches"
+  place: "Crowdcast"
   service: true
-  description: ""
+  description: "Project leaders have 2 minutes to describe their project."
 -
   id: 103
-  title: "Lunch break"
-  place: "Dining room"
-  description: ""
+  title: "Project Q&A"
+  place: "Crowdcast"
   service: true
+  description: "All the attendees can go and meet the project leaders in their video breakout room to talk with thelm about the project."
 -
   id: 104
-  title: "Hacking"
-  place: ""
-  description: ""
+  title: "Project kickoff"
+  place: "Crowdcast"
   service: true
+  description: "The first time all the project team 'gathers around a table', discuss how they want to work together and how to get started."
 
 -
   id: 105
-  title: "ReproNim"
-  place: ""
-  description: "ReproNim: Reproducibility Basics"
+  title: "Daily intro and presentation of the Traintrack"
+  place: "Crowdcast"
   service: true
+  description: ""
+
 -
   id: 106
-  title: "BIDS"
-  place: ""
-  description: "Intro to Brain Imaging Data Structure"
+  title: "Daily wrap-up"
+  place: "Crowdcast"
   service: true
+  description: ""
+
 -
   id: 107
-  title: "Git/GitHub"
-  place: ""
-  description: ""
+  title: "Final wrap-up"
+  place: "Crowdcast"
+  service: true
+  description: "We all get together to hear what was accomplished in the past 3 days."
+
+
+# Hacking... More hacking
+-
+  id: 201
+  title: "Hacking"
+  place: "Home"
+  description: "Don't say 'hackathon' but say 'hack at home'"
+  service: true
+
+
+# Traintrack...
+-
+  id: 301
+  title: "Git - GitHub"
+  place: "Crowdcast"
+  description: "Learn to version control your code and to work collaboratively with others wherever they are."
   service: true
 -
-  id: 108
-  title: "Unconference"
-  description: ""
-  speakers: []
--
-  id: 002
-  title: "Ignite Talks"
-  description: "Ignite talks are 5 minutes (exactly 5 minutes!) presentations where each presenter will pitch the audience for a method or an idea to be used in the hackathon part"
-  speakers: [12, 13, 14, 15, 16, 17, 18]
--
-  id: 003
-  title: "Hackathon"
-  description: "Ideas, methods, and datasets presented in the ignite talks will be hacked together by smaller groups of participants."
+  id: 302
+  title: "Good coding practices with matlab"
+  place: "Crowdcast"
+  description: "Learn to trust your own code so sharing it feels less scary."
   service: true
 -
-  id: 004
-  title: "Hackathon wrap up"
-  description: "Small informal presentations from each hackathon project"
+  id: 303
+  title: "Good coding practices with python"
+  place: "Crowdcast"
+  description: "Learn to trust your own code so sharing it feels less scary."
   service: true
 -
-  id: 005
-  title: "Brainhack never stops"
-  description: "Who wants to stay is free to do so. Brainhack global continues for 4 more days with broadcasts from other brainhack locations."
+  id: 304
+  title: "Brain Imaging Data Structure"
+  place: "Crowdcast"
+  description: "How to organize your data, so you will never hate your past 'self' ever again. "
+  service: true
+-
+  id: 305
+  title: "Brain visualization"
+  place: "Crowdcast"
+  description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain. It is an informative and efficient way to represent our data and results, which follows the scientific principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize the data, display the results, communicate the information, as well as change the way we perceive the world. The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization, and make the brain visualization novel, creative, aesthetic and fun to the community."
+  service: true
+-
+  id: 306
+  title: "Docker / Singularity"
+  place: "Crowdcast"
+  description: "Mody dock and a black hole walk into a bar."
+  service: true
+-
+  id: 307
+  title: "BIDS apps"
+  place: "Crowdcast"
+  description: "Have BIDS, will travel..."
+  service: true
+-
+  id: 308
+  title: "Jupyter notebook"
+  place: "Crowdcast"
+  description: "..."
+  service: true
+-
+  id: 309
+  title: "Nilearn / Sklearn"
+  place: "Crowdcast"
+  description: "..."
+  service: true
+-
+  id: 310
+  title: "Datalad"
+  place: "Crowdcast"
+  description: "Version control applied to your data... and much more."
+  service: true
+
+# Asynchronous activities...
+-
+  id: 401
+  title: "Go and explore"
+  place: "Home"
+  description: "Use the extra time that falls within working hours in your time zone to spend some time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
+  service: true
+
+- id: 402
+  title: "Stretch up"
+  place: "Home"
+  description: "Use the extra time that falls within working hours in your time zone to spend some time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
   service: true
