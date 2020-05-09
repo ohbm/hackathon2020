@@ -12,7 +12,7 @@ exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "OHBM BrainHack 2020"
 email: ""
-description: "OHBM Brainhack June 23-25th, 2020. Organized by the OHBM Open Science SIG."
+description: "OHBM Brainhack June 16-18th, 2020. Organized by the OHBM Open Science SIG."
 baseurl: "/hackathon2020"
 url: "https://ohbm.github.io/hackathon2020"
 permalink: "/blog/:title"
@@ -61,19 +61,19 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "mtl_photo.jpg"
 heroTitle: "OHBM Brainhack <typeout>"
-eventDate: "June 23-25th 2020"
-typeoutTextValues: '"June 23-25th, 2020", "Third planet from the sun", ""'
+eventDate: "June 16-18th 2020"
+typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
-heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
+# heroButtons:
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
 
 # About Block
 aboutTitle: "About OHBM BrainHack 2020"
 aboutBlock:
- - {title: "Share Ideas", image: "share.png", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
- - {title: "Build Projects", image: "code.png", text: "Try the presented tools on provided data or bring your own tools/data!" }
- - {title: "Be social", image: "community.png", text: "Get to meet and socialize with people from all over the world!"}
- - {title: "Learn Tools", image: "learn.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
+ - {title: "Share Ideas", image: "undraw/undraw_share_link_qtxe.png", text: "Share your research and curiosity with other neuroimaging and computer science researchers."}
+ - {title: "Build Projects", image: "undraw/undraw_code_typing_7jnv.png", text: "Try the presented tools on provided data or bring your own tools/data!" }
+ - {title: "Be social", image: "undraw/undraw_Connecting_Teams_8ntu.png", text: "Get to meet and socialize with people from all over the world!"}
+ - {title: "Learn Tools", image: "undraw/undraw_book_reading_kx9s.png", text: "Learn about brain imaging data and how to apply the latest computational tools to your data." }
 
 # Guests block
 # guestTitle: "Unconference talks"
@@ -211,9 +211,23 @@ discusShortName: "devfestua"
 # Speakers List Block
 showSessions: true
 
+
+# About Block 
+aboutBrainHack: "At the OHBM Brainhack members of the community gather to work collaboratively on common projects. 
+The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ 
+from typical academic conference in that attendees can actively take part in the program and co-learn from each other. 
+Thus, they will be actively trying to create something rather than passively attend. Although many hackathon projects 
+might involve coding, it is not a requirement and many projects can be done without coding skills."
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The OHBM Open Science SIG mission is to advance neuroimaging research by fostering the open sharing of ideas, data, and tools between members of the OHBM community. This will be accomplished by organizing educational events, supporting collaborative initiatives, and providing mentorship to junior researchers. In our first year, the SIG will focus on three contributions to the OHBM annual meeting: 1) organize a Hackathon to precede the annual meeting, 2) introduce the tools of open science by proposing a “Brainhacking 101” educational course, and 3) propose hands-on tutorials and collaborative Open Science projects during the OHBM conference."
+aboutUs: "The OHBM Open Science SIG mission is to advance neuroimaging research by fostering the open sharing of ideas, data, and tools between members of the OHBM community. This will be accomplished by organizing educational events, supporting collaborative initiatives, and providing mentorship to junior researchers.
+As with previous years, our three main contributions to the OHBM annual meetings are:
+<ol>
+<li>organizing a Hackathon to precede the annual meeting</li>
+<li>introducing the tools of open science via interactive tutorials as part of the TrainTrack</li>
+<li>facilitating collaborative work on a wide range of open science projects</li>
+</ol>
+<p class='text-justify'>This year the event is happening virtually, and we look forward to this opportunity to reach out to a larger and more diverse audience and to introduce a number of innovations that will enhance virtual collaborations!</p>"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
