@@ -43,7 +43,7 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#about/", text: "About"}
+ # - {permalink: "/#about/", text: "About"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/logistics", text: "Logistics"}
@@ -65,6 +65,8 @@ typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
 heroButtons:
  - {link: " ", text: "Register NOW!"}
+ - {link: " ", text: "Want to help?"}
+ - {link: "https://github.com/ohbm/hackathon2020/issues/new/choose", text: "Submit a project"}
 
 # About Block
 aboutTitle: "About OHBM BrainHack 2020"
@@ -196,7 +198,7 @@ aboutBrainHack:
 # Team Block
 teamBlockTitle: "About us"
 aboutUs:
-  
+
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
 findWayDistance: "Distance"
