@@ -1,30 +1,71 @@
 - hub:
   name: "Brainhack"
+  description: "The purpose of Brainhack is to bridge the data science and neuroscience research communities to advance the progress of brain science research. Brainhack is a unique conference that convenes researchers from across the globe and myriad disciplines to work together on innovative projects related to neuroscience. Year after year, global Brainhack events have brought together researchers to participate in open collaboration and regional Brainhack events keep the momentum going throughout the year."
   team:
     -
       id: 0
       name: "Anibal"
-      surname: " "
-      title: " "
-      location: "Texas, USA"
-      thumbnailUrl:
-      team: true
-      social:
-        - {name: "twitter", link: " "}
-        - {name: "github", link: " "}
-    -
-      id: 1
-      name: "Isil"
-      surname: ""
+      surname: "Sólon Heinsfeld"
       title: " "
       location: " "
       thumbnailUrl:
       team: true
       social:
-        - {name: "twitter", link: " "}
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+    -
+      id: 1
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      title: " "
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+    -
+      id: 2
+      name: "Cameron"
+      surname: "Craddock"
+      title: " "
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RCCraddock"}
+    -
+      id: 3
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      title: " "
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+    -
+      id: 4
+      name: "Peer"
+      surname: "Herholz"
+      title: " "
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/peerherholz"}
+    -
+      id: 5
+      name: "Jon"
+      surname: "Haitz Legarreta"
+      title: " "
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jhlegarreta"}
 
 - hub:
   name: "Hub Americas"
+  description:
   team:
     -
       id: 0
@@ -40,6 +81,7 @@
 
 - hub:
   name: "Hub Europe, Middle East & Africa"
+  description:
   team:
     -
       id: 0
@@ -54,7 +96,8 @@
         - {name: "github", link: "https://github.com/Remi-Gau"}
 
 - hub:
-  name: "Hub Asia & Pacific Oceania"
+  name: "Hub Asia & Pacific"
+  description:
   team:
     -
       id: 0
