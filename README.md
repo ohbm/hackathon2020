@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
+
 # OHBM 2020 Hackathon
 
 The [Open Science Special Interest Group](https://ossig.netlify.com/) is very happy to announce that the 8th Annual OHBM Hackathon will be held on June 23-25 in Montreal.
