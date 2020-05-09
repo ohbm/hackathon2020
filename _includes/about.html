@@ -7,21 +7,26 @@
 
           <h3>{{ site.aboutTitle }}</h3>
 
-          <div class="col-lg-7 col-lg-offset-1">
-
-              <p style="font-size: 24px; line-height: 200%;">At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ from typical academic conference in that attendees can actively take part in the program and co-learn from each other. Thus, they will be actively trying to create something rather than passively attend. Although many brainhack projects might involve coding, it is not a requirement and many projects can be done without coding skills.</p>
-
+          <div class="col-lg-4 col-lg-offset-1 about-text">
+              <p>At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ from typical academic conference in that attendees can actively take part in the program and co-learn from each other. Thus, they will be actively trying to create something rather than passively attend. Although many brainhack projects might involve coding, it is not a requirement and many projects can be done without coding skills.</p>
           </div>
 
+          <div class="col-lg-3 col-btn">
+            {% for button in site.heroButtons %}
+            <div class="btn-about">
+              <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            </div>
+            {% endfor %}
+          </div>
 
           <div class="col-lg-3">
 
             <figure>
-              <img src="/hackathon2020/img/brainhack_venn_diagram.png" width="90%" height="auto" alt="brainhack venn diagram"><br>
-                <figcaption style="font-size: 18px;">
-                  <b>Brainhack as a venn diagram, from <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Craddock et al (2016)</a></b>
-                </figcaption>
+              <img src="/hackathon2020/img/brainhack_venn_diagram.png" width="80%" height="auto" alt="brainhack venn diagram"><br>
 
+              <figcaption style="font-size: 18px;">
+                <b>Brainhack as a venn diagram, from <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Craddock et al (2016)</a></b>
+              </figcaption>
             </figure>
 
           </div>
@@ -30,9 +35,9 @@
         </div>
 
 
-        <div class="row about-details" style="margin-top:60px;">
+        <div class="row about-details">
 
-            <div class="col-lg-10 col-lg-offset-1">
+            <div class="col-lg-12">
 
             {% assign animationDelay = 0 %}
             {% for about in site.aboutBlock %}
