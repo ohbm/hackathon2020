@@ -40,19 +40,21 @@
       }
 
     }
-
     .faq-question {
-      .row {
-        .col-md {
-          h5 {
-            font-weight: 300;
-          }
-          p {
-            font-size: 24px;
-            text-align: left;
-            line-height: 200%;
+        h5 {
+          font-weight: 300;
+        }
+        p {
+          font-size: 22px;
+          line-height: 200%;
+          text-align: justify;
+        }
+        ul {
+          text-align: left;
+          li {
+              font-size: 22px;
+              margin-bottom: 10px;
           }
         }
-      }
     }
 }
