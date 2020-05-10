@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get ready for the first virtual OHBM Hackathon!
+title: Get ready for the first virtual OHBM brainhack!
 isStaticPost: true
 permalink: /logistics/
 image: schedule.jpg
@@ -11,11 +11,11 @@ image: schedule.jpg
 <img align="right" src="../img/undraw_connected_world_wuay.svg" alt="connected_world" width="40%">
 
 
-<h5 style="padding-top: 100px"><b>OHBM Hackathon Hubs</b></h5>
+<h5 style="padding-top: 100px"><b>OHBM brainhack Hubs</b></h5>
 
 {% accordion hackathonHubs %}
 {% collapse What are the hubs? %}
-In addition to this event being the first ever virtual OHBM hackathon, it will also be happening three times within a 24 hour window, across multiple time-zones. The goal here is to ensure that more people from around the world are able to join in during reasonable working hours for them.
+In addition to this event being the first ever virtual OHBM brainhack, it will also be happening three times within a 24 hour window, across multiple time-zones. The goal here is to ensure that more people from around the world are able to join in during reasonable working hours for them.
 * Americas Hub
 * Europe, Middle East, and Africa Hub
 * Asia and Pacific Hub
@@ -27,8 +27,8 @@ Some of the roles are selected by the OS-SIG while others are open to volunteers
 
 <h6 style="padding-top: 50px">Selected by the OS-SIG</h6>
 
-{% collapse Hackathon hub hosts %}
-Each hub has two hackathon hosts who welcome the participants during the kickoff and project pitches, moderate the unconferences, and liase with the other volunteers.
+{% collapse brainhack hub hosts %}
+Each hub has two brainhack hosts who welcome the participants during the kickoff and project pitches, moderate the unconferences, and liase with the other volunteers.
 {% endcollapse %}
 {% collapse Hub manager %}
 The hub manager makes sure that everything is running smoothly in the background!
@@ -43,13 +43,13 @@ The Youtube master ensures that all content is streamed to different platforms.
 <h6 style="padding-top: 50px">Open to volunteers</h6>
 
 {% collapse Project advisor %}
-In the weeks preceding the hackathon, project advisors will review submitted projects and make sure that they are set up following hackathon project setup guidelines. Then during the hackathon they can provide support and especially help project leaders who might feel a bit lost if it is their first time managing a team.
+In the weeks preceding the brainhack, project advisors will review submitted projects and make sure that they are set up following brainhack project setup guidelines. Then during the brainhack they can provide support and especially help project leaders who might feel a bit lost if it is their first time managing a team.
 {% endcollapse %}
-{% collapse Hackathon mentor %}
-You’ve already attended a hackathon, are keen in welcoming new members in the Brainhack community? As a hackathon mentor, you will make sure that your mentees have followed the participant onboarding, you will spend 1-hour a day with them to help with their on-boarding.
+{% collapse brainhack mentor %}
+You’ve already attended a brainhack, are keen in welcoming new members in the Brainhack community? As a brainhack mentor, you will make sure that your mentees have followed the participant onboarding, you will spend 1-hour a day with them to help with their on-boarding.
 {% endcollapse %}
 {% collapse Help desk %}
-Signup for the hackathon helpdesk and answer attendees technical questions. As a member of the helpdesk you will sign up for monitoring the helpdesk chat and answer any question.
+Signup for the brainhack helpdesk and answer attendees technical questions. As a member of the helpdesk you will sign up for monitoring the helpdesk chat and answer any question.
 {% endcollapse %}
 {% collapse Social breakout host %}
 Each hub will have a virtual room where people can go and chat, meet with people for their morning or afternoon coffee, lunch, or evening drinks. The social breakout host's role is keep the conversation going in a relaxed and inclusive atmosphere.
@@ -91,15 +91,15 @@ Each project will be using Zoom or Jitsi for their individual calls.
 As with previous OHBM hackathons, we've developed a project template that we would like project leads to use for submitting
 their project proposals.  
 {% collapse Project submission %}
-Each project is allocated to a project helper who will follow the project from submission until the end of the hackathon.
+Each project is allocated to a project helper who will follow the project from submission until the end of the brainhack.
 To make sure that project helpers have enough time to review project submissions, we're setting two deadlines:
-- 2 weeks before the hackathon: submit a draft for project helpers to give feedback on
-- 1 week before hackathon: hard deadline
+- 2 weeks before the brainhack: submit a draft for project helpers to give feedback on
+- 1 week before brainhack: hard deadline
 
 [**Project checklist**](https://docs.google.com/spreadsheets/d/1SY-Hnhc-bPX0RA47icVukUVVJ-BrX9ykPFQUBY-U1go/edit?usp=sharing): this is a spreadsheet to help the project helpers making sure that each project is on track and submitted everything.
 
 
-[**Github issue template**](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/hackathon-project-template.md): This will be the way to submit hackathon projects. It comes with a checklist to make sure that project leaders and participants can start in the best conditions.
+[**Github issue template**](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/hackathon-project-template.md): This will be the way to submit brainhack projects. It comes with a checklist to make sure that project leaders and participants can start in the best conditions.
 
 Once a project has been submitted the project helper can tag it using issue labels to make it easier to search amongst the different projects.
 
@@ -119,7 +119,7 @@ We will have a virtual help desk available to help participants with installatio
 {% collapse General computing requirements %}
 In addition to some software that we will list in the subsequent section, these are the general computing requirements:
 - Administrative access to your computer such that you can install software on your own.
-- If you're using Windows, the required version is the 64 bit version of Windows 10. Please contact us if you don't have either MacOS, Linux, or a Windows 10 64-bit machine. 
+- If you're using Windows, the required version is the 64 bit version of Windows 10. Please contact us if you don't have either MacOS, Linux, or a Windows 10 64-bit machine.
 {% endcollapse %}
 
 {% collapse Required software %}
@@ -149,7 +149,7 @@ Coming soon!
 
 All Ubuntu and other Linux distros come with Bash as the default shell, so no need to download it!
 Some versions of Linux may require that you type bash inside the terminal to access it. To verify if this is the case, follow
-these steps: 
+these steps:
 
 Open a terminal and type `echo $SHELL`. If it reads `/bin/bash` then you are all set! If it does not, then for all parts of the subsequent instructions, whenever the instructions read “open a terminal,” please assume you are to open a terminal, type bash, and the proceed with the instructions as specified.
 {% endcollapse %}
