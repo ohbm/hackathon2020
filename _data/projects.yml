@@ -9,7 +9,8 @@
 -
   title: "Your awesome project"
   image: whatever.png
-  details: "Tell us about what you want to achieve.<br>More information <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE>in this github issue</a>"
+  details: "Tell us about what you want to achieve.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE>in this github issue</a>"
 
 
 

@@ -112,7 +112,9 @@ Some examples:
 
 What different types of people could contribute?
 
-It is not all about coding. Are you interested in collaborating with someone with a good flair for good visualization? Someone with more experience who can make a good user interface? Someone who knows how to develop good, tidy and clear documentation ?
+It is not all about coding. Are you interested in collaborating with someone with a good flair for
+good visualization? Someone with more experience who can make a good user interface? Someone who
+knows how to develop good, tidy and clear documentation ?
 
 ### Participant capacity
 
@@ -204,13 +206,16 @@ to communicate for your project, just mention it here.
 
 ### Video calls
 
-To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) / google hangouts or some similar service so you can interact live with all project members wherever they are.
+To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use
+zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) /
+google hangouts or some similar service so you can interact live with all project members wherever they are.
 
 ### Suggested meeting time
 We recommend you have at least daily video meetings with your team members to organize things and
 keep track of progress.
 
-Try to suggest a time when meetings will happen. Of course this can then be changed and adapted if it turns out that most of the people who come to help you live in a completely different time zone from yours.
+Try to suggest a time when meetings will happen. Of course this can then be changed and adapted if it
+turns out that most of the people who come to help you live in a completely different time zone from yours.
 
 ### Code template to add
 
@@ -218,17 +223,22 @@ If you want to help us list your project on the hackathon website, you can paste
 and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can
 also provide an image for your project.
 
-If you want you can then open a pull-request to add this code in the [`_config.yml`](https://github.com/ohbm/hackathon2020/blob/master/_config.yml) file (section: `# Hackathon About Block`). If you no idea how to do this, don't worry: we are here to help. If you want to add an image to illustrate your project it should go in the [`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
+If you want you can then open a pull-request to add this code in the
+[`_data/project.yml`](https://github.com/ohbm/hackathon2020/blob/master/_data/project.yml)
+file. If you have no idea how to do this, don't worry: we are here
+to help.
 
-If you want to add an image to illustrate your project it should go in the `img/hackathon` folder.
+If you want to add an image to illustrate your project it should go in the
+[`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
 If you don't have any image you can use `whatever.png`
+
 
 ```
  -
    title: "PROJECT TITLE"
    image: IMAGE_FILENAME
-   details: "Tell us about what you want to achieve.
-   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE>in this github issue</a>"
+   details: "PROJECT DESCRIPTION.
+   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/ISSUE_NUMBER>in this github issue</a>"
 ```
 
 ## Project check-points
