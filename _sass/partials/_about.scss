@@ -8,6 +8,18 @@
   }
 }
 
+.about-video{
+  margin-bottom: 60px;
+  iframe{
+    width: 1120px;
+    height: 730px;
+    @media (max-width: 1200px) {
+      width: 560px;
+      height: 315px;
+    }
+  }
+}
+
 .about-cols{
   display: flex;
   align-items: stretch;
@@ -43,7 +55,7 @@ figure{
 }
 
 .about-details {
-  margin-top:60px;
+  margin-top: 60px;
   img {
       width: auto;
       height: 200px;
