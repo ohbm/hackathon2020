@@ -24,7 +24,7 @@ Make sure you at least provide the information for the `{REQUIRED}` in the list 
 -   [ ] Project description () {REQUIRED}
 -   [ ] URL to project repository or documents {REQUIRED}
 -   [ ] Goals: set up 2 `good first issues` issues {REQUIRED}
--   [ ] Coding and GIT skills required (if applicable) {REQUIRED}
+-   [ ] Coding and Git skills required (if applicable) {REQUIRED}
 -   [ ] Skills you are particularly looking for {REQUIRED}
 -   [ ] Project leaders names {REQUIRED}
 -   [ ] Project leaders time zones
@@ -80,7 +80,7 @@ If your project involves any code you will want to set up a GitHub or GitLab rep
 If your project does not involve any coding, simply add a link to the relevant documents
 (google docs or on the open science framework) you will be working on.
 
-[YourRepo](_insert_URL_here) with a [REAME.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing:
+[YourRepo](_insert_URL_here) with a [README.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing:
 -   project idea and context;
 -   installation guidelines if applicable;  
 -   links to further reading/tutorials;   
@@ -104,7 +104,7 @@ issues that describe the goals you would like to achieve in this brainhack.
 Some examples:
 -   implement a new feature for a package
 -   create a tutorial for a package
--   make a python version of your matlab based toolbox
+-   make a Python version of your Matlab based toolbox
 -   come up with a prototype of a standardized consent form that can be used by different labs
 -   create a fantastic list of neuroscience resources that will help generations of young researchers to come
 
@@ -112,9 +112,7 @@ Some examples:
 
 What different types of people could contribute?
 
-It is not all about coding. Are you interested in collaborating with someone with a
-good flair for good visualization? Someone with more experience who can makes a good user interface?
-Someone who knows how to develop good, tidy and clear documentation ?
+It is not all about coding. Are you interested in collaborating with someone with a good flair for good visualization? Someone with more experience who can make a good user interface? Someone who knows how to develop good, tidy and clear documentation ?
 
 ### Participant capacity
 
@@ -139,11 +137,11 @@ or use the table below
 
 | language          | level of expertise required   |
 |-------------------|-------------------------------|
-| python            | beginner / confirmed / expert |
-| javascript        | beginner / confirmed / expert |
+| Python            | beginner / confirmed / expert |
+| JavaScript        | beginner / confirmed / expert |
 | C++               | beginner / confirmed / expert |
-| java              | beginner / confirmed / expert |
-| unix command line | beginner / confirmed / expert |
+| Java              | beginner / confirmed / expert |
+| Unix command line | beginner / confirmed / expert |
 | other             | beginner / confirmed / expert |
 
 ### software specific sills
@@ -181,14 +179,14 @@ or use one of the tables below
 
 
 
-### GIT / GITHUB skills required
+### Git skills required
 
 | level   | description                                                                       |
 |---------|-----------------------------------------------------------------------------------|
-| GIT - 0 | no prior git knowledge                                                            |
-| GIT - 1 | can commit and push to a repository                                               |
-| GIT - 2 | comfortable working with branches and can do a pull request on another repository |
-| GIT - 3 | can work with continuous integration                                              |
+| Git - 0 | no prior Git knowledge                                                            |
+| Git - 1 | can commit and push to a repository                                               |
+| Git - 2 | comfortable working with branches and can do a pull request on another repository |
+| Git - 3 | can work with continuous integration                                              |
 
 ## Communication
 
@@ -206,16 +204,13 @@ to communicate for your project, just mention it here.
 
 ### Video calls
 
-To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use
-zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop)
-/ google hangout or some similar service so you can interact live with all project members wherever they are.
+To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) / google hangouts or some similar service so you can interact live with all project members wherever they are.
 
 ### Suggested meeting time
 We recommend you have at least daily video meetings with your team members to organize things and
 keep track of progress.
 
-Try to suggest a time when meetings will happen. Of course this can then be changed and adapted if
-it turns out that most of the people who come to help you live on a completely different time zone from yours.
+Try to suggest a time when meetings will happen. Of course this can then be changed and adapted if it turns out that most of the people who come to help you live in a completely different time zone from yours.
 
 ### Code template to add
 
@@ -223,8 +218,7 @@ If you want to help us list your project on the hackathon website, you can paste
 and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can
 also provide an image for your project.
 
-If you want you can then open a pull-request to add this code in the `_data/project.yml` file.
-If you no idea how to do this, don't worry: we are here to help.
+If you want you can then open a pull-request to add this code in the [`_config.yml`](https://github.com/ohbm/hackathon2020/blob/master/_config.yml) file (section: `# Hackathon About Block`). If you no idea how to do this, don't worry: we are here to help. If you want to add an image to illustrate your project it should go in the [`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
 
 If you want to add an image to illustrate your project it should go in the `img/hackathon` folder.
 If you don't have any image you can use `whatever.png`
