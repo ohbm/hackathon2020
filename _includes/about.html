@@ -7,31 +7,50 @@
 
           <h3>{{ site.aboutTitle }}</h3>
 
-          <div class="col-lg-4 col-lg-offset-1 about-text">
-              <p>At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ from typical academic conference in that attendees can actively take part in the program and co-learn from each other. Thus, they will be actively trying to create something rather than passively attend. Although many brainhack projects might involve coding, it is not a requirement and many projects can be done without coding skills.</p>
-          </div>
+          <div class="about-cols">
 
-          <div class="col-lg-3 col-btn">
-            {% for button in site.heroButtons %}
-            <div class="btn-about">
-              <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            <div class="col-lg-4 col-lg-offset-1 about-text about-col">
+                <p>At the OHBM Brainhack members of the community gather to work collaboratively on common projects.
+                  The event also features a TrainTrack in which tutorials on open science practices are provided.
+                  Hackathons differ from typical academic conference in that attendees can actively
+                  take part in the program and co-learn from each other. Thus, they will be actively
+                  trying to create something rather than passively attend. Although many brainhack
+                  projects might involve coding, it is not a "requirement and many projects can be
+                  done without coding skills.</p>
             </div>
-            {% endfor %}
+
+            <div class="col-lg-3 about-col">
+              {% for button in site.heroButtons %}
+                <a  class="btn btn-primary btn-about"
+                    href=" {% if button.permalink != null %}
+                            {{ button.permalink | prepend: site.baseurl }}
+                          {% else %}
+                            {{ button.link }}
+                          {% endif %}"
+                    {% if button.link != null %}
+                      target="_blank"
+                    {% endif %}>
+                    {{ button.text }}</a>
+              {% endfor %}
+            </div>
+
+            <div class="col-lg-3 about-col">
+              <figure>
+
+                <img  src="/hackathon2020/img/brainhack_venn_diagram.png"
+                      alt="brainhack venn diagram"><br>
+
+                <figcaption>
+                  <b>Brainhack as a venn diagram, from
+                    <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">
+                      Craddock et al (2016)</a></b>
+                </figcaption>
+
+              </figure>
+            </div>
+
           </div>
-
-          <div class="col-lg-3">
-
-            <figure>
-              <img src="/hackathon2020/img/brainhack_venn_diagram.png" width="80%" height="auto" alt="brainhack venn diagram"><br>
-
-              <figcaption style="font-size: 18px;">
-                <b>Brainhack as a venn diagram, from <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Craddock et al (2016)</a></b>
-              </figcaption>
-            </figure>
-
-          </div>
-
-
+          
         </div>
 
 
@@ -44,9 +63,13 @@
             <!-- {% assign colWidth = 12 | divided_by: forloop.length %} -->
             {% assign colWidth = 12 | divided_by: 4 %}
             <div class="col-md-{{ colWidth }} col-xs-6">
-                <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                <div class="animated hiding"
+                      data-animation="fadeInDown"
+                      data-delay="{{ animationDelay }}">
                     <h5>{{ about.title }}</h5>
-                    <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" alt="{{ about.title }}">
+                    <img  class="img-circle"
+                          src="{{ site.baseurl }}/img/about-section/{{ about.image }}"
+                          alt="{{ about.title }}">
                     <p>{{ about.text }}</p>
                 </div>
             </div>
