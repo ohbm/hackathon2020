@@ -105,7 +105,7 @@
       id: 0
       name: "Liza"
       surname: "Levitis"
-      title: "Hackathon Co-host"
+      title: "Brainhack Co-host"
       location: "Montreal, Canada"
       thumbnailUrl: liza_levitis.jpg
       team: true
@@ -121,7 +121,7 @@
       id: 0
       name: "Remi"
       surname: "Gau"
-      title: "Hackathon Co-host"
+      title: "Brainhack Co-host"
       location: "Brussels, Belgium"
       thumbnailUrl: remi_gau.jpg
       team: true
@@ -137,7 +137,7 @@
       id: 0
       name: "Angela"
       surname: "Tam"
-      title: "Hackathon Co-host"
+      title: "Brainhack Co-host"
       location: " "
       thumbnailUrl:
       team: true
@@ -147,7 +147,7 @@
       id: 1
       name: "Chao-Gan"
       surname: "Yan"
-      title: "Hackathon Co-host"
+      title: "Brainhack Co-host"
       location: " "
       thumbnailUrl:
       team: true
