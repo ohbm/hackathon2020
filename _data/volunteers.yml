@@ -69,10 +69,10 @@
         - {name: "twitter", link: "https://twitter.com/peerherholz"}
     -
       id: 5
-      name: "Jon"
-      surname: "Haitz Legarreta"
-      location: " "
-      thumbnailUrl:
+      name: "Jon Haitz"
+      surname: "Legarreta Gorroño"
+      location: "Sherbrooke, Canada"
+      thumbnailUrl: jhlegarreta.jpg
       team: true
       social:
         - {name: "github", link: "https://github.com/jhlegarreta"}
