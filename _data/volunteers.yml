@@ -1,6 +1,16 @@
 # -------------------------------------------------------------------------------------------------#
+# TEMPLATE
 # -------------------------------------------------------------------------------------------------#
-#  pictures should be added in the img/team folder
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
 # -------------------------------------------------------------------------------------------------#
 # -------------------------------------------------------------------------------------------------#
 - hub:
@@ -11,7 +21,6 @@
       id: 0
       name: "Anibal"
       surname: "Sólon Heinsfeld"
-      title: " "
       location: " "
       thumbnailUrl:
       team: true
@@ -21,7 +30,6 @@
       id: 1
       name: "Isil"
       surname: "Poyraz Bilgin"
-      title: " "
       location: " "
       thumbnailUrl:
       team: true
@@ -31,7 +39,6 @@
       id: 2
       name: "Cameron"
       surname: "Craddock"
-      title: " "
       location: " "
       thumbnailUrl:
       team: true
@@ -41,7 +48,6 @@
       id: 3
       name: "Sofie"
       surname: "Van Den Bossche"
-      title: " "
       location: " "
       thumbnailUrl:
       team: true
@@ -51,7 +57,6 @@
       id: 4
       name: "Peer"
       surname: "Herholz"
-      title: " "
       location: " "
       thumbnailUrl:
       team: true
@@ -61,12 +66,31 @@
       id: 5
       name: "Jon"
       surname: "Haitz Legarreta"
-      title: " "
       location: " "
       thumbnailUrl:
       team: true
       social:
         - {name: "github", link: "https://github.com/jhlegarreta"}
+
+
+
+# -------------------------------------------------------------------------------------------------#
+# TEMPLATE
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+
 
 - hub:
   name: "Hub Americas"
