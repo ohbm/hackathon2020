@@ -53,7 +53,7 @@ Because projects will be coordinated across several time zones, it is important 
 -   UTC-1
 -   Timbuktu UTC-0
 -   London UTC+1
--   Berlin UTC+2
+-   Berlin, Brussels UTC+2
 -   Moscow UTC+3
 -   New Delhi UTC+3.5
 -   Yekaterinburg
@@ -106,7 +106,7 @@ Some examples:
 
 What different types of people could contribute?
 
-It is not all about coding. Are you interested in collaborating with someone with a good flair for good visualization? Someone with more experience who can make a good user interface? Someone who knows how to develop good, tidy and clear documentation ?
+It is not all about coding. Are you interested in collaborating with someone with a good flair for good visualization? Someone with more experience who can make a good user interface? Someone who knows how to develop good, tidy, and clear documentation ?
 
 ### Participant capacity
 
@@ -157,6 +157,7 @@ or use one of the tables below
 
 | software   | level of expertise required   |
 |------------|-------------------------------|
+| FieldTrip  | beginner / confirmed / expert |
 | Brainstorm | beginner / confirmed / expert |
 | other      | beginner / confirmed / expert |
 
@@ -185,7 +186,10 @@ or use one of the tables below
 
 Add a link to the communication channel for your project.
 
-You can, for example, create a mattermost channel for your project inside the [brainhack mattermost](https://mattermost.brainhack.org/), and include a Mattermost badge <a href="https://mattermost.brainhack.org/"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px /> to invite people to the brainhack mattermost, where they can then find and join your channel.
+You can, for example, create a mattermost channel for your project inside the [brainhack mattermost](https://mattermost.brainhack.org/), and include a mattermost badge 
+<a href="https://mattermost.brainhack.org/">
+  <img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px>
+</a> to invite people to the brainhack mattermost, where they can then find and join your channel.
 
 If you already have a [slack]() workspace or are using [gitter]() or [discord]() or any other platform to communicate for your project, just mention it here.
 
@@ -202,7 +206,7 @@ Try to suggest a time when meetings will happen. Of course this can then be chan
 
 If you want to help us list your project on the hackathon website, you can paste your `PROJECT TITLE` and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can also provide an image for your project.
 
-If you want you can then open a pull-request to add this code in the [`_config.yml`](https://github.com/ohbm/hackathon2020/blob/master/_config.yml) file (section: `# Hackathon About Block`). If you no idea how to do this, don't worry: we are here to help. If you want to add an image to illustrate your project it should go in the [`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
+If you want you can then open a pull-request to add this code in the [`_config.yml`](https://github.com/ohbm/hackathon2020/blob/master/_config.yml) file (section: `# Hackathon About Block`). If you have no idea how to do this, don't worry: we are here to help. If you want to add an image to illustrate your project it should go in the [`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
 
 ```
 - {title: "PROJECT TITLE", image: "IMAGE_FILENAME", details: "PROJECT DESCRIPTION <br> More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"}
@@ -215,7 +219,7 @@ Tweet content for project pitch
 ```
 Problem / Goal
 Repo URL
-Project leader twitter handle
+Project leader Twitter handle
 #OHBMHackathon #Brainhack #OHBM2020
 ```
 ### Day 1: summary
