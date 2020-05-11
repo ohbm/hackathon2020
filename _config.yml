@@ -47,7 +47,7 @@ navigationLinks:
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/logistics", text: "Logistics"}
- - {permalink: "/hackathon", text: "Hackathon"}
+ - {permalink: "/hackathon", text: "HackTrack"}
  - {permalink: "/team", text: "Team"}
  - {permalink: "/coc", text: "CoC"}
  - {permalink: "/FAQ", text: "FAQ"}
@@ -192,12 +192,12 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://ossig.netlify.com/", text: "OHBM Open Science SIG"}
-   - {link: "https://www.brainhack.org/", text: "Brainhack"}
+   - {link: "https://www.brainhack.org/", text: "Brainhack global"}
  -
   title: "Organizers and contacts"
   links:
-   - {link: "https://twitter.com/LevitisLiza", text: "Liza Levitis (Hackathon Co-chair)"}
-   - {link: "https://twitter.com/RemiGau", text: "Remi Gau (Hackathon Co-chair)"}
+   - {link: "https://twitter.com/LevitisLiza", text: "Liza Levitis (Brainhack Co-chair)"}
+   - {link: "https://twitter.com/RemiGau", text: "Remi Gau (Brainhack Co-chair)"}
    - {link: "mailto:ossig2019@inria.fr", text: "ossig2019@inria.fr."}
  -
   title: "Resources"
@@ -214,11 +214,11 @@ discusShortName: "devfestua"
 showSessions: true
 
 
-# About Block 
-aboutBrainHack: "At the OHBM Brainhack members of the community gather to work collaboratively on common projects. 
-The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ 
-from typical academic conference in that attendees can actively take part in the program and co-learn from each other. 
-Thus, they will be actively trying to create something rather than passively attend. Although many hackathon projects 
+# About Block
+aboutBrainHack: "At the OHBM Brainhack members of the community gather to work collaboratively on common projects.
+The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ
+from typical academic conference in that attendees can actively take part in the program and co-learn from each other.
+Thus, they will be actively trying to create something rather than passively attend. Although many hackathon projects
 might involve coding, it is not a requirement and many projects can be done without coding skills."
 # Team Block
 teamBlockTitle: "About us"
@@ -248,8 +248,6 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Montreal"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The Pierre Elliot Trudeau (YUL) airport is about 30 minutes driving from the Old Port.'}
- - {title: "Public Transit", information: 'Google Transit is available in Montreal. Google maps is great for getting around, and the Transit app is handy for checking bus times if you choose to take public transportation. your way in Google Maps.'}
- - {title: "Lodging", information: 'For easy commuting to the Old Port, we recommend staying in an airbnb or hotel either in the Old Port, Griffintown, Downtown, or the Plateau.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -268,11 +266,11 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
 
 # Hackathon
-hackathonTitle: "Hackathon"
+hackathonTitle: "HackTrack"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Hackathon projects"
+aboutHackathonTitle: "HackTrack projects"
 hackathonRows:
  - {title: "Automated Cortical Lesion Detection using Python Tools", image: "brain_lesion.png", details: "More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."}
  - {title: "Multi-table PCA methods for group and individual functional connectivity", image: "matrix.png", details: "C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference for Neuroimaging in R. The C stands generally for connectivity, but specifically and statistically: covariance or correlation. The C-MARINeR project aims to develop and distribute an R package and ShinyApp. Together, R + Shiny allows for ease of use and, hopefully, simpler exploration of such complex data, and quicker adoption of the techniques. <br> More info here: <a href=https://github.com/jennyrieck/C-MARINeR>https://github.com/jennyrieck/C-MARINeR</a>."}
