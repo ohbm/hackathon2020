@@ -231,9 +231,6 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "HackTrack projects"
 hackathonRows:
- - {title: "Automated Cortical Lesion Detection using Python Tools", image: "brain_lesion.png", details: "More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."}
- - {title: "Multi-table PCA methods for group and individual functional connectivity", image: "matrix.png", details: "C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference for Neuroimaging in R. The C stands generally for connectivity, but specifically and statistically: covariance or correlation. The C-MARINeR project aims to develop and distribute an R package and ShinyApp. Together, R + Shiny allows for ease of use and, hopefully, simpler exploration of such complex data, and quicker adoption of the techniques. <br> More info here: <a href=https://github.com/jennyrieck/C-MARINeR>https://github.com/jennyrieck/C-MARINeR</a>."}
- - {title: "Bring your own method/data", image: "whatever.png", details: "The three methods suggested above are just a starting point. If a group of participants wants to work on something else, this is of course possible. We have also prepare some data to use the methods above, but if you have your own data, please bring it with you and try to hack it with the methods presented."}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"

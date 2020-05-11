@@ -8,7 +8,9 @@ assignees: ''
 
 ---
 
-We have prepared a checklist to help you submit your project. You don't have to have checked all of those to open the issue. If you are confused about what to do, simply keep all the content below and open an issue with the name of your project: our team will help you finalize all the steps.
+We have prepared a checklist to help you submit your project. You don't have to have checked all of
+those to open the issue. If you are confused about what to do, simply keep all the content below and
+open an issue with the name of your project: our team will help you finalize all the steps.
 
 If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).
 
@@ -41,7 +43,8 @@ Main idea and context.
 
 ### Project leaders
 
-Because projects will be coordinated across several time zones, it is important to identify the project leaders and their time zones.
+Because projects will be coordinated across several time zones, it is important to identify
+the project leaders and their time zones.
 
 -   Fairbanks UTC-8
 -   Los Angeles UTC-7
@@ -71,9 +74,11 @@ Because projects will be coordinated across several time zones, it is important 
 
 ### Link to your repository
 
-If your project involves any code you will want to set up a GitHub or GitLab repository for it (if you don't have one already).
+If your project involves any code you will want to set up a GitHub or GitLab repository for it
+(if you don't have one already).
 
-If your project does not involve any coding, simply add a link to the relevant documents (google docs or on the open science framework) you will be working on.
+If your project does not involve any coding, simply add a link to the relevant documents
+(google docs or on the open science framework) you will be working on.
 
 [YourRepo](_insert_URL_here) with a [README.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing:
 -   project idea and context;
@@ -93,7 +98,8 @@ For some other projects it could be a set of **SMART** goals:
 -   Relevant (reasonable, realistic and resourced, results-based).
 -   Time bound (time-based, time limited, time/cost limited, timely, time-sensitive).
 
-If you have set up a repository for your code, we will ask you to open at least 2 `good first issues` issues that describe the goals you would like to achieve in this brainhack.
+If you have set up a repository for your code, we will ask you to open at least 2 `good first issues`
+issues that describe the goals you would like to achieve in this brainhack.
 
 Some examples:
 -   implement a new feature for a package
@@ -106,17 +112,22 @@ Some examples:
 
 What different types of people could contribute?
 
-It is not all about coding. Are you interested in collaborating with someone with a good flair for good visualization? Someone with more experience who can make a good user interface? Someone who knows how to develop good, tidy, and clear documentation ?
+It is not all about coding. Are you interested in collaborating with someone with a good flair for
+good visualization? Someone with more experience who can make a good user interface? Someone who
+knows how to develop good, tidy and clear documentation ?
 
 ### Participant capacity
 
-As a project leader it is important that you do not overstretch yourself. Try to estimate the maximum number of people you would be comfortable having on your team.
+As a project leader it is important that you do not overstretch yourself.
+Try to estimate the maximum number of people you would be comfortable having on your team.
 
 ### Integration
 
-How would your project integrate a physicist/imager/clinician/psychologist/computational scientist/maker/artist/lawyer as a collaborator?
+How would your project integrate a physicist/imager/clinician/psychologist/computational
+scientist/maker/artist/lawyer as a collaborator?
 
-You can check the Mozilla Open Leadership material on [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
+You can check the Mozilla Open Leadership material on
+[personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
 
 ### Crediting contribution
 
@@ -186,30 +197,50 @@ or use one of the tables below
 
 Add a link to the communication channel for your project.
 
-You can, for example, create a mattermost channel for your project inside the [brainhack mattermost](https://mattermost.brainhack.org/), and include a mattermost badge 
+You can, for example, create a mattermost channel for your project inside the
+[brainhack mattermost](https://mattermost.brainhack.org/), and include a mattermost badge
 <a href="https://mattermost.brainhack.org/">
   <img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px>
 </a> to invite people to the brainhack mattermost, where they can then find and join your channel.
 
-If you already have a [slack]() workspace or are using [gitter]() or [discord]() or any other platform to communicate for your project, just mention it here.
+If you already have a [slack]() workspace or are using [gitter]() or [discord]() or any other platform
+to communicate for your project, just mention it here.
 
 ### Video calls
 
-To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) / google hangouts or some similar service so you can interact live with all project members wherever they are.
+To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use
+zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) /
+google hangouts or some similar service so you can interact live with all project members wherever they are.
 
 ### Suggested meeting time
-We recommend you have at least daily video meetings with your team members to organize things and keep track of progress.
+We recommend you have at least daily video meetings with your team members to organize things and
+keep track of progress.
 
-Try to suggest a time when meetings will happen. Of course this can then be changed and adapted if it turns out that most of the people who come to help you live in a completely different time zone from yours.
+Try to suggest a time when meetings will happen. Of course this can then be changed and adapted if it
+turns out that most of the people who come to help you live in a completely different time zone from yours.
 
 ### Code template to add
 
-If you want to help us list your project on the hackathon website, you can paste your `PROJECT TITLE` and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can also provide an image for your project.
+If you want to help us list your project on the hackathon website, you can paste your `PROJECT TITLE`
+and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet of code below. You can
+also provide an image for your project.
 
-If you want you can then open a pull-request to add this code in the [`_config.yml`](https://github.com/ohbm/hackathon2020/blob/master/_config.yml) file (section: `# Hackathon About Block`). If you have no idea how to do this, don't worry: we are here to help. If you want to add an image to illustrate your project it should go in the [`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
+If you want you can then open a pull-request to add this code in the
+[`_data/project.yml`](https://github.com/ohbm/hackathon2020/blob/master/_data/project.yml)
+file. If you have no idea how to do this, don't worry: we are here
+to help.
+
+If you want to add an image to illustrate your project it should go in the
+[`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
+If you don't have any image you can use `whatever.png`
+
 
 ```
-- {title: "PROJECT TITLE", image: "IMAGE_FILENAME", details: "PROJECT DESCRIPTION <br> More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"}
+ -
+   title: "PROJECT TITLE"
+   image: IMAGE_FILENAME
+   details: "PROJECT DESCRIPTION.
+   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/ISSUE_NUMBER>in this github issue</a>"
 ```
 
 ## Project check-points
