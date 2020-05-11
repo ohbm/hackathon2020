@@ -186,7 +186,10 @@ or use one of the tables below
 
 Add a link to the communication channel for your project.
 
-You can, for example, create a mattermost channel for your project inside the [brainhack mattermost](https://mattermost.brainhack.org/), and include a mattermost badge <a href="https://mattermost.brainhack.org/"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px /a> to invite people to the brainhack mattermost, where they can then find and join your channel.
+You can, for example, create a mattermost channel for your project inside the [brainhack mattermost](https://mattermost.brainhack.org/), and include a mattermost badge 
+<a href="https://mattermost.brainhack.org/">
+  <img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px>
+</a> to invite people to the brainhack mattermost, where they can then find and join your channel.
 
 If you already have a [slack]() workspace or are using [gitter]() or [discord]() or any other platform to communicate for your project, just mention it here.
 
