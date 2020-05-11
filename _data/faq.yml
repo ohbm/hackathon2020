@@ -70,7 +70,7 @@
   group: "If you are attending the OHBM brainhack"
   questions:
     - {question: "May I submit a project? ", answer: "Yes.<br>
-    Anyone registered to the hackathon can submit a project to the project pool.
+    Anyone registered to the brainhack can submit a project to the project pool.
     It might be either a project you are already working on and would like help with or a completely
     new project you would like to start.<br>
     However to keep things to a manageable size we have decided to limit the number of projects to
@@ -100,10 +100,10 @@
     a draft submission 2 weeks before so that our project advisors have time to guide you through
     the project set up."}
 
-    - {question: "How do I join a project at a hackathon? ", answer: "In the weeks leading up to the
-    hackathon, project leaders will submit a description of their project. The projects will be
+    - {question: "How do I join a project? ", answer: "In the weeks leading up to the
+    brainhack, project leaders will submit a description of their project. The projects will be
     listed on a GitHub repository and on the website. So you can start having a look at what projects
-    are lined up and think about which one you want to join. Then at the hackathon each project leader
+    are lined up and think about which one you want to join. Then at the brainhack each project leader
     has to pitch his project at the beginning of the event. Then there will be some time for you to chat
     with the project leaders before you 'decide' which projects to join. But it is a very flexible thing:
       if you are interested in different projects and want to do a bit of both: it is OK."}
