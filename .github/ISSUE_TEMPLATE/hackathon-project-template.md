@@ -56,7 +56,7 @@ the project leaders and their time zones.
 -   UTC-1
 -   Timbuktu UTC-0
 -   London UTC+1
--   Berlin UTC+2
+-   Berlin, Brussels UTC+2
 -   Moscow UTC+3
 -   New Delhi UTC+3.5
 -   Yekaterinburg
@@ -168,6 +168,7 @@ or use one of the tables below
 
 | software   | level of expertise required   |
 |------------|-------------------------------|
+| FieldTrip  | beginner / confirmed / expert |
 | Brainstorm | beginner / confirmed / expert |
 | other      | beginner / confirmed / expert |
 
@@ -196,6 +197,10 @@ or use one of the tables below
 
 Add a link to the communication channel for your project.
 
+You can, for example, create a mattermost channel for your project inside the [brainhack mattermost](https://mattermost.brainhack.org/), and include a mattermost badge 
+<a href="https://mattermost.brainhack.org/">
+  <img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px>
+</a> to invite people to the brainhack mattermost, where they can then find and join your channel.
 You can, for example, create a mattermost channel for your project inside the
 [brainhack mattermost](https://mattermost.brainhack.org/), and include a Mattermost badge
 <a href="https://mattermost.brainhack.org/"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px />
@@ -248,7 +253,7 @@ Tweet content for project pitch
 ```
 Problem / Goal
 Repo URL
-Project leader twitter handle
+Project leader Twitter handle
 #OHBMHackathon #Brainhack #OHBM2020
 ```
 ### Day 1: summary
