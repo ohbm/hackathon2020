@@ -1,0 +1,51 @@
+<!-- Begin FAQ Section -->
+<section id="faq" class="faq">
+    <div class="content-wrapper">
+        <div class="col-sm-10 col-sm-offset-1">
+
+            <!-- Begin table of content -->
+            <div class="container faq-TOC">
+
+              {% for section in site.data.faq %}
+                <div class="row">
+                  <h4> {{ section.group }} </h4>
+                  <ul>
+                    {% for question in section.questions %}
+                      <li>
+                        <a href="#{{ section.group }} {{ forloop.index }}">{{ question.question }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endfor %}
+
+            </div>
+            <!-- End table of content -->
+
+
+            {% for section in site.data.faq %}
+            <!-- Begin FAQ sub-section -->
+              <div class="container">
+                <div class="row faq-subsection">
+                  <h4>{{ section.group }}</h4>
+                </div>
+
+              {% for question in section.questions %}
+                <div class="row faq-question">
+
+                  <h5 id="{{ section.group }} {{ forloop.index }}">{{ question.question }}</h5>
+
+                  <p> {{ question.answer }} </p>
+
+                </div>
+              {% endfor %}
+
+              </div>
+            <!-- End FAQ sub-section -->
+            {% endfor %}
+
+        </div>
+
+    </div>
+</section>
+<!-- End FAQ Section -->
