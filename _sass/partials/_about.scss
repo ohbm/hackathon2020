@@ -2,8 +2,12 @@
   p{
     font-size: 24px;
     line-height: 200%;
+    text-align: justify;
     @media (max-width: 1700px) {
         font-size: 18px;
+    }
+    @media (max-width: 1200px) {
+        margin: 20px;
     }
   }
 }
@@ -45,6 +49,7 @@
 figure{
   margin: auto;
   img{
+    max-width: 750px;
     width: 100%;
     height: auto;
     @media (max-width: 1200px) {
