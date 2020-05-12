@@ -5,33 +5,44 @@
     traditionally, it is an event where people gather to collaboratively work on projects over the
     course of multiple days."}
 
-    - {question: "Who can participate in a hackathon?", answer: "Anyone.<br>
+    - {question: "Who can participate in a hackathon?", answer: "Everyone!<br>
     Hackathons have traditionally been more attended by those with programming experience; however,
-    do not fear if you have little to no programming experience. There is more than one way to
-    contibute and many of those do not involve coding: e.g a project getting very early feedback
-    from its potential target user can save a lot of time in the long run.<br>
-    We are very committed to creating an atmosphere where newcomers who have never attended a hackathon
-    before feel welcome. We want to make sure that you not only have the opportunity to learn new
-    open-science skills in the traintrack that will help your future work but that you also get the
-    chance to directly practice some of those skills by joining and collaborating on a hacktrack project."}
+    but please consider joining if you have little to no programming experience: there is more than
+    one way to contribute and we need your skills! Many of those do not involve coding: e.g a project
+    getting very early feedback from its potential target user can save a lot of time in the
+    long run.<br>
+    We are also very committed to creating an atmosphere where newcomers who have never attended a
+    hackathon before feel welcome. We want to make sure that you not only have the opportunity to
+    learn new open-science skills in the <b>TrainTrack</b> that will help your future work but that you
+    also get the chance to directly practice some of those skills by joining and collaborating on
+    a <b>HackTrack</b> project."}
 
     - {question: "Why should I participate in a hackathon?", answer: "Hackathons are a great way to
-    learn new skills that will be useful in your every day work as a researcher. It is also a very
-    good way to meet, collaborate and exchange best practices with members of the community."}
+    learn new skills that will be useful in your every day work as a researcher. Beyond that,
+    hackathons are also an opportunity to meet, collaborate and exchange best practices with members
+    of the community."}
 -
   group: "OHBM brainhack"
   questions:
-    - {question: "What is the OHBM brainhack?", answer: "OHBM Brainhacks are hackathons for students,
-    engineers, medical doctors and researchers who work with MRI, PET, EEG, and MEG to come together
-    to learn and collaborate. The OHBM Brainhacks have 2 components: a traintrack which is a series
-    of workshops, tutorials and demos where you can learn new skills and a hacktrack where you can
-    propose a project you need help with, or help others with their project."}
+    - {question: "What is the OHBM brainhack?", answer: "The OHBM Brainhack is the hackathon
+    facilitated by the OHBM Open Science Special Interest Group (OS-SIG). Those events typically
+    gather students, engineers, medical doctors and researchers in brain research to learn and
+    collaborate. The event usually takes place the 3 days preceding the annual OHBM meeting.<br>
+    An OHBM Brainhack has 2 components: a <b>TrainTrack</b> which is a series of workshops, tutorials and
+    demos where you can learn new skills and a <b>HackTrack</b> where you can propose a project you need
+    help with, or help others with their project.<br>
+    Some of you might have heard about “hackathons” in which teams compete to achieve a predefined
+    goal; sometimes by working extreme hours for a couple of days. The Brainhack hackathons instead
+    strive for collaboration, co-learning and inclusivity. We design those events so that everyone
+    can join and 24 hour availability is not a requirement."}
 
     - {question: "When is the OHBM brainhack?", answer: "The OHBM brainhack will be happening from
-    the 16th to the 18th of June."}
+    the 16th to the 18th of June, 2020."}
 
     - {question: "Do I need to register for the OHBM conference to attend the OHBM brainhack?", answer: "No.<br>
-    The main conference and the brainhack are separate events and you can choose to register only to the brainhack.<br>
+    The main OHBM conference and the brainhack are separate events and you can choose to
+    <a href='https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979' target='_blank'>register</a>
+    only to the brainhack.<br>
     You do not need to be an OHBM member to register and the price of registration will be the same whether
     you are an OHBM member or not."}
 
@@ -42,24 +53,25 @@
     answer: "The open-science special interest group of OHBM wants to rise to the challenge we
     are all facing and create a decentralized online event to foster global engagement and
     collaboration across time zones and geographical boundaries. For 3 days, no matter where
-    you are on the planet, there will be traintrack sessions happening where you can learn new
-    things and hacktrack projects that you can join."}
+    you are on the planet, there will be TrainTrack sessions happening where you can learn new
+    things and HackTrack projects that you can join."}
 
     - {question: "Why will there be several hubs?", answer: "While anyone around the world can join
-    an online event, we wanted to make it easier for people to join during typical working hours. "}
+    an online event, it is very important for us that everyone can attend during typical working
+    hours."}
 
     - {question: "Who is running the OHBM brainhack?", answer: "The OHBM Brainhack is organized and
     run by the open-science special interest group (the OS SIG) of OHBM with support from many volunteers
     in the OHBM community. We are in particular very grateful for the help of the Brainhack Global team
-    that has been involved in organizing the Brainhack global events in the previous years.<br>
-    All of this is also made possible by a team of volunteers (graduate students, post-docs, researchers,
-    and professors) that are involved in research in neurosciences in various institutions all around the world."}
+    that has been involved in organizing the Brainhack global events in the previous years."}
 
     - {question: "How can we contact the OHBM brainhack team?", answer: "If you want to get in touch, you can:
     <ul>
     <li> <a href='https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon' target='_blank'>
     Join the OHBM hackathon channel on our mattermost discussion forum </a> </li>
     <li> Follow us on <a href='https://twitter.com/OhbmOpen'  target='_blank'>twitter </a> </li>
+    <li> If you have a specific question about the event, you can reach out to us
+    <a href='mailto:ossig2019@inria.fr'>here</a> </li>.
     </ul>"}
 
     - {question: "What are 'brainhack mentors'?", answer: "A brainhack is very different from a
@@ -77,8 +89,9 @@
     25 projects per hub."}
 
     - {question: "Do I have to submit a project?", answer: "No.<br>
-    You can if you want, but you can register and attend the Brainhack to only follow the traintrack
-    and / or help an existing project."}
+    You can if you want, but you can
+    <a href='https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979' target='_blank'>register</a>
+    and attend the Brainhack to follow the TrainTrack and / or participate to an existing project."}
 
     - {question: "Does my project have to involve computer programming?", answer: "No.<br>
     It is true that a lot of Brainhack projects involve some coding but this is not always the case.<br>
@@ -89,11 +102,17 @@
     In our opinion, any project facilitating collaboration, openness, and reproducibility within
     the open-neuroscience community is welcome."}
 
-    - {question: "How do I submit a project? ", answer: "First please register to the Brainhack.
-    Instructions on how to submit a project will be sent to all participants. Then you will have to
-     provide certain pieces of information about your project. They are described
-     <a href='https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/hackathon-project-template.md' target='_blank'>here</a>
-     and a project advisor will help you get everything set up."}
+    - {question: "How do I submit a project? ", answer: "First please
+    <a href='https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979' target='_blank'>register</a>
+    to the Brainhack.<br>
+    You can then submit a project
+    <a href='https://github.com/ohbm/hackathon2020/issues/new/choose' target='_blank'>here</a>.
+    We will ask you to provide some information about your project in order to advertise it and
+    help onboarding new members. If you have any question on the way of submitting your project,
+    a dedicated advisor will be here to guide you.<br>
+    Depending on the topic of your submitted project, our project advisor might recommend that you
+    check out another submitted project and possibly merge. In order to keep things to a manageable
+    size, we are hoping to limit the number of projects to 25 projects per hub."}
 
     - {question: "What is the deadline for project submission?", answer: "We will close project
     submission one week before the brainhack starts (on the 8th of June), but we recommend you send
@@ -102,11 +121,13 @@
 
     - {question: "How do I join a project? ", answer: "In the weeks leading up to the
     brainhack, project leaders will submit a description of their project. The projects will be
-    listed on a GitHub repository and on the website. So you can start having a look at what projects
+    listed on <a href='https://github.com/ohbm/hackathon2020/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+project%22'
+    target='_blank'>on the GitHub repository</a> and <a href='https://ohbm.github.io/hackathon2020/hackathon/'
+    target='_blank'>on the website</a>. So you can start having a look at what projects
     are lined up and think about which one you want to join. Then at the brainhack each project leader
     has to pitch his project at the beginning of the event. Then there will be some time for you to chat
     with the project leaders before you 'decide' which projects to join. But it is a very flexible thing:
-      if you are interested in different projects and want to do a bit of both: it is OK."}
+    if you are interested in different projects and want to do a bit of both: it is OK."}
 
     - {question: "Can I help the OHBM brainhack team in any way?", answer: "Yes.<br>
     We have listed the different roles that we will need help with on the ‘hub structure’ section of
@@ -129,7 +150,6 @@
     <li> Completing the web <a href='https://www.humanbrainmapping.org/i4a/forms/index.cfm?id=129&pageid=3915&showTitle=1&widgetPreview=0&page_version='
     target='_blank'>form</a> described above.</li>
     </ul>"}
-
 
     - {question: "What is the background picture on the OHBM brainhack website landing page?",
     answer: "This is Montreal where the OHBM brainhack should have happened. We decided to keep the picture:
