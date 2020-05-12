@@ -1,12 +1,13 @@
 -
   group: "General sponsors"
   elements:
-    - {name: "OHBM", description: "OHBM", link: "https://www.ohbmbrainmappingblog.com/", imageUrl: "ohbm_logo.jpeg"}
-    - {name: "INCF", description: "INCF", link: "https://www.incf.org/", imageUrl: "incfLogo.jpeg"}
+    - {name: "OHBM", description: "Organization for Human Brain Mapping", link: "https://www.ohbmbrainmappingblog.com/", imageUrl: "ohbm_logo.jpeg"}
+    - {name: "INCF", description: "International Neuroinformatics Coordinating Facility", link: "https://www.incf.org/", imageUrl: "incfLogo.jpeg"}
     - {name: "openNeuro", description: "openNeuro", link: "https://openneuro.org/", imageUrl: "OpenNeuro_Logo.png"}
-    - {name: "QBIN", description: "QBIN", link: "https://www.rbiq-qbin.qc.ca/Accueil", imageUrl: "QBIN_logo.png"}
+   # - {name: "QBIN", description: "QBIN", link: "https://www.rbiq-qbin.qc.ca/Accueil", imageUrl: "QBIN_logo.png"}
     - {name: "Child mind institute", description: "Child mind institute", link: "https://childmind.org/", imageUrl: "child_mind_institute.png"}
     - {name: "Ludmer center", description: "Ludmer center", link: "http://ludmercentre.ca/", imageUrl: "ludmer_center.png"}
+    - {name: "CONP", description: "Canadian Open Neuroscience Platform", link: "https://conp.ca/", imageUrl: "conp.png"}
 -
   group: "With the support of"
   elements:
