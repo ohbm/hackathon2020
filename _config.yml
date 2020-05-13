@@ -43,10 +43,10 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#about/", text: "About"}
+ # - {permalink: "/#about/", text: "About"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule", text: "Schedule"}
- - {permalink: "/logistics", text: "Logistics"}
+ #- {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/hackathon", text: "HackTrack"}
  - {permalink: "/team", text: "Team"}
  - {permalink: "/coc", text: "CoC"}
@@ -55,9 +55,9 @@ navigationLinks:
  - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
- - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
 rightNavigationButtons:
- - {link: "https://www.youtube.com/watch?v=ZsCGEQzLSbQ", text: "Recordings of the unconference talks"}
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
 
 # Hero Block
 heroImage: "mtl_photo.jpg"
@@ -65,8 +65,10 @@ heroTitle: "OHBM Brainhack <typeout>"
 eventDate: "June 16-18th 2020"
 typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
-# heroButtons:
-#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8l68UAClcdXHwl27UuUI5yHHBDuu-LtUulFTuNKRL70j_mw/viewform", text: "Help us design the TrainTrack!"}
+heroButtons:
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
+ - {link: "https://github.com/ohbm/hackathon2020/issues/new/choose", text: "Submit a project"}
+ # - {link: " ", text: "Want to help?"}
 
 # About Block
 aboutTitle: "About OHBM BrainHack 2020"
@@ -156,32 +158,6 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
@@ -215,21 +191,11 @@ showSessions: true
 
 
 # About Block
-aboutBrainHack: "At the OHBM Brainhack members of the community gather to work collaboratively on common projects.
-The event also features a TrainTrack in which tutorials on open science practices are provided. Hackathons differ
-from typical academic conference in that attendees can actively take part in the program and co-learn from each other.
-Thus, they will be actively trying to create something rather than passively attend. Although many hackathon projects
-might involve coding, it is not a requirement and many projects can be done without coding skills."
+aboutBrainHack:
+
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The OHBM Open Science SIG mission is to advance neuroimaging research by fostering the open sharing of ideas, data, and tools between members of the OHBM community. This will be accomplished by organizing educational events, supporting collaborative initiatives, and providing mentorship to junior researchers.
-As with previous years, our three main contributions to the OHBM annual meetings are:
-<ol>
-<li>organizing a Hackathon to precede the annual meeting</li>
-<li>introducing the tools of open science via interactive tutorials as part of the TrainTrack</li>
-<li>facilitating collaborative work on a wide range of open science projects</li>
-</ol>
-<p class='text-justify'>This year the event is happening virtually, and we look forward to this opportunity to reach out to a larger and more diverse audience and to introduce a number of innovations that will enhance virtual collaborations!</p>"
+aboutUs:
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -256,14 +222,7 @@ directionDetailsWideCards:
     title: "Hotels"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+
 
 # Hackathon
 hackathonTitle: "HackTrack"
@@ -272,9 +231,6 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "HackTrack projects"
 hackathonRows:
- - {title: "Automated Cortical Lesion Detection using Python Tools", image: "brain_lesion.png", details: "More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."}
- - {title: "Multi-table PCA methods for group and individual functional connectivity", image: "matrix.png", details: "C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference for Neuroimaging in R. The C stands generally for connectivity, but specifically and statistically: covariance or correlation. The C-MARINeR project aims to develop and distribute an R package and ShinyApp. Together, R + Shiny allows for ease of use and, hopefully, simpler exploration of such complex data, and quicker adoption of the techniques. <br> More info here: <a href=https://github.com/jennyrieck/C-MARINeR>https://github.com/jennyrieck/C-MARINeR</a>."}
- - {title: "Bring your own method/data", image: "whatever.png", details: "The three methods suggested above are just a starting point. If a group of participants wants to work on something else, this is of course possible. We have also prepare some data to use the methods above, but if you have your own data, please bring it with you and try to hack it with the methods presented."}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -284,8 +240,6 @@ judgesTitle: "Judges"
 prizesTitle: "Prizes"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
