@@ -7,9 +7,13 @@
 
             <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 venue-box" style="">
 
-                <p>All the events organized by the Open-Science Special Interest Group of OHBM will be virtual, so we won't meet in person in Montreal this year. But we want the venue page of this brainhack to reflect the beauty and the diversity of places and people that can be found on our planet.</p>
+                <p>All the events organized by the Open-Science Special Interest Group of OHBM will
+                  be virtual, so we won't meet in person in Montreal this year. But we want the venue
+                  page of this brainhack to reflect the beauty and the diversity of places and people
+                  that can be found on our planet.</p>
 
-                <p>We would very much like for every brainhack attendee to add to this page a picture related to:</p>
+                <p>We would very much like for every brainhack attendee to add to this page a
+                  picture related to:</p>
 
                 <ul>
                   <li>their home town or home country,</li>
@@ -18,7 +22,8 @@
                 </ul>
 
                 <p>
-                  To do that you can follow the instruction in this <a href="#">issue</a> to guide you on how to make a pull request to this repository to add your image.</p>
+                  To do that you can follow the instruction in this <a href="#">issue</a> to guide
+                  you on how to make a pull request to this repository to add your image.</p>
 
             </div>
 
@@ -26,15 +31,23 @@
             {% for venue in site.data.venue %}
             {% if forloop.index | modulo: 3 == 1%}
                   <div class="col-md-4 venue-image">
-                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding"
+                      data-animation="fadeIn" data-delay="150"
+                      style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
                   </div>
             {% elsif forloop.index | modulo: 3 == 2%}
                   <div class="col-md-4 col-md-offset-4 venue-image">
-                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding"
+                      data-animation="fadeIn"
+                      data-delay="150"
+                      style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
                   </div>
             {% elsif forloop.index | modulo: 3 == 0%}
                   <div class="col-md-4 col-md-offset-8 venue-image">
-                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
+                      <div class="venue-elem image-section venue-small-elem venue-img animated hiding"
+                      data-animation="fadeIn"
+                      data-delay="150"
+                      style="background-image: url({{ site.baseurl }}/img/venue/{{ venue.image }})"></div>
                   </div>
 
             {% endif %}
