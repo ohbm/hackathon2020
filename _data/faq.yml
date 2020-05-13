@@ -41,7 +41,7 @@
 
     - {question: "Do I need to register for the OHBM conference to attend the OHBM brainhack?", answer: "No.<br>
     The main OHBM conference and the brainhack are separate events and you can choose to
-    <a href='https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979' target='_blank'>register</a>
+    <a href='http://www.humanbrainmapping.org/HackathonReg/' target='_blank'>register</a>
     only to the brainhack.<br>
     You do not need to be an OHBM member to register and the price of registration will be the same whether
     you are an OHBM member or not."}
@@ -90,7 +90,7 @@
 
     - {question: "Do I have to submit a project?", answer: "No.<br>
     You can if you want, but you can
-    <a href='https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979' target='_blank'>register</a>
+    <a href='http://www.humanbrainmapping.org/HackathonReg/' target='_blank'>register</a>
     and attend the Brainhack to follow the TrainTrack and / or participate to an existing project."}
 
     - {question: "Does my project have to involve computer programming?", answer: "No.<br>
@@ -103,7 +103,7 @@
     the open-neuroscience community is welcome."}
 
     - {question: "How do I submit a project? ", answer: "First please
-    <a href='https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979' target='_blank'>register</a>
+    <a href='http://www.humanbrainmapping.org/HackathonReg/' target='_blank'>register</a>
     to the Brainhack.<br>
     You can then submit a project
     <a href='https://github.com/ohbm/hackathon2020/issues/new/choose' target='_blank'>here</a>.

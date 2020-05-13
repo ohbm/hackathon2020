@@ -55,9 +55,9 @@ navigationLinks:
  - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
- - {link: " ", text: "Register NOW!"}
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
 rightNavigationButtons:
- - {link: " ", text: "Register NOW!"}
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
 
 # Hero Block
 heroImage: "mtl_photo.jpg"
@@ -66,7 +66,7 @@ eventDate: "June 16-18th 2020"
 typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979", text: "Register NOW!"}
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
  - {link: "https://github.com/ohbm/hackathon2020/issues/new/choose", text: "Submit a project"}
  # - {link: " ", text: "Want to help?"}
 
