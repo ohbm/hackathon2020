@@ -10,7 +10,7 @@ assignees: ''
 
 Anyone registered to the OHBM brainhack can submit a project to the project pool.
 
-If you have not done so, you can register [here](https://framaforms.org/registration-for-ohbm-brainhack-step-12-1589173979).
+If you have not done so, you can register [here](http://www.humanbrainmapping.org/HackathonReg/).
 
 We have prepared a checklist to help you submit your project. You don't have to have checked all of
 those to open the issue. If you are confused about what to do, simply keep all the content below and
