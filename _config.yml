@@ -55,9 +55,9 @@ navigationLinks:
  - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
- - {link: " ", text: "Register NOW!"}
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
 rightNavigationButtons:
- - {link: " ", text: "Register NOW!"}
+ - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
 
 # Hero Block
 heroImage: "mtl_photo.jpg"
