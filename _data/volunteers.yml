@@ -1,0 +1,155 @@
+# -------------------------------------------------------------------------------------------------#
+# TEMPLATE
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+- hub:
+  name: "Brainhack"
+  description: "The purpose of Brainhack is to bridge the data science and neuroscience research
+  communities to advance the progress of brain science research. Brainhack is a unique conference
+  that convenes researchers from across the globe and myriad disciplines to work together on innovative
+  projects related to neuroscience. Year after year, global Brainhack events have brought together
+  researchers to participate in open collaboration and regional Brainhack events keep the momentum
+  going throughout the year."
+  team:
+    -
+      id: 0
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+    -
+      id: 1
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+    -
+      id: 2
+      name: "Cameron"
+      surname: "Craddock"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RCCraddock"}
+    -
+      id: 3
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+    -
+      id: 4
+      name: "Peer"
+      surname: "Herholz"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/peerherholz"}
+    -
+      id: 5
+      name: "Jon Haitz"
+      surname: "Legarreta Gorroño"
+      location: "Sherbrooke, Canada"
+      thumbnailUrl: jhlegarreta.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jhlegarreta"}
+
+
+
+# -------------------------------------------------------------------------------------------------#
+# TEMPLATE
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+
+
+- hub:
+  name: "Hub Americas"
+  description:
+  team:
+    -
+      id: 0
+      name: "Liza"
+      surname: "Levitis"
+      title: "Brainhack Co-host"
+      location: "Montreal, Canada"
+      thumbnailUrl: liza_levitis.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
+        - {name: "github", link: "https://github.com/llevitis"}
+
+- hub:
+  name: "Hub Europe, Middle East & Africa"
+  description:
+  team:
+    -
+      id: 0
+      name: "Remi"
+      surname: "Gau"
+      title: "Brainhack Co-host"
+      location: "Brussels, Belgium"
+      thumbnailUrl: remi_gau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RemiGau"}
+        - {name: "github", link: "https://github.com/Remi-Gau"}
+
+- hub:
+  name: "Hub Asia & Pacific"
+  description:
+  team:
+    -
+      id: 0
+      name: "Angela"
+      surname: "Tam"
+      title: "Brainhack Co-host"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: ""}
+    -
+      id: 1
+      name: "Chao-Gan"
+      surname: "Yan"
+      title: "Brainhack Co-host"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: ""}

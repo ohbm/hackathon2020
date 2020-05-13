@@ -48,13 +48,15 @@
   title: "Project Q&A"
   place: "Crowdcast"
   service: true
-  description: "All the attendees can go and meet the project leaders in their video breakout room to talk with thelm about the project."
+  description: "All the attendees can go and meet the project leaders in their video breakout room
+  to talk with thelm about the project."
 -
   id: 104
   title: "Project kickoff"
   place: "Crowdcast"
   service: true
-  description: "The first time all the project team 'gathers around a table', discuss how they want to work together and how to get started."
+  description: "The first time all the project team 'gathers around a table', discuss how they want
+  to work together and how to get started."
 
 -
   id: 105
@@ -92,7 +94,8 @@
   id: 301
   title: "Git - GitHub"
   place: "Crowdcast"
-  description: "Learn to version control your code and to work collaboratively with others wherever they are."
+  description: "Learn to version control your code and to work collaboratively with others
+  wherever they are."
   service: true
 -
   id: 302
@@ -116,7 +119,12 @@
   id: 305
   title: "Brain visualization"
   place: "Crowdcast"
-  description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain. It is an informative and efficient way to represent our data and results, which follows the scientific principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize the data, display the results, communicate the information, as well as change the way we perceive the world. The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization, and make the brain visualization novel, creative, aesthetic and fun to the community."
+  description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
+  It is an informative and efficient way to represent our data and results, which follows the scientific
+  principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize
+  the data, display the results, communicate the information, as well as change the way we perceive the world.
+  The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
+  and make the brain visualization novel, creative, aesthetic and fun to the community."
   service: true
 -
   id: 306
@@ -154,11 +162,13 @@
   id: 401
   title: "Go and explore"
   place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
+  description: "Use the extra time that falls within working hours in your time zone to spend some
+  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
   service: true
 
 - id: 402
   title: "Stretch up"
   place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
+  description: "Use the extra time that falls within working hours in your time zone to spend some
+  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
   service: true
