@@ -27,7 +27,7 @@ assignees: ''
 
 **Project moderator**: *Your name and GitHub login, possibly more than 1*
 
-**Timezone**: *UTC offset of your timezone (cf. [here](https://www.timeanddate.com/time/map/) for example).*
+**[Timezone](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#timezone)**: *UTC offset of your timezone (cf. [here](https://www.timeanddate.com/time/map/) for example).*
 
 **Hub**: *Asia and Pacific / Europe, Middle East and Africa / The Americas based on location of project moderator. Possibly more than 1.*
 
@@ -36,10 +36,10 @@ assignees: ''
 ## Project submission checklist
 *Once the issue is submitted, please check items in this list as you add under 'Additional project info'*
 
--   [ ] Link to your project: could be a code repository, a shared document, etc. See [here]() {REQUIRED}
--   [ ] Goals for the OHBM Brainhack: describe what you want to achieve during this brainhack. See [here]().
--   [ ] Flesh out at least 2 "good first issues": those are tasks that do not require any prior knowledge about your project, could be defined as issues in a GitHub repository, or in a shared document {REQUIRED}
--   [ ] Skills: list skills that would be particularly suitable for your project. We ask you to include at least one non-coding skill.
+-   [ ] Link to your project: could be a code repository, a shared document, etc. See [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#link-to-project) {REQUIRED}
+-   [ ] Goals for the OHBM Brainhack: describe what you want to achieve during this brainhack. See [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#goals).
+-   [ ] Flesh out at least 2 "good first issues": those are tasks that do not require any prior knowledge about your project, could be defined as issues in a GitHub repository, or in a shared document, cf [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#onboarding-2-good-first-issues).
+-   [ ] Skills: list skills that would be particularly suitable for your project. We ask you to include at least one non-coding skill, cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#onboarding-skills).
 -   [ ] Chat channel: A link to a chat channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. We recommend using the [Brainhack space on mattermost](https://mattermost.brainhack.org/).
 -   [ ] Video channel: A link to a video channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. For instance a [jitsi meet](https://meet.jit.si/) room.
 
