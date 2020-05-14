@@ -40,18 +40,16 @@ assignees: ''
 -   [ ] Goals for the OHBM Brainhack: describe what you want to achieve during this brainhack. See [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#goals).
 -   [ ] Flesh out at least 2 "good first issues": those are tasks that do not require any prior knowledge about your project, could be defined as issues in a GitHub repository, or in a shared document, cf [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#onboarding-2-good-first-issues).
 -   [ ] Skills: list skills that would be particularly suitable for your project. We ask you to include at least one non-coding skill, cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#onboarding-skills).
--   [ ] Chat channel: A link to a chat channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. We recommend using the [Brainhack space on mattermost](https://mattermost.brainhack.org/).
--   [ ] Video channel: A link to a video channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. For instance a [jitsi meet](https://meet.jit.si/) room.
+-   [ ] Chat channel: A link to a chat channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. We recommend using the [Brainhack space on mattermost](https://mattermost.brainhack.org/), cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#chat).
+-   [ ] Video channel: A link to a video channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. For instance a [jitsi meet](https://meet.jit.si/) room, cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#video-calls).
 
 Optionnally, you can also include information about:
--   [ ] Number of participants
--   [ ] Twitter-size summary of your project pitch
+-   [ ] Number of participants, cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#participant-capacity)
+-   [ ] Twitter-size summary of your project pitch, cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#twitter-size-summary-of-your-project-pitch)
 -   [ ] Provide an image of your project for the OHBM brainhack website
--   [ ] Project snippet for the OHBM Brainhack website
+-   [ ] Project snippet for the OHBM Brainhack website, cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#project-snippet-for-the-ohbm-brainhack-website)
 
-We would like to think about how you will credit and onboarding new members to your project. We recommend reading this section that has some references. 
-
-Optionnally, you can also include information below about:
+We would like to think about how you will credit and onboarding new members to your project. We recommend reading references from [this section](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#credit-and-onboarding). If you'd like to share your thoughts with future project participants, you can include information about:
 -   [ ] Specify how will you acknowledge contributions (e.g. listing members on a contributing page).
 -   [ ] Provide links to onboarding documents if you have some.
 
