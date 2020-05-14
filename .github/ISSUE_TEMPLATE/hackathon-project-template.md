@@ -7,31 +7,39 @@ labels: ''
 assignees: ''
 
 ---
+*To submit a project, you need to be an attendee of the 2020 OHBM Brainhack. We ask you to register first over [here](http://www.humanbrainmapping.org/HackathonReg/). Thank you!*
 
-Anyone registered to the OHBM brainhack can submit a project to the project pool.
+*We are very excited to meet you at the 2020 OHBM Brainhack 🎉*
 
-If you have not done so, you can register [here](http://www.humanbrainmapping.org/HackathonReg/).
+*We have prepared a checklist to help with project submission. Here is how to proceed:*
+ 1. *Fill in the main information about your project below*
+ 2. *Submit this issue*
+ 3. *Check items in the checklist as you go through them*
+ 4. *Once you are done, please add a comment to say so and ping your project advisor (e.g. 'hi @<project-advisor-login> My project is ready!')*
 
-We have prepared a checklist to help you submit your project. You don't have to have checked all of
-those to open the issue. If you are confused about what to do, simply keep all the content below and
-open an issue with the name of your project: our team will help you finalize all the steps.
+*At any time, if you need help, simply add a comment and ping your project advisor (cf. top of this issue). Our team is here to help!*
 
-If you are confused about anything you can reach us on the `help - general` channel on the [brainhack mattermost](https://mattermost.brainhack.org/).
+----------------------------
+## Main project info
+*Please fill this in first and then submit the issue*
 
-You can also opt for the [google doc template](https://docs.google.com/document/d/11eyTp5m2odaraAeRHdWytlMOUW3Cwvu0nMaxCbf1cqo/edit?usp=sharing) version of project submission we have prepared.
+**Title**: *Name of your awesome project*
 
-**Project submission checklist**
+**Project moderator**: *Your name and GitHub login, possibly more than 1*
 
-Make sure you at least provide the information for the `{REQUIRED}` in the list below.
+**Timezone**: *UTC offset of your timezone to help with coordination across time zones (cf. [here](https://www.timeanddate.com/time/map/) for example).*
 
--   [ ] Project title () {REQUIRED}
--   [ ] Project description () {REQUIRED}
+**Hub**: *Asia and Pacific / Europe, Middle East and Africa / The Americas based on location of project moderator. Possibly more than 1.*
+
+**Description**: *Describe the main idea and context of your project in a few sentences.*
+
+## Project submission checklist
+*Once the issue is submitted, please check items in this list as you add under 'Additional project info'*
+
 -   [ ] URL to project repository or documents {REQUIRED}
 -   [ ] Goals: set up 2 `good first issues` issues {REQUIRED}
 -   [ ] Coding and Git skills required (if applicable) {REQUIRED}
 -   [ ] Skills you are particularly looking for {REQUIRED}
--   [ ] Project leaders names {REQUIRED}
--   [ ] Project leaders time zones
 -   [ ] Number of participants
 -   [ ] Prepare a contributor section on the project's repository or documents
 -   [ ] Chat channel
@@ -39,16 +47,15 @@ Make sure you at least provide the information for the `{REQUIRED}` in the list 
 -   [ ] Suggested daily meeting time
 -   [ ] Provide an image of your project for the OHBM brainhack website
 
-# Name of your awesome project
+## Additional project info
+**Link to project**: *This could be a Github repository, a shared document, etc.*
 
-## Project Description
 
-Main idea and context.
+
+
 
 ### Project leaders
 
-Because projects will be coordinated across several time zones, it is important to identify
-the project leaders and their time zones.
 
 -   Fairbanks UTC-8
 -   Los Angeles UTC-7
@@ -277,3 +284,5 @@ URL to project repo
 Images
 #OHBMHackathon #Brainhack #OHBM2020
 ```
+
+You can also opt for the [google doc template](https://docs.google.com/document/d/11eyTp5m2odaraAeRHdWytlMOUW3Cwvu0nMaxCbf1cqo/edit?usp=sharing) version of project submission we have prepared.
