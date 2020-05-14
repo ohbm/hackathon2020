@@ -27,7 +27,7 @@
       name: "Anibal"
       surname: "Sólon Heinsfeld"
       location: " "
-      thumbnailUrl:
+      thumbnailUrl: anibal_400x400.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/anibalsolon"}
@@ -36,7 +36,7 @@
       name: "Isil"
       surname: "Poyraz Bilgin"
       location: " "
-      thumbnailUrl:
+      thumbnailUrl: isil_400x400.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/complexbrains"}
@@ -45,7 +45,7 @@
       name: "Cameron"
       surname: "Craddock"
       location: " "
-      thumbnailUrl:
+      thumbnailUrl: cameron_400x400.png
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/RCCraddock"}
@@ -54,7 +54,7 @@
       name: "Sofie"
       surname: "Van Den Bossche"
       location: " "
-      thumbnailUrl:
+      thumbnailUrl: sofie_400x400.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
@@ -63,7 +63,7 @@
       name: "Peer"
       surname: "Herholz"
       location: " "
-      thumbnailUrl:
+      thumbnailUrl: peer_400x400.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/peerherholz"}
