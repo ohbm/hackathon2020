@@ -25,11 +25,11 @@ assignees: ''
 
 **Title**: *Name of your awesome project*
 
-**Project moderator**: *Your name and GitHub login, possibly more than 1*
+**Project lead**: *Your name and GitHub login, possibly more than 1 lead*
 
 **[Timezone](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#timezone)**: *UTC offset of your timezone (cf. [here](https://www.timeanddate.com/time/map/) for example).*
 
-**Hub**: *Asia and Pacific / Europe, Middle East and Africa / The Americas based on location of project moderator. Possibly more than 1.*
+**Hub**: *Asia and Pacific / Europe, Middle East and Africa / The Americas based on location of project lead. Possibly more than 1 hub.*
 
 **Description**: *Describe the main idea and context of your project in a few sentences.*
 
