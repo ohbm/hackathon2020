@@ -153,3 +153,13 @@
       team: true
       social:
         - {name: "twitter", link: ""}
+    -
+      id: 2
+      name: "Kelly "
+      surname: "Garner"
+      title: "Hub manager"
+      location: "Brisbane, Australia "
+      thumbnailUrl: kelly_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: ""}
