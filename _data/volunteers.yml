@@ -36,7 +36,7 @@
       name: "Isil"
       surname: "Poyraz Bilgin"
       location: " "
-      thumbnailUrl: isil_400x400.jpg
+      thumbnailUrl: isil_p.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/complexbrains"}
