@@ -49,7 +49,7 @@ Optionnally, you can also include information about:
 -   [ ] Provide an image of your project for the OHBM brainhack website
 -   [ ] Project snippet for the OHBM Brainhack website, cf. [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#project-snippet-for-the-ohbm-brainhack-website)
 
-We would like to think about how you will credit and onboarding new members to your project. We recommend reading references from [this section](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#credit-and-onboarding). If you'd like to share your thoughts with future project participants, you can include information about:
+We would like to think about how you will credit and onboard new members to your project. We recommend reading references from [this section](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#credit-and-onboarding). If you'd like to share your thoughts with future project participants, you can include information about:
 -   [ ] Specify how will you acknowledge contributions (e.g. listing members on a contributing page).
 -   [ ] Provide links to onboarding documents if you have some.
 
