@@ -138,8 +138,8 @@
       name: "Angela"
       surname: "Tam"
       title: "Brainhack Co-host"
-      location: " "
-      thumbnailUrl:
+      location: "Singapore"
+      thumbnailUrl: angela_tam.jpg
       team: true
       social:
         - {name: "twitter", link: ""}
