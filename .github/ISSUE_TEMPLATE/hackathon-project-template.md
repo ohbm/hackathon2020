@@ -76,13 +76,13 @@ We would like to think about how you will credit and onboard new members to your
 ## Reviews 
 
 ### Review checklist
-*Once your project is ready to review, we ask you to help us with reviewing other projects and identifying possible merge, please check items in this list as you add under 'Reviews'. We hope that this will be a way to learn about other projects and do appreciate your help!*
+*Once your project is ready to review, we ask you to help us with reviewing other projects and identifying possible merge, please check items in this list as you add under 'My reviews'. We hope that this will be a way to learn about other projects and do appreciate your help!*
 
 From the [list of projects that are ready for review](https://github.com/ohbm/hackathon2020/labels/Ready%20for%20review):
 -   [ ] Choose 2 projects. For each project, if you the submission checklist is correctly filled, please add a +1 under the main comment, if not please add a -1.
 -   [ ] Amongst the pool of projects (especially those from your hub), tell us which 3 projects are closest to your proposal and why.
 
-## Reviews
+### My reviews
 **2 projects I checked**: 
 
 **3 projects that are closest to my proposal and why:**
