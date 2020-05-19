@@ -17,7 +17,7 @@ assignees: ''
  3. *Check items in the checklist as you go through them*
  4. *Once you are done, please add a comment to say so and ping your project advisor (e.g. 'hi @<project-advisor-login> My project is ready!')*
 
-*At any time, if you need help, simply add a comment and ping your project advisor (cf. top of this issue). Our team is here to help!*
+*After step 2 (issue submitted), we will assign a 'project advisor' to your submission. If at any time you need help or anything is unclear, please add a comment and ping your project advisor. Our team is here to help!*
 
 ----------------------------
 ## Main project info
