@@ -14,8 +14,11 @@ assignees: ''
 *We have prepared a checklist to help with project submission. Here is how to proceed:*
  1. *Fill in the main information about your project below*
  2. *Submit this issue*
- 3. *Check items in the checklist as you go through them*
- 4. *Once you are done, please add a comment to say so and ping your project advisor (e.g. 'hi @<project-advisor-login> My project is ready!')*
+ 3. *Check items in the submission as you go through them*
+ 4. *Once you are done, please add a comment to say so and ping your project advisor (e.g. 'hi @<project-advisor-login> My project is ready for review!')*
+ 5. *Check items in the reviewing checklist as you go through them*
+  
+Thank you!
 
 *After step 2 (issue submitted), we will assign a 'project advisor' to your submission. If at any time you need help or anything is unclear, please add a comment and ping your project advisor. Our team is here to help!*
 
@@ -33,7 +36,9 @@ assignees: ''
 
 **Description**: *Describe the main idea and context of your project in a few sentences.*
 
-## Project submission checklist
+## Project submission 
+
+## Submission checklist
 *Once the issue is submitted, please check items in this list as you add under 'Additional project info'*
 
 -   [ ] Link to your project: could be a code repository, a shared document, etc. See [here](https://github.com/ohbm/hackathon2020/blob/project_tpl/.github/ISSUE_TEMPLATE/handbooks/projects.md#link-to-project) {REQUIRED}
@@ -68,11 +73,19 @@ We would like to think about how you will credit and onboard new members to your
 
 
 
+## Reviews 
 
+### Review checklist
+*Once your project is ready to review, we ask you to help us with reviewing other projects and identifying possible merge, please check items in this list as you add under 'Reviews'. We hope that this will be a way to learn about other projects and do appreciate your help!*
 
+From the [list of projects that are ready for review](https://github.com/ohbm/hackathon2020/labels/Ready%20for%20review):
+-   [ ] Choose 2 projects. For each project, if you the submission checklist is correctly filled, please add a +1 under the main comment, if not please add a -1.
+-   [ ] Amongst the pool of projects (especially those from your hub), tell us which 3 projects are closest to your proposal and why.
 
+## Reviewing info
+**2 projects I checked**: 
 
-
+**3 projects that are closest to my proposal**
 
 
 
