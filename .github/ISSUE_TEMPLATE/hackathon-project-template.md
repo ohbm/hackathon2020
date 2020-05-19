@@ -82,10 +82,10 @@ From the [list of projects that are ready for review](https://github.com/ohbm/ha
 -   [ ] Choose 2 projects. For each project, if you the submission checklist is correctly filled, please add a +1 under the main comment, if not please add a -1.
 -   [ ] Amongst the pool of projects (especially those from your hub), tell us which 3 projects are closest to your proposal and why.
 
-## Reviewing info
+## Reviews
 **2 projects I checked**: 
 
-**3 projects that are closest to my proposal**
+**3 projects that are closest to my proposal and why:**
 
 
 
