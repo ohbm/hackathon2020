@@ -11,9 +11,22 @@ image: schedule.jpg
 <img align="right" src="../img/undraw_connected_world_wuay.svg" alt="connected_world" width="40%">
 
 
-<h5 style="padding-top: 100px"><b>OHBM brainhack Hubs</b></h5>
+<h5 style="padding-top: 100px"><b>Time zones and hubs</b></h5>
 
 {% accordion hackathonHubs %}
+
+{% collapse Why have decided to have several hubs? %}
+A global online event has to find a good way to compromise on several things.
+
+1. We have to make sure that attendees can join without completely messing up their biological rhythm.
+2. We need to have the live broadcast of the event (kick off, pitches, wrap up, coffee/lunch room) and the TrainTrack happen when attendees are actually awake.
+
+The general idea is to have several places (hubs) that participate in the same global Brainhack, allowing us to partly tackle 
+the question of geographical inclusivity by allowing people to easily attend no matter where they are.
+
+Each hub follows the same internal structure with respect to platforms used for communication and volunteer roles. 
+
+{% endcollapse %}
 
 {% collapse What are the hubs? %}
 In addition to this event being the first ever virtual OHBM brainhack, it will also be happening three
@@ -25,8 +38,10 @@ from around the world are able to join in during reasonable working hours for th
 {% endcollapse %}
 
 {% collapse Hub structure and general organization %}
-In order for the event to run as smoothly as possible across all hubs, each hub will have a list of
-roles filled by volunteers.
+
+The event is decentralized across several "hubs" that span a set of time-zones. 
+In order for the event to run as smoothly as possible across all hubs, each hub will follow the same general schedule 
+and have various volunteer roles who help with the event.
 Some of the roles are selected by the OHBM Open-Science Special Interest Group (OSSIG) while others
 are open to volunteers.
 
