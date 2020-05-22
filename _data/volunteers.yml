@@ -5,87 +5,6 @@
     #   id: #number
     #   name: " "
     #   surname: " "
-    #   location: " "
-    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
-    #   team: true
-    #   social:
-    #     - {name: "github", link: "https://github.com/"}
-    #     - {name: "twitter", link: "https://twitter.com/"}
-# -------------------------------------------------------------------------------------------------#
-# -------------------------------------------------------------------------------------------------#
-- hub:
-  name: "Brainhack"
-  description: "The purpose of Brainhack is to bridge the data science and neuroscience research
-  communities to advance the progress of brain science research. Brainhack is a unique conference
-  that convenes researchers from across the globe and myriad disciplines to work together on innovative
-  projects related to neuroscience. Year after year, global Brainhack events have brought together
-  researchers to participate in open collaboration and regional Brainhack events keep the momentum
-  going throughout the year."
-  team:
-    -
-      id: 0
-      name: "Anibal"
-      surname: "Sólon Heinsfeld"
-      location: " "
-      thumbnailUrl: anibal_400x400.jpg
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
-    -
-      id: 1
-      name: "Isil"
-      surname: "Poyraz Bilgin"
-      location: " "
-      thumbnailUrl: isil_p.jpg
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/complexbrains"}
-    -
-      id: 2
-      name: "Cameron"
-      surname: "Craddock"
-      location: " "
-      thumbnailUrl: cameron_400x400.png
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/RCCraddock"}
-    -
-      id: 3
-      name: "Sofie"
-      surname: "Van Den Bossche"
-      location: " "
-      thumbnailUrl: sofie_400x400.jpg
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
-    -
-      id: 4
-      name: "Peer"
-      surname: "Herholz"
-      location: " "
-      thumbnailUrl: peer_400x400.jpg
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/peerherholz"}
-    -
-      id: 5
-      name: "Jon Haitz"
-      surname: "Legarreta Gorroño"
-      location: "Sherbrooke, Canada"
-      thumbnailUrl: jhlegarreta.jpg
-      team: true
-      social:
-        - {name: "github", link: "https://github.com/jhlegarreta"}
-
-
-
-# -------------------------------------------------------------------------------------------------#
-# TEMPLATE
-# -------------------------------------------------------------------------------------------------#
-    # -
-    #   id: #number
-    #   name: " "
-    #   surname: " "
     #   title: " "
     #   location: " "
     #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
@@ -95,39 +14,6 @@
     #     - {name: "twitter", link: "https://twitter.com/"}
 # -------------------------------------------------------------------------------------------------#
 # -------------------------------------------------------------------------------------------------#
-
-
-- hub:
-  name: "Hub Americas"
-  description:
-  team:
-    -
-      id: 0
-      name: "Liza"
-      surname: "Levitis"
-      title: "Brainhack Co-host"
-      location: "Montreal, Canada"
-      thumbnailUrl: liza_levitis.jpg
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
-        - {name: "github", link: "https://github.com/llevitis"}
-
-- hub:
-  name: "Hub Europe, Middle East & Africa"
-  description:
-  team:
-    -
-      id: 0
-      name: "Remi"
-      surname: "Gau"
-      title: "Brainhack Co-host"
-      location: "Brussels, Belgium"
-      thumbnailUrl: remi_gau.jpg
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/RemiGau"}
-        - {name: "github", link: "https://github.com/Remi-Gau"}
 
 - hub:
   name: "Hub Asia & Pacific"
@@ -155,11 +41,263 @@
         - {name: "twitter", link: ""}
     -
       id: 2
-      name: "Kelly "
+      name: "Kelly"
       surname: "Garner"
       title: "Hub manager"
       location: "Brisbane, Australia "
       thumbnailUrl: kelly_400x400.jpg
       team: true
       social:
+        - {name: "twitter", link: "https://twitter.com/garner_theory"}
+    -
+      id: 3
+      name: "Xiao"
+      surname: "Chen"
+      title: "Hub manager"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
         - {name: "twitter", link: ""}
+    -
+      id: 4
+      name: "Xue-Ying"
+      surname: "Li"
+      title: "Social media"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: ""}
+    -
+      id: 5
+      name: "Johanna"
+      surname: "Bayer"
+      title: "Social media"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+        - {name: "twitter", link: ""}
+
+- hub:
+  name: "Hub Europe, Middle East & Africa"
+  description:
+  team:
+    -
+      id: 0
+      name: "Remi"
+      surname: "Gau"
+      title: "Brainhack Co-host"
+      location: "Brussels, Belgium"
+      thumbnailUrl: remi_gau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RemiGau"}
+        - {name: "github", link: "https://github.com/Remi-Gau"}
+    -
+      id: 1
+      name: "Selim"
+      surname: "Atay"
+      title: "Brainhack Co-host"
+      location: "Turkey"
+      thumbnailUrl:
+      team: true
+      social:
+        # - {name: "twitter", link: " "}
+
+- hub:
+  name: "Hub Americas"
+  description:
+  team:
+    -
+      id: 0
+      name: "Liza"
+      surname: "Levitis"
+      title: "Brainhack Co-host"
+      location: "Montreal, Canada"
+      thumbnailUrl: liza_levitis.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
+        - {name: "github", link: "https://github.com/llevitis"}
+    -
+      id: 1
+      name: "Alejandro"
+      surname: "de la Vega"
+      title: "Hub manager"
+      location: "Austin, USA"
+      thumbnailUrl:
+      team: true
+      social:
+        # - {name: "twitter", link: " "} @elneurozorro
+
+- hub:
+  name: "Cross-hub coordination team"
+  description:
+  team:
+    -
+      id: 0
+      name: "Liza"
+      surname: "Levitis"
+      title: " " # Traintrack, Hackathon buddies
+      location: "Montreal, Canada"
+      thumbnailUrl: liza_levitis.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
+        - {name: "github", link: "https://github.com/llevitis"}
+    -
+      id: 2
+      name: "Remi"
+      surname: "Gau"
+      title: " " # Traintrack, Helpdesk
+      location: "Brussels, Belgium"
+      thumbnailUrl: remi_gau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RemiGau"}
+        - {name: "github", link: "https://github.com/Remi-Gau"}
+    -
+      id: 3
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      title: " " # Hackathon buddies, Helpdesk, Project advisor
+      location: "Austin, USA"
+      thumbnailUrl: anibal_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+        - {name: "github", link: "https://github.com/anibalsolon"}
+    -
+      id: 4
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      title: " " # Hackathon buddies, Helpdesk, Project advisor
+      location: "UK"
+      thumbnailUrl: isil_p.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+    -
+      id: 5
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      title: " " # Hackathon buddies
+      location: "Ghent, Belgium"
+      thumbnailUrl: sofie_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+    -
+      id: 6
+      name: "Camille"
+      surname: "Maumet"
+      title: " " #Project advisor
+      location: "Rennes, France"
+      thumbnailUrl: camille_maumet.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/cmaumet"}
+        - {name: "github", link: "https://github.com/cmaumet"}
+    -
+      id: 7
+      name: "Johanna"
+      surname: "Bayer"
+      title: " " # Social media
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+
+
+
+
+# -------------------------------------------------------------------------------------------------#
+# TEMPLATE
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
+- hub:
+  name: "Brainhack"
+  description: "The purpose of Brainhack is to bridge the data science and neuroscience research
+  communities to advance the progress of brain science research. Brainhack is a unique conference
+  that convenes researchers from across the globe and myriad disciplines to work together on innovative
+  projects related to neuroscience. Year after year, global Brainhack events have brought together
+  researchers to participate in open collaboration and regional Brainhack events keep the momentum
+  going throughout the year."
+  team:
+    -
+      id: 0
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      location: "Austin, USA"
+      thumbnailUrl: anibal_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+        - {name: "github", link: "https://github.com/anibalsolon"}
+    -
+      id: 1
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      location: "UK"
+      thumbnailUrl: isil_p.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+    -
+      id: 2
+      name: "Cameron"
+      surname: "Craddock"
+      location: " "
+      thumbnailUrl: cameron_400x400.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/RCCraddock"}
+    -
+      id: 3
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      location: "Ghent, Belgium"
+      thumbnailUrl: sofie_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+    -
+      id: 4
+      name: "Peer"
+      surname: "Herholz"
+      location: "Montreal, Canada"
+      thumbnailUrl: peer_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/peerherholz"}
+    -
+      id: 5
+      name: "Jon Haitz"
+      surname: "Legarreta Gorroño"
+      location: "Sherbrooke, Canada"
+      thumbnailUrl: jhlegarreta.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jhlegarreta"}
+    -
+      id: 6
+      name: "Damion"
+      surname: "Demeter"
+      location: "Austin, USA"
+      thumbnailUrl: damion_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/iamdamion"}
