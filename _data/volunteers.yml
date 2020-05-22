@@ -28,7 +28,9 @@
       thumbnailUrl: angela_tam.jpg
       team: true
       social:
-        - {name: "twitter", link: ""}
+        - {name: "twitter", link: "https://twitter.com/angelatamtweets"}
+        - {name: "github", link: "https://github.com/angela-tam/"}
+
     -
       id: 1
       name: "Chao-Gan"
