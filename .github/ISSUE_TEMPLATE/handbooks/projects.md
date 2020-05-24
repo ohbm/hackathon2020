@@ -240,11 +240,17 @@ If you don't have any image you can use `whatever.png`
 -   What was done? What problem was solved? How?
 -   What new problem / question emerged?
 -   What needs to be discussed?
+-   Was there any unconference/within project tutorial sessions held so far?
+-   What are the skills are exchanged/gained by the attendees so far (eg. Git/Github usage, networking etc.)
+
 
 ### Day 2: summary
 -   What was done? What problem was solved? How?
 -   What new problem / question emerged?
 -   What needs to be discussed?
+-   Was there any unconference/within project tutorial sessions held so far?
+-   What are the skills are exchanged/gained by the attendees so far (eg. Git/Github usage, networking etc.)
+
 
 ### Day 3:
 Tweet content for final wrap up
