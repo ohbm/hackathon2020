@@ -1,6 +1,6 @@
 ---
 name: Brainhack Project Template
-about: This provides the backbone structure for your project description. Please follow along to submit your peoject!
+about: This provides the backbone structure for your project description. Please follow along to submit your project!
 title: ''
 labels: 'Hackathon project'
 assignees: '@ohbm/project-advisors'
