@@ -25,7 +25,7 @@ Thank you!
 ## Main project info
 *Please fill this in first and then submit the issue*
 
-**Title**: *Name of your awesome project*
+**Title**: *Name of your awesome project. Please also update the title of the issue to be the title of your project*
 
 **Project lead**: *Your name and GitHub login, possibly more than 1 lead*
 
