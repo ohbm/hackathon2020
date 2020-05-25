@@ -99,10 +99,11 @@
       surname: "Atay"
       title: "Brainhack Co-host"
       location: "Turkey"
-      thumbnailUrl:
+      thumbnailUrl: selim_atay.jpg
       team: true
       social:
-        # - {name: "twitter", link: " "}
+        - {name: "twitter", link: "https://twitter.com/i_am_mel_dev"}
+        - {name: "github", link: "https://github.com/i-am-mel-dev"}
 
 - hub:
   name: "Hub Americas"
