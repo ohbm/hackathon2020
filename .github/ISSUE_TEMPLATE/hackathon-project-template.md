@@ -1,10 +1,9 @@
 ---
 name: Brainhack Project Template
-about: This provides the backbone structure for your project description. Please delete
-  all unnecessary content, but keep the headings and structure.
+about: This provides the backbone structure for your project description. Please follow along to submit your peoject!
 title: ''
-labels: ''
-assignees: ''
+labels: 'Hackathon project'
+assignees: '@ohbm/project-advisors'
 
 ---
 *To submit a project, you need to be an attendee of the 2020 OHBM Brainhack. We ask you to register first over [here](http://www.humanbrainmapping.org/HackathonReg/). Thank you!*
@@ -15,7 +14,7 @@ assignees: ''
  1. *Fill in the main information about your project below*
  2. *Submit this issue*
  3. *Check items in the submission as you go through them*
- 4. *Once you are done, please add a comment to say so and ping your project advisor (e.g. 'hi @<project-advisor-login> My project is ready for review!')*
+ 4. *Once you are done, please add a comment to say so and ping your project advisor (e.g. 'hi @ohbm/project-advisors My project is ready for review!')*
  5. *Check items in the reviewing checklist as you go through them*
 
 Thank you!
