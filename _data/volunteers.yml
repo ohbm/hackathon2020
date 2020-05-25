@@ -40,7 +40,6 @@
       thumbnailUrl:
       team: true
       social:
-        - {name: "twitter", link: ""}
     -
       id: 2
       name: "Kelly"
@@ -56,21 +55,19 @@
       name: "Xiao"
       surname: "Chen"
       title: "Hub manager"
-      location: " "
-      thumbnailUrl:
+      location: "Beijing, China"
+      thumbnailUrl: Xiao_Chen.jpeg
       team: true
       social:
-        - {name: "twitter", link: ""}
     -
       id: 4
       name: "Xue-Ying"
       surname: "Li"
       title: "Social media"
-      location: " "
-      thumbnailUrl:
+      location: "China"
+      thumbnailUrl: Xue-Ying.jpg
       team: true
       social:
-        - {name: "twitter", link: ""}
     -
       id: 5
       name: "Johanna"
@@ -80,7 +77,6 @@
       thumbnailUrl:
       team: true
       social:
-        - {name: "twitter", link: ""}
 
 - hub:
   name: "Hub Europe, Middle East & Africa"
