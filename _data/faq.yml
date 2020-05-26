@@ -119,10 +119,10 @@ schedule but run at different times.
 
 
     - {question: "Who is running the OHBM Brainhack?", answer: "<p>
-The OHBM Brainhack is organized and run by <a href='https://ossig.netlify.app/'>OHBM Open Science
+The OHBM Brainhack is organized and run by <a href='https://ossig.netlify.app/' target='_blank'>OHBM Open Science
 Special Interest Group (OS-SIG)</a> with support from many volunteers in the OHBM community.
 We are in particular very grateful for the help of the
-<a href='http://www.brainhack.org/'>Brainhack</a> Global team.
+<a href='http://www.brainhack.org/' target='_blank'>Brainhack</a> Global team.
 </p>"}
 
 
@@ -131,12 +131,12 @@ If you want regular updates, you can:
 </p>
 <ul>
 
-<li>Join the OHBM hackathon channel on our mattermost discussion forum: <a href='https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon'>https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon</a>
-<li>Follow us on twitter <a href='https://twitter.com/OhbmOpen'>https://twitter.com/OhbmOpen</a>
+<li>Join the OHBM hackathon channel on our <a href='https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon' target='_blank'>mattermost discussion forum</a>
+<li>Follow us on <a href='https://twitter.com/OhbmOpen' target='_blank'>twitter</a>
 </li>
 </ul>
 <p>
-If you have specific questions, you can reach out to us at ossig2019@inria.fr.
+If you have specific questions, you can reach out to us at <a href='mailto:ossig2019@inria.fr'>ossig2019@inria.fr</a>.
 </p>"}
 
 
@@ -178,7 +178,7 @@ No.
 <p>
 It is true that a lot of Brainhack projects in the past have included some coding but we hope
 to see many non-coding projects this year! In the past, we had for example a project to
-<a href='https://github.com/ohbm/hackathon2019/issues/47'>develop  GDPR-compliant guidelines for
+<a href='https://github.com/ohbm/hackathon2019/issues/47' target='_blank'>develop  GDPR-compliant guidelines for
 collecting consent from participants in brain imaging study</a>.
 </p>
 <p>
@@ -188,8 +188,8 @@ community are especially welcome.
 
 
     - {question: "How do I submit a project? ", answer: "<p>
-First please <a href='http://www.humanbrainmapping.org/HackathonReg'>register to the Brainhack</a>.
-You can then submit a project <a href='https://github.com/ohbm/hackathon2020/issues/new/choose'>here</a>.
+First please <a href='http://www.humanbrainmapping.org/HackathonReg' target='_blank'>register to the Brainhack</a>.
+You can then submit a project <a href='https://github.com/ohbm/hackathon2020/issues/new/choose' target='_blank'>here</a>.
 We will ask you to provide some information about your project in order to advertise it and help
 onboarding new members.
 </p>
@@ -213,7 +213,7 @@ you through the project set up.
 
     - {question: "How do I join and contribute to a project?", answer: "<p>
 In the weeks leading up to the Brainhack, project leaders will submit a description of their project.
-The projects will be listed on our <a href='https://github.com/ohbm/hackathon2020/labels/Hackathon%20project'>Github repository</a> and on the OHBM Brainhack website.
+The projects will be listed on our <a href='https://github.com/ohbm/hackathon2020/labels/Hackathon%20project' target='_blank'>Github repository</a> and on the OHBM Brainhack website.
 </p>
 <p>
 Ahead of time, you can start navigating through the projects and think about which one you would
@@ -270,21 +270,18 @@ online conferencing. Apply via the registration link.
 </p>
 <p>
 In addition, the OS-SIG is committed to make the OHBM Brainhack more accessible. In particular, if
-the hackathon fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ossig2019@inria.fr sharing some details about your situation. We will consider waving those fees as
+the hackathon fees make it impossible for you to attend the OHBM Brainhack, please send <a href='mailto:ossig2019@inria.fr'>email us</a> sharing some details about your situation. We will consider waving those fees as
 necessary.
 </p>"}
 
 
     - {question: "What should I do if I encounter an action that violates the Code of Conduct?", answer: "<p>
-The OHBM brainhack follows the OHBM Code of Conduct.
-</p>
-<p>
-<a href='https://ohbm.github.io/hackathon2020/coc/'>https://ohbm.github.io/hackathon2020/coc/</a>
+The OHBM brainhack follows the <a href='https://ohbm.github.io/hackathon2020/coc/' target='_blank'>the OHBM Code of Conduct</a>.
 </p>"}
 
 
     - {question: "How can I watch the streaming of the online tutorials?", answer: "<p>
-OHBM Brainhack tutorials and talks will be streamed on Crowdcast and on the <a href='https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ'>official Youtube account</a> of the OS-SIG. The schedule of the OHBM Hackathon events for 2020 are available on our <a href='https://ohbm.github.io/hackathon2020/schedule/'>schedule webpage.</a>
+OHBM Brainhack tutorials and talks will be streamed on Crowdcast and on the <a href='https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ' target='_blank'>official Youtube account</a> of the OS-SIG. The schedule of the OHBM Hackathon events for 2020 are available on our <a href='https://ohbm.github.io/hackathon2020/schedule/' target='_blank'>schedule webpage.</a>
 </p>"}
 
 
