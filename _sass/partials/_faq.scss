@@ -22,9 +22,6 @@
             filter: grayscale(0);
         }
     }
-    .faq-subsection {
-       margin-top: 100px;
-    }
     .faq-TOC {
       .row {
         margin-top: 60px;
@@ -40,21 +37,33 @@
       }
 
     }
-    .faq-question {
-        h5 {
-          font-weight: 300;
-        }
-        p {
-          font-size: 22px;
-          line-height: 200%;
-          text-align: justify;
-        }
-        ul {
-          text-align: left;
-          li {
-              font-size: 22px;
-              margin-bottom: 10px;
+    .container {
+      .faq-subsection {
+         margin-top: 100px;
+      }
+      .faq-question {
+          h5 {
+            font-weight: 300;
           }
-        }
+          .faq-answer {
+              p {
+                font-size: 22px;
+                line-height: 200%;
+                text-align: justify;
+                ul {
+                  text-align: left;
+                  li {
+                      font-size: 22px;
+                      margin-bottom: 10px;
+                      text-align: left;
+                  }
+              }
+
+              }
+          }
+      }
+
+
     }
+
 }
