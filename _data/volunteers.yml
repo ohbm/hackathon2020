@@ -36,8 +36,8 @@
       name: "Chao-Gan"
       surname: "Yan"
       title: "Brainhack Co-host"
-      location: " "
-      thumbnailUrl:
+      location: "Beijing, China"
+      thumbnailUrl: chao_gan.jpg
       team: true
       social:
     -
@@ -126,10 +126,11 @@
       surname: "de la Vega"
       title: "Hub manager"
       location: "Austin, USA"
-      thumbnailUrl:
+      thumbnailUrl: alejandro_vega_400x400.jpg
       team: true
       social:
-        # - {name: "twitter", link: " "} @elneurozorro
+        - {name: "twitter", link: "https://twitter.com/elneurozorro"}
+        - {name: "github", link: "https://github.com/adelavega"}
 
 - hub:
   name: "Cross-hub coordination team"
