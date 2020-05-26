@@ -38,11 +38,3 @@ You do not need to be an OHBM member to register and the price of registration w
 
 ## For more information
 For most recent updates please go to [OHBM Brainhack 2020 webpage](https://ohbm.github.io/hackathon2020), read our [FAQs](https://ohbm.github.io/hackathon2020/FAQ/), go to the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
-
-
-## Sponsors
-
-We thank the [OSSIG](https://ossig.netlify.app/), [International Neuroinformatics Coordinating Facility](https://www.incf.org/) and [Openneuro](https://openneuro.org/), {Child Mind Institute](https://childmind.org/), [The Ludmere Center](http://ludmercentre.ca/), [The Canadian Open Neuroscience Platform (CONP)](https://conp.ca/) for their generous contributions in support of the 2020 OHBM Hackathon!
-
-<img src="img/partners/incfLogo.jpeg" alt="INCF" height="100"/>
-<img src="img/partners/OpenNeuro_Logo.png" alt="openneuro" height="150"/>
