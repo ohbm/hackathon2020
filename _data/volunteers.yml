@@ -45,7 +45,7 @@
       name: "Kelly"
       surname: "Garner"
       title: "Hub manager"
-      location: "Brisbane, Australia "
+      location: "Brisbane, Australia"
       thumbnailUrl: kelly_400x400.jpg
       team: true
       social:
@@ -74,6 +74,33 @@
       surname: "Bayer"
       title: "Social media"
       location: " "
+      thumbnailUrl:
+      team: true
+      social:
+    -
+      id: 6
+      name: "Tom"
+      surname: "Shaw"
+      title: "Helpdesk"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+    -
+      id: 7
+      name: "Steffen"
+      surname: "Bollman"
+      title: "Helpdesk"
+      location: " "
+      thumbnailUrl:
+      team: true
+      social:
+    -
+      id: 8
+      name: "Chris"
+      surname: "Nolan"
+      title: "Helpdesk"
+      location: "Brisbane, Australia"
       thumbnailUrl:
       team: true
       social:
