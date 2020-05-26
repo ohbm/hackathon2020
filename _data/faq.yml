@@ -17,7 +17,7 @@ very committed to create an event that will be more welcoming for all.
 </p>
 <p>
 In particular,  please consider joining if you have little to no programming experience: there are
-many ways to contribute and we would be very pleased to benefit from *your* skills! In fact, our hope
+many ways to contribute and we would be very pleased to benefit from <strong>your</strong> skills! In fact, our hope
 is that many projects will not involve coding.
 </p>
 <p>
@@ -77,11 +77,11 @@ regardless of your membership status.
 </p>"}
 
 
-    - {question: "How much is the registration to the OHBM Brainhack?", answer: "<ul>
+    - {question: "How much is the registration to the OHBM Brainhack?", answer: "<p><ul>
 <li>Full Registration: $25 USD</li>
 <li>Reduced Registration (countries with lower middle income): $5 USD</li>
 <li>Free Registration (countries with lower income): $0 USD</li>
-</ul>
+</ul></p>
 <p>
 If you reside and/or work in a country ranked 'lower middle' or 'low' on the <a href='https://www.humanbrainmapping.org/files/2020/List%20of%20Economies.pdf' target='_blank'>Worls Bank's country
 income list</a>, please <a href='mailto:ossig2019@inria.fr'>email us</a> with the name of your institution
@@ -129,12 +129,13 @@ We are in particular very grateful for the help of the
     - {question: "How can we contact the OHBM Brainhack team?", answer: "<p>
 If you want regular updates, you can:
 </p>
-<ul>
 
+<p><ul>
 <li>Join the OHBM hackathon channel on our <a href='https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon' target='_blank'>mattermost discussion forum</a>
 <li>Follow us on <a href='https://twitter.com/OhbmOpen' target='_blank'>twitter</a>
 </li>
-</ul>
+</ul></p>
+
 <p>
 If you have specific questions, you can reach out to us at <a href='mailto:ossig2019@inria.fr'>ossig2019@inria.fr</a>.
 </p>"}
@@ -296,12 +297,9 @@ The broadcast of the talks will be available for all at zero-cost. Our attendees
     - {question: "What is the background picture on the OHBM Brainhack website landing page?", answer: "<p>
 This is Montreal where the OHBM brainhack should have happened. We decided to keep the picture:
 </p>
+<p>
 <ul>
-
-<li>Because it is pretty
-
-<li>Because we got used to seeing this picture and it makes us feel at home
-
-<li>Because Montreal is a great city and you should totally visit if / when you get the chance
-</li>
-</ul>"}
+<li>Because it is pretty</li>
+<li>Because we got used to seeing this picture and it makes us feel at home</li>
+<li>Because Montreal is a great city and you should totally visit if / when you get the chance</li>
+</ul></p>"}
