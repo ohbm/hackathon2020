@@ -73,8 +73,8 @@
       name: "Johanna"
       surname: "Bayer"
       title: "Social media"
-      location: " "
-      thumbnailUrl:
+      location: "Melbourne, Australia"
+      thumbnailUrl: johanna_bayer.jpg
       team: true
       social:
     -
@@ -232,8 +232,8 @@
       name: "Johanna"
       surname: "Bayer"
       title: " " # Social media
-      location: " "
-      thumbnailUrl:
+      location: "Melbourne, Australia"
+      thumbnailUrl: johanna_bayer.jpg
       team: true
       social:
 
