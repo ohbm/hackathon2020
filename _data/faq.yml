@@ -195,6 +195,23 @@ community are especially welcome.
 </p>"}
 
 
+    - {question: "Do you have examples of projects from previous Brainhack events?", answer: "<p>
+You can find some examples in the this non exhaustive list:
+</p>
+<p><ul>
+<li><a href='https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>openMR 2020</a></li>
+<li><a href='https://github.com/ohbm/hackathon2019/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>ohbm hackathon 2019</a></li>
+<li><a href='https://github.com/ohbm/hackathon2018/wiki/Projects' target='_blank'>ohbm hackathon 2018</a></li>
+<li><a href='https://github.com/ohbm/hackathon2017/wiki' target='_blank'>ohbm hackathon 2017</a></li>
+<li><a href='https://brainhack.ch/#portfolio' target='_blank'>brainhack geneva 2020</a></li>
+<li><a href='https://brainhackghent.github.io/' target='_blank'>brainhack ghent 2018</a></li>
+</ul></p>
+<p>
+And for a listing of previous hackathon events and access to their projects, there are all listed
+on the <a href='http://www.brainhack.org/index.html' target='_blank'>Brainhack global website</a>.
+</p>"}
+
+
     - {question: "How do I submit a project? ", answer: "<p>
 First please <a href='http://www.humanbrainmapping.org/HackathonReg' target='_blank'>register to the Brainhack</a>.
 You can then submit a project <a href='https://github.com/ohbm/hackathon2020/issues/new/choose' target='_blank'>here</a>.
