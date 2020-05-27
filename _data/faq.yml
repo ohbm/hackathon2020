@@ -236,6 +236,20 @@ you through the project set up.
 </p>"}
 
 
+    - {question: "Do I have to use open datasets for my project?", answer: "<p>
+You don't have to work on an open dataset.</p>
+<p>
+It can make things easier in practice but there are other ways that data sharing can be
+facilitated within a project group without making the data public.<br>
+You can check if your institution provides some solution in terms of data repository.<br>
+Depending on the data size you could either create a private project on <a href='https://osf.io/'>OSF</a>
+or use <a href='https://gin.g-node.org/'>GIN</a>, but we do not recommend using Dropbox, Google drive or similar
+cloud based solution to share potentially sensitive data.<br>
+Finally remember that not all attendees might have broadband internet so be careful that downloading the
+dataset will not turn into a bottleneck for participants.
+</p>"}
+
+
     - {question: "How do I join and contribute to a project?", answer: "<p>
 In the weeks leading up to the Brainhack, project leaders will submit a description of their project.
 The projects will be listed on our <a href='https://github.com/ohbm/hackathon2020/labels/Hackathon%20project' target='_blank'>Github repository</a> and on the OHBM Brainhack website.
