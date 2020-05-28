@@ -83,7 +83,8 @@ regardless of your membership status.
 <li>Free Registration (countries with lower income): $0 USD</li>
 </ul></p>
 <p>
-If you reside and/or work in a country ranked 'lower middle' or 'low' on the <a href='https://www.humanbrainmapping.org/files/2020/List%20of%20Economies.pdf' target='_blank'>Worls Bank's country
+If you reside and/or work in a country ranked 'lower middle' or 'low' on the
+<a href='https://www.humanbrainmapping.org/files/2020/List%20of%20Economies.pdf' target='_blank'>Worls Bank's country
 income list</a>, please <a href='mailto:ossig2019@inria.fr'>email us</a> with the name of your institution
 and country and we will send you a coupon code.
 </p>
@@ -138,13 +139,16 @@ If you want regular updates, you can:
 </p>
 
 <p><ul>
-<li>Join the OHBM hackathon channel on our <a href='https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon' target='_blank'>mattermost discussion forum</a>
+<li>Join the OHBM hackathon channel on our
+<a href='https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon'
+target='_blank'>mattermost discussion forum</a>
 <li>Follow us on <a href='https://twitter.com/OhbmOpen' target='_blank'>twitter</a>
 </li>
 </ul></p>
 
 <p>
-If you have specific questions, you can reach out to us at <a href='mailto:ossig2019@inria.fr'>ossig2019@inria.fr</a>.
+If you have specific questions, you can reach out to us at <a href='mailto:ossig2019@inria.fr'>
+ossig2019@inria.fr</a>.
 </p>"}
 
 
@@ -195,6 +199,23 @@ community are especially welcome.
 </p>"}
 
 
+    - {question: "Do you have examples of projects from previous Brainhack events?", answer: "<p>
+You can find some examples in this non exhaustive list:
+</p>
+<p><ul>
+<li><a href='https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>openMR 2020</a></li>
+<li><a href='https://github.com/ohbm/hackathon2019/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>ohbm hackathon 2019</a></li>
+<li><a href='https://github.com/ohbm/hackathon2018/wiki/Projects' target='_blank'>ohbm hackathon 2018</a></li>
+<li><a href='https://github.com/ohbm/hackathon2017/wiki' target='_blank'>ohbm hackathon 2017</a></li>
+<li><a href='https://brainhack.ch/#portfolio' target='_blank'>brainhack geneva 2020</a></li>
+<li><a href='https://brainhackghent.github.io/' target='_blank'>brainhack ghent 2018</a></li>
+</ul></p>
+<p>
+And for a listing of previous hackathon events and access to their projects, there are all listed
+on the <a href='http://www.brainhack.org/index.html' target='_blank'>Brainhack global website</a>.
+</p>"}
+
+
     - {question: "How do I submit a project? ", answer: "<p>
 First please <a href='http://www.humanbrainmapping.org/HackathonReg' target='_blank'>register to the Brainhack</a>.
 You can then submit a project <a href='https://github.com/ohbm/hackathon2020/issues/new/choose' target='_blank'>here</a>.
@@ -219,9 +240,24 @@ you through the project set up.
 </p>"}
 
 
+    - {question: "Do I have to use open datasets for my project?", answer: "<p>
+You don't have to work on an open dataset.</p>
+<p>
+It can make things easier in practice but there are other ways that data sharing can be
+facilitated within a project group without making the data public.<br>
+You can check if your institution provides some solution in terms of data repository.<br>
+Depending on the data size you could either create a private project on <a href='https://osf.io/'>OSF</a>
+or use <a href='https://gin.g-node.org/'>GIN</a>, but we do not recommend using Dropbox, Google drive or similar
+cloud based solution to share potentially sensitive data.<br>
+Finally remember that not all attendees might have broadband internet so be careful that downloading the
+dataset will not turn into a bottleneck for participants.
+</p>"}
+
+
     - {question: "How do I join and contribute to a project?", answer: "<p>
 In the weeks leading up to the Brainhack, project leaders will submit a description of their project.
-The projects will be listed on our <a href='https://github.com/ohbm/hackathon2020/labels/Hackathon%20project' target='_blank'>Github repository</a> and on the OHBM Brainhack website.
+The projects will be listed on our <a href='https://github.com/ohbm/hackathon2020/labels/Hackathon%20project'
+target='_blank'>Github repository</a> and on the OHBM Brainhack website.
 </p>
 <p>
 Ahead of time, you can start navigating through the projects and think about which one you would
@@ -278,18 +314,24 @@ online conferencing. Apply via the registration link.
 </p>
 <p>
 In addition, the OS-SIG is committed to make the OHBM Brainhack more accessible. In particular, if
-the hackathon fees make it impossible for you to attend the OHBM Brainhack, please send <a href='mailto:ossig2019@inria.fr'>email us</a> sharing some details about your situation. We will consider waving those fees as
+the hackathon fees make it impossible for you to attend the OHBM Brainhack, please send
+<a href='mailto:ossig2019@inria.fr'>email us</a> sharing some details about your situation.
+We will consider waving those fees as
 necessary.
 </p>"}
 
 
     - {question: "What should I do if I encounter an action that violates the Code of Conduct?", answer: "<p>
-The OHBM brainhack follows the <a href='https://ohbm.github.io/hackathon2020/coc/' target='_blank'>the OHBM Code of Conduct</a>.
+The OHBM brainhack follows the <a href='https://ohbm.github.io/hackathon2020/coc/' target='_blank'>
+the OHBM Code of Conduct</a>.
 </p>"}
 
 
     - {question: "How can I watch the streaming of the online tutorials?", answer: "<p>
-OHBM Brainhack tutorials and talks will be streamed on Crowdcast and on the <a href='https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ' target='_blank'>official Youtube account</a> of the OS-SIG. The schedule of the OHBM Hackathon events for 2020 are available on our <a href='https://ohbm.github.io/hackathon2020/schedule/' target='_blank'>schedule webpage.</a>
+OHBM Brainhack tutorials and talks will be streamed on Crowdcast and on the
+<a href='https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ' target='_blank'>official
+Youtube account</a> of the OS-SIG. The schedule of the OHBM Hackathon events for 2020 are available
+on our <a href='https://ohbm.github.io/hackathon2020/schedule/' target='_blank'>schedule webpage.</a>
 </p>"}
 
 
@@ -297,7 +339,8 @@ OHBM Brainhack tutorials and talks will be streamed on Crowdcast and on the <a h
 Yes.
 </p>
 <p>
-The broadcast of the talks will be available for all at zero-cost. Our attendees will have the extra possibility to interact with the speakers and participate in hackathon projects.
+The broadcast of the talks will be available for all at zero-cost. Our attendees will have the
+extra possibility to interact with the speakers and participate in hackathon projects.
 </p>"}
 
 
@@ -310,3 +353,11 @@ This is Montreal where the OHBM brainhack should have happened. We decided to ke
 <li>Because we got used to seeing this picture and it makes us feel at home</li>
 <li>Because Montreal is a great city and you should totally visit if / when you get the chance</li>
 </ul></p>"}
+
+
+    - {question: "What will my registration fee be used for?", answer: "<p>
+The OS-SIG will use the funds raised with hackathon registration fees to sustain its open science
+activities: this includes software for the hackathon and <a href='https://ohbm.github.io/osr2020/'>
+the open-science room</a> but also hackathon & open-science room mini-grants
+to make participation easier, support speakers to record their talks...
+</p>"}
