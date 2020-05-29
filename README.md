@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # OHBM 2020 Brainhack
@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/llevitis"><img src="https://avatars3.githubusercontent.com/u/17363738?v=4" width="100px;" alt=""/><br /><sub><b>Liza Levitis</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=llevitis" title="Code">💻</a> <a href="#content-llevitis" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=llevitis" title="Documentation">📖</a> <a href="#design-llevitis" title="Design">🎨</a> <a href="#eventOrganizing-llevitis" title="Event Organizing">📋</a> <a href="#ideas-llevitis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-llevitis" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-llevitis" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Allevitis" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-llevitis" title="Project Management">📆</a></td>
+    <td align="center"><a href="http://camillemaumet.com"><img src="https://avatars1.githubusercontent.com/u/5374264?v=4" width="100px;" alt=""/><br /><sub><b>Camille Maumet</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=cmaumet" title="Code">💻</a> <a href="#content-cmaumet" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=cmaumet" title="Documentation">📖</a> <a href="#design-cmaumet" title="Design">🎨</a> <a href="#eventOrganizing-cmaumet" title="Event Organizing">📋</a> <a href="#ideas-cmaumet" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-cmaumet" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-cmaumet" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Acmaumet" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-cmaumet" title="Project Management">📆</a></td>
   </tr>
 </table>
 
