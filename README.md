@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # OHBM 2020 Brainhack
@@ -57,6 +57,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://twitter.com/complexbrains"><img src="https://avatars1.githubusercontent.com/u/45263281?v=4" width="100px;" alt=""/><br /><sub><b>Isil Bilgin</b></sub></a><br /><a href="#content-complexbrains" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=complexbrains" title="Documentation">📖</a> <a href="#ideas-complexbrains" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Acomplexbrains" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://gkiar.github.io"><img src="https://avatars3.githubusercontent.com/u/4883288?v=4" width="100px;" alt=""/><br /><sub><b>Greg Kiar</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=gkiar" title="Code">💻</a> <a href="#design-gkiar" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/sofievdbos"><img src="https://avatars0.githubusercontent.com/u/23309041?v=4" width="100px;" alt=""/><br /><sub><b>Sofie Van Den Bossche</b></sub></a><br /><a href="#content-sofievdbos" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=sofievdbos" title="Documentation">📖</a> <a href="#ideas-sofievdbos" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Asofievdbos" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/jhlegarreta"><img src="https://avatars3.githubusercontent.com/u/5576557?v=4" width="100px;" alt=""/><br /><sub><b>Jon Haitz Legarreta Gorroño</b></sub></a><br /><a href="#content-jhlegarreta" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=jhlegarreta" title="Documentation">📖</a> <a href="#ideas-jhlegarreta" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Ajhlegarreta" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 

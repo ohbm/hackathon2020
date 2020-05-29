@@ -92,6 +92,18 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "jhlegarreta",
+      "name": "Jon Haitz Legarreta Gorroño",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5576557?v=4",
+      "profile": "https://github.com/jhlegarreta",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
