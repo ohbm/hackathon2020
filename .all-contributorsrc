@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "llevitis",
+      "name": "Liza Levitis",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17363738?v=4",
+      "profile": "https://github.com/llevitis",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "ideas",
+        "infra",
+        "maintenance",
+        "review",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hackathon2020",
+  "projectOwner": "ohbm",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
