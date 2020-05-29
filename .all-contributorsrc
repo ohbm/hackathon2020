@@ -40,6 +40,24 @@
         "review",
         "projectManagement"
       ]
+    },
+    {
+      "login": "Remi-Gau",
+      "name": "Remi Gau",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6961185?v=4",
+      "profile": "https://remi-gau.github.io/",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "ideas",
+        "infra",
+        "maintenance",
+        "review",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
