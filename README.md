@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # OHBM 2020 Brainhack
 
@@ -38,3 +41,22 @@ You do not need to be an OHBM member to register and the price of registration w
 
 ## For more information
 For most recent updates please go to [OHBM Brainhack 2020 webpage](https://ohbm.github.io/hackathon2020), read our [FAQs](https://ohbm.github.io/hackathon2020/FAQ/), go to the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/llevitis"><img src="https://avatars3.githubusercontent.com/u/17363738?v=4" width="100px;" alt=""/><br /><sub><b>Liza Levitis</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=llevitis" title="Code">💻</a> <a href="#content-llevitis" title="Content">🖋</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=llevitis" title="Documentation">📖</a> <a href="#design-llevitis" title="Design">🎨</a> <a href="#eventOrganizing-llevitis" title="Event Organizing">📋</a> <a href="#ideas-llevitis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-llevitis" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-llevitis" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3Allevitis" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-llevitis" title="Project Management">📆</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
