@@ -83,6 +83,16 @@ Some examples:
 
 Flesh out at least 2 "good first issues": those are tasks that do not require any prior knowledge about your project, could be defined as issues in a GitHub repository, or in a shared document.
 
+#### Set up a kanban board
+
+To keep track of the progress on the 2 issues of your project and all the sub-tasks this might involve you
+can use a kanban board.
+
+A kanban board helps you manage your work in a very visual way: here is a short [video explaining the
+idea](https://www.digite.com/kanban/what-is-kanban/).
+
+You can use the integrated kanban on [GitHub](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) or use an external app like [trello](https://trello.com/).
+
 ### Onboarding: skills
 
 List skills that would be particularly suitable for your project. We ask you to include at least one non-coding skill.
@@ -190,7 +200,7 @@ scientist/maker/artist/lawyer -- as a projectcollaborator?
 We recommend that you read through Mozilla Open Leadership material on
 [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
 
-If you want to easily list contributors on your repository you can look into the [all contributors bot](https://github.com/all-contributors/all-contributors-bot). 
+If you want to easily list contributors on your repository you can look into the [all contributors bot](https://github.com/all-contributors/all-contributors-bot).
 
 ## Project kick-off
 
