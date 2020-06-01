@@ -31,6 +31,3 @@ A buddy is a member of the open science neuroimaging community who:
 
 **Join the team!** Thank you so much for willing to help. In order to sign up as a Brainhack buddy, please fill in this form (TODO!). 
 
----
-
-Image credit: we thank [unDraw](https://undraw.co/) for the graphics used in this page.
