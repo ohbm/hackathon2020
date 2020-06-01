@@ -17,6 +17,7 @@ The Brainhack will have a ‘welcome desk’ room where attendees can go and cha
 #### Profile
 
 A welcome desk host is a member of the open science neuroimaging community who:
+ - feels comfortable with online virtual chats and videos and who likes to make everyone feel included
  - feels comfortable welcoming attendees and provide guidance about the Brainhack as needed
  
 
@@ -27,7 +28,7 @@ A welcome desk host is a member of the open science neuroimaging community who:
 3. Reply to any questions from attendees
 
 #### Estimated time
-Welcome desk hosts will spend 1-2 hours prior to the Brainhack to familiarize themseleves with workflow of the event and existing resources. During the Brainhack, they will attend the welcome desk during 3-6 hours in total (i.e. between 1 and 2 hours per day)
+Welcome desk hosts will spend 1-2 hours prior to the Brainhack to familiarize themseleves with workflow of the event and existing resources (including the code of conducts). During the Brainhack, they will attend the welcome desk during 3-6 hours in total (i.e. between 1 and 2 hours per day)
 
 #### Join the team!
 Thank you so much for willing to help. In order to sign up as a Brainhack buddy, please fill in this form (TODO!). 
