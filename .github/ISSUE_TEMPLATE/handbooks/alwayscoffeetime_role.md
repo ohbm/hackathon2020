@@ -4,7 +4,7 @@ The [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/) will gather res
 
 ---
 
-*Signup as a welcome desk Brainhack helpdesk and answer attendees’ technical questions! As a member of the helpdesk you will monitor the helpdesk channel and answer any questions related to your expertise.*
+*Would you like to help orientate Brainhack attendees throughout the event? Provide a relaxed space for informal chat? Sign up as a welcome desk host! You will chat with attendees and provide any feedback they need. More information here.*
 
 ---
 
@@ -12,7 +12,7 @@ The [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/) will gather res
 
 #### Description
 
-The Brainhack will have a ‘welcome desk’ room where attendees can go and chat, ask any questions, meet with people, have a coffee, etc. Host in this room will keep the conversation going in a relaxed and inclusive atmosphere, provide orientation and answer any questions from attendees.
+The Brainhack will have a ‘welcome desk’ room where attendees can go and chat, ask any questions, meet with people, have a coffee, etc. Welcome desk hosts will keep the conversation going in a relaxed and inclusive atmosphere, provide orientation and answer any questions from attendees.
 
 #### Profile
 
