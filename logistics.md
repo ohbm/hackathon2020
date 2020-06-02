@@ -230,16 +230,15 @@ requirements:
 {% collapse Required software %}
 Along with the platforms that we will be using for virtual TrainTrack presentations and communication,
 we ask that you install the following software.
+* Mattermost (can be used in the browser as well)
+* A modern browser (for using Crowdcast and Jitsi)
+* Zoom
 * A command-line shell: Bash
 * A version control system: Git
+* A GitHub account
 * A remote-capable text editor: VSCode
 * Python 3 via Miniconda
 * A virtualization system: Docker
-* A GitHub account
-* Mattermost (can be used in the browser as well)
-* Zoom
-* A modern browser (for using Crowdcast and Jitsi)
-
 {% endcollapse %}
 
 
@@ -270,7 +269,7 @@ To check if you do:
 - On Fedora - type `sudo yum install git` inside the terminal.
 
 ###### **VSCode**
-Go to https://code.visualstudio.com/ and click the download button, then run the `.exe` file.
+Go to [visual studio code website](https://code.visualstudio.com/) and click the download button, then run the `.exe` file.
 Leave all the defaults during the installation with the following exception:
 Please make sure the box labelled “Register Code as an editor for supported file types” is selected.
 
@@ -349,7 +348,7 @@ If you do not see something like “git version X.XX.X” printed out, then foll
 
 ###### **VSCode**
 
-1. Go to https://code.visualstudio.com/ and click the download button.
+1. Go to the [visual studio code website](https://code.visualstudio.com/) and click the download button.
 1. Unzip the downloaded file (e.g., `VSCode-darwin-stable.zip`) and moving the resulting `Visual Studio Code` file to your Applications directory.
 
 ###### **VSCode extensions**
@@ -458,7 +457,7 @@ You already have it, now that you’ve installed the WSL!
 
 ###### **VSCode**
 
-1. Go to https://code.visualstudio.com/ and click the download button, then run the `.exe` file.
+1. Go to the [visual studio code website](https://code.visualstudio.com/) and click the download button, then run the `.exe` file.
 1. Leave all the defaults during the installation with the following exception:
       - Please make sure the box labelled "Register Code as an editor for supported file types" is selected
 
