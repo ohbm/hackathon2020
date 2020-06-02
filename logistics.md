@@ -135,20 +135,19 @@ Each project will be using Zoom or Jitsi for their individual calls.
 
 <p style="font-size: 18px">
 As with previous OHBM hackathons, we've developed a project template that we would like project leads
-to use for submitting their project proposals.  
+to use for submitting their project proposals.
 </p>
 
 {% collapse Project submission %}
-Each project is allocated to a project helper who will follow the project from submission until the
+Each project is allocated to a project monitor who will follow the project from submission until the
 end of the brainhack.
-To make sure that project helpers have enough time to review project submissions, we're setting two
+To make sure that project monitors have enough time to review project submissions, we're setting two
 deadlines:
-- 2 weeks before the brainhack: submit a draft for project helpers to give feedback on
+- 2 weeks before the brainhack: submit a draft for project monitors to give feedback on
 - 1 week before brainhack: hard deadline
 
 [**Project checklist**](https://docs.google.com/spreadsheets/d/1SY-Hnhc-bPX0RA47icVukUVVJ-BrX9ykPFQUBY-U1go/edit?usp=sharing):
 this is a spreadsheet to help the project helpers making sure that each project is on track and submitted everything.
-
 
 [**Github issue template**](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/hackathon-project-template.md):
 This will be the way to submit brainhack projects. It comes with a checklist to make sure that project
