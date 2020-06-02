@@ -23,14 +23,15 @@ We need people to help us reply to questions and troubleshoot issues attendees m
 #### Profile
 
 A helpdesk member is a member of the open science neuroimaging community who:
- - has some technical expertise
- - feels comfortable listening to attendees' questions, direct them to existing resources and share answers as needed
+-   has some technical expertise
+-   feels comfortable listening to attendees' questions, direct them to existing resources and share
+answers as needed
 
 #### Expectations
 
-1. Help develop and maintain a welcoming environment at the OHBM Brainhack
-2.
-3.
+1.  Help develop and maintain a welcoming environment at the OHBM Brainhack
+2.  Help attendees to set up anything needed before a given traintrack session
+3.  Help attendees troubleshoot issues that might prevent their hacking project from making progress.
 
 #### Estimated time
 
