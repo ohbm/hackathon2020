@@ -21,10 +21,10 @@ A global online event has to find a good way to compromise on several things.
 1. We have to make sure that attendees can join without completely messing up their biological rhythm.
 2. We need to have the live broadcast of the event (kick off, pitches, wrap up, coffee/lunch room) and the TrainTrack happen when attendees are actually awake.
 
-The general idea is to have several places (hubs) that participate in the same global Brainhack, allowing us to partly tackle 
+The general idea is to have several places (hubs) that participate in the same global Brainhack, allowing us to partly tackle
 the question of geographical inclusivity by allowing people to easily attend no matter where they are.
 
-Each hub follows the same internal structure with respect to platforms used for communication and volunteer roles. 
+Each hub follows the same internal structure with respect to platforms used for communication and volunteer roles.
 
 {% endcollapse %}
 
@@ -39,8 +39,8 @@ from around the world are able to join in during reasonable working hours for th
 
 {% collapse Hub structure and general organization %}
 
-The event is decentralized across several "hubs" that span a set of time-zones. 
-In order for the event to run as smoothly as possible across all hubs, each hub will follow the same general schedule 
+The event is decentralized across several "hubs" that span a set of time-zones.
+In order for the event to run as smoothly as possible across all hubs, each hub will follow the same general schedule
 and have various volunteer roles who help with the event.
 Some of the roles are selected by the OHBM Open-Science Special Interest Group (OSSIG) while others
 are open to volunteers.
@@ -70,7 +70,9 @@ The Youtube master ensures that all content is streamed to different platforms.
 <h6 style="padding-top: 50px">Open to volunteers</h6>
 
 {% collapse Project monitor %}
-Project monitors play an essential role in guiding project leads to comply with Brainhack project guidelines and set minimal documentation to make their project more welcoming to new members. In the weeks preceding the brainhack, project monitors will review submitted projects and make sure
+Project monitors play an essential role in guiding project leads to comply with Brainhack project
+guidelines and set minimal documentation to make their project more welcoming to new members.
+Before the brainhack, project monitors will review submitted projects and make sure
 that they are set up following brainhack project setup guidelines. Then during the brainhack they can
 provide support and especially help project leaders who might feel a bit lost if it is their first time
 managing a team.
@@ -202,7 +204,7 @@ we ask that you install the following software.
 <h5 style="padding-top: 80px"><b>OS-specific installation instructions</b></h5>
 
 {% accordion os_specific_installation_instructions %}
-Thank you to Ross Markello and the rest of the Montreal Brainhack School 2020 team for creating these very detailed setup instructions! 
+Thank you to Ross Markello and the rest of the Montreal Brainhack School 2020 team for creating these very detailed setup instructions!
 
 {% collapse Linux %}
 ###### **Bash shell**
@@ -217,11 +219,11 @@ please assume you are to open a terminal, type bash, and the proceed with the in
 
 ###### **Git**
 
-You most likely already have Git installed. 
-To check if you do: 
+You most likely already have Git installed.
+To check if you do:
 - On Debian -  type `sudo apt-get install git` inside the terminal
-- On Fedora - type `sudo yum install git` inside the terminal.  
-  
+- On Fedora - type `sudo yum install git` inside the terminal.
+
 ###### **VSCode**
 Go to https://code.visualstudio.com/ and click the download button, then run the `.exe` file.
 Leave all the defaults during the installation with the following exception:
@@ -294,7 +296,7 @@ To set the default to bash, type `chsh -s /bin/bash` in the terminal, enter your
 
 You may already have it!
 Try opening a terminal and typing `git --version`.
-If you do not see something like “git version X.XX.X” printed out, then follow these steps: 
+If you do not see something like “git version X.XX.X” printed out, then follow these steps:
 
 1. Follow [this link](https://sourceforge.net/projects/git-osx-installer/files/git-2.23.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect) to automatically download an installer.
 1. Double click the downloaded file (`git-2.23.0-intel-universal-mavericks.dmg`) and then double click the `git-2.23.0-intel-universal-mavericks.pkg` icon inside the dmg that is opened.
