@@ -34,13 +34,21 @@ Yes. The OS-SIG is providing 50 mini-grants worth 100 USD each to help Brainhack
 In addition, the OS-SIG is committed to make the OHBM Brainhack more accessible. In particular, if the Brainhack fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ossig2019@inria.fr sharing some details about your situation. We will consider waving those fees as necessary.
 
 ## Do I need to register for the OHBM conference to attend the OHBM Brainhack?
+
 No.
 The main conference and the OHBM Brainhack are separate events and you can choose to register for Brainhack only.
 
 You do not need to be an OHBM member to register and the price of registration will be the same regardless of your membership status.
 
 ## For more information
+
 For most recent updates please go to [OHBM Brainhack 2020 webpage](https://ohbm.github.io/hackathon2020), read our [FAQs](https://ohbm.github.io/hackathon2020/FAQ/), go to the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
+
+## How to update the websites
+
+-   Update projects in `_data/projects.yml` as projects are submitted and cross-checked by advisors
+-   Update volunteers in `_data/volunteers.yml` as they show up
+-   Update schedule in `_data/schedule.yml` and sessions `_data/sessions.yml` possibly with differences across hubs
 
 ## Contributors ✨
 
