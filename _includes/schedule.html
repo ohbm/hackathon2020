@@ -1,6 +1,11 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
+        <div class="col-lg-8 col-md-10 col-md-offset-1">
+          <div style="width:400px; margin:0 auto;text-align:left;" class="tz-selector">
+            <label for=timezone>Selected timezone:</label><select id="timezone" data-base-tz="{{ site.data.schedule[0].tz }}"></select>
+          </div>
+        </div>
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -29,11 +34,11 @@
             {% for timeslot in day.timeslots %}
             <div class="timeslot" itemtype="http://schema.org/subEvent">
                 <div class="timeslot-label">
-                    <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
+                    <time class="start-time" data-value="{{ day.date }} {{ timeslot.startTime }}" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
                         {% assign startTime = timeslot.startTime | split: ":" %}
                         {{ startTime[0] }}<span>{{ startTime[1] }}</span>
                     </time>
-                    <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                      <time class="end-time" data-value="{{ day.date }} {{ timeslot.endTime }}" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
                         {% assign endTime = timeslot.endTime | split: ":" %}
                         {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
