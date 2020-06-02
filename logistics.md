@@ -69,33 +69,67 @@ The Youtube master ensures that all content is streamed to different platforms.
 
 <h6 style="padding-top: 50px">Open to volunteers</h6>
 
-{% collapse Project monitor %}
+If you want to help us with running the brainhack here is a list of the different roles we would need help with.
+
+Get in touch with us.
+
+<!-- INSERT LINK TO CONTACT PAGE OR SIGN UP FORM -->
+
+<!-- Commented out until we have this back online as a role -->
+<!-- {% collapse Project monitor %}
 Project monitors play an essential role in guiding project leads to comply with Brainhack project
 guidelines and set minimal documentation to make their project more welcoming to new members.
 Before the brainhack, project monitors will review submitted projects and make sure
 that they are set up following brainhack project setup guidelines. Then during the brainhack they can
 provide support and especially help project leaders who might feel a bit lost if it is their first time
 managing a team.
+{% endcollapse %} -->
+
+{% collapse Welcome system %}
+Would you like to help orientate Brainhack attendees throughout the event? Provide a relaxed space for informal chat? Sign up as a welcome desk host! You will chat with attendees and provide any feedback they need.
+
+<img align="right" src="../img/logistics/welcome_desk.png" alt="welcome" width="40%">
+
+{% endcollapse %}
+
+{% collapse Webteam system %}
+Are you familiar with website development? Would you like to help shaping an engaging experience for Brainhack attendees? Sign up as a website team member! You will be part of a global team in charge of keeping the website up-to-date and designing new features to make it more engaging, inclusive and welcoming.
+
+<img align="right" src="../img/logistics/webteam.png" alt="webteam" width="40%">
+
 {% endcollapse %}
 
 {% collapse Buddy system %}
 You’ve already attended a brainhack, are keen in welcoming new members in the brainhack community? As a
 brainhack mentor, you will make sure that your mentees have followed the participant onboarding,
 you will spend 1-hour a day with them to help with their on-boarding.
+
+<img align="right" src="../img/logistics/buddy.png" alt="buddy" width="40%">
+
 {% endcollapse %}
 
 {% collapse Help desk %}
 Signup for the brainhack helpdesk and answer attendees technical questions. As a member of the helpdesk
 you will sign up for monitoring the helpdesk chat and answer any question.
+
+<img align="right" src="../img/logistics/helpdesk.png" alt="helpdesk" width="40%">
+
 {% endcollapse %}
 
 {% collapse Social breakout host %}
 Each hub will have a virtual room where people can go and chat, meet with people for their morning or
 afternoon coffee, lunch, or evening drinks. The social breakout host's role is keep the conversation
 going in a relaxed and inclusive atmosphere.
+
+<img align="right" src="../img/logistics/social_breaks.png" alt="social_breaks" width="40%">
+
 {% endcollapse %}
+
 {% collapse Social media %}
 The social media lead across hubs is responsible of designing the social media communications used across all events. Each hub has a social media volunteer who posts updates throughout the event to Twitter and advertises when a new hackathon project submission has been accepted prior to the event.
+
+<img align="right" src="../img/logistics/social_media.png" alt="social_media" width="40%">
+
 {% endcollapse %}
 
 {% endcollapse %}
@@ -109,7 +143,7 @@ The social media lead across hubs is responsible of designing the social media c
 {% accordion software %}
 
 {% collapse Crowdcast %}
-Each hub will be using the [OSSIG Crowdcast](https://www.crowdcast.io/ossig2019) for the main sessions, and this content will be streamed on Youtube
+Each hub will be using the [OSSIG Crowdcast](https://www.crowdcast.io/ossig2019) for the main sessions, and this content will be streamed on our [Youtube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ)
 simultaneously such that those who are not formally registered can follow along as well.
 
 <img align="left" src="../img/logistics/crowdcast.svg" alt="crowdcast" height="100px">
