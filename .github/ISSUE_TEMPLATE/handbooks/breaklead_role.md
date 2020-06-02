@@ -11,14 +11,12 @@ The **break lead team** play an essential role in designing the social breaks th
 lead! You will be part of a global team in charge of designing interactive and inclusive break times
 for the OHBM Brainhack.*
 
-
 **Description**
 The break lead is in charge of designing how the social break will happen.
 
 A break lead is a member of the open science neuroimaging community who:
 -   is passionate about building more interactive online interactions
 -   is a team member
-
 
 **Expectations**
 1. Help develop and maintain a welcoming environment at the OHBM Brainhack

@@ -21,13 +21,13 @@ The projects can be things the project leader is already working on, or a projec
 
 You can find example of projects listed in the different [brainhack events](http://www.brainhack.org/) or directly on the websites of previous Brainhacks :
 
-- [openMR 2020 hackathon](https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues)
-- [OHBM 2019 hackathon](https://github.com/ohbm/hackathon2019/issues)
-- [Brainhack Princeton 2019](https://github.com/brainhack-princeton/brainhack-princeton-2019)
-- [Brainhack Open Geneva 2020](https://brainhack.ch/#portfolio)
-- [BrainHack Ghent 2018](https://brainhackghent.github.io)
+-   [openMR 2020 hackathon](https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues)
+-   [OHBM 2019 hackathon](https://github.com/ohbm/hackathon2019/issues)
+-   [Brainhack Princeton 2019](https://github.com/brainhack-princeton/brainhack-princeton-2019)
+-   [Brainhack Open Geneva 2020](https://brainhack.ch/#portfolio)
+-   [BrainHack Ghent 2018](https://brainhackghent.github.io)
 
-##  Is there any funding available to Brainhack attendees?
+## Is there any funding available to Brainhack attendees?
 
 Yes. The OS-SIG is providing 50 mini-grants worth 100 USD each to help Brainhack attendees set up for online conferencing. Apply via the registration link.
 

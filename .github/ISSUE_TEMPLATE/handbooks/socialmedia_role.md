@@ -12,7 +12,6 @@ will happen before, during and after the hackathon.
 as a social media lead! You will be part of a global team in charge of designing communications for
 the OHBM Brainhack.*
 
-
 **Description**
 The social media lead is in charge of designing social media commuunications. This is mostly related
 to Twitter and weibo but we welcome any other initiative.
@@ -21,7 +20,6 @@ A social lead is a member of the open science neuroimaging community who:
 -   is active online and/or on social media
 -   is passionate about science communication
 -   is a team member
-
 
 **Expectations**
 1. Help develop and maintain a welcoming environment at the OHBM Brainhack
