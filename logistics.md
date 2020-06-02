@@ -151,6 +151,11 @@ simultaneously such that those who are not formally registered can follow along 
 {% endcollapse %}
 
 {% collapse Mattermost %}
+
+Mattermost is an open-source messsenging system equivalent to Slack where we will be sharing information regularly.
+
+If you are not familiar with mattermost, make sure you check out the [user-guide](https://docs.mattermost.com/guides/user.html) and that [short video](https://www.youtube.com/watch?v=eq4yEM5z5SY&list=PL-jqvaPsjQpMqnRgFEw_3fuGQbcVDTpaM&index=5) that describes how it works.
+
 * Generic channels:
   * [HBM-hackathon](https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon)
   * [General](https://mattermost.brainhack.org/brainhack/channels/general)
@@ -404,7 +409,7 @@ conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn nu
 
 ###### **Docker**
 
-1. Go to https://hub.docker.com/editions/community/docker-ce-desktop-mac/ and press “Get Docker”.
+1. Go to this [website](https://hub.docker.com/editions/community/docker-ce-desktop-mac/) and press “Get Docker”.
 1. Open the “Docker.dmg” file that is downloaded and drag and drop the icon to the Applications folder
 1. Open the Docker application and enter your password.
    An icon will appear in the status bar in the top-left of the screen.
