@@ -24,8 +24,7 @@ A break lead is a member of the open science neuroimaging community who:
 1. Help develop and maintain a welcoming environment at the OHBM Brainhack
 2. In collaboration with the Brainhack team, design how the break time included in the schedule will
 be organized.
-3. Think of ideas that promote interaction, and how we can use other platforms like Mozilla Hubs and
-ideas like virtual coffee/pizza to make the Brainhack experience awesome, including icebreaker
+3. Think of ideas that promote interaction, and how we can use other platforms like [Mozilla Hubs](https://hubs.mozilla.com/#/) and ideas like virtual coffee/pizza to make the Brainhack experience awesome, including icebreaker
 “gimmicks” e.g. “show us your mug!”
 4. Propose resources to make those break time happen (e.g. use Zoom to assign attendees in breakout
 rooms of 5-8 people with a ‘breakout room host’ in each room)
@@ -33,5 +32,5 @@ rooms of 5-8 people with a ‘breakout room host’ in each room)
 
 **Estimated time**: variable workload between 5-10 hours before Brainhack.
 
-**Join the team!** Thank you so much for willing to help. In order to sign up as a break lead, please 
+**Join the team!** Thank you so much for willing to help. In order to sign up as a break lead, please
 fill in this form (TODO!).
