@@ -109,8 +109,11 @@ The social media lead across hubs is responsible of designing the social media c
 {% accordion software %}
 
 {% collapse Crowdcast %}
-Each hub will be using Crowdcast for the main sessions, and this content will be streamed on Youtube
+Each hub will be using the [OSSIG Crowdcast](https://www.crowdcast.io/ossig2019) for the main sessions, and this content will be streamed on Youtube
 simultaneously such that those who are not formally registered can follow along as well.
+
+<img align="left" src="../img/logistics/crowdcast.svg" alt="crowdcast" height="100px">
+
 {% endcollapse %}
 
 {% collapse Mattermost %}
@@ -121,10 +124,18 @@ simultaneously such that those who are not formally registered can follow along 
 * Project channel: Each project will have its own channel
 * Help desk: We will have a set of topic and programming language specific channels where you can
   ping volunteers for help.
+
+<img align="left" src="../img/logistics/mattermost.png" alt="mattermost" height="60px">
+
 {% endcollapse %}
 
-{% collapse Zoom/Jitsi %}
+
+
+{% collapse Zoom / Jitsi %}
 Each project will be using Zoom or Jitsi for their individual calls.
+
+<img align="left" src="../img/logistics/jitsi.png" alt="jitsi" height="200px">
+
 {% endcollapse %}
 
 {% endaccordion %}
