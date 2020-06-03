@@ -3,7 +3,7 @@ name: Brainhack Project Template
 about: This provides the backbone structure for your project description. Please follow along to submit your project!
 title: ''
 labels: 'Hackathon project'
-assignees: '@ohbm/project-advisors'
+assignees: '@ohbm/project-monitors'
 
 ---
 *To submit a project, you need to be an attendee of the 2020 OHBM Brainhack. We ask you to register first over [here](http://www.humanbrainmapping.org/HackathonReg/). Thank you!*
