@@ -6,9 +6,9 @@ Middle East and Europe' and the 'Americas'.
 
 ---
 
-*You have already attended a brainhack, are keen in welcoming new members in the Brainhack community?
+*You have already attended a brainhack and are keen on welcoming new members in the Brainhack community?
  Sign up as a **Brainhack buddy**! You will be paired with an attendee who is coming to their first
- hackathon. You will spend 1-hour a day with them to help their onboarding.* Detailed info below.
+ hackathon. You will spend 1-hour a day with them to help with their onboarding.* Detailed info below.
 
 ---
 
@@ -25,7 +25,7 @@ the hackathon and meet during the event.
 A buddy is a member of the open science neuroimaging community who:
 -   has already attended at least one brain hackathon (e.g. Brainhack, Brainhack school, Neurohackademy, etc.),
 -   is familiar with the format of the OHBM Brainhack and in particular with the two tracks (Hacktrack and Traintrack),
--   feels comfortable welcoming new members of the community, listening to their experience, questions and share information
+-   feels comfortable welcoming new members of the community, listening to their experience, questions and sharing information
 as needed.
 
 #### Expectations
@@ -44,4 +44,4 @@ Maximum 1 hour before Brainhack and 30 minutes to 1 hour per day during Brainhac
 
 #### Join the team!
 
-Thank you so much for willing to help. In order to sign up as a Brainhack buddy, please fill in this form (TODO!).
+Thank you so much for being willing to help. In order to sign up as a Brainhack buddy, please fill in this form (TODO!).
