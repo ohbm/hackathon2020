@@ -1,4 +1,4 @@
-# Helpdesh member: role description
+# Helpdesk member: role description
 
 The [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/) will gather researchers throughout
 the world for an online hackathon June 16-18, organized around 3 hubs: 'Asia and Pacific', 'Africa,
