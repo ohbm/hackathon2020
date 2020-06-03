@@ -39,9 +39,9 @@
 -
   title: "VB Index BIDS support / Pretty GUI"
   image: whatever.png
-  details: "I have been collaborating / leading a project that produced some software to 1) create "cortical gradients" 
-  and a simple edge detection technique called the VB Index (see <a href=http://psyarxiv.com/7vzbk/>preprint</a>). 
-  We have a python and matlab tool but are focussing on the <a href=https://github.com/VBIndex/py_vb_toolbox>python version</a>. 
+  details: "I have been collaborating / leading a project that produced some software to 1) create 'cortical gradients'
+  and a simple edge detection technique called the VB Index (see <a href=http://psyarxiv.com/7vzbk/>preprint</a>).
+  We have a python and matlab tool but are focussing on the <a href=https://github.com/VBIndex/py_vb_toolbox>python version</a>.
   The brainhack project will be simple, allow the toolbox to accept BIDS data and / or create a simple (but pretty) GUI.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/102>in this github issue</a>"
 
