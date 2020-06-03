@@ -106,7 +106,19 @@
       thumbnailUrl:
       team: true
       social:
+    -
+      id: 9
+      name: "Arshitha "
+      surname: "Basavaraj"
+      title: "Hub manager"
+      location: "Bethesda, USA"
+      thumbnailUrl: Arshitha_Basavaraj.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/arshitha94"}
+        - {name: "github", link: "https://github.com/Arshitha/"}
 
+        
 - hub:
   name: "Hub Europe, Middle East & Africa"
   description:
