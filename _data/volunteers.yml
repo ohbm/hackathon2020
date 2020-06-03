@@ -30,7 +30,6 @@
       social:
         - {name: "twitter", link: "https://twitter.com/angelatamtweets"}
         - {name: "github", link: "https://github.com/angela-tam/"}
-
     -
       id: 1
       name: "Chao-Gan"
@@ -124,7 +123,7 @@
         - {name: "github", link: "https://github.com/Remi-Gau"}
     -
       id: 1
-      name: "Selim"
+      name: "Melvin Selim"
       surname: "Atay"
       title: "Brainhack Co-host"
       location: "Turkey"
@@ -137,8 +136,8 @@
       id: 2
       name: "Dorien"
       surname: "Huijser"
-      title: "Website volunteer"
-      location: "Utrecht, the Netherlands"
+      title: "Web volunteer"
+      location: "Netherlands"
       thumbnailUrl: DorienHuijser.jpg
       team: true
       social:
@@ -171,6 +170,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/elneurozorro"}
         - {name: "github", link: "https://github.com/adelavega"}
+    -
+      id: 3
+      name: "Arshitha "
+      surname: "Basavaraj"
+      title: "Hub manager"
+      location: "Bethesda, USA"
+      thumbnailUrl: Arshitha_Basavaraj.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/arshitha94"}
+        - {name: "github", link: "https://github.com/Arshitha/"}
 
 - hub:
   name: "Cross-hub coordination team"
