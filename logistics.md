@@ -161,8 +161,13 @@ If you are not familiar with mattermost, make sure you check out the [user-guide
   * [General](https://mattermost.brainhack.org/brainhack/channels/general)
   * [Town Square](https://mattermost.brainhack.org/brainhack/channels/town-square)
 * Project channel: Each project will have its own channel
-* Help desk: We will have a set of topic and programming language specific channels where you can
-  ping volunteers for help.
+* Help desk: We have set up some channels that we will be using during the brainhack to facilate people asking for help. Each channel is associated with a jitsi video chat in case some face to face interaction and screen sharing is needed to trouble shoot some of the problems.
+  - [Help desk - general](https://mattermost.brainhack.org/brainhack/channels/help_desk-general)
+  - [Help desk - docker](https://mattermost.brainhack.org/brainhack/channels/help_desk-docker)
+  - [Help desk - git-github](https://mattermost.brainhack.org/brainhack/channels/help_desk-git_github)
+  - [Help desk - bids](https://mattermost.brainhack.org/brainhack/channels/bids_general)
+  - [Help desk - bids apps](https://mattermost.brainhack.org/brainhack/channels/bids-apps)
+  - [Help desk - datalad](https://mattermost.brainhack.org/brainhack/channels/datalad)
 
 <img align="left" src="../img/logistics/mattermost.png" alt="mattermost" height="60px">
 
@@ -221,8 +226,8 @@ Once a project has been submitted the project helper can tag it using issue labe
 The TrainTrack will cover topics ranging from good code practices, code and data version control,
 high performance computing, data visualization, and machine learning. Each session will have its own
 computing requirements, but at a baseline, we strongly recommend that participants make sure that
-they have the following general computing requirements satisfied in order to be able to follow along with the sessions 
-on their own devices. 
+they have the following general computing requirements satisfied in order to be able to follow along with the sessions
+on their own devices.
 We will have a virtual help desk available to help participants with installation issues.
 </p>
 
