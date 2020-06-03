@@ -72,24 +72,3 @@ We would like to think about how you will credit and onboard new members to your
 **Chat channel**:
 
 **Video channel**:
-
-
-
-## Reviews
-
-### Review checklist
-*Once your project is ready to review, we will ask you to help us with reviewing other projects and identifying possible merges. Please check items in this list as you add under 'My reviews'. We hope that this will be a way to learn about other project, and we appreciate your help!*
-
-From the [list of projects that are ready for review](https://github.com/ohbm/hackathon2020/labels/Ready%20for%20review):
--   [ ] Choose 2 projects. For each project, if the submission checklist is correctly filled, please add a +1 under the main comment, if not please add a -1.
--   [ ] Amongst the pool of projects (especially those from your hub), tell us which 3 projects are closest to your proposal and why.
-
-### My reviews
-**2 projects I checked**:
-
-**3 projects that are closest to my proposal and why:**
-
-
-
-
-You can also opt for the [google doc template](https://docs.google.com/document/d/11eyTp5m2odaraAeRHdWytlMOUW3Cwvu0nMaxCbf1cqo/edit?usp=sharing) version of project submission we have prepared.
