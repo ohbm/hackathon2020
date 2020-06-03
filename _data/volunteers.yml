@@ -133,6 +133,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/i_am_mel_dev"}
         - {name: "github", link: "https://github.com/i-am-mel-dev"}
+  -
+    id: 2
+    name: "Dorien"
+    surname: "Huijser"
+    title: "Website volunteer"
+    location: "Utrecht, the Netherlands"
+    thumbnailUrl: DorienHuijser.jpg
+    team: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/DorienHuijser"}
+      - {name: "github", link: "https://github.com/DorienHuijser"}
 
 - hub:
   name: "Hub Americas"
