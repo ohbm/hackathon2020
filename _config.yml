@@ -46,8 +46,8 @@ navigationLinks:
  # - {permalink: "/#about/", text: "About"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule", text: "Schedule"}
- - {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/hackathon", text: "HackTrack"}
+ - {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/team", text: "Team"}
  - {permalink: "/coc", text: "CoC"}
  - {permalink: "/FAQ", text: "FAQ"}
