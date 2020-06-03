@@ -6,22 +6,19 @@ labels: 'Hackathon project'
 assignees: '@ohbm/project-monitors'
 
 ---
+**Guidelines**
 
-<!--
-*To submit a project, you need to be an attendee of the 2020 OHBM Brainhack. We ask you to register first over [here](http://www.humanbrainmapping.org/HackathonReg/). Thank you!*
+*We are very excited to meet you at the 2020 OHBM Brainhack 🎉* *To submit a project, you need to be an attendee of the 2020 OHBM Brainhack. We ask you to register first over [here](http://www.humanbrainmapping.org/HackathonReg/). Thank you!*
 
-*We are very excited to meet you at the 2020 OHBM Brainhack 🎉*
-
-*We have prepared a checklist to help with project submission. Here is how to proceed:*
- 1. *Fill in the main information about your project below*
- 2. *Submit this issue*
- 3. *Check items in the submission as you go through them*
- 4. *Once you are done, please add a comment to say so and ping your project advisor (e.g. 'hi @ohbm/project-monitors My project is ready!')*
+*We have prepared a checklist to help with your project submission. Here is how to proceed:*
+ 1. *Before filling in any part, please submit this issue*
+ 2. *Check items in the checklist below as you go through them*
+ 3. *Once you are done (at least all 'required' items must be provided), please delete the "Guidelines" section add a comment saying 'hi @ohbm/project-monitors: My project is ready!'*
 
 Thank you!
 
-*After step 2 (issue submitted), we will assign a 'project monitor' to your submission. If at any time you need help or anything is unclear, please add a comment and ping your project monitor. Our team is here to help!*
--->
+*After step 1 (issue submitted), we will assign a 'project monitor' to follow your submission. If at any time you need help or anything is unclear, please add a comment and ping your project monitor. Our team is here to help!*
+
 
 ----------------------------
 ## Project info
@@ -44,7 +41,7 @@ Thank you!
 
 **Link to project**:
 
-**Mattermost handle**
+**Mattermost handle**:
 
 **Goals for the OHBM Brainhack**
 
@@ -61,6 +58,7 @@ Thank you!
 ## Submission checklist
 *Once the issue is submitted, please check items in this list as you add under 'Additional project info'*
 
+Please include the following above (all required):
 -   [ ] Link to your project: could be a code repository, a shared document, etc. See [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#link-to-project)
 -   [ ] Include your Mattermost handle]. If you do not have an account, please [sign up here](https://mattermost.brainhack.org/signup_email).
 -   [ ] Goals for the OHBM Brainhack: describe what you want to achieve during this brainhack. See [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#goals).
@@ -69,13 +67,13 @@ Thank you!
 -   [ ] Chat channel: A link to a chat channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. We recommend using the [Brainhack space on mattermost](https://mattermost.brainhack.org/), cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#chat).
 -   [ ] Video channel: Please create a video channel that will be used during the OHBM Brainhack and share it in your chat channel above. This can be an existing channel or a new one. For instance a [jitsi meet](https://meet.jit.si/) room, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#video-calls).
 
-Optionnally, you can also include information about:
+You can also include information about (all optional):
 -   [ ] Number of participants, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#participant-capacity)
 -   [ ] Twitter-size summary of your project pitch, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#twitter-size-summary-of-your-project-pitch)
 -   [ ] Provide an image of your project for the OHBM brainhack website
 -   [ ] Set up a kanban board on your repository to better divide the work and keep track of things, cf [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#set-up-a-kanban-board)
 -   [ ] Project snippet for the OHBM Brainhack website, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#project-snippet-for-the-ohbm-brainhack-website)
 
-We would like to think about how you will credit and onboard new members to your project. We recommend reading references from [this section](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#credit-and-onboarding). If you'd like to share your thoughts with future project participants, you can include information about:
+We would like to think about how you will credit and onboard new members to your project. We recommend reading references from [this section](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#credit-and-onboarding). If you'd like to share your thoughts with future project participants, you can include information about (recommended):
 -   [ ] Specify how will you acknowledge contributions (e.g. listing members on a contributing page).
 -   [ ] Provide links to onboarding documents if you have some.
