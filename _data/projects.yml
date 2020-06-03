@@ -7,32 +7,27 @@
 # -------------------------------------------------------------------------------------------------
 
 -
-  title: "Your awesome project"
-  image: whatever.png
-  details: "Tell us about what you want to achieve.
-  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/>in this github issue</a>"
--
   title: "Learn and Enhance BrainIAK Tutorials: From Basics to Advanced fMRI Analyses"
   image: whatever.png
-  details: "This project will help participants learn fMRI analyses and enhance BrainIAK Tutorials (Kumar et al., 2020). 
-  Participants can practice a tutorial covering any topic of interest, from basics to advanced techniques. 
-  They can also contribute to the tutorials, by making edits, fixing bugs, or enhancing them by applying the techniques 
-  to their own datasets. We have a list an issue list for the tutorials that participants can pick an issue and work on. 
-  Some of the advanced techniques included are: Inter-Subject Correlations (ISC) (Hasson et al., 2004; Simony et al., 2016), 
+  details: "This project will help participants learn fMRI analyses and enhance BrainIAK Tutorials (Kumar et al., 2020).
+  Participants can practice a tutorial covering any topic of interest, from basics to advanced techniques.
+  They can also contribute to the tutorials, by making edits, fixing bugs, or enhancing them by applying the techniques
+  to their own datasets. We have a list an issue list for the tutorials that participants can pick an issue and work on.
+  Some of the advanced techniques included are: Inter-Subject Correlations (ISC) (Hasson et al., 2004; Simony et al., 2016),
   Shared Response Modeling (SRM) (Chen et al., 2015), and Event Segmentation methods (Baldassano et al., 2017)
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/109>in this github issue</a>"
 -
   title: "BIDS to NiftyTorch: data preparation for deep learning"
   image: whatever.png
-  details: "We aim to build an automated pipeline to make a copy of BIDS formatted project for the purpose of deep learning 
-  and automatically evaluate the dataset. This includes, creating a randomly selected sets of training, validation and test 
+  details: "We aim to build an automated pipeline to make a copy of BIDS formatted project for the purpose of deep learning
+  and automatically evaluate the dataset. This includes, creating a randomly selected sets of training, validation and test
   dataset for deep learning, searching for missing data, evaluating consistency across image input using image size and modality,
   and maybe adding a module for quality assessment and preprocessing of the input data.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/85>in this github issue</a>"
 -
   title: "Tracktools"
   image: whatever.png
-  details: "In the latest years, I have developed/collected some tools for brain tractography, from inclusion in html, 
+  details: "In the latest years, I have developed/collected some tools for brain tractography, from inclusion in html,
   to 3Dprinter conversion to other manipulations. Codes is mostly in matlab and we should move in Python, moreover the converter
   from Trackvis to STL for 3Dprinting or Augmented Reality is not good. I am open minded to other ideas for tractography.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/84>in this github issue</a>"
