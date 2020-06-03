@@ -10,15 +10,6 @@
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label"> <!-- {{ day.tablelabel }}  -->
-                  <p>Your time in:
-                    <ul style="padding-left: 10px">
-                      <li>Hub 1: Bankgok, Jakarta</li>
-                      <li>Hub 2: London, Abidjan</li>
-                      <li>Hub 3: Los Angeles</li>
-                    </ul>
-                  </p>
-                </div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
