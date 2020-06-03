@@ -221,7 +221,8 @@ Once a project has been submitted the project helper can tag it using issue labe
 The TrainTrack will cover topics ranging from good code practices, code and data version control,
 high performance computing, data visualization, and machine learning. Each session will have its own
 computing requirements, but at a baseline, we strongly recommend that participants make sure that
-they have the following general computing requirements satisfied.
+they have the following general computing requirements satisfied in order to be able to follow along with the sessions 
+on their own devices. 
 We will have a virtual help desk available to help participants with installation issues.
 </p>
 
@@ -246,6 +247,7 @@ we ask that you install the following software.
 * A GitHub account
 * A remote-capable text editor: VSCode
 * Python 3 via Miniconda
+* Datalad
 * A virtualization system: Docker
 {% endcollapse %}
 
@@ -318,6 +320,20 @@ Please make sure the box labelled “Register Code as an editor for supported fi
    ``` bash
    rm ./Miniconda3-latest-Linux-x86_64.sh
    ```
+
+###### **Python packages**
+
+Open a terminal and type the following commands:
+
+``` bash
+conda config --append channels conda-forge
+conda config --set channel_priority strict
+conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn
+```
+
+###### **Datalad**
+
+Please see the [Datalad handbook](http://handbook.datalad.org/en/latest/intro/installation.html).
 
 ###### **Docker**
 
@@ -409,6 +425,10 @@ conda config --append channels conda-forge
 conda config --set channel_priority strict
 conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn
 ```
+
+###### **Datalad**
+
+Please see the [Datalad handbook](http://handbook.datalad.org/en/latest/intro/installation.html).
 
 ###### **Docker**
 
@@ -519,6 +539,10 @@ conda config --append channels conda-forge
 conda config --set channel_priority strict
 conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn
 ```
+
+###### **Datalad**
+
+Please see the [Datalad handbook](http://handbook.datalad.org/en/latest/intro/installation.html).
 
 ###### **Docker**
 
