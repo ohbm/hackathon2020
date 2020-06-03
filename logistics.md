@@ -193,10 +193,13 @@ to use for submitting their project proposals.
 {% collapse Project submission %}
 Each project is allocated to a project monitor who will follow the project from submission until the
 end of the brainhack.
-To make sure that project monitors have enough time to review project submissions, we're setting two
+To make sure that project monitors have enough time to review project submissions, we will be closing projects
+submission before the event starts.
+
+<!-- we're setting two
 deadlines:
 - 2 weeks before the brainhack: submit a draft for project monitors to give feedback on
-- 1 week before brainhack: hard deadline
+- 1 week before brainhack: hard deadline -->
 
 [**Project checklist**](https://docs.google.com/spreadsheets/d/1SY-Hnhc-bPX0RA47icVukUVVJ-BrX9ykPFQUBY-U1go/edit?usp=sharing):
 this is a spreadsheet to help the project helpers making sure that each project is on track and submitted everything.
