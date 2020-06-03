@@ -279,9 +279,8 @@ To check if you do:
 - On Fedora - type `sudo yum install git` inside the terminal.
 
 ###### **VSCode**
-Go to [visual studio code website](https://code.visualstudio.com/) and click the download button, then run the `.exe` file.
-Leave all the defaults during the installation with the following exception:
-Please make sure the box labelled “Register Code as an editor for supported file types” is selected.
+    Go to the [visual studio code website](https://code.visualstudio.com/) and click the download button for either the .deb (Ubuntu, Debian) or the .rpm (Fedora, CentOS) file.
+    Double-click the downloaded file to install VSCode. (You may be prompted to type your administrator password during the install).
 
 ###### **VSCode extensions**
 
