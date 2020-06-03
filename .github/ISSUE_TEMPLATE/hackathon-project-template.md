@@ -6,6 +6,8 @@ labels: 'Hackathon project'
 assignees: '@ohbm/project-monitors'
 
 ---
+
+<!--
 *To submit a project, you need to be an attendee of the 2020 OHBM Brainhack. We ask you to register first over [here](http://www.humanbrainmapping.org/HackathonReg/). Thank you!*
 
 *We are very excited to meet you at the 2020 OHBM Brainhack 🎉*
@@ -19,20 +21,40 @@ assignees: '@ohbm/project-monitors'
 Thank you!
 
 *After step 2 (issue submitted), we will assign a 'project monitor' to your submission. If at any time you need help or anything is unclear, please add a comment and ping your project monitor. Our team is here to help!*
+-->
 
 ----------------------------
-## Main project info
-*Please fill this in first and then submit the issue*
+## Project info
+<!-- *Please fill this in first and then submit the issue* -->
 
-**Title**: *Name of your awesome project. Please also update the title of the issue to be the title of your project*
+**Title**:
+<!--Name of your awesome project. Please also update the title of the issue to be the title of your project-->
 
-**Project lead**: *Your name and GitHub login, possibly more than 1 lead*
+**Project lead**:
+<!--Your name and GitHub login, possibly more than 1 lead-->
 
-**[Timezone](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#timezone)**: *UTC offset of your timezone (cf. [here](https://www.timeanddate.com/time/map/) for example).*
+**[Timezone](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#timezone)**:
+<!--UTC offset of your timezone (cf. https://www.timeanddate.com/time/map/ for example).-->
 
-**Hub**: *Asia and Pacific / Europe, Middle East and Africa / The Americas based on location of project lead. Possibly more than 1 hub.*
+**Hub**:
+<!--Asia and Pacific / Europe, Middle East and Africa / The Americas based on location of project lead. Possibly more than 1 hub.-->
 
-**Description**: *Describe the main idea and context of your project in a few sentences.*
+**Description**:
+<!--Describe the main idea and context of your project in a few sentences.-->
+
+**Link to project**:
+
+**Mattermost handle**
+
+**Goals for the OHBM Brainhack**
+
+**Good first issues**:
+
+**Skills**:
+
+**Chat channel**:
+
+**Video channel**:
 
 ## Project submission
 
@@ -57,18 +79,3 @@ Optionnally, you can also include information about:
 We would like to think about how you will credit and onboard new members to your project. We recommend reading references from [this section](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#credit-and-onboarding). If you'd like to share your thoughts with future project participants, you can include information about:
 -   [ ] Specify how will you acknowledge contributions (e.g. listing members on a contributing page).
 -   [ ] Provide links to onboarding documents if you have some.
-
-## Additional project info
-**Link to project**:
-
-**Mattermost handle**
-
-**Goals for the OHBM Brainhack**
-
-**Good first issues**:
-
-**Skills**:
-
-**Chat channel**:
-
-**Video channel**:
