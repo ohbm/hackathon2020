@@ -48,10 +48,11 @@ navigationLinks:
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/hackathon", text: "HackTrack"}
  - {permalink: "/logistics", text: "Logistics"}
- - {permalink: "/team", text: "Team"}
- - {permalink: "/coc", text: "CoC"}
  - {permalink: "/FAQ", text: "FAQ"}
+ - {permalink: "/coc", text: "CoC"}
+ - {permalink: "/team", text: "Team"}
  - {permalink: "/sponsors", text: "Sponsors"}
+ - {permalink: "/contact", text: "Contact"}
  - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
@@ -180,7 +181,7 @@ footerBlocks:
   links:
    - {link: "/hackathon2020/coc", text: "Code of Conduct"}
    - {link: "/hackathon2020/FAQ/", text: "FAQ"}
-
+   - {link: "/hackathon2020/contact/", text: "Contact"}
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
@@ -194,7 +195,7 @@ showSessions: true
 aboutBrainHack:
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "About the Open-Science Special Interest Group"
 aboutUs:
 
 # Logistics Find Way Block

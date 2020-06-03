@@ -1,0 +1,115 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "llevitis",
+      "name": "Liza Levitis",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17363738?v=4",
+      "profile": "https://github.com/llevitis",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "ideas",
+        "infra",
+        "maintenance",
+        "review",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "cmaumet",
+      "name": "Camille Maumet",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5374264?v=4",
+      "profile": "http://camillemaumet.com",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "ideas",
+        "infra",
+        "maintenance",
+        "review",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "Remi-Gau",
+      "name": "Remi Gau",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6961185?v=4",
+      "profile": "https://remi-gau.github.io/",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "eventOrganizing",
+        "ideas",
+        "infra",
+        "maintenance",
+        "review",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "complexbrains",
+      "name": "Isil Bilgin",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45263281?v=4",
+      "profile": "https://twitter.com/complexbrains",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "gkiar",
+      "name": "Greg Kiar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4883288?v=4",
+      "profile": "http://gkiar.github.io",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "sofievdbos",
+      "name": "Sofie Van Den Bossche",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23309041?v=4",
+      "profile": "https://github.com/sofievdbos",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "jhlegarreta",
+      "name": "Jon Haitz Legarreta Gorroño",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5576557?v=4",
+      "profile": "https://github.com/jhlegarreta",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hackathon2020",
+  "projectOwner": "ohbm",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
