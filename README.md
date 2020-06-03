@@ -21,26 +21,47 @@ The projects can be things the project leader is already working on, or a projec
 
 You can find example of projects listed in the different [brainhack events](http://www.brainhack.org/) or directly on the websites of previous Brainhacks :
 
-- [openMR 2020 hackathon](https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues)
-- [OHBM 2019 hackathon](https://github.com/ohbm/hackathon2019/issues)
-- [Brainhack Princeton 2019](https://github.com/brainhack-princeton/brainhack-princeton-2019)
-- [Brainhack Open Geneva 2020](https://brainhack.ch/#portfolio)
-- [BrainHack Ghent 2018](https://brainhackghent.github.io)
+-   [openMR 2020 hackathon](https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues)
+-   [OHBM 2019 hackathon](https://github.com/ohbm/hackathon2019/issues)
+-   [Brainhack Princeton 2019](https://github.com/brainhack-princeton/brainhack-princeton-2019)
+-   [Brainhack Open Geneva 2020](https://brainhack.ch/#portfolio)
+-   [BrainHack Ghent 2018](https://brainhackghent.github.io)
 
-##  Is there any funding available to Brainhack attendees?
+## Is there any funding available to Brainhack attendees?
 
 Yes. The OS-SIG is providing 50 mini-grants worth 100 USD each to help Brainhack attendees set up for online conferencing. Apply via the registration link.
 
 In addition, the OS-SIG is committed to make the OHBM Brainhack more accessible. In particular, if the Brainhack fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ossig2019@inria.fr sharing some details about your situation. We will consider waving those fees as necessary.
 
 ## Do I need to register for the OHBM conference to attend the OHBM Brainhack?
+
 No.
 The main conference and the OHBM Brainhack are separate events and you can choose to register for Brainhack only.
 
 You do not need to be an OHBM member to register and the price of registration will be the same regardless of your membership status.
 
 ## For more information
+
 For most recent updates please go to [OHBM Brainhack 2020 webpage](https://ohbm.github.io/hackathon2020), read our [FAQs](https://ohbm.github.io/hackathon2020/FAQ/), go to the [OS SIG website](https://ossig.netlify.com/), follow the hbm-hackathon channel on the [brainhack mattermost](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrq) and follow us on twitter [@OHBMopen](https://twitter.com/ohbmopen).
+
+## How to update the website
+
+Most of the "easy" updates can be done in the following files and we have added templates to help with this.
+
+-   Update projects in `_data/projects.yml` as projects are submitted and cross-checked by monitors, check this [board](https://github.com/ohbm/hackathon2020/projects/4) to know which projects can be added to the website.
+-   Update volunteers in `_data/volunteers.yml` as they show up
+-   Update schedule in `_data/schedule.yml` and sessions `_data/sessions.yml` possibly with differences across hubs
+
+### How to serve the website locally
+
+If you want to check how things look locally before you push any changes on github, you can serve the website locally.
+
+Make sure that you have [jekyll installed](https://jekyllrb.com/docs/installation/). For a quick intro to jekyll there is this [youtube playlist](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
+
+From the directory where you have cloned this repository and run:
+```
+bundle exec jekyll serve
+```
 
 ## Contributors ✨
 
