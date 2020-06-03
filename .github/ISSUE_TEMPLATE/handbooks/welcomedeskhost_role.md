@@ -18,7 +18,7 @@ A welcome desk host is a member of the open science neuroimaging community who:
 
 **Expectations**
 1. Help develop and maintain a welcoming environment at the OHBM Brainhack
-2. Sign up for 3-6 hours in the welcome desk througout the event
+2. Sign up for 3-6 hours in the welcome desk throughout the event
 3. Welcome attendees entering the welcome desk and provide a relaxed atmosphere for a short break
 3. Reply to any questions from attendees
 
