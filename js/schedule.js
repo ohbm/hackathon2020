@@ -1,7 +1,7 @@
 (function() {
   var $tz = $("#timezone");
   var baseTz = $tz.data('base-tz');
-  var guessedTz = moment.tz.guess();
+  var guessedTz = baseTz;
 
   var updateSchedule = function() {
     var selectedTz = $tz.val();
@@ -9,7 +9,7 @@
       var value = $(this).data('value');
       if (!value.includes("&")) {
         var parsedTime = moment.tz(value, baseTz);
-        $(this).html(parsedTime.tz(selectedTz).format('hh[<span>]mm[</span>]'));
+        $(this).html(parsedTime.tz(selectedTz).format('HH[<span>]mm[</span>]'));
       }
     });
   }

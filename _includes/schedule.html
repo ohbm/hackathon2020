@@ -1,13 +1,13 @@
 <!-- Begin Schedule Section -->
-<section id="schedule" class="schedule">
-    <div class="content-wrapper">
-        <div class="col-lg-8 col-md-10 col-md-offset-1">
-          <div style="width:400px; margin:0 auto;text-align:left;" class="tz-selector">
-            <label for=timezone>Selected timezone:</label><select id="timezone" data-base-tz="{{ site.data.schedule[0].tz }}"></select>
-          </div>
+{% assign schedule = site.data.schedules[page.schedule] %}
+<section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
+    <div class="content-wrapper" style="margin: 0 1em;">
+        <div style="margin:0 auto;text-align:left;max-width:450px;" class="tz-selector">
+          <label for=timezone>Schedule times are currently displayed in the following time zone:</label><select id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
         </div>
-        {% for day in site.data.schedule %}
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+
+        {% for day in schedule %}
+        <div class="schedule-table">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="timeslot-elements flexbox-wrapper">
