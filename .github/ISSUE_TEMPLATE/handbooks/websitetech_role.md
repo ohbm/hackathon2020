@@ -13,7 +13,7 @@ Brainhack attendees? Sign up as a website team member! You will be part of a glo
 of keeping the website up-to-date and designing new features to make more engaging, inclusive and welcoming.*
 
 **Description**
-The social team is in charge of updating and building new features for the website in coordination
+The website team is in charge of updating and building new features for the website in coordination
 with the Brainhack team.
 
 A website member is a member of the open science neuroimaging community who:
