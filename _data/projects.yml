@@ -26,7 +26,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/85>in this github issue</a>"
 -
   title: "Tracktools"
-  image: whatever.png
+  image: tracktools.png
   details: "In the latest years, I have developed/collected some tools for brain tractography, from inclusion in html,
   to 3Dprinter conversion to other manipulations. Codes is mostly in matlab and we should move in Python, moreover the converter
   from Trackvis to STL for 3Dprinting or Augmented Reality is not good. I am open minded to other ideas for tractography.
