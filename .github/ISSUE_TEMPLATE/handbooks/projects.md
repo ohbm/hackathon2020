@@ -2,21 +2,21 @@
 
 ## Project submission
 
-You can then submit a project [here](https://github.com/ohbm/hackathon2020/issues/new/choose). 
+You can then submit a project [here](https://github.com/ohbm/hackathon2020/issues/new/choose).
 
 We will ask you to provide some information about your project in order to advertise it and help onboarding new members.
 
 If you have any questions on the way of submitting your project, a dedicated project advisor will be here to guide you.
 
-In order to keep things to a manageable size, we hope to limit the number of projects to maximum 25 per hub. If the topic of your submitted project is close to another submission, your project advisor might recommend that you consider creating a joint project. 
+In order to keep things to a manageable size, we hope to limit the number of projects to maximum 25 per hub. If the topic of your submitted project is close to another submission, your project advisor might recommend that you consider creating a joint project.
 
 This handbook includes more information on each item.
 
 ### Timezone
 
-The OHBM Brainhack 2020 will run across 3 hubs and each hub will cover multiple timezones. We ask you to include the [UTC offset](https://en.wikipedia.org/wiki/UTC_offset) of your time zone. This information is available on many website (cf. [here](https://www.timeanddate.com/time/map/) for example). 
+The OHBM Brainhack 2020 will run across 3 hubs and each hub will cover multiple timezones. We ask you to include the [UTC offset](https://en.wikipedia.org/wiki/UTC_offset) of your time zone. This information is available on many website (cf. [here](https://www.timeanddate.com/time/map/) for example).
 
-Here are a few examples: 
+Here are a few examples:
 - Fairbanks UTC-8
 -   Los Angeles UTC-7
 -   Denver UTC-6
@@ -52,8 +52,8 @@ If your project does not involve coding, please include a link to the relevant d
 
 [YourRepo](_insert_URL_here) with a [README.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing:
 -   project idea and context;
--   installation guidelines if applicable;  
--   links to further reading/tutorials;   
+-   installation guidelines if applicable;
+-   links to further reading/tutorials;
 -   and if you want, additional files such as [Contributors.md](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/), to specify which types of people can contribute how.
 
 ### Goals
@@ -82,6 +82,16 @@ Some examples:
 ### Onboarding: 2 good first issues
 
 Flesh out at least 2 "good first issues": those are tasks that do not require any prior knowledge about your project, could be defined as issues in a GitHub repository, or in a shared document.
+
+#### Set up a kanban board
+
+To keep track of the progress on the 2 issues of your project and all the sub-tasks this might involve you
+can use a kanban board.
+
+A kanban board helps you manage your work in a very visual way: here is a short [video explaining the
+idea](https://www.digite.com/kanban/what-is-kanban/).
+
+You can use the integrated kanban on [GitHub](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards) or use an external app like [trello](https://trello.com/).
 
 ### Onboarding: skills
 
@@ -154,7 +164,7 @@ or use one of the tables below
 | Git - 0 | no prior Git knowledge                                                            |
 | Git - 1 | can commit and push to a repository                                               |
 | Git - 2 | comfortable working with branches and can do a pull request on another repository |
-| Git - 3 | can work with continuous integration     
+| Git - 3 | can work with continuous integration
 
 ### Communication
 
@@ -175,7 +185,7 @@ to communicate for your project, just mention it here.
 
 To facilitate coordination we suggest you set up a [jitsi room](https://meet.jit.si/) or use
 zoom / [a permanent skype group](https://support.skype.com/en/faq/FA34799/how-do-i-create-a-group-chat-in-skype-on-desktop) /
-google hangouts or some similar service so you can interact live with all project members wherever they are.    
+google hangouts or some similar service so you can interact live with all project members wherever they are.
 
 ### Participant capacity
 
@@ -183,21 +193,23 @@ As a project leader it is important that you do not overstretch yourself.
 Try to estimate the maximum number of people you would be comfortable having on your team.
 
 ### Credit and onboarding
+
 How would your project onboard new members with different skillsets -- physicist/imager/clinician/psychologist/computational
 scientist/maker/artist/lawyer -- as a projectcollaborator?
 
 We recommend that you read through Mozilla Open Leadership material on
-[personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
+[personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
 
+If you want to easily list contributors on your repository you can look into the [all contributors bot](https://github.com/all-contributors/all-contributors-bot).
 
 ## Project kick-off
 
-After the project kick-off, we ask you to add the following information to your project on GitHub: 
+After the project kick-off, we ask you to add the following information to your project on GitHub:
 
 ### Suggested meeting time
 We would like you to plan one daily video meetings with your team members.
 
-Choose a time that will suit the majority of project members (there might be multiple timezones). 
+Choose a time that will suit the majority of project members (there might be multiple timezones).
 
 
 ### Twitter-size summary of your project pitch
@@ -240,11 +252,17 @@ If you don't have any image you can use `whatever.png`
 -   What was done? What problem was solved? How?
 -   What new problem / question emerged?
 -   What needs to be discussed?
+-   Was there any unconference/within project tutorial sessions held so far?
+-   What are the skills are exchanged/gained by the attendees so far (eg. Git/Github usage, networking etc.)
+
 
 ### Day 2: summary
 -   What was done? What problem was solved? How?
 -   What new problem / question emerged?
 -   What needs to be discussed?
+-   Was there any unconference/within project tutorial sessions held so far?
+-   What are the skills are exchanged/gained by the attendees so far (eg. Git/Github usage, networking etc.)
+
 
 ### Day 3:
 Tweet content for final wrap up
@@ -256,4 +274,3 @@ URL to project repo
 Images
 #OHBMHackathon #Brainhack #OHBM2020
 ```
-

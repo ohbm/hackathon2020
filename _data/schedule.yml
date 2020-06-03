@@ -141,11 +141,11 @@
     }
     - {
     	startTime: "09:15",
-    	endTime: "11:00",
+    	endTime: "10:30",
     	sessionIds: [306,201]
     }
     - {
-    	startTime: "11:00",
+    	startTime: "10:30",
     	endTime: "12:00",
     	sessionIds: [307,201]
     }

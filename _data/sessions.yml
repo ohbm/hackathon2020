@@ -111,9 +111,10 @@
   service: true
 -
   id: 304
-  title: "Brain Imaging Data Structure"
+  title: "BIDS and BIDS apps"
   place: "Crowdcast"
-  description: "How to organize your data, so you will never hate your past 'self' ever again. "
+  description: "How to organize your data, so you will never hate your past 'self' ever again. 
+                We will also go over tools that are compatible with BIDS and how to run them."
   service: true
 -
   id: 305
@@ -134,9 +135,9 @@
   service: true
 -
   id: 307
-  title: "BIDS apps"
+  title: "Maching learning using Nilearn + Sklearn"
   place: "Crowdcast"
-  description: "Have BIDS, will travel..."
+  description: "Hands-on machine learning tutorial for neuroimaging"
   service: true
 -
   id: 308

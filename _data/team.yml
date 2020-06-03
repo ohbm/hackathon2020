@@ -27,6 +27,7 @@
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/cmaumet"}
+    - {name: "github", link: "https://github.com/cmaumet"}
 -
   id: 3
   name: "Ana"
