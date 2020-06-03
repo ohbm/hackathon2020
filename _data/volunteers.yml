@@ -89,12 +89,13 @@
     -
       id: 7
       name: "Steffen"
-      surname: "Bollman"
+      surname: "Bollmann"
       title: "Helpdesk"
-      location: " "
-      thumbnailUrl:
+      location: "Australia"
+      thumbnailUrl: steffen_bollmann.jpg
       team: true
       social:
+        - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
     -
       id: 8
       name: "Chris"
