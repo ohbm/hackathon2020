@@ -42,18 +42,18 @@
 -
   title: "Tools for Combatting Citation Bias"
   image: whatever.png
-  details: "Recent work in neuroscience and other fields has identified a bias in citation practices such that papers from women 
-  and other minorities are under-cited relative to the number of such papers in the field. For this project, we seek to further the 
-  development of two tools to help researchers combat these trends in their own citation practices. The first tool is an interactive jupyter 
-  notebook that provides probabilistic gender break down of first and last authors from a bibliography in a bibtex file. The second is a Google 
+  details: "Recent work in neuroscience and other fields has identified a bias in citation practices such that papers from women
+  and other minorities are under-cited relative to the number of such papers in the field. For this project, we seek to further the
+  development of two tools to help researchers combat these trends in their own citation practices. The first tool is an interactive jupyter
+  notebook that provides probabilistic gender break down of first and last authors from a bibliography in a bibtex file. The second is a Google
   Chrome extension that displays the probabilistic gender of first and last authors of papers on the common search engines Google Scholar and PubMed.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/120>in this github issue</a>"
 -
   title: "Wacky brain explosions Vol II."
   image: wackybrain.gif
-  details: "Are you asking to yourself "how can the year 2020 get more interesting?". The answer is simple: by using a particle simulator to explode
-  some brains at the comfort of your home, in a completely safe virtual environment. <br>After concluding my <a href=https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues/7>previous hackaton project</a> 
-  with "more research is needed", here I am planning to continue exploding more brains in many of ways. All in the name of neuro-science, of course!
+  details: "Are you asking to yourself 'how can the year 2020 get more interesting?. The answer is simple: by using a particle simulator to explode
+  some brains at the comfort of your home, in a completely safe virtual environment. <br>After concluding my <a href=https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues/7>previous hackaton project</a>
+  with 'more research is needed', here I am planning to continue exploding more brains in many of ways. All in the name of neuro-science, of course!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/124>in this github issue</a>"
 
 
