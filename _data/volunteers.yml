@@ -143,7 +143,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/DorienHuijser"}
         - {name: "github", link: "https://github.com/DorienHuijser"}
-
+    -
+      id: 3
+      name: "Adina"
+      surname: "Wagner"
+      title: "Traintrack instructor & teaching assistant"
+      location: "Braunschweig, Germany"
+      thumbnailUrl: adina_wagner.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
+        - {name: "github", link: "https://github.com/adswa"}
 - hub:
   name: "Hub Americas"
   description:
