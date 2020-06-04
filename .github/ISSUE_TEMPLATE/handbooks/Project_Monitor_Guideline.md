@@ -5,20 +5,20 @@ Project Monitor (PM) takes actions in different stages of the project executions
 - You understand the roles and responsibilities of the PM
 - You have enough time to dedicate as it might be needed. 
 - Get familiar yourself with the Handbook, Guidelines and general flow of the Brainhack.
-- Create your Mattermost account and enrol to the [Project Monitors Channel](https://mattermost.brainhack.org/brainhack/channels/ohbm_project_monitors) to convey further discussions. 
+- Create your Mattermost account and join the [Project Monitors Channel](https://mattermost.brainhack.org/brainhack/channels/ohbm_project_monitors) to convey further discussions. 
 - Share some details about yourself in the [PM Spreadsheet]().
 
 ## Roles and Responsibilities
 
 Your roles from the stage of project submission to the end day of the Brainhack includes;
 
-- Reviewing project assigned with you or you have chosen
-- Conveying a continuous communication with the project leaders and members through the Brainhack to;
+- Reviewing project(s) assigned to you or that you have chosen
+- Conveying a continuous communication with the project leaders and members throughout the Brainhack
 - If you would like, share your thoughts/advice on the methodological, technological and theoretical aspects of the projects.
-  - Help them to find and contact with the experts from the community in the case of queries.
+  - Help them to find and contact the experts from the community in the case of queries.
   - Direct them to related Brainhack sources/tools to use/read.
-  - Check that there is no conflict or violation of CoC occurs among the project members. 
--  Run daily and brief project meetings to observe how the project is going, share your advice and suggestions, and check if there is any need of help regarding the project.
+  - Check that there is no conflict or violation of CoC occuring among the project members. 
+-  Run daily and brief project meetings to observe how the project is going, share your advice and suggestions, and check if there is any help needed regarding the project.
 
 ### At the Beginning of the Project Submission
 
@@ -32,9 +32,9 @@ Your roles from the stage of project submission to the end day of the Brainhack 
 
 ### After the Project is Accepted
 1. Make the acceptance declaration to the project leader.
-2. Make sure they have prepared a pitching presentation comply with the requirements of the Brianhack guidelines.
-3. Make daily meetings with the project team members to discuss the progresses in the project and understand if there are any obstacles along to the way that requires OHBM Team’s or experts involvements. 
-4. Issue the progress of the projects in the spreadsheet. 
+2. Make sure they have prepared a pitching presentation comply with the requirements of the Brainhack guidelines.
+3. Make daily meetings with the project team members to discuss the progress in the project and understand if there are any obstacles along to the way that require OHBM Team’s or experts' involvements. 
+4. Update the progress of the projects in the spreadsheet. 
 
 
 ### After the Brainhack Finishes
