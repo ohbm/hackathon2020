@@ -1,19 +1,15 @@
 <!-- Begin Schedule Section -->
-<section id="schedule" class="schedule">
-    <div class="content-wrapper">
-        {% for day in site.data.schedule %}
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+{% assign schedule = site.data.schedules[page.schedule] %}
+<section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
+    <div class="content-wrapper" style="margin: 0 1em;">
+        <div style="margin:0 auto;text-align:left;max-width:450px;" class="tz-selector">
+          <label for=timezone>Schedule times are currently displayed in the following time zone:</label><select id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
+        </div>
+
+        {% for day in schedule %}
+        <div class="schedule-table">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label"> <!-- {{ day.tablelabel }}  -->
-                  <p>Your time in:
-                    <ul style="padding-left: 10px">
-                      <li>Hub 1: Bankgok, Jakarta</li>
-                      <li>Hub 2: London, Abidjan</li>
-                      <li>Hub 3: Los Angeles</li>
-                    </ul>
-                  </p>
-                </div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
@@ -29,11 +25,11 @@
             {% for timeslot in day.timeslots %}
             <div class="timeslot" itemtype="http://schema.org/subEvent">
                 <div class="timeslot-label">
-                    <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
+                    <time class="start-time" data-value="{{ day.date }} {{ timeslot.startTime }}" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
                         {% assign startTime = timeslot.startTime | split: ":" %}
                         {{ startTime[0] }}<span>{{ startTime[1] }}</span>
                     </time>
-                    <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                      <time class="end-time" data-value="{{ day.date }} {{ timeslot.endTime }}" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
                         {% assign endTime = timeslot.endTime | split: ":" %}
                         {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
