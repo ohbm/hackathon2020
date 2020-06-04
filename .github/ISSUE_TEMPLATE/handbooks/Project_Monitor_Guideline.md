@@ -1,12 +1,12 @@
-# Project Advisor Guideline
+# Project Monitor Guideline
 
-Project Advisor (PA) takes actions in different stages of the project executions to make sure they fully follow the OHBM Hackathon procedures. Please do not forget that, as PA, you are not expected to be in expertise of the project you are assigned as PA, so please do not feel under pressure of being not familiar with the field. You will be there to guide them to use their time and effort wisely and help them to reach the right sources quickly as possible in accordance with the OHBM Brainhack Team. Your project leaders will also know that you are not obligated to give them any advice on the scope/concept of the project methodologically, technologically and theoretically but help in many other aspects it would help them to conduct the project.  Before you start make sure that
+Project Monitor (PM) takes actions in different stages of the project executions to make sure they fully follow the OHBM Hackathon procedures. Please do not forget that, as PM, you are not expected to be in expertise of the project you are assigned as PM, so please do not feel under pressure of being not familiar with the field. You will be there to guide them to use their time and effort wisely and help them to reach the right sources quickly as possible in accordance with the OHBM Brainhack Team. Your project leaders will also know that you are not obligated to give them any advice on the scope/concept of the project methodologically, technologically and theoretically but help in many other aspects it would help them to conduct the project.  Before you start make sure that
 
-- You understand the roles and responsibilities of the PA 
+- You understand the roles and responsibilities of the PM
 - You have enough time to dedicate as it might be needed. 
 - Get familiar yourself with the Handbook, Guidelines and general flow of the Brainhack.
-- Create your Mattermost account and enrol to the [Project Advisors Channel]() to convey further discussions. 
-- Share some details about yourself in the [PA Spreadsheet]().
+- Create your Mattermost account and enrol to the [Project Monitors Channel](https://mattermost.brainhack.org/brainhack/channels/ohbm_project_monitors) to convey further discussions. 
+- Share some details about yourself in the [PM Spreadsheet]().
 
 ## Roles and Responsibilities
 
@@ -23,11 +23,11 @@ Your roles from the stage of project submission to the end day of the Brainhack 
 ### At the Beginning of the Project Submission
 
 1. Review the issue associated with the project and check whether the details listed in the checklist were provided or not.
-2. Contact with the project leader through the PR and declare that you are PA for this project and your role in the project through the 3 days of Brainhack as it is listed below. 
+2. Contact with the project leader through the PR and declare that you are PM for this project and your role in the project through the 3 days of Brainhack as it is listed below. 
 3. If there is any missing information in the project submission issue, ask the project leader to provide the information. 
-4. Fill the PA sheet regarding the project/s you will be PA for.
-5. Fill the PA sheet regarding whether first initial contact with the project leader was made and you explained your role to them.
-6. Review the project start, teaming up and share your decision in the related area of the PA sheet. 
+4. Fill the PM sheet regarding the project/s you will be PM for.
+5. Fill the PM sheet regarding whether first initial contact with the project leader was made and you explained your role to them.
+6. Review the project start, teaming up and share your decision in the related area of the PM sheet. 
 
 
 ### After the Project is Accepted
@@ -40,4 +40,4 @@ Your roles from the stage of project submission to the end day of the Brainhack 
 ### After the Brainhack Finishes
 
 1. Guide them towards the demo pitch that will be held at the end of the Brainhack.
-2. Mention to the project members the proceeding possibilities for the Brainhack projects that might lead them to a publication in the future. 
+ 
