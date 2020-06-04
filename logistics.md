@@ -19,7 +19,8 @@ image: schedule.jpg
 A global online event has to find a good way to compromise on several things.
 
 1. We have to make sure that attendees can join without completely messing up their biological rhythm.
-2. We need to have the live broadcast of the event (kick off, pitches, wrap up, coffee/lunch room) and the TrainTrack happen when attendees are actually awake.
+2. We need to have the live broadcast of the event (kick off, pitches, wrap up, coffee/lunch room)
+3.    and the TrainTrack happen when attendees are actually awake.
 
 The general idea is to have several places (hubs) that participate in the same global Brainhack, allowing us to partly tackle
 the question of geographical inclusivity by allowing people to easily attend no matter where they are.
@@ -73,44 +74,53 @@ If you want to help us with running the brainhack here is a list of the differen
 
 Get in touch with us.
 
-<!-- INSERT LINK TO CONTACT PAGE OR SIGN UP FORM -->
-
-<!-- Commented out until we have this back online as a role -->
-<!-- {% collapse Project monitor %}
-Project monitors play an essential role in guiding project leads to comply with Brainhack project
-guidelines and set minimal documentation to make their project more welcoming to new members.
-Before the brainhack, project monitors will review submitted projects and make sure
-that they are set up following brainhack project setup guidelines. Then during the brainhack they can
-provide support and especially help project leaders who might feel a bit lost if it is their first time
-managing a team.
-{% endcollapse %} -->
+{% collapse Project monitor %}
+Are you keen on helping Brainhack backstage? Making sure that projects follow guidelines that will
+help onboard new members? [Sign up as a project monitor!](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack)
+In the weeks preceding Brainhack, you will review submitted projects and support project leads to
+follow Brainhack project setup guidelines. During Brainhack, you will encourage project lead to
+provide short documentation on what happened at the end of each day. More info
+[here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/monitor_role.md).
+{% endcollapse %}
 
 {% collapse Welcome system %}
-Would you like to help orientate Brainhack attendees throughout the event? Provide a relaxed space for informal chat? Sign up as a welcome desk host! You will chat with attendees and provide any feedback they need.
+Would you like to help orientate Brainhack attendees throughout the event? Provide a relaxed space
+for informal chat? [Sign up as a welcome desk host](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack)!
+You will chat with attendees and provide any feedback they need. More information
+[here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/welcomedeskhost_role.md).
 
 <img align="right" src="../img/logistics/welcome_desk.png" alt="welcome" width="40%">
 
 {% endcollapse %}
 
 {% collapse Webteam system %}
-Are you familiar with website development? Would you like to help shaping an engaging experience for Brainhack attendees? Sign up as a website team member! You will be part of a global team in charge of keeping the website up-to-date and designing new features to make it more engaging, inclusive and welcoming.
+Are you familiar with website development? Would you like to help shaping an engaging experience for
+Brainhack attendees? [Sign up as a website team member](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack)!
+You will be part of a global team in charge of keeping the website up-to-date and designing new features
+to make it more engaging, inclusive and welcoming. More information
+[here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/websitetech_role.md).
 
 <img align="right" src="../img/logistics/webteam.png" alt="webteam" width="40%">
 
 {% endcollapse %}
 
 {% collapse Buddy system %}
-You’ve already attended a brainhack, are keen in welcoming new members in the brainhack community? As a
-brainhack mentor, you will make sure that your mentees have followed the participant onboarding,
-you will spend 1-hour a day with them to help with their on-boarding.
+You have already attended a brainhack, are keen in welcoming new members in the Brainhack community?
+[Sign up as a Brainhack buddy](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack)! You will be
+paired with an attendee who is coming to their first hackathon. You will spend 1-hour a day with them
+during the event to help their onboarding. More information
+[here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/buddy_role.md).
 
 <img align="right" src="../img/logistics/buddy.png" alt="buddy" width="40%">
 
 {% endcollapse %}
 
 {% collapse Help desk %}
-Signup for the brainhack helpdesk and answer attendees technical questions. As a member of the helpdesk
-you will sign up for monitoring the helpdesk chat and answer any question.
+Ready to share your technical expertise at the Brainhack?
+[Sign up for the Brainhack helpdesk](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack) and answer
+attendees’ technical questions during the event. As a member of the helpdesk you will monitor the
+helpdesk channel and answer any questions related to your expertise. More information
+[here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/helpdesk_role.md).
 
 <img align="right" src="../img/logistics/helpdesk.png" alt="helpdesk" width="40%">
 
@@ -126,7 +136,9 @@ going in a relaxed and inclusive atmosphere.
 {% endcollapse %}
 
 {% collapse Social media %}
-The social media lead across hubs is responsible of designing the social media communications used across all events. Each hub has a social media volunteer who posts updates throughout the event to Twitter and advertises when a new hackathon project submission has been accepted prior to the event.
+Would you like to help developing Brainhack social media communications?
+[Sign up as a member of the social media team](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack)!
+You will be part of a global team in charge of spreading our communications for the OHBM Brainhack.
 
 <img align="right" src="../img/logistics/social_media.png" alt="social_media" width="40%">
 
@@ -143,7 +155,8 @@ The social media lead across hubs is responsible of designing the social media c
 {% accordion software %}
 
 {% collapse Crowdcast %}
-Each hub will be using the [OSSIG Crowdcast](https://www.crowdcast.io/ossig2019) for the main sessions, and this content will be streamed on our [Youtube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ)
+Each hub will be using the [OSSIG Crowdcast](https://www.crowdcast.io/ossig2019) for the main sessions,
+and this content will be streamed on our [Youtube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ)
 simultaneously such that those who are not formally registered can follow along as well.
 
 <img align="left" src="../img/logistics/crowdcast.svg" alt="crowdcast" height="100px">
@@ -161,7 +174,9 @@ If you are not familiar with mattermost, make sure you check out the [user-guide
   * [General](https://mattermost.brainhack.org/brainhack/channels/general)
   * [Town Square](https://mattermost.brainhack.org/brainhack/channels/town-square)
 * Project channel: Each project will have its own channel
-* Help desk: We have set up some channels that we will be using during the brainhack to facilate people asking for help. Each channel is associated with a jitsi video chat in case some face to face interaction and screen sharing is needed to trouble shoot some of the problems.
+* Help desk: We have set up some channels that we will be using during the brainhack to facilate people
+asking for help. Each channel is associated with a jitsi video chat in case some face to face 
+interaction and screen sharing is needed to trouble shoot some of the problems.
   - [Help desk - general](https://mattermost.brainhack.org/brainhack/channels/help_desk-general)
   - [Help desk - docker](https://mattermost.brainhack.org/brainhack/channels/help_desk-docker)
   - [Help desk - git-github](https://mattermost.brainhack.org/brainhack/channels/help_desk-git_github)
@@ -284,8 +299,9 @@ To check if you do:
 - On Fedora - type `sudo yum install git` inside the terminal.
 
 ###### **VSCode**
-    Go to the [visual studio code website](https://code.visualstudio.com/) and click the download button for either the .deb (Ubuntu, Debian) or the .rpm (Fedora, CentOS) file.
-    Double-click the downloaded file to install VSCode. (You may be prompted to type your administrator password during the install).
+Go to the [visual studio code website](https://code.visualstudio.com/) and click the download button for either the .deb (Ubuntu, Debian) or the .rpm (Fedora, CentOS) file.
+
+Double-click the downloaded file to install VSCode. (You may be prompted to type your administrator password during the install).
 
 ###### **VSCode extensions**
 
