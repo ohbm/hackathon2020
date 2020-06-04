@@ -38,12 +38,12 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     display: block;
     transform: translateY(20px);
     transition: $base-transition;
-    @media (max-width: 767px) {
+    @media (max-width: 991px) {
         transform: translateX(-45px);
     }
     .top-header.after-scroll & {
         transform: translateY(1px);
-        @media (max-width: 767px) {
+        @media (max-width: 991px) {
             transform: translateX(-45px);
         }    
     }
@@ -55,7 +55,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         margin-right: 20px;
         transform: scale(.7);
         vertical-align: middle;
-         @media (max-width: 767px) {
+         @media (max-width: 991px) {
             transform: scale(.6);
         }
     }
@@ -68,7 +68,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     vertical-align: middle;
 }
 nav {
-    @media (max-width: 767px) {
+    @media (max-width: 991px) {
         position: fixed;
         z-index: 100;
         top: 0;
@@ -92,7 +92,7 @@ nav {
         text-align: left;
         transform: translateY(40px);
         transition: $base-transition;
-        @media (max-width: 767px) {
+        @media (max-width: 991px) {
             line-height: 20px;
             width: 95%;
             margin: 20px 0 0 5px;
@@ -100,7 +100,7 @@ nav {
         }
         .top-header.after-scroll & {
             transform: translateY(20px);  
-            @media (max-width: 767px) {
+            @media (max-width: 991px) {
                 transform: translateY(0);  
             }
         }
@@ -109,7 +109,7 @@ nav {
         display: inline-block;
         padding: 0 8px;
         vertical-align: middle;
-        @media (max-width: 767px) {
+        @media (max-width: 991px) {
             display: block;
         }
         a {
@@ -118,7 +118,7 @@ nav {
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
-            @media (max-width: 767px) {
+            @media (max-width: 991px) {
                 font-size: 16px;
                 display: block;
                 padding: 13px 15px 13px 15px;
@@ -130,18 +130,18 @@ nav {
             &.current, &:hover {
                 text-decoration: none;
                 color: $nav-color-hover;
-                @media (max-width: 767px) {
+                @media (max-width: 991px) {
                     color: $main-color;
                 }
             }
             .top-header.after-scroll & {
                 color: $nav-scroll-color;
-                @media (max-width: 767px) {
+                @media (max-width: 991px) {
                     top: 20px;
                 }
                 &.current, &:hover {
                     color: $nav-scroll-color-hover;
-                    @media (max-width: 767px) {
+                    @media (max-width: 991px) {
                         color: $main-color;
                     }
                 }
