@@ -131,7 +131,7 @@ layout: compress
         {% endif %} 
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/schedule/' %}
+    {% if page.permalink contains '/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
                 var navHeight = $('#top-header').height();
@@ -140,6 +140,11 @@ layout: compress
                 $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
             });
         </script>
+        <script src="../js/moment.min.js"></script>
+        <script src="../js/moment-timezone-with-data-10-year-range.min.js"></script>
+        <script src="../js/selectize.min.js"></script>
+        <link rel="stylesheet" href="../css/selectize.bootstrap3.css">
+        <script src="../js/schedule.js"></script>
     {% endif %}
 
     {% include schema-event.html %}

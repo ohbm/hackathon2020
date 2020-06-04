@@ -85,7 +85,6 @@ $small-label-width: 80px;
 }
 .timeslot-label {
     @extend .track-header-label;
-    position: relative;
     float: left;
     display: block;
     transition: $base-transition;
