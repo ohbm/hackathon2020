@@ -23,7 +23,7 @@
       id: 0
       name: "Angela"
       surname: "Tam"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Singapore"
       thumbnailUrl: angela_tam.jpg
       team: true
@@ -34,7 +34,7 @@
       id: 1
       name: "Chao-Gan"
       surname: "Yan"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Beijing, China"
       thumbnailUrl: chao_gan.jpg
       team: true
@@ -135,7 +135,7 @@
       id: 0
       name: "Remi"
       surname: "Gau"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Brussels, Belgium"
       thumbnailUrl: remi_gau.jpg
       team: true
@@ -146,7 +146,7 @@
       id: 1
       name: "Melvin Selim"
       surname: "Atay"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Turkey"
       thumbnailUrl: selim_atay.jpg
       team: true
@@ -168,7 +168,7 @@
       id: 3
       name: "Adina"
       surname: "Wagner"
-      title: "Traintrack instructor & teaching assistant"
+      title: "Traintrack instructor, teaching assistant"
       location: "Braunschweig, Germany"
       thumbnailUrl: adina_wagner.jpg
       team: true
@@ -183,7 +183,7 @@
       id: 0
       name: "Liza"
       surname: "Levitis"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Montreal, Canada"
       thumbnailUrl: liza_levitis.jpg
       team: true
@@ -218,7 +218,7 @@
       surname: "Nastase"
       title: "Traintrack instructor, teaching assistant"
       location: "Princeton, NJ, USA"
-      thumbnailUrl: sasm_nastase.jpg
+      thumbnailUrl: sam_nastase.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/samnastase"}
@@ -227,9 +227,9 @@
       id: 5
       name: "Agah"
       surname: "Karakuzu"
-      title: ""
+      title: "Traintrack instructor, teaching assistant"
       location: "Kayseri, Turkey"
-      thumbnailUrl: Agah_Karakuzu.jpeg
+      thumbnailUrl: Agah_Karakuzu.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
