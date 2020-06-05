@@ -19,24 +19,26 @@
                     <div class="overlay solid-overlay"></div>
                     <figcaption>
 
-                        <div class="col-md-7 col-xs-7 text-left">
+                        <div class="col-md-9 col-xs-8 text-left">
                             <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
                             <div class="clearfix"></div>
-                            <span class="position">{{ teamMember.title }}</span>
+                            {% if teamMember.title %}
+                                <span class="position">{{ teamMember.title }}</span>
+                            {% endif %}
                         </div>
 
-                        <div class="col-md-5 col-xs-5">
-
-                        <p class="location" > {{ teamMember.location }} </p>
-
-                        {% for social in teamMember.social %}
-                        <a href="{{ social["link"] }}" target="_blank"
-                        style="text-align: right">
-                            <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
-                            </svg>
-                        </a>
-                        {% endfor %}
+                        <div class="col-md-3 col-xs-4">
+                            <p class="location">{{ teamMember.location }} &nbsp;</p>
+                            <p class="social">
+                                {% for social in teamMember.social %}
+                                <a href="{{ social["link"] }}" target="_blank"
+                                style="text-align: right">
+                                    <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                    </svg>
+                                </a>
+                                {% endfor %}
+                            </p>
                         </div>
 
                     </figcaption>

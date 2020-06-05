@@ -19,6 +19,9 @@ $figcaption-color-hover: #000;
                 }
             }
         }
+        h2 {
+            transform: translateY(-0.5em);
+        }
         h2, figcaption, figcaption > a {
             transform: translateY(0);
             color: $figcaption-color-hover;
@@ -68,8 +71,7 @@ $figcaption-color-hover: #000;
         position: absolute;
         bottom: 0;
         width: 100%;
-        height: 50px;
-        padding: 13px;
+        padding: 10px 8px 2px;
         z-index: 2;
         transition: $base-transition;
         transform: translateY(100%);
@@ -77,20 +79,25 @@ $figcaption-color-hover: #000;
         background: #fff;
         @media (max-width: 767px) {
             transform: translateY(0);
+            color: $figcaption-color-hover;
         }
         h2 {
-            font-size: 16px;
+            font-size: 14px;
             font-weight: $regular;
             margin: 0;
+            padding: 4px 3px;
             word-spacing: -2px;
             text-transform: uppercase;
             transition: $base-transition;
-            transform: translateY(-250%);
+            transform: translateY(-3.6em);
             transition-delay: .05s;
             color: $figcaption-color;
+            text-shadow: 1px 1px 2px #000;
             @media (max-width: 767px) {
+                color: $figcaption-color-hover;
                 transform: translateY(0);
                 color: #3c4a50;
+                font-size: 14px;
             }
             span {
                 font-weight: $bold;
@@ -119,6 +126,16 @@ $figcaption-color-hover: #000;
             font-size: 10px;
             padding: 0;
             margin: 0;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            padding-left: 8px;
+        }
+        .social {
+            text-align: right;
+            font-size: 10px;
+            padding: 0;
+            margin: 0;
         }
     }
     .bio {
@@ -134,5 +151,9 @@ $figcaption-color-hover: #000;
         color: $figcaption-color;
         background: none;
         @include trimText(14px, 1.3, 5);
+        
+        @media (max-width: 767px) {
+            color: $figcaption-color-hover;
+        }
     }
 }

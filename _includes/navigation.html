@@ -1,13 +1,13 @@
 <header id="top-header" class="top-header">
     <div class="overlay white-solid"></div>
-    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs visible-sm" viewBox="0 0 32 32">
         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
     <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
         <div class="logo logo-light"></div>
     </a>
     <nav class="st-menu st-effect" id="menu">
-        <div class="logo-navbar logo logo-dark visible-xs"></div>
+        <div class="logo-navbar logo logo-dark visible-xs visible-sm"></div>
         <ul>
             {% for navigationLink in site.navigationLinks %}
             <li>
@@ -15,7 +15,7 @@
             </li>
             {% endfor %}
         </ul>
-        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
+        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs visible-sm">
             {% for bottomNavigationLink in site.bottomNavigationLinks %}
             <li>
                 <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
@@ -23,7 +23,7 @@
             {% endfor %}
         </ul>
         {% for rightNavigationButton in site.rightNavigationButtons %}
-        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm hidden-md" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
             {{ rightNavigationButton.text }}
         </a>
         {% endfor %}
