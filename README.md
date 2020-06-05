@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # OHBM 2020 Brainhack
@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/DorienHuijser"><img src="https://avatars1.githubusercontent.com/u/58177697?v=4" width="100px;" alt=""/><br /><sub><b>Dorien Huijser</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=DorienHuijser" title="Code">💻</a> <a href="#infra-DorienHuijser" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-DorienHuijser" title="Maintenance">🚧</a> <a href="https://github.com/ohbm/hackathon2020/pulls?q=is%3Apr+reviewed-by%3ADorienHuijser" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://anibalsolon.com/"><img src="https://avatars0.githubusercontent.com/u/562525?v=4" width="100px;" alt=""/><br /><sub><b>Anibal Sólon</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=anibalsolon" title="Code">💻</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=anibalsolon" title="Documentation">📖</a> <a href="#design-anibalsolon" title="Design">🎨</a> <a href="#ideas-anibalsolon" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-anibalsolon" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
