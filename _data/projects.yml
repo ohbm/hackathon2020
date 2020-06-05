@@ -8,7 +8,7 @@
 
 -
   title: "Learn and Enhance BrainIAK Tutorials: From Basics to Advanced fMRI Analyses"
-  image: whatever.png
+  image: brainiak.png
   details: "This project will help participants learn fMRI analyses and enhance BrainIAK Tutorials (Kumar et al., 2020).
   Participants can practice a tutorial covering any topic of interest, from basics to advanced techniques.
   They can also contribute to the tutorials, by making edits, fixing bugs, or enhancing them by applying the techniques
@@ -33,7 +33,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/84>in this github issue</a>"
 -
   title: "VB Index BIDS support / Pretty GUI"
-  image: whatever.png
+  image: vb_index.png
   details: "I have been collaborating / leading a project that produced some software to 1) create 'cortical gradients'
   and a simple edge detection technique called the VB Index (see <a href=http://psyarxiv.com/7vzbk/>preprint</a>).
   We have a python and matlab tool but are focussing on the <a href=https://github.com/VBIndex/py_vb_toolbox>python version</a>.
@@ -41,7 +41,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/102>in this github issue</a>"
 -
   title: "Tools for Combatting Citation Bias"
-  image: whatever.png
+  image: Tools_citation_bias.PNG
   details: "Recent work in neuroscience and other fields has identified a bias in citation practices such that papers from women
   and other minorities are under-cited relative to the number of such papers in the field. For this project, we seek to further the
   development of two tools to help researchers combat these trends in their own citation practices. The first tool is an interactive jupyter

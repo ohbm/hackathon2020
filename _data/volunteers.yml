@@ -23,7 +23,7 @@
       id: 0
       name: "Angela"
       surname: "Tam"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Singapore"
       thumbnailUrl: angela_tam.jpg
       team: true
@@ -34,7 +34,7 @@
       id: 1
       name: "Chao-Gan"
       surname: "Yan"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Beijing, China"
       thumbnailUrl: chao_gan.jpg
       team: true
@@ -105,7 +105,28 @@
       thumbnailUrl:
       team: true
       social:
-
+    -
+      id: 9
+      name: "Megan"
+      surname: "Campbell"
+      title: "social team"
+      location: "Newcastle, Australia"
+      thumbnailUrl: Megan_Campbell.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/megaej_campbell"}
+        - {name: "github", link: "https://github.com/meganEJcampbell/"}
+    -
+      id: 10
+      name: "Winnie"
+      surname: "Orchard"
+      title: "social team"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Winnie_Orchard.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/OrchardWinnie"}
+        - {name: "github", link: "https://github.com/WinnieOrchard/"}
 - hub:
   name: "Hub Europe, Middle East & Africa"
   description:
@@ -114,7 +135,7 @@
       id: 0
       name: "Remi"
       surname: "Gau"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Brussels, Belgium"
       thumbnailUrl: remi_gau.jpg
       team: true
@@ -125,7 +146,7 @@
       id: 1
       name: "Melvin Selim"
       surname: "Atay"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Turkey"
       thumbnailUrl: selim_atay.jpg
       team: true
@@ -147,7 +168,7 @@
       id: 3
       name: "Adina"
       surname: "Wagner"
-      title: "Traintrack instructor & teaching assistant"
+      title: "Traintrack instructor, teaching assistant"
       location: "Braunschweig, Germany"
       thumbnailUrl: adina_wagner.jpg
       team: true
@@ -162,7 +183,7 @@
       id: 0
       name: "Liza"
       surname: "Levitis"
-      title: "Brainhack Co-host"
+      title: "Brainhack co-host"
       location: "Montreal, Canada"
       thumbnailUrl: liza_levitis.jpg
       team: true
@@ -191,7 +212,28 @@
       social:
         - {name: "twitter", link: "https://twitter.com/arshitha94"}
         - {name: "github", link: "https://github.com/Arshitha/"}
-
+    -
+      id: 4
+      name: "Sam"
+      surname: "Nastase"
+      title: "Traintrack instructor, teaching assistant"
+      location: "Princeton, NJ, USA"
+      thumbnailUrl: sam_nastase.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/samnastase"}
+        - {name: "github", link: "https://github.com/snastase/"}
+    -
+      id: 5
+      name: "Agah"
+      surname: "Karakuzu"
+      title: "Traintrack instructor, teaching assistant"
+      location: "Kayseri, Turkey"
+      thumbnailUrl: Agah_Karakuzu.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
+        - {name: "github", link: "https://github.com/agahkarakuzu/"}
 - hub:
   name: "Cross-hub coordination team"
   description:
