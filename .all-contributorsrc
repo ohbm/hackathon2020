@@ -116,6 +116,30 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "anibalsolon",
+      "name": "Anibal Sólon",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/562525?v=4",
+      "profile": "https://anibalsolon.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "crohr",
+      "name": "Cyril Rohr",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6114?v=4",
+      "profile": "https://ouestcode.com",
+      "contributions": [
+        "code",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
