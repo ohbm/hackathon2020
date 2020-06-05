@@ -105,7 +105,28 @@
       thumbnailUrl:
       team: true
       social:
-
+    -
+      id: 9
+      name: "Megan"
+      surname: "Campbell"
+      title: "social team"
+      location: "Newcastle, Australia"
+      thumbnailUrl: Megan_Campbell.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/megaej_campbell"}
+        - {name: "github", link: "https://github.com/meganEJcampbell/"}
+    -
+      id: 10
+      name: "Winnie"
+      surname: "Orchard"
+      title: "social team"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Winnie_Orchard.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/OrchardWinnie"}
+        - {name: "github", link: "https://github.com/WinnieOrchard/"}
 - hub:
   name: "Hub Europe, Middle East & Africa"
   description:
@@ -191,7 +212,28 @@
       social:
         - {name: "twitter", link: "https://twitter.com/arshitha94"}
         - {name: "github", link: "https://github.com/Arshitha/"}
-
+    -
+      id: 4
+      name: "Sam"
+      surname: "Nastase"
+      title: "Traintrack instructor, teaching assistant"
+      location: "Princeton, NJ, USA"
+      thumbnailUrl: sasm_nastase.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/samnastase"}
+        - {name: "github", link: "https://github.com/snastase/"}
+    -
+      id: 5
+      name: "Agah"
+      surname: "Karakuzu"
+      title: ""
+      location: "Kayseri, Turkey"
+      thumbnailUrl: Agah_Karakuzu.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
+        - {name: "github", link: "https://github.com/agahkarakuzu/"}
 - hub:
   name: "Cross-hub coordination team"
   description:
