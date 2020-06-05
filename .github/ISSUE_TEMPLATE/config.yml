@@ -6,10 +6,10 @@
 newIssueWelcomeComment: >
   ![Welcome Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)
   (Image: CC-BY license, The Turing Way Community, & Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332808)
-  
+
   :tada: Welcome to the 2020 OHBM Hackathon! :tada:
   We're really excited to have your input on this repository and welcome your idea! :sparkling_heart:
-  If you haven't done so already, please make sure you check out our [README](https://github.com/ohbm/hackathon2020/blob/master/README.md) and [Code of Conduct](https://github.com/ohbm/hackathon2020/blob/master/code_of_conduct.md).
+  If you haven't done so already, please make sure you check out our [Code of Conduct](https://github.com/ohbm/hackathon2020/blob/master/code_of_conduct.md).
 Did you issue a new hackathon project? Please check if you have provided all relevant information and an image for the [website](https://ohbm.github.io/hackathon2020/hackathon/).
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
@@ -17,22 +17,18 @@ Did you issue a new hackathon project? Please check if you have provided all rel
 newPRWelcomeComment: >
   ![Thank You Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)
   (Image: CC-BY license, The Turing Way Community, & Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332808)
-  
+
   :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
   We really appreciate your time and effort to contribute to the project.
-  Please make sure you have read our [Readme](https://github.com/ohbm/hackathon2020/blob/master/README.md) and have shared all relevant details in your pull request.
-  We sometimes get many pull requests on this repo, so please be patient and we will get back to you as soon as we can.
-  If we don't acknowledge this pull request after 7 days, feel free to comment below.
+  If you are trying to add your contribution to our [Venue page](https://ohbm.github.io/hackathon2020/venue/), please make sure you have read our [instructions](https://github.com/ohbm/hackathon2020/issues/64) and have shared all relevant details in your pull request.
+  The OHBM Brainhack webteam might be a bit busy right now but we will have a look at your suggestion very quickly.
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
   ![Congratulations Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:32fbdb89-ae1b-434e-830c-88ade86724cc:BannerCongratulations.jpg/full/750,/0/default.jpg)
   (Image: CC-BY license, The Turing Way Community, & Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332808)
-  
-  Congrats on merging your first pull request! :tada:
-  We here at OHBM team really appreciate your contribution! :sparkling_heart:
-  Go ahead and share your your first merge with your colleagues, you got yourself this brag right! :smile: :gift:
-  
 
-  
+  Congrats on merging your first pull request! :tada:
+  We here at OHBM Brainhack team really appreciate your contribution! :sparkling_heart:
+  Go ahead and share your your first merge with your colleagues, you got yourself this brag right! :smile: :gift:
