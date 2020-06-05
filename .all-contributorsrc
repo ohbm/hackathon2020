@@ -129,6 +129,17 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "crohr",
+      "name": "Cyril Rohr",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6114?v=4",
+      "profile": "https://ouestcode.com",
+      "contributions": [
+        "code",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
