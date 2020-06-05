@@ -18,7 +18,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/109>in this github issue</a>"
 -
   title: "BIDS to NiftyTorch: data preparation for deep learning"
-  image: whatever.png
+  image: NiftyTorch.png
   details: "We aim to build an automated pipeline to make a copy of BIDS formatted project for the purpose of deep learning
   and automatically evaluate the dataset. This includes, creating a randomly selected sets of training, validation and test
   dataset for deep learning, searching for missing data, evaluating consistency across image input using image size and modality,
