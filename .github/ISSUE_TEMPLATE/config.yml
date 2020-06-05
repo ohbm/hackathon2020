@@ -20,7 +20,7 @@ newPRWelcomeComment: >
   
   :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
   We really appreciate your time and effort to contribute to the project.
-  Please make sure you have read our [https://github.com/ohbm/hackathon2020/blob/master/README.md) and shared details in your pull request.
+  Please make sure you have read our [Readme](https://github.com/ohbm/hackathon2020/blob/master/README.md) and have shared all relevant details in your pull request.
   We sometimes get many pull requests on this repo, so please be patient and we will get back to you as soon as we can.
   If we don't acknowledge this pull request after 7 days, feel free to comment below.
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
