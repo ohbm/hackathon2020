@@ -1,16 +1,21 @@
 -
   id: 1
-  name: "prof. em. Riitta Hari (Aalto University)"
-  title: "We know about the brain almost everything, except how it works. So what?"
-  thumbnailUrl: hari.jpg
+  name: "Adina"
+  surname: "Wagner"
+  title: "Datalad"
+  thumbnailUrl: adina_wagner.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
+    - {name: "github", link: "https://github.com/adswa"}
 -
   id: 2
-  name: "prof. Lauri Parkkonen (Aalto University)"
-  title: "The unseen in brain imaging"
-  thumbnailUrl: parkkonen.jpg
-  rockstar: true
+  name: "Agah"
+  surname: "Karakuzu"
+  title: "Best coding practices"
+  location: "Kayseri, Turkey"
+  thumbnailUrl: Agah_Karakuzu.jpg
+  team: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
+    - {name: "github", link: "https://github.com/agahkarakuzu/"}

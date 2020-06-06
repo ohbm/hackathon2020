@@ -109,6 +109,12 @@
   place: "Crowdcast"
   description: "Learn to trust your own code so sharing it feels less scary."
   service: true
+  subtype: pre-recorded / follow along
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 303
   title: "Good coding practices with python"
@@ -119,7 +125,7 @@
   id: 304
   title: "BIDS and BIDS apps"
   place: "Crowdcast"
-  description: "How to organize your data, so you will never hate your past 'self' ever again. 
+  description: "How to organize your data, so you will never hate your past 'self' ever again.
                 We will also go over tools that are compatible with BIDS and how to run them."
   service: true
 -
@@ -163,6 +169,12 @@
   place: "Crowdcast"
   description: "Version control applied to your data... and much more."
   service: true
+  subtype: pre-recorded / follow along
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 
 -

@@ -45,9 +45,9 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/#about/", text: "About"}
- #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule", text: "Schedule"}
- - {permalink: "/hackathon", text: "HackTrack"}
+ - {permalink: "/hacktrack", text: "HackTrack"}
+ - {permalink: "/traintrack/", text: "TrainTrack"}
  - {permalink: "/logistics", text: "Logistics"}
  - {permalink: "/FAQ", text: "FAQ"}
  - {permalink: "/coc", text: "CoC"}
@@ -192,7 +192,6 @@ discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
-
 
 # About Block
 aboutBrainHack:
