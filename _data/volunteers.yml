@@ -158,7 +158,7 @@
       name: "Dorien"
       surname: "Huijser"
       title: "Web volunteer"
-      location: "Netherlands"
+      location: "The Netherlands"
       thumbnailUrl: DorienHuijser.jpg
       team: true
       social:
@@ -175,6 +175,28 @@
       social:
         - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
         - {name: "github", link: "https://github.com/adswa"}
+    -
+      id: 4
+      name: "Robert"
+      surname: "Oostenveld"
+      title: "Helpdesk"
+      location: "Nijmegen, the Netherlands"
+      thumbnailUrl: 
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/oostenvr"}
+        - {name: "github", link: "https://github.com/robertoostenveld/"}
+    -
+      id: 5
+      name: "Anastasia"
+      surname: "Brovkin"
+      title: "Social media"
+      location: "Hamburg, Germany"
+      thumbnailUrl: anastasia_brovkin.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Sc1naps"}
+        - {name: "github", link: "https://github.com/4n4574514"}
 - hub:
   name: "Hub Americas"
   description:
@@ -234,6 +256,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
         - {name: "github", link: "https://github.com/agahkarakuzu/"}
+    -
+      id: 6
+      name: "Anastasia"
+      surname: "Brovkin"
+      title: "Social media"
+      location: "Hamburg, Germany"
+      thumbnailUrl: anastasia_brovkin.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Sc1naps"}
+        - {name: "github", link: "https://github.com/4n4574514"}
 - hub:
   name: "Cross-hub coordination team"
   description:
