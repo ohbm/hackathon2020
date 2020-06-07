@@ -1,5 +1,5 @@
 # -------------------------------------------------------------------------------------------------#
-# TEMPLATE
+#                                      HUB ASIA AND PACIFIC
 # -------------------------------------------------------------------------------------------------#
     # -
     #   id: #number
@@ -14,7 +14,6 @@
     #     - {name: "twitter", link: "https://twitter.com/"}
 # -------------------------------------------------------------------------------------------------#
 # -------------------------------------------------------------------------------------------------#
-
 - hub:
   name: "Hub Asia & Pacific"
   description:
@@ -127,6 +126,24 @@
       social:
         - {name: "twitter", link: "https://twitter.com/OrchardWinnie"}
         - {name: "github", link: "https://github.com/WinnieOrchard/"}
+
+
+# -------------------------------------------------------------------------------------------------#
+#                                      HUB EUROPE MIDDLE-EAST AFRICA
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
 - hub:
   name: "Hub Europe, Middle East & Africa"
   description:
@@ -181,7 +198,7 @@
       surname: "Oostenveld"
       title: "Helpdesk"
       location: "Nijmegen, the Netherlands"
-      thumbnailUrl: 
+      thumbnailUrl: robert_oostenveld.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/oostenvr"}
@@ -197,6 +214,24 @@
       social:
         - {name: "twitter", link: "https://twitter.com/Sc1naps"}
         - {name: "github", link: "https://github.com/4n4574514"}
+
+
+# -------------------------------------------------------------------------------------------------#
+#                                      HUB THE AMERICAS
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
 - hub:
   name: "Hub Americas"
   description:
@@ -278,6 +313,24 @@
       social:
         - {name: "twitter", link: "https://twitter.com/raamana_/"}
         - {name: "github", link: "https://github.com/raamana/"}
+
+
+# -------------------------------------------------------------------------------------------------#
+# Cross-hub coordination team
+# -------------------------------------------------------------------------------------------------#
+    # -
+    #   id: #number
+    #   name: " "
+    #   surname: " "
+    #   title: " "
+    #   location: " "
+    #   thumbnailUrl: # picture file name #  pictures should be added in the img/team folder
+    #   team: true
+    #   social:
+    #     - {name: "github", link: "https://github.com/"}
+    #     - {name: "twitter", link: "https://twitter.com/"}
+# -------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------#
 - hub:
   name: "Cross-hub coordination team"
   description:
@@ -357,10 +410,8 @@
       social:
 
 
-
-
 # -------------------------------------------------------------------------------------------------#
-# TEMPLATE
+# Brainhack
 # -------------------------------------------------------------------------------------------------#
     # -
     #   id: #number
