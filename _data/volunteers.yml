@@ -267,6 +267,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/Sc1naps"}
         - {name: "github", link: "https://github.com/4n4574514"}
+    -
+      id: 7
+      name: "Pradeep"
+      surname: "Reddy Raamana"
+      title: "Buddy for newbies"
+      location: "Toronto, Canada"
+      thumbnailUrl: pradeepreddyraamana.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/raamana_/"}
+        - {name: "github", link: "https://github.com/raamana/"}
 - hub:
   name: "Cross-hub coordination team"
   description:
