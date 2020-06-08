@@ -97,12 +97,31 @@
 
 # Traintrack...
 -
-  id: 301
-  title: "Git - GitHub"
+  id: 300
+  title: "Git"
   place: "Crowdcast"
   description: "Learn to version control your code and to work collaboratively with others
   wherever they are."
   service: true
+  subtype: pre-recorded / follow along
+  speakers: [5]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 301
+  title: "GitHub"
+  place: "Crowdcast"
+  description: "Learn to version control your code and to work collaboratively with others
+  wherever they are."
+  service: true
+  subtype: pre-recorded / follow along
+  speakers: [4]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 302
   title: "Good coding practices with matlab"
@@ -128,6 +147,12 @@
   description: "How to organize your data, so you will never hate your past 'self' ever again.
                 We will also go over tools that are compatible with BIDS and how to run them."
   service: true
+  subtype: pre-recorded / follow along
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 305
   title: "Brain visualization"
@@ -145,6 +170,12 @@
   place: "Crowdcast"
   description: "Mody dock and a black hole walk into a bar."
   service: true
+  subtype: pre-recorded / follow along
+  speakers: [7]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 307
   title: "Maching learning using Nilearn + Sklearn"
@@ -163,6 +194,12 @@
   place: "Crowdcast"
   description: "..."
   service: true
+  subtype: pre-recorded / follow along
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 310
   title: "Datalad"

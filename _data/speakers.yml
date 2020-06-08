@@ -19,3 +19,63 @@
   social:
     - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
     - {name: "github", link: "https://github.com/agahkarakuzu/"}
+-
+  id: 3
+  name: "Sam"
+  surname: "Nastase"
+  title: "BIDS and BIDS apps"
+  location: "Princeton, NJ, USA"
+  thumbnailUrl: sam_nastase.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/samnastase"}
+    - {name: "github", link: "https://github.com/snastase/"}
+-
+  id: 4
+  name: "Kendra"
+  surname: "Oudyk"
+  title: "GitHub"
+  location: "Montreal, QC, Canada"
+  thumbnailUrl: kendra_oudyk.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/koudyk_"}
+    - {name: "github", link: "https://github.com/koudyk/"}
+-
+  id: 5
+  name: "Saskia and Steffan"
+  surname: "Bollmann"
+  title: "Git"
+  location: ""
+  thumbnailUrl: steffen_bollmann.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
+    - {name: "github", link: "https://github.com/stebo85/"}
+-
+  id: 6
+  name: "Michael"
+  surname: "Dayan"
+  title: "Nilearn / Sklearn"
+  location: ""
+  thumbnailUrl: michael_dayan.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/brainhiker"}
+   # - {name: "github", link: "https://github.com/koudyk/"}
+-
+  id: 7
+  name: "Tom"
+  surname: "Shaw"
+  title: "Docker/Singularity"
+  location: "Brisbane, Queensland, Australia"
+  thumbnailUrl: thomas_shaw.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/thomcat992"}
+    - {name: "github", link: "https://github.com/thomshaw92/"}
+
+
+
+
+
