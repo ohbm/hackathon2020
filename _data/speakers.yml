@@ -1,81 +1,103 @@
 -
   id: 1
-  name: "Adina"
-  surname: "Wagner"
-  title: "Datalad"
-  thumbnailUrl: adina_wagner.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
-    - {name: "github", link: "https://github.com/adswa"}
--
-  id: 2
-  name: "Agah"
-  surname: "Karakuzu"
-  title: "Best coding practices"
-  location: "Kayseri, Turkey"
-  thumbnailUrl: Agah_Karakuzu.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
-    - {name: "github", link: "https://github.com/agahkarakuzu/"}
--
-  id: 3
-  name: "Sam"
-  surname: "Nastase"
-  title: "BIDS and BIDS apps"
-  location: "Princeton, NJ, USA"
-  thumbnailUrl: sam_nastase.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/samnastase"}
-    - {name: "github", link: "https://github.com/snastase/"}
--
-  id: 4
-  name: "Kendra"
-  surname: "Oudyk"
-  title: "GitHub"
-  location: "Montreal, QC, Canada"
-  thumbnailUrl: kendra_oudyk.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/koudyk_"}
-    - {name: "github", link: "https://github.com/koudyk/"}
--
-  id: 5
+  title: "Git"
   name: "Saskia and Steffan"
   surname: "Bollmann"
-  title: "Git"
-  location: ""
-  thumbnailUrl: steffen_bollmann.jpg
+  location: "Australia"
+  thumbnailUrl: git.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
     - {name: "github", link: "https://github.com/stebo85/"}
 -
-  id: 6
-  name: "Michael"
-  surname: "Dayan"
-  title: "Nilearn / Sklearn"
-  location: ""
-  thumbnailUrl: michael_dayan.jpg
+  id: 2
+  title: "GitHub"
+  name: "Kendra"
+  surname: "Oudyk"
+  location: "Montreal, QC, Canada"
+  thumbnailUrl: GitHub.png
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/brainhiker"}
-   # - {name: "github", link: "https://github.com/koudyk/"}
+    - {name: "twitter", link: "https://twitter.com/koudyk_"}
+    - {name: "github", link: "https://github.com/koudyk/"}
+-
+  id: 3
+  title: "Octave/Matlab: Best coding practices"
+  name: "Agah"
+  surname: "Karakuzu"
+  location: "Kayseri, Turkey"
+  thumbnailUrl: matlab_octave.svg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
+    - {name: "github", link: "https://github.com/agahkarakuzu/"}
+-
+  id: 4
+  title: "Python: Best coding practices"
+  name: "Aurina"
+  surname: "Arnatkeviciute"
+  location: ""
+  thumbnailUrl: python.png
+  team: true
+  social:
+
+-
+  id: 5
+  name: "Sam"
+  surname: "Nastase"
+  title: "BIDS and BIDS apps"
+  location: "Princeton, NJ, USA"
+  thumbnailUrl: BIDS_logo.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/samnastase"}
+    - {name: "github", link: "https://github.com/snastase/"}
+-
+  id: 6
+  name: "Adina"
+  surname: "Wagner"
+  title: "Datalad"
+  thumbnailUrl: datalad.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
+    - {name: "github", link: "https://github.com/adswa"}
 -
   id: 7
   name: "Tom"
   surname: "Shaw"
   title: "Docker/Singularity"
   location: "Brisbane, Queensland, Australia"
-  thumbnailUrl: thomas_shaw.jpg
+  thumbnailUrl: docker_singularity.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/thomcat992"}
     - {name: "github", link: "https://github.com/thomshaw92/"}
-
-
-
-
-
+-
+  id: 8
+  name: "Michael"
+  surname: "Dayan"
+  title: "Nilearn / Sklearn"
+  location: ""
+  thumbnailUrl: nilearn-logo.png
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/brainhiker"}
+-
+  id: 9
+  name: "Brain art"
+  surname: "OHBM special interest group"
+  title: "Brain Viz"
+  location: ""
+  thumbnailUrl:
+  team: true
+  social:
+-
+  id: 10
+  name: "Chao-Gan"
+  surname: "Yan"
+  title: "Neuroimaging 101"
+  location: ""
+  thumbnailUrl: 101.jpg
+  team: true
+  social:

@@ -104,11 +104,11 @@
   wherever they are."
   service: true
   subtype: pre-recorded / follow along
-  speakers: [5]
+  speakers:
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 301
   title: "GitHub"
@@ -120,7 +120,7 @@
   speakers: [4]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: # slides
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 302
@@ -131,15 +131,21 @@
   subtype: pre-recorded / follow along
   speakers: [2]
   language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 303
   title: "Good coding practices with python"
   place: "Crowdcast"
   description: "Learn to trust your own code so sharing it feels less scary."
   service: true
+  subtype: pre-recorded / follow along
+  speakers:
+  language: en
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 304
   title: "BIDS and BIDS apps"
@@ -148,11 +154,11 @@
                 We will also go over tools that are compatible with BIDS and how to run them."
   service: true
   subtype: pre-recorded / follow along
-  speakers: [3]
+  speakers:
   language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 305
   title: "Brain visualization"
@@ -164,6 +170,12 @@
   The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
   and make the brain visualization novel, creative, aesthetic and fun to the community."
   service: true
+  subtype: pre-recorded / follow along
+  speakers:
+  language: en
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 306
   title: "Docker / Singularity"
@@ -171,35 +183,48 @@
   description: "Mody dock and a black hole walk into a bar."
   service: true
   subtype: pre-recorded / follow along
-  speakers: [7]
+  speakers:
   language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 307
   title: "Maching learning using Nilearn + Sklearn"
   place: "Crowdcast"
   description: "Hands-on machine learning tutorial for neuroimaging"
   service: true
+  subtype: pre-recorded / follow along
+  speakers:
+  language: en
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 308
   title: "Jupyter notebook"
   place: "Crowdcast"
   description: "..."
   service: true
+  subtype: pre-recorded / follow along
+  speakers:
+  language: en
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 309
   title: "Nilearn / Sklearn"
   place: "Crowdcast"
   description: "..."
   service: true
+  service: true
   subtype: pre-recorded / follow along
-  speakers: [6]
+  speakers:
   language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 -
   id: 310
   title: "Datalad"
@@ -207,11 +232,11 @@
   description: "Version control applied to your data... and much more."
   service: true
   subtype: pre-recorded / follow along
-  speakers: [1]
+  speakers:
   language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 
 
 -
