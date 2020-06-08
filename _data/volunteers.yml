@@ -81,10 +81,12 @@
       name: "Tom"
       surname: "Shaw"
       title: "Helpdesk"
-      location: " "
-      thumbnailUrl:
+      location: "Brisbane, Australia"
+      thumbnailUrl: tom_shaw.jpg
       team: true
       social:
+        - {name: "twitter", link: "https://twitter.com/thomcat992/"}
+        - {name: "github", link: "https://github.com/thomshaw992/"}
     -
       id: 7
       name: "Steffen"
@@ -108,7 +110,7 @@
       id: 9
       name: "Megan"
       surname: "Campbell"
-      title: "social team"
+      title: "Social team"
       location: "Newcastle, Australia"
       thumbnailUrl: Megan_Campbell.jpg
       team: true
@@ -119,15 +121,67 @@
       id: 10
       name: "Winnie"
       surname: "Orchard"
-      title: "social team"
+      title: "Social team"
       location: "Melbourne, Australia"
       thumbnailUrl: Winnie_Orchard.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/OrchardWinnie"}
         - {name: "github", link: "https://github.com/WinnieOrchard/"}
-
-
+    -
+      id: 11
+      name: "Angela"
+      surname: "Renton"
+      title: "Teaching assistant"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Angela_Renton.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/angier2310/"}
+        - {name: "github", link: "https://github.com/air2310/"}
+    -
+      id: 12
+      name: "Tom"
+      surname: "Close"
+      title: "Teaching assistant"
+      location: "Melbourne, Australia"
+      thumbnailUrl: tom_close.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/TomGClose/"}
+        - {name: "github", link: "https://github.com/tclose/"}
+    -
+      id: 13
+      name: "Sina"
+      surname: "Mansour L."
+      title: "Teaching assistant"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Sina_Mansour.JPG
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Sina_Mansour_L/"}
+        - {name: "github", link: "https://github.com/sina-mansour/"}
+    -
+      id: 14
+      name: "Aurina"
+      surname: "Arnatkeviciute"
+      title: "Social team"
+      location: "Melbourne, Australia"
+      thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/AurinaArn/"}
+        - {name: "github", link: "https://github.com/AurinaBMH/"}
+    -
+      id: 15
+      name: "Steffen & Saskia"
+      surname: "Bollmann"
+      title: "Traintrack instructors"
+      location: "Brisbane, Australia"
+      thumbnailUrl: SteffenSaskia.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sbollmann_MRI/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
@@ -204,17 +258,37 @@
         - {name: "twitter", link: "https://twitter.com/oostenvr"}
         - {name: "github", link: "https://github.com/robertoostenveld/"}
     -
-      id: 5
-      name: "Anastasia"
-      surname: "Brovkin"
-      title: "Social media"
-      location: "Hamburg, Germany"
-      thumbnailUrl: anastasia_brovkin.jpg
+      id: 6
+      name: "Benjamin"
+      surname: "Poldrack"
+      title: "Teaching assistant"
+      location: "Jülich, Germany"
+      thumbnailUrl: benjamin_poldrack.jpeg
       team: true
       social:
-        - {name: "twitter", link: "https://twitter.com/Sc1naps"}
-        - {name: "github", link: "https://github.com/4n4574514"}
-
+        - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
+        - {name: "github", link: "https://github.com/bpoldrack/"}
+    -
+      id: 7
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      title: "Project review"
+      location: "UK"
+      thumbnailUrl: isil_p.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
+    -
+      id: 8
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      title: " " # Hackathon buddies
+      location: "Ghent, Belgium"
+      thumbnailUrl: sofie_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
 
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
@@ -306,13 +380,34 @@
       id: 7
       name: "Pradeep"
       surname: "Reddy Raamana"
-      title: "Buddy for newbies"
+      title: "Buddy"
       location: "Toronto, Canada"
       thumbnailUrl: pradeepreddyraamana.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/raamana_/"}
         - {name: "github", link: "https://github.com/raamana/"}
+    -
+      id: 8
+      name: "Damion"
+      surname: "Demeter"
+      title: "Buddy & helpdesk"
+      location: "Austin, USA"
+      thumbnailUrl: damion_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/iamdamion"}
+    -
+      id: 9
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      title: "Project review, Streaming"
+      location: "Austin, USA"
+      thumbnailUrl: anibal_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+        - {name: "github", link: "https://github.com/anibalsolon"}
 
 
 # -------------------------------------------------------------------------------------------------#
@@ -378,6 +473,7 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
     -
       id: 5
       name: "Sofie"
@@ -453,6 +549,7 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
     -
       id: 2
       name: "Cameron"
