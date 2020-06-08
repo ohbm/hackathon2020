@@ -57,7 +57,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/124>in this github issue</a>"
 -
   title: "shimming toolbox: Ecosystem for real-time shimming with MRI"
-  image:
+  image: whatever.png
   details: "A prerequisite to correcting/shimming the MR 'B0' field is of course to
   measure it (commonly done using a dual-echo gradient-echo sequence). A recent paper
   by <a href=https://iopscience.iop.org/article/10.1088/1361-6560/aae570>Fatnassi and Zaidi</a>
@@ -66,7 +66,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/128>in this github issue</a>"
 -
   title: "Hopfield Network Library"
-  image:
+  image: whatever.png
   details: "The goal of this project is to create an easy-to-use library for undirected
   neural networks, including Hopfield networks, Boltzmann machines, and Deep Belief
   networks. We also want to run empirical studies on the behavior of Hopfield networks,
@@ -74,7 +74,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/143>in this github issue</a>"
 -
   title: "Vector Embeddings of Brain Dynamics"
-  image:
+  image: whatever.png
   details: "Whereas we can build time-varying functional connectivity (TVFC) graphs
   easily and efficiently using instantaneous wavelet coherence. And whereas we can
   compare TVFC graphs using a host of graph-graph metrics---from simple edge-wise
@@ -89,10 +89,10 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/140>in this github issue</a>"
 -
   title: "Mapping the parameter space in EEG/MEG analyses"
-  image:
+  image: whatever.png
   details: "There is a complete jungle of ways to analyze EEG/MEG data. Some people
   have started to systematically map the impact of parameters in pre-processing and
-  analyses of fMRI data (e.g. Botvinik-Nezer et al., 2020 a.k.a. 'the NARPS project'; 
+  analyses of fMRI data (e.g. Botvinik-Nezer et al., 2020 a.k.a. 'the NARPS project';
   Bowring, Maumet, & Nichols, 2019; Carp, 2012). However, such an enterprise might be
   considerably more difficult for EEG/ MEG analyses with their many steps and the many
   existing software packages. There are some starting points on single pre-processing
