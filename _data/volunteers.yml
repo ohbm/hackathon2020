@@ -81,10 +81,12 @@
       name: "Tom"
       surname: "Shaw"
       title: "Helpdesk"
-      location: " "
-      thumbnailUrl:
+      location: "Brisbane, Australia"
+      thumbnailUrl: tom_shaw.jpg
       team: true
       social:
+        - {name: "twitter", link: "https://twitter.com/thomcat992/"}
+        - {name: "github", link: "https://github.com/thomshaw992/"}
     -
       id: 7
       name: "Steffen"
@@ -126,8 +128,60 @@
       social:
         - {name: "twitter", link: "https://twitter.com/OrchardWinnie"}
         - {name: "github", link: "https://github.com/WinnieOrchard/"}
-
-
+    -
+      id: 11
+      name: "Angela"
+      surname: "Renton"
+      title: "TA"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Angela_Renton.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/angier2310/"}
+        - {name: "github", link: "https://github.com/air2310/"}
+    -
+      id: 12
+      name: "Tom"
+      surname: "Close"
+      title: "Teaching assistant"
+      location: "Melbourne, Australia"
+      thumbnailUrl: tom_close.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/TomGClose/"}
+        - {name: "github", link: "https://github.com/tclose/"}
+    -
+      id: 13
+      name: "Sina"
+      surname: "Mansour L."
+      title: "Tutor"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Sina_Mansour.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Sina_Mansour_L/"}
+        - {name: "github", link: "https://github.com/sina-mansour/"}
+    -
+      id: 14
+      name: "Aurina"
+      surname: "Arnatkeviciute"
+      title: "Social team"
+      location: "Melbourne, Australia"
+      thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/AurinaArn/"}
+        - {name: "github", link: "https://github.com/AurinaBMH/"}
+    -
+      id: 15
+      name: "Steffen & Saskia"
+      surname: "Bollmann"
+      title: "Teaching team github"
+      location: "Brisbane, Australia"
+      thumbnailUrl: SteffenSaskia.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sbollmann_MRI/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
@@ -214,7 +268,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/Sc1naps"}
         - {name: "github", link: "https://github.com/4n4574514"}
-
+    -
+      id: 6
+      name: "Benjamin"
+      surname: "Poldrack"
+      title: "Teaching assistant"
+      location: "Jülich, Germany"
+      thumbnailUrl: benjamin_poldrack.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
+        - {name: "github", link: "https://github.com/bpoldrack/"}
 
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
