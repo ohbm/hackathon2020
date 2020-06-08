@@ -1,3 +1,45 @@
+#  TEMPLATE SUGGESTION
+# -
+#   id:
+#   title: ""
+#   place: ""
+#   description: ""
+#   long_description: ""
+#   prerequisite:
+#   links:
+#     - website:
+#     - documentation:
+#     - youtube_channel:
+#     - channel: # RIOT
+#     - mattermost:
+#     - presentation:
+#     - code: # jupyter notebook
+#     - youtube_video:
+#     - douyu_video:
+#   service: true
+#   language: en
+#   complexity: "Beginner"
+#   subtype: pre-recorded / follow along
+#   speakers:
+#   teaching_assistants:
+#     - APAC:
+#         -
+#           id: 1
+#           name:
+#           surname:
+#     - EMEA:
+#         -
+#           id: 1
+#           name:
+#           surname:
+#     - Americas:
+#         -
+#           id: 1
+#           name:
+#           surname:
+
+
+
 # Dummy
 -
   id: 999
@@ -163,7 +205,9 @@
   id: 305
   title: "Brain visualization"
   place: "Crowdcast"
-  description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
+  description: "A beautiful visualization is not just a good-looking colored brain.
+  It is an informative and efficient way to represent our data and results."
+  long_description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
   It is an informative and efficient way to represent our data and results, which follows the scientific
   principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize
   the data, display the results, communicate the information, as well as change the way we perceive the world.
@@ -181,18 +225,46 @@
   title: "Docker / Singularity"
   place: "Crowdcast"
   description: "Mody dock and a black hole walk into a bar."
+  long_description:
+  prerequisite:
+  links:
+    - website:
+    - documentation:
+    - youtube:
+    - channel:
+    - mattermost:
   service: true
-  subtype: pre-recorded / follow along
-  speakers: [7]
   language: en
   complexity: "Beginner"
-  presentation: # slides
+  presentation:
+  code:
   video: # link to crowdcast
+  subtype: pre-recorded / follow along
+  speakers: [7]
+  teaching_assistants:
+    - APAC:
+        -
+          id: 1
+          name:
+          surname:
+    - EMEA:
+        -
+          id: 1
+          name:
+          surname:
+    - Americas:
+        -
+          id: 1
+          name:
+          surname:
+
+
 -
   id: 307
   title: "Maching learning using Nilearn + Sklearn"
   place: "Crowdcast"
   description: "Hands-on machine learning tutorial for neuroimaging"
+  long_description:
   service: true
   subtype: pre-recorded / follow along
   speakers: [8]
@@ -205,6 +277,7 @@
   title: "Jupyter notebook"
   place: "Crowdcast"
   description: "..."
+  long_description:
   service: true
   subtype: pre-recorded / follow along
   speakers:
@@ -217,13 +290,42 @@
   title: "Datalad"
   place: "Crowdcast"
   description: "Version control applied to your data... and much more."
+  long_description: "Datalad is a versatile data management and data publication multitool. In this
+  session, you can learn the basic concepts and commands for version control and reproducible data
+  analysis. You’ll get to see, create, and install DataLad datasets of many shapes and sizes, master
+  local version workflows and provenance-captured analysis-execution, and you will get ideas for your
+  next data analysis project. Don’t forget to bring your computer and code along!"
+  prerequisite:
+  links:
+    - website:
+    - documentation:
+    - youtube:
+    - channel:
+    - mattermost:
   service: true
-  subtype: pre-recorded / follow along
-  speakers: [6]
   language: en
   complexity: "Beginner"
-  presentation: # slides
+  presentation: https://github.com/datalad-handbook/course/blob/master/talks/PDFs/OHBM.pdf
+  code: http://handbook.datalad.org/en/latest/code_from_chapters/OHBM.html
   video: # link to crowdcast
+  subtype: pre-recorded / follow along
+  speakers: [6]
+  teaching_assistants:
+    - APAC:
+        -
+          id: 1
+          name:
+          surname:
+    - EMEA:
+        -
+          id: 1
+          name:
+          surname:
+    - Americas:
+        -
+          id: 1
+          name:
+          surname:
 
 
 -
