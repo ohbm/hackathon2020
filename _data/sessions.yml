@@ -104,7 +104,7 @@
   wherever they are."
   service: true
   subtype: pre-recorded / follow along
-  speakers:
+  speakers: [1]
   language: en
   complexity: "Beginner"
   presentation: # slides
@@ -117,11 +117,11 @@
   wherever they are."
   service: true
   subtype: pre-recorded / follow along
-  speakers: [4]
+  speakers: [2]
   language: en
   complexity: "Beginner"
   presentation: # slides
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: # link to crowdcast
 -
   id: 302
   title: "Good coding practices with matlab"
@@ -129,7 +129,7 @@
   description: "Learn to trust your own code so sharing it feels less scary."
   service: true
   subtype: pre-recorded / follow along
-  speakers: [2]
+  speakers: [3]
   language: en
   complexity: "Beginner"
   presentation: # slides
@@ -141,7 +141,7 @@
   description: "Learn to trust your own code so sharing it feels less scary."
   service: true
   subtype: pre-recorded / follow along
-  speakers:
+  speakers: [4]
   language: en
   complexity: "Beginner"
   presentation: # slides
@@ -154,7 +154,7 @@
                 We will also go over tools that are compatible with BIDS and how to run them."
   service: true
   subtype: pre-recorded / follow along
-  speakers:
+  speakers: [5]
   language: en
   complexity: "Beginner"
   presentation: # slides
@@ -171,7 +171,7 @@
   and make the brain visualization novel, creative, aesthetic and fun to the community."
   service: true
   subtype: pre-recorded / follow along
-  speakers:
+  speakers: [9]
   language: en
   complexity: "Beginner"
   presentation: # slides
@@ -183,7 +183,7 @@
   description: "Mody dock and a black hole walk into a bar."
   service: true
   subtype: pre-recorded / follow along
-  speakers:
+  speakers: [7]
   language: en
   complexity: "Beginner"
   presentation: # slides
@@ -195,7 +195,7 @@
   description: "Hands-on machine learning tutorial for neuroimaging"
   service: true
   subtype: pre-recorded / follow along
-  speakers:
+  speakers: [8]
   language: en
   complexity: "Beginner"
   presentation: # slides
@@ -214,25 +214,12 @@
   video: # link to crowdcast
 -
   id: 309
-  title: "Nilearn / Sklearn"
-  place: "Crowdcast"
-  description: "..."
-  service: true
-  service: true
-  subtype: pre-recorded / follow along
-  speakers:
-  language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
--
-  id: 310
   title: "Datalad"
   place: "Crowdcast"
   description: "Version control applied to your data... and much more."
   service: true
   subtype: pre-recorded / follow along
-  speakers:
+  speakers: [6]
   language: en
   complexity: "Beginner"
   presentation: # slides
