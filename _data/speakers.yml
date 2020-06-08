@@ -1,103 +1,111 @@
 -
   id: 1
   title: "Git"
+  thumbnailUrl: git.png
   name: "Saskia and Steffan"
   surname: "Bollmann"
   location: "Australia"
-  thumbnailUrl: git.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
     - {name: "github", link: "https://github.com/stebo85/"}
+
 -
   id: 2
   title: "GitHub"
+  thumbnailUrl: GitHub.png
   name: "Kendra"
   surname: "Oudyk"
   location: "Montreal, QC, Canada"
-  thumbnailUrl: GitHub.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/koudyk_"}
     - {name: "github", link: "https://github.com/koudyk/"}
--
+
+
   id: 3
   title: "Octave/Matlab: Best coding practices"
+  thumbnailUrl: matlab_octave.svg
   name: "Agah"
   surname: "Karakuzu"
   location: "Kayseri, Turkey"
-  thumbnailUrl: matlab_octave.svg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
     - {name: "github", link: "https://github.com/agahkarakuzu/"}
+
 -
   id: 4
   title: "Python: Best coding practices"
+  thumbnailUrl: python.png
   name: "Aurina"
   surname: "Arnatkeviciute"
   location: ""
-  thumbnailUrl: python.png
   team: true
   social:
 
 -
   id: 5
+  title: "BIDS and BIDS apps"
+  thumbnailUrl: BIDS_logo.jpg
   name: "Sam"
   surname: "Nastase"
-  title: "BIDS and BIDS apps"
   location: "Princeton, NJ, USA"
-  thumbnailUrl: BIDS_logo.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/samnastase"}
     - {name: "github", link: "https://github.com/snastase/"}
+
 -
   id: 6
-  name: "Adina"
-  surname: "Wagner"
   title: "Datalad"
   thumbnailUrl: datalad.png
+  name: "Adina"
+  surname: "Wagner"
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
     - {name: "github", link: "https://github.com/adswa"}
+
 -
   id: 7
+  title: "Docker/Singularity"
+  thumbnailUrl: docker_singularity.png
   name: "Tom"
   surname: "Shaw"
-  title: "Docker/Singularity"
   location: "Brisbane, Queensland, Australia"
-  thumbnailUrl: docker_singularity.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/thomcat992"}
     - {name: "github", link: "https://github.com/thomshaw92/"}
+
 -
   id: 8
+  title: "Nilearn / Sklearn"
+  thumbnailUrl: nilearn-logo.png
   name: "Michael"
   surname: "Dayan"
-  title: "Nilearn / Sklearn"
   location: ""
-  thumbnailUrl: nilearn-logo.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/brainhiker"}
+
 -
   id: 9
+  title: "Brain Viz"
+  thumbnailUrl:
   name: "Brain art"
   surname: "OHBM special interest group"
-  title: "Brain Viz"
   location: ""
-  thumbnailUrl:
   team: true
   social:
+
 -
   id: 10
+  title: "Neuroimaging 101"
+  thumbnailUrl: 101.jpg
   name: "Chao-Gan"
   surname: "Yan"
-  title: "Neuroimaging 101"
   location: ""
-  thumbnailUrl: 101.jpg
   team: true
   social:
