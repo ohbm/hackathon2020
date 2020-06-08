@@ -268,6 +268,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
         - {name: "github", link: "https://github.com/bpoldrack/"}
+    -
+      id: 7
+      name: "Isil"
+      surname: "Poyraz Bilgin"
+      title: "Project review"
+      location: "UK"
+      thumbnailUrl: isil_p.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
 
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
@@ -359,13 +370,34 @@
       id: 7
       name: "Pradeep"
       surname: "Reddy Raamana"
-      title: "Buddy for newbies"
+      title: "Buddy"
       location: "Toronto, Canada"
       thumbnailUrl: pradeepreddyraamana.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/raamana_/"}
         - {name: "github", link: "https://github.com/raamana/"}
+    -
+      id: 8
+      name: "Damion"
+      surname: "Demeter"
+      title: "Buddy & helpdesk"
+      location: "Austin, USA"
+      thumbnailUrl: damion_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/iamdamion"}
+    -
+      id: 9
+      name: "Anibal"
+      surname: "Sólon Heinsfeld"
+      title: "Project review, Streaming"
+      location: "Austin, USA"
+      thumbnailUrl: anibal_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+        - {name: "github", link: "https://github.com/anibalsolon"}
 
 
 # -------------------------------------------------------------------------------------------------#
