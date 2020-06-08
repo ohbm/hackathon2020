@@ -258,17 +258,6 @@
         - {name: "twitter", link: "https://twitter.com/oostenvr"}
         - {name: "github", link: "https://github.com/robertoostenveld/"}
     -
-      id: 5
-      name: "Anastasia"
-      surname: "Brovkin"
-      title: "Social media"
-      location: "Hamburg, Germany"
-      thumbnailUrl: anastasia_brovkin.jpg
-      team: true
-      social:
-        - {name: "twitter", link: "https://twitter.com/Sc1naps"}
-        - {name: "github", link: "https://github.com/4n4574514"}
-    -
       id: 6
       name: "Benjamin"
       surname: "Poldrack"
