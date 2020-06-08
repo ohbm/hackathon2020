@@ -1,6 +1,6 @@
 -
   date: "2020-06-16"
-  tz: "America/Los_Angeles"
+  tz: "America/Denver"
   dateReadable: "June 16th, Day 1"
   tracks:
     - {title: "TrainTrack", color: "#90be4e"}
