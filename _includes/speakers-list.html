@@ -29,7 +29,8 @@
                         </div>
                         <div class="lily-bottom">
                             <ul class="slider">
-                                {% assign sessionsNumber = 0 %}
+                                <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                <!-- {% assign sessionsNumber = 0 %}
                                 {% if site.showSessions %}
                                     {% for session in site.data.sessions %}
                                         {% for session_speaker in session.speakers %}
