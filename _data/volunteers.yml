@@ -110,7 +110,7 @@
       id: 9
       name: "Megan"
       surname: "Campbell"
-      title: "social team"
+      title: "Social team"
       location: "Newcastle, Australia"
       thumbnailUrl: Megan_Campbell.jpg
       team: true
@@ -121,7 +121,7 @@
       id: 10
       name: "Winnie"
       surname: "Orchard"
-      title: "social team"
+      title: "Social team"
       location: "Melbourne, Australia"
       thumbnailUrl: Winnie_Orchard.jpg
       team: true
@@ -132,9 +132,9 @@
       id: 11
       name: "Angela"
       surname: "Renton"
-      title: "TA"
+      title: "Teaching assistant"
       location: "Brisbane, Australia"
-      thumbnailUrl: Angela_Renton.jpg
+      thumbnailUrl: Angela_Renton.png
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/angier2310/"}
@@ -154,9 +154,9 @@
       id: 13
       name: "Sina"
       surname: "Mansour L."
-      title: "Tutor"
+      title: "Teaching assistant"
       location: "Melbourne, Australia"
-      thumbnailUrl: Sina_Mansour.jpg
+      thumbnailUrl: Sina_Mansour.JPG
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/Sina_Mansour_L/"}
@@ -176,7 +176,7 @@
       id: 15
       name: "Steffen & Saskia"
       surname: "Bollmann"
-      title: "Teaching team github"
+      title: "Traintrack instructors"
       location: "Brisbane, Australia"
       thumbnailUrl: SteffenSaskia.png
       team: true
@@ -473,6 +473,7 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
     -
       id: 5
       name: "Sofie"
@@ -548,6 +549,7 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/complexbrains"}
+        - {name: "github", link: "https://github.com/complexbrains"}
     -
       id: 2
       name: "Cameron"
