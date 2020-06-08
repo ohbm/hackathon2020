@@ -279,6 +279,16 @@
       social:
         - {name: "twitter", link: "https://twitter.com/complexbrains"}
         - {name: "github", link: "https://github.com/complexbrains"}
+    -
+      id: 8
+      name: "Sofie"
+      surname: "Van Den Bossche"
+      title: " " # Hackathon buddies
+      location: "Ghent, Belgium"
+      thumbnailUrl: sofie_400x400.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
 
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
