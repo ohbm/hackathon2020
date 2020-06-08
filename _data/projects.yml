@@ -3,13 +3,13 @@
 #   title: "Your awesome project"
 #   # images must be put in the img/hackathon folder. If there is no image you can use whatever.png
 #   image: whatever.png
-#   details: "Tell us about what you want to achieve. More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"
+#   details: "PROJECT DESCRIPTION.<br>Tell us about what you want to achieve. More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"
 # -------------------------------------------------------------------------------------------------
 
 -
   title: "Learn and Enhance BrainIAK Tutorials: From Basics to Advanced fMRI Analyses"
   image: brainiak.png
-  details: "This project will help participants learn fMRI analyses and enhance BrainIAK Tutorials (Kumar et al., 2020).
+  details: "PROJECT DESCRIPTION.<br>This project will help participants learn fMRI analyses and enhance BrainIAK Tutorials (Kumar et al., 2020).
   Participants can practice a tutorial covering any topic of interest, from basics to advanced techniques.
   They can also contribute to the tutorials, by making edits, fixing bugs, or enhancing them by applying the techniques
   to their own datasets. We have a list an issue list for the tutorials that participants can pick an issue and work on.
@@ -19,7 +19,7 @@
 -
   title: "BIDS to NiftyTorch: data preparation for deep learning"
   image: NiftyTorch.png
-  details: "We aim to build an automated pipeline to make a copy of BIDS formatted project for the purpose of deep learning
+  details: "PROJECT DESCRIPTION.<br>We aim to build an automated pipeline to make a copy of BIDS formatted project for the purpose of deep learning
   and automatically evaluate the dataset. This includes, creating a randomly selected sets of training, validation and test
   dataset for deep learning, searching for missing data, evaluating consistency across image input using image size and modality,
   and maybe adding a module for quality assessment and preprocessing of the input data.
@@ -27,14 +27,14 @@
 -
   title: "Tracktools"
   image: tracktools.png
-  details: "In the latest years, I have developed/collected some tools for brain tractography, from inclusion in html,
+  details: "PROJECT DESCRIPTION.<br>In the latest years, I have developed/collected some tools for brain tractography, from inclusion in html,
   to 3Dprinter conversion to other manipulations. Codes is mostly in matlab and we should move in Python, moreover the converter
   from Trackvis to STL for 3Dprinting or Augmented Reality is not good. I am open minded to other ideas for tractography.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/84>in this github issue</a>"
 -
   title: "VB Index BIDS support / Pretty GUI"
   image: vb_index.png
-  details: "I have been collaborating / leading a project that produced some software to 1) create 'cortical gradients'
+  details: "PROJECT DESCRIPTION.<br>I have been collaborating / leading a project that produced some software to 1) create 'cortical gradients'
   and a simple edge detection technique called the VB Index (see <a href=http://psyarxiv.com/7vzbk/>preprint</a>).
   We have a python and matlab tool but are focussing on the <a href=https://github.com/VBIndex/py_vb_toolbox>python version</a>.
   The brainhack project will be simple, allow the toolbox to accept BIDS data and / or create a simple (but pretty) GUI.
@@ -42,7 +42,7 @@
 -
   title: "Tools for Combatting Citation Bias"
   image: Tools_citation_bias.PNG
-  details: "Recent work in neuroscience and other fields has identified a bias in citation practices such that papers from women
+  details: "PROJECT DESCRIPTION.<br>Recent work in neuroscience and other fields has identified a bias in citation practices such that papers from women
   and other minorities are under-cited relative to the number of such papers in the field. For this project, we seek to further the
   development of two tools to help researchers combat these trends in their own citation practices. The first tool is an interactive jupyter
   notebook that provides probabilistic gender break down of first and last authors from a bibliography in a bibtex file. The second is a Google
@@ -51,14 +51,14 @@
 -
   title: "Wacky brain explosions Vol II."
   image: wackybrain.gif
-  details: "Are you asking to yourself 'how can the year 2020 get more interesting?. The answer is simple: by using a particle simulator to explode
+  details: "PROJECT DESCRIPTION.<br>Are you asking to yourself 'how can the year 2020 get more interesting?. The answer is simple: by using a particle simulator to explode
   some brains at the comfort of your home, in a completely safe virtual environment. <br>After concluding my <a href=https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues/7>previous hackaton project</a>
   with 'more research is needed', here I am planning to continue exploding more brains in many of ways. All in the name of neuro-science, of course!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/124>in this github issue</a>"
 -
   title: "shimming toolbox: Ecosystem for real-time shimming with MRI"
   image: whatever.png
-  details: "A prerequisite to correcting/shimming the MR 'B0' field is of course to
+  details: "PROJECT DESCRIPTION.<br>A prerequisite to correcting/shimming the MR 'B0' field is of course to
   measure it (commonly done using a dual-echo gradient-echo sequence). A recent paper
   by <a href=https://iopscience.iop.org/article/10.1088/1361-6560/aae570>Fatnassi and Zaidi</a>
   suggests that multi-echo (n>2) sequences may yield better accuracy and higher SNR.
@@ -67,7 +67,7 @@
 -
   title: "Hopfield Network Library"
   image: whatever.png
-  details: "The goal of this project is to create an easy-to-use library for undirected
+  details: "PROJECT DESCRIPTION.<br>The goal of this project is to create an easy-to-use library for undirected
   neural networks, including Hopfield networks, Boltzmann machines, and Deep Belief
   networks. We also want to run empirical studies on the behavior of Hopfield networks,
   including memory capacity and time until convergence.
@@ -75,7 +75,7 @@
 -
   title: "Vector Embeddings of Brain Dynamics"
   image: whatever.png
-  details: "Whereas we can build time-varying functional connectivity (TVFC) graphs
+  details: "PROJECT DESCRIPTION.<br>Whereas we can build time-varying functional connectivity (TVFC) graphs
   easily and efficiently using instantaneous wavelet coherence. And whereas we can
   compare TVFC graphs using a host of graph-graph metrics---from simple edge-wise
   overlap, to more robust methods from topological data analysis. The capacity to
@@ -89,43 +89,22 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/140>in this github issue</a>"
 -
   title: "Mapping the parameter space in EEG/MEG analyses"
-  image: whatever.png
-  details: "There is a complete jungle of ways to analyze EEG/MEG data. Some people
-  have started to systematically map the impact of parameters in pre-processing and
-  analyses of fMRI data (e.g. Botvinik-Nezer et al., 2020 a.k.a. 'the NARPS project';
-  Bowring, Maumet, & Nichols, 2019; Carp, 2012). However, such an enterprise might be
-  considerably more difficult for EEG/ MEG analyses with their many steps and the many
-  existing software packages. There are some starting points on single pre-processing
-  steps (e.g. Jaswal et al., 2020; Luck & Gaspelin, 2017, Robbins et al., 2020), but
-  no attempt to systematically track the impact of all steps (like the NARPS project
-  did). <br> One problem might be that there is not even yet a good common framework
-  to compare different analysis pipelines with each other. There are the <a href=https://cobidasmeeg.wordpress.com/>COBIDAS-MEEG guidelines</a>
-  (still a <a href=https://osf.io/a8dhx/>pre-print</a>), which are a very good starting point, but which were
-  designed as a detailed checklist for reporting single isolated analyses rather than
-  a framework for identifying commonalities between different analyses. Furthermore,
-  the fact that it is very detailed and exhaustive does not make it very user-friendly (yet).
-  <br> The aim of this hackathon is to create such a framework in a more bottom-up way,
-  focusing on the essential steps needed to compare different pipelines. Such an
-  enterprise might be very fruitful for subsequent empirical exploration of how the
-  parameters involved in EEG/MEG analyses matter for the results, e.g. in the
-  <a href=https://twitter.com/hashtag/eegmanylabs?lang=en>EEGManyLabs project</a> or
-  the <a href=https://twitter.com/TomRhysMarshall/status/1265606022716108805?s=20>ManyPipelines project</a>.
-  Also, it might facilitate the creation of a user-friendly EEG/MEG pre-registration
-  templates (currently in the making, see e.g. <a href=https://docs.google.com/document/d/1RmlHcWJcWMErZzjJgz9Q0rqsy-E9Vs9DYeKdvX9cawU/edit>this one</a>
-  started at the SIPS meeting 2019 and <a href=https://docs.google.com/document/d/160DcKWpeYmoc-aEYZaoKN43534wvTyMJEFBQdahGBjU/edit>this spin-off</a>
-  started at the Donders Institute in November 2019).
+  image: mapMEEG_Logo.png
+  details: "PROJECT DESCRIPTION.<br>The parameter space of M/EEG analysis pipelines is like a jungle.
+  We will map it! We will first identify and classify available pipelines (based on available pre-registrations)
+  and identify common challenges researchers face, then come up with a semantic framework to create and compare different pipelines,
+  map software options onto the different analysis steps, and finally start designing an adaptive app for M/EEG pre-registration!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/139>in this github issue</a>"
-
 
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
 #   image: brain_lesion.png
-#   details: "More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."
+#   details: "PROJECT DESCRIPTION.<br>More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."
 # -
 #   title: "Multi-table PCA methods for group and individual functional connectivity"
 #   image: matrix.png
-#   details: "C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference
+#   details: "PROJECT DESCRIPTION.<br>C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference
 #     for Neuroimaging in R. The C stands generally for connectivity, but specifically and statistically:
 #     covariance or correlation. The C-MARINeR project aims to develop and distribute an R package and
 #     ShinyApp. Together, R + Shiny allows for ease of use and, hopefully, simpler exploration of such
@@ -134,6 +113,6 @@
 # -
 #   title: "Bring your own method/data"
 #   image: whatever.png
-#   details: "The three methods suggested above are just a starting point. If a group of participants wants to work
+#   details: "PROJECT DESCRIPTION.<br>The three methods suggested above are just a starting point. If a group of participants wants to work
 #     on something else, this is of course possible. We have also prepare some data to use the methods above,
 #     but if you have your own data, please bring it with you and try to hack it with the methods presented."
