@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # OHBM 2020 Brainhack
@@ -85,6 +85,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://anibalsolon.com/"><img src="https://avatars0.githubusercontent.com/u/562525?v=4" width="100px;" alt=""/><br /><sub><b>Anibal Sólon</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=anibalsolon" title="Code">💻</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=anibalsolon" title="Documentation">📖</a> <a href="#design-anibalsolon" title="Design">🎨</a> <a href="#ideas-anibalsolon" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-anibalsolon" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://ouestcode.com"><img src="https://avatars3.githubusercontent.com/u/6114?v=4" width="100px;" alt=""/><br /><sub><b>Cyril Rohr</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=crohr" title="Code">💻</a> <a href="#design-crohr" title="Design">🎨</a> <a href="#maintenance-crohr" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#infra-malvikasharan" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/robertoostenveld"><img src="https://avatars1.githubusercontent.com/u/899043?v=4" width="100px;" alt=""/><br /><sub><b>Robert Oostenveld</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=robertoostenveld" title="Code">💻</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=robertoostenveld" title="Documentation">📖</a></td>
   </tr>
 </table>
 
