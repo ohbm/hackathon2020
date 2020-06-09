@@ -408,8 +408,38 @@
       social:
         - {name: "twitter", link: "https://twitter.com/anibalsolon"}
         - {name: "github", link: "https://github.com/anibalsolon"}
-
-
+    -
+      id: 10
+      name: "Eric"
+      surname: "Earl"
+      title: "Helpdesk"
+      location: "Portland, USA"
+      thumbnailUrl: eric_earl.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/ericearlohsu/"}
+        - {name: "github", link: "https://github.com/ericearl/"}
+    -
+      id: 11
+      name: "Jon Haitz"
+      surname: "Legarreta Gorroño"
+      title: "Project review & Helpdesk"
+      location: "Sherbrooke, Canada"
+      thumbnailUrl: jhlegarreta.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jhlegarreta"}
+    -
+      id: 12
+      name: "Eduardo"
+      surname: "Garza-Villarreal"
+      title: "Hub manager"
+      location: "Queretaro, Mexico"
+      thumbnailUrl: Eduardo_Garza-Villarreal.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/egarzav/"}
+        - {name: "github", link: "https://github.com/egarza/"}
 # -------------------------------------------------------------------------------------------------#
 # Cross-hub coordination team
 # -------------------------------------------------------------------------------------------------#
