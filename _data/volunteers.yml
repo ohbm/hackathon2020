@@ -577,7 +577,7 @@
       thumbnailUrl: johanna_bayer.jpg
       team: true
       social:
-
+        - {name: "twitter", link: "https://twitter.com/likeajumprope"}
 
 # -------------------------------------------------------------------------------------------------#
 # Brainhack
