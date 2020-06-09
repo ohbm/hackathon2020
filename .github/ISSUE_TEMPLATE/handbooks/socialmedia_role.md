@@ -38,4 +38,6 @@ A social lead is a member of the open science neuroimaging community who:
 **Estimated time**: variable between 5-10 hours before Brainhack.
 
 **Join the team!** Thank you so much for willing to help. In order to sign up as a social media lead,
-please fill in this form (TODO!).
+please make sure you have
+[registered for the Brainhack](https://www.humanbrainmapping.org/i4a/ams/meetings/index.cfm?controller=meetings&action=startRegistration&conferenceID=128&reginit=1&pageID=3978)
+add you name to this sign up [list](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack).

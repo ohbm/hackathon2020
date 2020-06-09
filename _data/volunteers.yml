@@ -154,7 +154,7 @@
       id: 13
       name: "Sina"
       surname: "Mansour L."
-      title: "Teaching assistant"
+      title: "Project review & teaching assistant"
       location: "Melbourne, Australia"
       thumbnailUrl: Sina_Mansour.JPG
       team: true
@@ -182,6 +182,17 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sbollmann_MRI/"}
+    -
+      id: 16
+      name: "Jinglei"
+      surname: "Lv"
+      title: "Project review"
+      location: "Sydney, Australia"
+      thumbnailUrl: Jinglei_Lv.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/JingleiLv/"}
+        - {name: "github", link: "https://github.com/Jinglei-Lv/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
@@ -289,7 +300,28 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
-
+    -
+      id: 9
+      name: "Matthias"
+      surname: "Nau"
+      title: "Social media team"
+      location: "Trondheim, Norway"
+      thumbnailUrl: matthias_nau.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/NauMatt/"}
+        - {name: "github", link: "https://github.com/Naubody/"}
+    -
+      id: 10
+      name: "Camille"
+      surname: "Chatelle"
+      title: "Social media team"
+      location: "Louvain-La-Neuve/Brussels, Belgium"
+      thumbnailUrl: Camille_Chatelle.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Louvain_Bionics/"}
+        - {name: "github", link: "https://github.com/CamilleChatelle/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
 # -------------------------------------------------------------------------------------------------#
@@ -408,8 +440,49 @@
       social:
         - {name: "twitter", link: "https://twitter.com/anibalsolon"}
         - {name: "github", link: "https://github.com/anibalsolon"}
-
-
+    -
+      id: 10
+      name: "Eric"
+      surname: "Earl"
+      title: "Helpdesk"
+      location: "Portland, USA"
+      thumbnailUrl: eric_earl.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/ericearlohsu/"}
+        - {name: "github", link: "https://github.com/ericearl/"}
+    -
+      id: 11
+      name: "Jon Haitz"
+      surname: "Legarreta Gorroño"
+      title: "Project review & Helpdesk"
+      location: "Sherbrooke, Canada"
+      thumbnailUrl: jhlegarreta.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jhlegarreta"}
+    -
+      id: 12
+      name: "Eduardo"
+      surname: "Garza-Villarreal"
+      title: "Hub manager"
+      location: "Queretaro, Mexico"
+      thumbnailUrl: Eduardo_Garza-Villarreal.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/egarzav/"}
+        - {name: "github", link: "https://github.com/egarza/"}
+    -
+      id: 13
+      name: "Kendra"
+      surname: "Oudyk"
+      title: "Traintrack instructor"
+      location: "Brantford, Canada"
+      thumbnailUrl: Kendra_Oudyk.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/koudyk_/"}
+        - {name: "github", link: "https://github.com/koudyk/"}
 # -------------------------------------------------------------------------------------------------#
 # Cross-hub coordination team
 # -------------------------------------------------------------------------------------------------#

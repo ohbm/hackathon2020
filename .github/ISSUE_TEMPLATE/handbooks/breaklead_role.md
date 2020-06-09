@@ -30,5 +30,6 @@ rooms of 5-8 people with a ‘breakout room host’ in each room)
 
 **Estimated time**: variable workload between 5-10 hours before Brainhack.
 
-**Join the team!** Thank you so much for willing to help. In order to sign up as a break lead, please
-fill in this form (TODO!).
+**Join the team!** Thank you so much for willing to help. In order to sign up as a break lead, please make sure you have 
+[registered for the Brainhack](https://www.humanbrainmapping.org/i4a/ams/meetings/index.cfm?controller=meetings&action=startRegistration&conferenceID=128&reginit=1&pageID=3978)
+add you name to this sign up [list](https://pad.inria.fr/p/np_AQtc9u7wqncYHNGU_brainhack).
