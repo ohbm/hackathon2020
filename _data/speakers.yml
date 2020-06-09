@@ -92,10 +92,10 @@
 
 -
   id: 9
-  title: "Brain Viz"
+  title: "Brain Visualization"
   thumbnailUrl:
-  name: "Brain art"
-  surname: "OHBM special interest group"
+  name: "Brain Art"
+  surname: "OHBM SIG"
   location: ""
   team: true
   social:
