@@ -165,7 +165,7 @@
       id: 14
       name: "Aurina"
       surname: "Arnatkeviciute"
-      title: "Social team"
+      title: "Traintrack instructor & Social team"
       location: "Melbourne, Australia"
       thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
       team: true
@@ -643,7 +643,7 @@
       thumbnailUrl: johanna_bayer.jpg
       team: true
       social:
-
+        - {name: "twitter", link: "https://twitter.com/likeajumprope"}
 
 # -------------------------------------------------------------------------------------------------#
 # Brainhack
