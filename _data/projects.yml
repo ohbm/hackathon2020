@@ -104,6 +104,15 @@
   and many approaches are possible to validate the trained model (e.g. cross validation, bootstrapping, permutation test, etc.). 
   In this project, I propose to write several Python tutorials to help the application and interpretation of these models in practice.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/149>in this github issue</a>"
+-
+  title: "git-annex special remote for the open science framework"
+  image: git-annex-osf-logo.png
+  details: "PROJECT DESCRIPTION.<br>The <a href=https://osf.io/>Open Science Framework (OSF)</a> is an amazing infrastructure for open science.
+  In this project, we attempt to create a <a href=https://git-annex.branchable.com/special_remotes/>git-annex special remote implementation</a> to leverage OSF filestorage and make the data storing that OSF provides even more useful.
+  The git-annex OFS special remote would allow to transform OSF storage into git-annex repositories.
+  Files in OSF storage could thus be consumed or exported fast and easily via git-annex or <a href=https://github.com/datalad/datalad>datalad</a>, and published to repository-hosting services (GitHub, GitLab, Bitbucket, ...) as lightweight repositories that constitute an alternative access to the data stored on the OSF - that is:
+  you can <code>git clone</code> a repository from for example GitHub and get the data from the OSF from the command line or in your scripts.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/156>in this github issue</a>"
 #-
 #  title: "Multi-modality neurofeedback and biofeedback to treat children with ADHD or anxiety"
 #  image: whatever.png
