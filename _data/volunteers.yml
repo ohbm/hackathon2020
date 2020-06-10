@@ -226,6 +226,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/SaamprasG/"}
         - {name: "github", link: "https://github.com/Saampras/"}
+    -
+      id: 20
+      name: "Kshipra"
+      surname: "Gurunandan"
+      title: "Helpdesk"
+      location: "Oakleigh East, Australia"
+      thumbnailUrl: Kshipra.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/KGurunandan/"}
+        - {name: "github", link: "https://github.com/kgurunandan/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
