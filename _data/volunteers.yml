@@ -103,9 +103,11 @@
       surname: "Nolan"
       title: "Helpdesk"
       location: "Brisbane, Australia"
-      thumbnailUrl:
+      thumbnailUrl: chris_nolan.jpg
       team: true
       social:
+        - {name: "twitter", link: "https://twitter.com/cnolanAU/"}
+        - {name: "github", link: "https://github.com/crnolan/"}
     -
       id: 9
       name: "Megan"
