@@ -74,7 +74,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/143>in this github issue</a>"
 -
   title: "Vector Embeddings of Brain Dynamics"
-  image: whatever.png
+  image: vectorbraindynamics.png
   details: "PROJECT DESCRIPTION.<br>Whereas we can build time-varying functional connectivity (TVFC) graphs
   easily and efficiently using instantaneous wavelet coherence. And whereas we can
   compare TVFC graphs using a host of graph-graph metrics---from simple edge-wise
@@ -95,6 +95,21 @@
   and identify common challenges researchers face, then come up with a semantic framework to create and compare different pipelines,
   map software options onto the different analysis steps, and finally start designing an adaptive app for M/EEG pre-registration!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/139>in this github issue</a>"
+-
+  title: "Tutorial for cross decomposition algorithms (e.g. CCA, PLS) in Python"
+  image: whatever.png
+  details: "PROJECT DESCRIPTION.<br>Cross decomposition algorithms look for the relations between two (or more) blocks of variables. 
+  These methods are particularly used in neuroimaging to analyze associations between physiological/behavioral variables and brain structure/function.
+  Between unsupervised and supervised modeling, this family of algorithms has many members (e.g. CCA, PLS regression, PLS canonical, PLS-PM, etc.) 
+  and many approaches are possible to validate the trained model (e.g. cross validation, bootstrapping, permutation test, etc.). 
+  In this project, I propose to write several Python tutorials to help the application and interpretation of these models in practice.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/149>in this github issue</a>"
+#-
+#  title: "Multi-modality neurofeedback and biofeedback to treat children with ADHD or anxiety"
+#  image: whatever.png
+#  details: "PROJECT DESCRIPTION.<br>
+#  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/153>in this github issue</a>"
+
 
 # EXAMPLES
 # -
