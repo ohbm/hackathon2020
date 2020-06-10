@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/ohbm/hackathon2020.svg?branch=master)](https://travis-ci.com/ohbm/hackathon2020)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # OHBM 2020 Brainhack
@@ -11,9 +11,9 @@ The [Open Science Special Interest Group](https://ossig.netlify.com/) is very ha
 
 ## What is a Brainhack?
 
-At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials are provided. Brainhacks differ from typical academic conference in that because attendees can actively take part in the program and co-learn from each other will be actively trying to create something rather than passively attend. Although many Brainhack projects might involve coding, it is not a requirement and many projects can be done without coding skills.
+At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials are provided. Brainhacks differ from typical academic conference in that attendees can actively take part in the program and co-learn from each other such that they will be actively trying to create something rather than passively attending. Although many Brainhack projects might involve coding, it is not a requirement and many projects can be done without coding skills.
 
-For this years’s Brainhack, we want to create an atmosphere where people who have never attended such event before can feel welcome. We want to make sure that attendees not only have the opportunity to learn new open-science skills in the traintrack that will help them in their future work but that they also get the chance to directly practice some of those skills by joining and collaborate on a Brainhack project.
+For this year’s Brainhack, we want to create an atmosphere where people who have never attended such an event before can feel welcome. We want to make sure that attendees not only have the opportunity to learn new open-science skills in the TrainTrack that will help them in their future work but that they also get the chance to directly practice some of those skills by joining and collaborating on a Brainhack project.
 
 ## What kind of projects can you find in a Brainhack?
 
@@ -31,7 +31,7 @@ You can find example of projects listed in the different [brainhack events](http
 
 Yes. The OS-SIG is providing 50 mini-grants worth 100 USD each to help Brainhack attendees set up for online conferencing. Apply via the registration link.
 
-In addition, the OS-SIG is committed to make the OHBM Brainhack more accessible. In particular, if the Brainhack fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ossig2019@inria.fr sharing some details about your situation. We will consider waving those fees as necessary.
+In addition, the OS-SIG is committed to making the OHBM Brainhack more accessible. In particular, if the Brainhack fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ossig2019@inria.fr sharing some details about your situation. We will consider waving those fees as necessary.
 
 ## Do I need to register for the OHBM conference to attend the OHBM Brainhack?
 
@@ -46,7 +46,7 @@ For most recent updates please go to [OHBM Brainhack 2020 webpage](https://ohbm.
 
 ## How to update the website
 
-Most of the "easy" updates can be done in the following files. We have added templates to each to help with this.
+Most of the "easy" updates can be done in the following files. We have added templates to help with this.
 
 -   **Updating projects**: check this [board](https://github.com/ohbm/hackathon2020/projects/4) to know which projects can be added to the website. Of the checked projects, paste the title and description in `_data/projects.yml`. Merged pull requests will appear [here](https://ohbm.github.io/hackathon2020/hackathon/)
 -   **Updating team**: place a picture of the new volunteer in the `img/team` folder. In `_data/volunteers.yml`, add their name and details using the template. Merged pull requests will appear [here](https://ohbm.github.io/hackathon2020/team/)
@@ -85,6 +85,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://anibalsolon.com/"><img src="https://avatars0.githubusercontent.com/u/562525?v=4" width="100px;" alt=""/><br /><sub><b>Anibal Sólon</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=anibalsolon" title="Code">💻</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=anibalsolon" title="Documentation">📖</a> <a href="#design-anibalsolon" title="Design">🎨</a> <a href="#ideas-anibalsolon" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-anibalsolon" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://ouestcode.com"><img src="https://avatars3.githubusercontent.com/u/6114?v=4" width="100px;" alt=""/><br /><sub><b>Cyril Rohr</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=crohr" title="Code">💻</a> <a href="#design-crohr" title="Design">🎨</a> <a href="#maintenance-crohr" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#infra-malvikasharan" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/robertoostenveld"><img src="https://avatars1.githubusercontent.com/u/899043?v=4" width="100px;" alt=""/><br /><sub><b>Robert Oostenveld</b></sub></a><br /><a href="https://github.com/ohbm/hackathon2020/commits?author=robertoostenveld" title="Code">💻</a> <a href="https://github.com/ohbm/hackathon2020/commits?author=robertoostenveld" title="Documentation">📖</a></td>
   </tr>
 </table>
 
