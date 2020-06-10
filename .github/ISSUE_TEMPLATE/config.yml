@@ -10,7 +10,7 @@ newIssueWelcomeComment: >
   :tada: Welcome to the 2020 OHBM Hackathon! :tada:
   We're really excited to have your input on this repository and welcome your idea! :sparkling_heart:
   If you haven't done so already, please make sure you check out our [Code of Conduct](https://github.com/ohbm/hackathon2020/blob/master/code_of_conduct.md).
-Did you issue a new hackathon project? Please check if you have provided all relevant information and an image for the [website](https://ohbm.github.io/hackathon2020/hackathon/).
+  Did you issue a new hackathon project? Please check if you have provided all relevant information and an image for the [website](https://ohbm.github.io/hackathon2020/hackathon/).
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
