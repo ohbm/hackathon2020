@@ -193,6 +193,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/JingleiLv/"}
         - {name: "github", link: "https://github.com/Jinglei-Lv/"}
+    -
+      id: 17
+      name: "Johan"
+      surname: "van der Meer"
+      title: "Help desk"
+      location: "Sydney, Australia"
+      thumbnailUrl: johan_vdmeer.png
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/jnvandermeer /"}
+
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
