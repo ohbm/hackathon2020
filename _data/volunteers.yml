@@ -204,7 +204,28 @@
       social:
         - {name: "twitter", link: "https://twitter.com/jnvandermeer/"}
         - {name: "github", link: "https://github.com/jnvandermeer/"}
-
+    -
+      id: 18
+      name: "Mac"
+      surname: "Shine"
+      title: "Project review"
+      location: "Sydney, Australia"
+      thumbnailUrl: mac_shine.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/jmacshine/"}
+        - {name: "github", link: "https://github.com/macshine/"}
+    -
+      id: 19
+      name: "Saampras"
+      surname: "Ganesan"
+      title: "Teaching assistant"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Saampras_Ganesan.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/SaamprasG/"}
+        - {name: "github", link: "https://github.com/Saampras/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
@@ -295,7 +316,7 @@
       id: 7
       name: "Isil"
       surname: "Poyraz Bilgin"
-      title: "Project review"
+      title: "Hub manager & project review"
       location: "UK"
       thumbnailUrl: isil_p.jpg
       team: true
@@ -334,6 +355,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/Louvain_Bionics/"}
         - {name: "github", link: "https://github.com/CamilleChatelle/"}
+    -
+      id: 11
+      name: "Y-Fang"
+      surname: "Yang"
+      title: "Social media team"
+      location: "Brussels, Belgium"
+      thumbnailUrl: Yu-Fang_Yang.png
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/ufangyang/"}
+        - {name: "github", link: "https://github.com/ufangYang/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
 # -------------------------------------------------------------------------------------------------#
@@ -495,6 +527,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/koudyk_/"}
         - {name: "github", link: "https://github.com/koudyk/"}
+    -
+      id: 14
+      name: "Kulpreet"
+      surname: "Cheema"
+      title: "Welcome desk"
+      location: "Edmonton, Canada"
+      thumbnailUrl: Kulpreet_Cheema.JPG
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/kulcheema/"}
+        - {name: "github", link: "https://github.com/kcheema1/"}
 # -------------------------------------------------------------------------------------------------#
 # Cross-hub coordination team
 # -------------------------------------------------------------------------------------------------#
