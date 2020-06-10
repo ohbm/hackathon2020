@@ -198,11 +198,12 @@
       name: "Johan"
       surname: "van der Meer"
       title: "Help desk"
-      location: "Sydney, Australia"
+      location: "Brisbane, Australia"
       thumbnailUrl: johan_vdmeer.png
       team: true
       social:
-        - {name: "github", link: "https://github.com/jnvandermeer /"}
+        - {name: "twitter", link: "https://twitter.com/jnvandermeer/"}
+        - {name: "github", link: "https://github.com/jnvandermeer/"}
 
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
