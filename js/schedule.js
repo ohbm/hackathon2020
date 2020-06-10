@@ -1,7 +1,7 @@
 (function() {
   var $tz = $("#timezone");
   var baseTz = $tz.data('base-tz');
-  var guessedTz = baseTz;
+  var guessedTz = moment.tz.guess() || baseTz;
 
   var updateSchedule = function() {
     var selectedTz = $tz.val();
