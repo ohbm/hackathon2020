@@ -66,7 +66,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/128>in this github issue</a>"
 -
   title: "Hopfield Network Library"
-  image: whatever.png
+  image: hopfield.png
   details: "PROJECT DESCRIPTION.<br>The goal of this project is to create an easy-to-use library for undirected
   neural networks, including Hopfield networks, Boltzmann machines, and Deep Belief
   networks. We also want to run empirical studies on the behavior of Hopfield networks,
