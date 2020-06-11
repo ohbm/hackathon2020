@@ -57,7 +57,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/124>in this github issue</a>"
 -
   title: "shimming toolbox: Ecosystem for real-time shimming with MRI"
-  image: whatever.png
+  image: shimming.png
   details: "PROJECT DESCRIPTION.<br>A prerequisite to correcting/shimming the MR 'B0' field is of course to
   measure it (commonly done using a dual-echo gradient-echo sequence). A recent paper
   by <a href=https://iopscience.iop.org/article/10.1088/1361-6560/aae570>Fatnassi and Zaidi</a>
