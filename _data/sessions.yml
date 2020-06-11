@@ -28,6 +28,12 @@
   description: "The best time to start talking with others"
   service: true
 
+-
+  id: 003
+  title: "Live discussions"
+  place: "Breakout room"
+  description: "The best time to start talking with others"
+  service: true
 
 # Intro, wrap up, project pitches
 
@@ -156,6 +162,14 @@
   title: "Datalad"
   place: "Crowdcast"
   description: "Version control applied to your data... and much more."
+  service: true
+
+
+-
+  id: 311
+  title: "Neuroimaging 101"
+  place: "Crowdcast"
+  description: "[In Chinese] Learn the basics to programming for neuroimaging data analyses"
   service: true
 
 # Asynchronous activities...
