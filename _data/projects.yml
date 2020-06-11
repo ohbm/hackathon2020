@@ -141,6 +141,12 @@
   details: "PROJECT DESCRIPTION.<br>A list of tutorials and other resources useful to learn open science and neuroimaging. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
   for more info.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/166>in this github issue</a>"
+-
+  title: "confounds library"
+  image: https://github.com/raamana/confounds/raw/master/confounds_card.jpg
+  details: "PROJECT DESCRIPTION.<br> python library to handle confounds/covariates in machine learning and neuroscience See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
+  for more info.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/171>in this github issue</a>"  
 
 # EXAMPLES
 # -
