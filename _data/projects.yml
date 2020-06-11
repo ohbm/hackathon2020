@@ -98,10 +98,10 @@
 -
   title: "Tutorial for cross decomposition algorithms (e.g. CCA, PLS) in Python"
   image: decompositionalgorithms.gif
-  details: "PROJECT DESCRIPTION.<br>Cross decomposition algorithms look for the relations between two (or more) blocks of variables. 
+  details: "PROJECT DESCRIPTION.<br>Cross decomposition algorithms look for the relations between two (or more) blocks of variables.
   These methods are particularly used in neuroimaging to analyze associations between physiological/behavioral variables and brain structure/function.
-  Between unsupervised and supervised modeling, this family of algorithms has many members (e.g. CCA, PLS regression, PLS canonical, PLS-PM, etc.) 
-  and many approaches are possible to validate the trained model (e.g. cross validation, bootstrapping, permutation test, etc.). 
+  Between unsupervised and supervised modeling, this family of algorithms has many members (e.g. CCA, PLS regression, PLS canonical, PLS-PM, etc.)
+  and many approaches are possible to validate the trained model (e.g. cross validation, bootstrapping, permutation test, etc.).
   In this project, I propose to write several Python tutorials to help the application and interpretation of these models in practice.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/149>in this github issue</a>"
 -
@@ -121,24 +121,24 @@
 -
   title: "Bidsme -- bidsifier for multimodal datasets"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>One of the great ideas behind BIDS is unification of various modalities in the same dataset, sharing common metadata and providing 
-  a self-sufficient dataset ready to analyse. However various bidsificators target only one or two modalities. Bidsme project has been developed to provide a bidsificator 
-  as universal as possible, both in modalities and data formats. The project is based on two main ideas: <br>  1. everything that is laboratory-depending (log files, events, 
-  demographic info, psychological assessments, format conversions) must be treated via plugins. <br>  2. Data treated in object-oriented way: master class do the bidsifications, 
-  modality sub-class defines the BIDS-related parameters (entities, JSON fields etc...), data-format sub-sub-class implements how to read metadata. <br>Using this approach it 
+  details: "PROJECT DESCRIPTION.<br>One of the great ideas behind BIDS is unification of various modalities in the same dataset, sharing common metadata and providing
+  a self-sufficient dataset ready to analyse. However various bidsificators target only one or two modalities. Bidsme project has been developed to provide a bidsificator
+  as universal as possible, both in modalities and data formats. The project is based on two main ideas: <br>  1. everything that is laboratory-depending (log files, events,
+  demographic info, psychological assessments, format conversions) must be treated via plugins. <br>  2. Data treated in object-oriented way: master class do the bidsifications,
+  modality sub-class defines the BIDS-related parameters (entities, JSON fields etc...), data-format sub-sub-class implements how to read metadata. <br>Using this approach it
   is possible to integrate a new modality from scratch in one week, and fully create plugins for a given dataset in few days.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/158>in this github issue</a>"
 -
   title: "TRAMPOLINO: the Swiss Army Knife for tractography"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>I wrote TRAMPOLINO during BrainHack School with the idea of building a tool to easily do tractography across different packages. 
-  My vision now is to make it become the Swiss Army Knife for tractography: a tool able to try out things, even when you do not have the right software installed (!!!). 
-  The dream would be typing just "trampolino --corpus-callosum" and getting the tractogram for a corpus callosum to play with!
+  details: "PROJECT DESCRIPTION.<br>I wrote TRAMPOLINO during BrainHack School with the idea of building a tool to easily do tractography across different packages.
+  My vision now is to make it become the Swiss Army Knife for tractography: a tool able to try out things, even when you do not have the right software installed (!!!).
+  The dream would be typing just 'trampolino --corpus-callosum' and getting the tractogram for a corpus callosum to play with!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/162>in this github issue</a>"
 -
   title: "Neuroimaging tutorials and resources: A list of tutorials and other resources useful to learn open science and neuroimaging"
   image: neurotutorials.gif
-  details: "PROJECT DESCRIPTION.<br>A list of tutorials and other resources useful to learn open science and neuroimaging. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a> 
+  details: "PROJECT DESCRIPTION.<br>A list of tutorials and other resources useful to learn open science and neuroimaging. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
   for more info.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/166>in this github issue</a>"
 
