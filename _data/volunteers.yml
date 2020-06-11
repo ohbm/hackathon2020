@@ -97,6 +97,8 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
+        - {name: "github", link: "https://github.com/stebo85/"}
+
     -
       id: 8
       name: "Chris"
@@ -239,6 +241,16 @@
       social:
         - {name: "twitter", link: "https://twitter.com/KGurunandan/"}
         - {name: "github", link: "https://github.com/kgurunandan/"}
+    -
+      id: 21
+      name: "Hsiao-ju (Rita)"
+      surname: "Cheng"
+      title: "Social media team"
+      location: "Singapore, Singapore"
+      thumbnailUrl: rita_cheng.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/hsiaojucheng/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
@@ -551,6 +563,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/kulcheema/"}
         - {name: "github", link: "https://github.com/kcheema1/"}
+    -
+      id: 15
+      name: "Yohan"
+      surname: "Yee"
+      title: "Helpdesk & welcome desk"
+      location: "Toronto, Canada"
+      thumbnailUrl: yohan_yee.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/therealyohanyee/"}
+        - {name: "github", link: "https://github.com/yohanyee/"}
 # -------------------------------------------------------------------------------------------------#
 # Cross-hub coordination team
 # -------------------------------------------------------------------------------------------------#
