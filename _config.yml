@@ -67,9 +67,11 @@ eventDate: "June 16-18th 2020"
 typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
 heroButtons:
- - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
- - {link: "https://github.com/ohbm/hackathon2020/issues/new/choose", text: "Submit a project"}
- # - {link: " ", text: "Want to help?"}
+   - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
+   - {link: "https://github.com/ohbm/hackathon2020/issues/new/choose", text: "Submit a project"}
+   - {link: "https://neurostars.org/t/ohbm-brainhack-2020/6192/8?u=remi-gau", text: "Want to help?"}
+
+
 
 # About Block
 aboutTitle: "About OHBM BrainHack 2020"
