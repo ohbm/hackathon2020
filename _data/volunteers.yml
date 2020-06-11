@@ -97,6 +97,8 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
+        - {name: "github", link: "https://github.com/stebo85/"}
+
     -
       id: 8
       name: "Chris"
