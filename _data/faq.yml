@@ -268,6 +268,18 @@ share your time: it is OK.
 </p>"}
 
 
+    - {question: "Is there a way to take part in a project that is not on my hub?",
+    answer: "<p>We really encourage people to try to participate during their normal sleep / wake cycle. <br>
+    But we also would to see the projects as a common pool where anyone can contribute where ever they are. <br>
+    If you already have an idea of the project you want to help with and it is not on your hub,
+    we suggest that you get in touch with the project leader: either in their mattermost channel or on the
+    issue on the <a href='https://github.com/ohbm/hackathon2020/issues?q=is%3Aissue+is%3Aopen+label%3A%22Hackathon+project%22'
+    target='_blank'>repository</a>. This can be a way for project leaders to see how to start coordinating things. <br>
+    If you arrange things now, you could find a way for you to be a co-leader for that project in your hub.
+</p>"}
+
+
+
     - {question: "Who can become a mentor and how? ", answer: "<p>
 If you have attended a brain hackathon in the past, we will contact you after registration to offer
 the opportunity to act as a mentor during the hackathon. We would very much appreciate your help in
