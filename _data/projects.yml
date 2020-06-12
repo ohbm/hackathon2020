@@ -106,7 +106,7 @@
   and identify common challenges researchers face, then come up with a semantic framework to create and compare different pipelines,
   map software options onto the different analysis steps, and finally start designing an adaptive app for M/EEG pre-registration!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/139>in this github issue</a>"
-  hub:"Europe-Middle East-Africa"
+  hub: "Europe-Middle East-Africa"
 -
   title: "Tutorial for cross decomposition algorithms (e.g. CCA, PLS) in Python"
   image: decompositionalgorithms.gif
