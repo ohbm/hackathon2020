@@ -81,12 +81,16 @@ chao_gan_yan:
   team: true
   social:
 
--
-  id: 11
-  title: "CONP: Introducing a platform for the open sharing of data and pipelines"
-  thumbnailUrl: conp.jpg
-  name: "Tristan Glatard and Samir Das"
-  surname: ""
+tristan_gatlard:
+  name: "Tristan"
+  surname: "Glatard"
+  location: "Montreal, QC"
+  team: true
+  social:
+
+samir_das:
+  name: "Samir"
+  surname: "Das"
   location: "Montreal, QC"
   team: true
   social:

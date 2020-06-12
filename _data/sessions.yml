@@ -321,6 +321,7 @@
 
 -
   id: 310
+  type: traintrack
   title: "CONP: Introducing a platform for the open sharing of data and pipelines"
   place: "Crowdcast"
   description: "An introduction and demo of the Canadian Open Neuroscience Platform"
@@ -329,15 +330,37 @@
    downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool.
    The demo will be recorded and could also serve as a tutorial. Only a web browser will be required to follow this tutorial,
   although advanced features would require Docker and DataLad."
+  thumbnailUrl: /img/traintrack/conp.jpg
+  prerequisite:
   links:
-    - website: http://portal.conp.ca
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [11]
+    website: http://portal.conp.ca
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [tristan_gatlard, samir_das] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
+-
+  id: 311
+  type: traintrack
+  title: "Neuroimaging 101"
+  place: "Crowdcast"
+  description: "Learn the basics to programming for neuroimaging data analyses"
+  thumbnailUrl: /img/traintrack/101.jpg
+  prerequisite:
+  links:
+    website: http://rfmri.org/Course
+  language: zh
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [chao_gan_yan] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
 
 
 -
