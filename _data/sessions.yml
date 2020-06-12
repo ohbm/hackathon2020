@@ -327,6 +327,26 @@
           name:
           surname:
 
+-
+  id: 310
+  title: "CONP: Introducing a platform for the open sharing of data and pipelines"
+  place: "Crowdcast"
+  description: "An introduction and demo of the Canadian Open Neuroscience Platform"
+  long_description: "The Canadian Open Neuroscience Platform is a decentralized web platform for the open sharing of data and
+   pipelines. We will present the main features of the Canadian Open Neuroscience Platform, including: (1) finding and
+   downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool. 
+   The demo will be recorded and could also serve as a tutorial. Only a web browser will be required to follow this tutorial,
+  although advanced features would require Docker and DataLad."
+  links: 
+    - website: http://portal.conp.ca
+  service: true
+  subtype: pre-recorded / follow along
+  speakers: [11]
+  language: en
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
+
 
 -
   id: 311

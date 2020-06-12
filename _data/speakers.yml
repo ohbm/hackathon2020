@@ -109,3 +109,13 @@
   location: ""
   team: true
   social:
+
+-
+  id: 11
+  title: "CONP: Introducing a platform for the open sharing of data and pipelines"
+  thumbnailUrl: conp.jpg
+  name: "Tristan Glatard and Samir Das"
+  surname: ""
+  location: "Montreal, QC"
+  team: true
+  social:
