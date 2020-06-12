@@ -251,6 +251,40 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/hsiaojucheng/"}
+    -
+      id: 22
+      name: "Claire"
+      surname: "Bradley"
+      title: "Social team"
+      location: "Brisbane, Australia"
+      thumbnailUrl: claire_bradley.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/clairebradleyh/"}
+        - {name: "github", link: "https://github.com/cbradleyh/"}
+    -
+      id: 23
+      name: "Warda"
+      surname: "Syeda"
+      title: "Project review"
+      location: "Melbourne, Australia"
+      thumbnailUrl: Warda_Syeda.jpeg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/wardataqdees/"}
+        - {name: "github", link: "https://github.com/wtsyeda/"}
+    -
+      id: 24
+      name: "Sidhant (Sid)"
+      surname: "Chopra"
+      title: "Project review"
+      location: "Melbourne, Australia"
+      thumbnailUrl: sid_chopra.JPG
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/sidchop/"}
+        - {name: "github", link: "https://github.com/Sidchop/"}
+
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
