@@ -334,10 +334,10 @@
   description: "An introduction and demo of the Canadian Open Neuroscience Platform"
   long_description: "The Canadian Open Neuroscience Platform is a decentralized web platform for the open sharing of data and
    pipelines. We will present the main features of the Canadian Open Neuroscience Platform, including: (1) finding and
-   downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool. 
+   downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool.
    The demo will be recorded and could also serve as a tutorial. Only a web browser will be required to follow this tutorial,
   although advanced features would require Docker and DataLad."
-  links: 
+  links:
     - website: http://portal.conp.ca
   service: true
   subtype: pre-recorded / follow along
@@ -351,9 +351,18 @@
 -
   id: 311
   title: "Neuroimaging 101"
-  place: "Crowdcast"
-  description: "[In Chinese] Learn the basics to programming for neuroimaging data analyses"
+  place: "Zoom"
+  description: "[In Chinese] Learn the basics to MATLAB programming for neuroimaging data analyses"
+  long_description: "During this lesson, the participants will learn how to use DPABI based tools to process their data using scripts."
+  links:
+    - website: http://rfmri.org/Course
   service: true
+  subtype: Live / Follow-along tutorial
+  speakers: [11]
+  language: en
+  complexity: "Beginner"
+  presentation: # slides
+  video: # link to crowdcast
 
 # Asynchronous activities...
 -
