@@ -50,8 +50,28 @@ Thank you!
 **Skills**:
 
 **Chat channel**:
+<!-- If you are creating a channel on the [brainhack mattermost](https://mattermost.brainhack.org/) try to create a
+**public** channel with one of the following template names:
 
+- hbmhack-NAME_OF_YOUR_PROJECT
+- hbm-NAME_OF_YOUR_PROJECT
+
+These would be the corresponding URLs that you can paste here.
+
+https://mattermost.brainhack.org/brainhack/channels/hbmhack-NAME_OF_YOUR_PROJECT
+https://mattermost.brainhack.org/brainhack/channels/hbm-NAME_OF_YOUR_PROJECT
+-->
+
+<!--
 **Video channel**:
+
+We are trying to be super careful about "zoom bombing" possibility.
+So we want to avoid having links to video chats in "public space".
+We suggest that you create a Jitsi or Zoom room and mention it in your text channel as "pinned" message or in the channel header.
+
+-->
+
+**Image for the OHBM brainhack website**
 
 ## Project submission
 
@@ -66,11 +86,11 @@ Please include the following above (all required):
 -   [ ] Skills: list skills that would be particularly suitable for your project. We ask you to include at least one non-coding skill, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#onboarding-skills).
 -   [ ] Chat channel: A link to a chat channel that will be used during the OHBM Brainhack. This can be an existing channel or a new one. We recommend using the [Brainhack space on mattermost](https://mattermost.brainhack.org/), cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#chat).
 -   [ ] Video channel: Please create a video channel that will be used during the OHBM Brainhack and share it in your chat channel above. This can be an existing channel or a new one. For instance a [jitsi meet](https://meet.jit.si/) room, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#video-calls).
+-   [ ] Provide an image of your project for the OHBM brainhack website
 
 You can also include information about (all optional):
 -   [ ] Number of participants, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#participant-capacity)
 -   [ ] Twitter-size summary of your project pitch, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#twitter-size-summary-of-your-project-pitch)
--   [ ] Provide an image of your project for the OHBM brainhack website
 -   [ ] Set up a kanban board on your repository to better divide the work and keep track of things, cf [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#set-up-a-kanban-board)
 -   [ ] Project snippet for the OHBM Brainhack website, cf. [here](https://github.com/ohbm/hackathon2020/blob/master/.github/ISSUE_TEMPLATE/handbooks/projects.md#project-snippet-for-the-ohbm-brainhack-website)
 
