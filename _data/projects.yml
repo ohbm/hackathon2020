@@ -130,15 +130,15 @@
 -
   title: "Multi-modality neurofeedback and biofeedback to treat children with ADHD or anxiety"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>Children with ADHD, PTSD or generalized anxiety benefit from 
-  neurofeedback from an EEG while performing a task (e.g. focusing, calming) to develop cognitive skills 
-  that can assist them to cope and perform better throughout life. Some problems with this training 
-  a) the tools need to be easy to access and setup (e.g. wearable); b) the feedback should be engaging 
-  and ideally involving multiple senses (e.g. visual, auditory, 3D, aromas); and c) the feedback should 
-  be based on both brain waves (EEG) and other indicators (e.g. body motion, heart rate, breathing rate) 
+  details: "PROJECT DESCRIPTION.<br>Children with ADHD, PTSD or generalized anxiety benefit from
+  neurofeedback from an EEG while performing a task (e.g. focusing, calming) to develop cognitive skills
+  that can assist them to cope and perform better throughout life. Some problems with this training
+  a) the tools need to be easy to access and setup (e.g. wearable); b) the feedback should be engaging
+  and ideally involving multiple senses (e.g. visual, auditory, 3D, aromas); and c) the feedback should
+  be based on both brain waves (EEG) and other indicators (e.g. body motion, heart rate, breathing rate)
   to provide richer self-understanding.
-  <br>Problem: Develop an app for use with a wearable neurofeedback system (e.g. Muse, Emotiv, OpenBCI) 
-  that provides richer environmental feedback and/or sensing to better serve the ADHD, PTSD or 
+  <br>Problem: Develop an app for use with a wearable neurofeedback system (e.g. Muse, Emotiv, OpenBCI)
+  that provides richer environmental feedback and/or sensing to better serve the ADHD, PTSD or
   generalized anxiety pediatric populations.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/153>in this github issue</a>"
   hub: "Americas"
@@ -171,14 +171,14 @@
 -
   title: "Python library to handle confounds/covariate"
   image: confounds_card.jpg
-  details: "PROJECT DESCRIPTION.<br> Develop a python library of methods to handle confounds in 
+  details: "PROJECT DESCRIPTION.<br> Develop a python library of methods to handle confounds in
   various neuroscientific analyses, esp. statistics and predictive modeling.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/171>in this github issue</a>"
   hub: "Americas"
 -
   title: "Building 3R-BRAIN Neuroinformatics"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>An Open Resource for Reproducible, Replicable and Reliable 
+  details: "PROJECT DESCRIPTION.<br>An Open Resource for Reproducible, Replicable and Reliable
   Brain Research and Imaging Neuroscience
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/173>in this github issue</a>"
   hub: "Asia-Pacific"
@@ -191,18 +191,18 @@
 -
   title: "Virtual Neuro Machine (VNM)"
   image: virtualneuromachine.png
-  details: "PROJECT DESCRIPTION.<br>With the advent of container technology, cumbersome virtual machines 
-  have been reduced to a single container file that can be easily run on multiple-environments. Containers 
-  can be run both interactively (e.g., within a Virtual Machine on the cloud) and in batch processing 
-  (e.g., on HPC), thus contributing to reproducibility across stages of the analysis. The goal of this 
-  project is to generate a "virtual neuro machine" container, i.e. a large container that includes most 
-  popular neuroimaging tools, and can be used as a stand-alone VM. Although tools to generate neuroimaging 
-  software containers are already in place (e.g., neurodocker), continued maintenance of such a large 
-  container with complex library dependencies requires in-built testing capabilities, and especially so, 
-  of included GUI applications. This project will bring together people working on different environments 
-  and using different neuroimaging tools, in order to: 1) build a working container with the newest software
-  versions available in June 2020, 2) develop in-built testing capabilities, to facilitate future container 
-  upgrades, 3) develop a standard "home screen" for the container, to provide common interface across host 
+  details: "PROJECT DESCRIPTION.<br>With the advent of container technology, cumbersome virtual machines
+  have been reduced to a single container file that can be easily run on multiple-environments. Containers
+  can be run both interactively (e.g., within a Virtual Machine on the cloud) and in batch processing
+  (e.g., on HPC), thus contributing to reproducibility across stages of the analysis. The goal of this
+  project is to generate a 'virtual neuro machine' container, i.e. a large container that includes most
+  popular neuroimaging tools, and can be used as a stand-alone VM. Although tools to generate neuroimaging
+  software containers are already in place (e.g., neurodocker), continued maintenance of such a large
+  container with complex library dependencies requires in-built testing capabilities, and especially so,
+  of included GUI applications. This project will bring together people working on different environments
+  and using different neuroimaging tools, in order to 1) build a working container with the newest software
+  versions available in June 2020, 2) develop in-built testing capabilities, to facilitate future container
+  upgrades, 3) develop a standard 'home screen' for the container, to provide common interface across host
   environments.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/177>in this github issue</a>"
   hub: "Asia-Pacific"
@@ -210,8 +210,8 @@
   title: "BIDS-prov examples"
   image: whatever.png
   details: "PROJECT DESCRIPTION.<br>Provenance has already been discussed in the bids specification,
-  see <a href=https://github.com/bids-standard/bids-specification/pull/487>this commit</a>. Adding more 
-  examples in the form of json-ld files, would allow users to better picture workflows made possible by 
+  see <a href=https://github.com/bids-standard/bids-specification/pull/487>this commit</a>. Adding more
+  examples in the form of json-ld files, would allow users to better picture workflows made possible by
   this.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/181>in this github issue</a>"
   hub: "Europe-Middle East-Africa"
