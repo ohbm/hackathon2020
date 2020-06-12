@@ -12,24 +12,34 @@
     	sessionIds: [000]
     }
     - {
+      # Welcome
         startTime: "09:00",
-        endTime: "10:00",
+        endTime: "09:30",
         sessionIds: [101]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "11:00",
+      # Pitches
+    	startTime: "09:30",
+    	endTime: "10:00",
     	sessionIds: [102]
     }
     - {
-      startTime: "11:00",
-      endTime: "11:30",
-      sessionIds: [001]
+      # Neuroimaging 101 / Live discussions
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [311, 003]
     }
     - {
+      # Neuroimaging 101 / Q&A
+      startTime: "11:00",
+      endTime: "11:30",
+      sessionIds: [311, 103]
+    }
+    - {
+      # Social
       startTime: "11:30",
-      endTime: "12:00",
-      sessionIds: [103]
+      endTime: "12:30",
+      sessionIds: [001]
     }
     - {
       startTime: "12:00",
