@@ -28,9 +28,13 @@ layout: compress
     	{% include speakers-modals.html %} 
     {% endif %} 
 
-    {% if page.permalink == '/schedule/' %}
+    {% if page.permalink contains '/schedule/' %}
         {% include sessions-modals.html %} 
-    {% endif %} 
+    {% endif %}
+
+    {% if page.permalink contains '/traintrack/' %}
+        {% include sessions-modals.html %} 
+    {% endif %}
 
     {% include analytics.html %}
     

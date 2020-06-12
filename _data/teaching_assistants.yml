@@ -1,0 +1,9 @@
+
+anibal_solon:
+  name: "Anibal"
+  surname: "Solon"
+  location: "Austin, Texas, USA"
+  hub: Americas
+  social:
+    - {name: "twitter", link: "https://twitter.com/anibalsolon"}
+    - {name: "github", link: "https://github.com/anibalsolon"}

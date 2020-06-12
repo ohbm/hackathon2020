@@ -1,8 +1,5 @@
--
-  id: 1
-  title: "Git"
-  thumbnailUrl: git.png
-  name: "Saskia and Steffan"
+saskia_steffan_bollmann:
+  name: "Saskia & Steffan"
   surname: "Bollmann"
   location: "Australia"
   team: true
@@ -10,10 +7,7 @@
     - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
     - {name: "github", link: "https://github.com/stebo85/"}
 
--
-  id: 2
-  title: "GitHub"
-  thumbnailUrl: GitHub.png
+kendra_oudyk:
   name: "Kendra"
   surname: "Oudyk"
   location: "Brantford, Ontario, Canada"
@@ -22,10 +16,7 @@
     - {name: "twitter", link: "https://twitter.com/koudyk_"}
     - {name: "github", link: "https://github.com/koudyk/"}
 
--
-  id: 3
-  title: "Octave/Matlab: Best coding practices"
-  thumbnailUrl: matlab_octave.svg
+agah_karakuzu:
   name: "Agah"
   surname: "Karakuzu"
   location: "Kayseri, Turkey"
@@ -34,20 +25,14 @@
     - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
     - {name: "github", link: "https://github.com/agahkarakuzu/"}
 
--
-  id: 4
-  title: "Python: Best coding practices"
-  thumbnailUrl: python.png
+aurina_arnatkeviciute:
   name: "Aurina"
   surname: "Arnatkeviciute"
   location: ""
   team: true
   social:
 
--
-  id: 5
-  title: "BIDS and BIDS apps"
-  thumbnailUrl: BIDS_logo.jpg
+sam_nastase:
   name: "Sam"
   surname: "Nastase"
   location: "Princeton, NJ, USA"
@@ -56,10 +41,7 @@
     - {name: "twitter", link: "https://twitter.com/samnastase"}
     - {name: "github", link: "https://github.com/snastase/"}
 
--
-  id: 6
-  title: "Datalad"
-  thumbnailUrl: datalad.png
+adina_wagner:
   name: "Adina"
   surname: "Wagner"
   rockstar: true
@@ -67,10 +49,7 @@
     - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
     - {name: "github", link: "https://github.com/adswa"}
 
--
-  id: 7
-  title: "Docker/Singularity"
-  thumbnailUrl: docker_singularity.png
+tom_shaw:
   name: "Tom"
   surname: "Shaw"
   location: "Brisbane, Queensland, Australia"
@@ -79,10 +58,7 @@
     - {name: "twitter", link: "https://twitter.com/thomcat992"}
     - {name: "github", link: "https://github.com/thomshaw92/"}
 
--
-  id: 8
-  title: "Nilearn / Sklearn"
-  thumbnailUrl: nilearn-logo.png
+michael_dayan:
   name: "Michael"
   surname: "Dayan"
   location: ""
@@ -90,20 +66,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/brainhiker"}
 
--
-  id: 9
-  title: "Brain Visualization"
-  thumbnailUrl:
+brain_art_sig:
   name: "Brain Art"
   surname: "OHBM SIG"
   location: ""
   team: true
   social:
+    - {name: "twitter", link: "https://twitter.com/OHBM_BrainArt"}
 
--
-  id: 10
-  title: "Neuroimaging 101"
-  thumbnailUrl: 101.jpg
+chao_gan_yan:
   name: "Chao-Gan"
   surname: "Yan"
   location: ""

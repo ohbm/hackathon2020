@@ -1,331 +1,323 @@
 #  TEMPLATE SUGGESTION
 # -
 #   id:
-#   title: ""
-#   place: ""
-#   description: ""
-#   long_description: ""
+#   title: 
+#   place: 
+#   description: >
+#     
+#   long_description: >
+      
+#   type: social / hacktrack / traintrack
+#   thumbnailUrl: /img/traintrack/git.png
+
 #   prerequisite:
 #   links:
-#     - website:
-#     - documentation:
-#     - youtube_channel:
-#     - channel: # RIOT
-#     - mattermost:
-#     - presentation:
-#     - code: # jupyter notebook
-#     - youtube_video:
-#     - douyu_video:
-#   service: true
+#     website:
+#     documentation:
+#     riot:
+#     mattermost:
+#     presentation:
+#     code: # jupyter notebook
+#     youtube:
+#     douyu:
+#
+#   # For traintrack
 #   language: en
-#   complexity: "Beginner"
+#   complexity: Beginner
 #   subtype: pre-recorded / follow along
-#   speakers:
-#   teaching_assistants:
-#     - APAC:
-#         -
-#           id: 1
-#           name:
-#           surname:
-#     - EMEA:
-#         -
-#           id: 1
-#           name:
-#           surname:
-#     - Americas:
-#         -
-#           id: 1
-#           name:
-#           surname:
-
-
-
-# Dummy
--
-  id: 999
-  title: " "
-  place: " "
-  service: true
-  description: " "
+#   speakers: [] # from speakers.yml
+#   teaching_assistants: # from teaching_assistants.yml
+#     APAC: []
+#     EMEA: []
+#     Americas: []
 
 
 # 000 Breaks, socials and that sort of things
 
 -
   id: 000
+  type: social
   title: "Coffee / Breakfast / Lunch"
   place: "Breakout room"
-  service: true
   description: "Join if you feel like"
 -
   id: 001
+  type: social
   title: "Social / Coffee / Food break"
   place: "Breakout room"
   description: "The best time to start talking with others"
-  service: true
 -
   id: 002
+  type: social
   title: "Social / Coffee / Food break + Unconference !!!"
   place: "Crowdcast"
   description: "The best time to start talking with others"
-  service: true
-
 -
   id: 003
+  type: social
   title: "Live discussions"
   place: "Breakout room"
   description: "The best time to start talking with others"
-  service: true
 
 # Intro, wrap up, project pitches
 
 -
   id: 101
+  type: hacktrack
   title: "Welcome"
   place: "Crowdcast"
-  service: true
   description: ""
 -
   id: 102
+  type: hacktrack
   title: "Project Pitches"
   place: "Crowdcast"
-  service: true
   description: "Project leaders have 2 minutes to describe their project."
 -
   id: 103
+  type: hacktrack
   title: "Project Q&A"
   place: "Crowdcast"
-  service: true
   description: "All the attendees can go and meet the project leaders in their video breakout room
   to talk with thelm about the project."
 -
   id: 104
+  type: hacktrack
   title: "Project kickoff"
   place: "Crowdcast"
-  service: true
   description: "The first time all the project team 'gathers around a table', discuss how they want
   to work together and how to get started."
-
 -
   id: 105
+  type: hacktrack
   title: "Daily intro and presentation of the Traintrack"
   place: "Crowdcast"
-  service: true
   description: ""
-
 -
   id: 106
+  type: hacktrack
   title: "Daily wrap-up"
   place: "Crowdcast"
-  service: true
   description: ""
-
 -
   id: 107
+  type: hacktrack
   title: "Final wrap-up"
   place: "Crowdcast"
-  service: true
   description: "We all get together to hear what was accomplished in the past 3 days."
-
 
 # Hacking... More hacking
 -
   id: 201
+  type: hacktrack
   title: "Hacking"
   place: "Home"
   description: "Don't say 'hackathon' but say 'hack at home'"
-  service: true
 
 
 # Traintrack...
 -
   id: 300
+  type: traintrack
   title: "Git"
   place: "Crowdcast"
-  description: "Learn to version control your code and to work collaboratively with others
-  wherever they are."
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [1]
+  description: >
+    Learn to version control your code and to work
+    collaboratively with others wherever they are.
+  thumbnailUrl: /img/traintrack/git.png
+  prerequisite:
+  links:
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [saskia_steffan_bollmann] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: [anibal_solon]
+
 -
   id: 301
+  type: traintrack
   title: "GitHub"
   place: "Crowdcast"
-  description: "Learn to version control your code and to work collaboratively with others
-  wherever they are."
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [2]
+  description: >
+    Learn to version control your code and to work
+    collaboratively with others wherever they are.
+  thumbnailUrl: /img/traintrack/GitHub.png
+  prerequisite:
+  links:
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [kendra_oudyk] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 -
   id: 302
+  type: traintrack
   title: "Good coding practices with matlab"
   place: "Crowdcast"
   description: "Learn to trust your own code so sharing it feels less scary."
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [3]
+  thumbnailUrl: /img/traintrack/matlab_octave.png
+  prerequisite:
+  links:
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [agah_karakuzu] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 -
   id: 303
+  type: traintrack
   title: "Good coding practices with python"
   place: "Crowdcast"
   description: "Learn to trust your own code so sharing it feels less scary."
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [4]
+  thumbnailUrl: /img/traintrack/python.png
+  prerequisite:
+  links:
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [aurina_arnatkeviciute] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 -
   id: 304
+  type: traintrack
   title: "BIDS and BIDS apps"
   place: "Crowdcast"
-  description: "How to organize your data, so you will never hate your past 'self' ever again.
-                We will also go over tools that are compatible with BIDS and how to run them."
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [5]
+  description: >
+    How to organize your data, so you will never hate your past 'self' ever again.
+    We will also go over tools that are compatible with BIDS and how to run them.
+  thumbnailUrl: /img/traintrack/BIDS_logo.png
+  prerequisite:
+  links:
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [sam_nastase] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 -
   id: 305
+  type: traintrack
   title: "Brain visualization"
   place: "Crowdcast"
-  description: "A beautiful visualization is not just a good-looking colored brain.
-  It is an informative and efficient way to represent our data and results."
-  long_description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
-  It is an informative and efficient way to represent our data and results, which follows the scientific
-  principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize
-  the data, display the results, communicate the information, as well as change the way we perceive the world.
-  The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
-  and make the brain visualization novel, creative, aesthetic and fun to the community."
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [9]
+  description: >
+    A beautiful visualization is not just a good-looking colored brain.
+    It is an informative and efficient way to represent our data and results.
+  long_description: >
+    A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
+    It is an informative and efficient way to represent our data and results, which follows the scientific
+    principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize
+    the data, display the results, communicate the information, as well as change the way we perceive the world.
+    The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
+    and make the brain visualization novel, creative, aesthetic and fun to the community.
+  thumbnailUrl: /img/traintrack/BIDS_logo.png
+  prerequisite:
+  links:
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [brain_art_sig] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 -
   id: 306
+  type: traintrack
   title: "Docker / Singularity"
   place: "Crowdcast"
   description: "Mody dock and a black hole walk into a bar."
-  long_description:
+  thumbnailUrl: /img/traintrack/docker_singularity.png
   prerequisite:
   links:
-    - website:
-    - documentation:
-    - youtube:
-    - channel:
-    - mattermost:
-  service: true
   language: en
-  complexity: "Beginner"
-  presentation:
-  code:
-  video: # link to crowdcast
+  complexity: Beginner
   subtype: pre-recorded / follow along
-  speakers: [7]
-  teaching_assistants:
-    - APAC:
-        -
-          id: 1
-          name:
-          surname:
-    - EMEA:
-        -
-          id: 1
-          name:
-          surname:
-    - Americas:
-        -
-          id: 1
-          name:
-          surname:
-
+  speakers: [tom_shaw] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
 
 -
   id: 307
+  type: traintrack
   title: "Maching learning using Nilearn + Sklearn"
   place: "Crowdcast"
   description: "Hands-on machine learning tutorial for neuroimaging"
-  long_description:
-  service: true
-  subtype: pre-recorded / follow along
-  speakers: [8]
+  thumbnailUrl: /img/traintrack/nilearn-logo.png
+  prerequisite:
+  links:
   language: en
-  complexity: "Intermediate"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [michael_dayan] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 -
   id: 308
+  type: traintrack
   title: "Jupyter notebook"
   place: "Crowdcast"
   description: "..."
-  long_description:
-  service: true
-  subtype: pre-recorded / follow along
-  speakers:
+  thumbnailUrl:
+  prerequisite:
+  links:
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [michael_dayan] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 -
   id: 309
+  type: traintrack
   title: "Datalad"
   place: "Crowdcast"
   description: "Version control applied to your data... and much more."
-  long_description: "Datalad is a versatile data management and data publication multitool. In this
-  session, you can learn the basic concepts and commands for version control and reproducible data
-  analysis. You’ll get to see, create, and install DataLad datasets of many shapes and sizes, master
-  local version workflows and provenance-captured analysis-execution, and you will get ideas for your
-  next data analysis project. Don’t forget to bring your computer and code along!"
+  long_description: >
+    Datalad is a versatile data management and data publication multitool. In this
+    session, you can learn the basic concepts and commands for version control and reproducible data
+    analysis. You’ll get to see, create, and install DataLad datasets of many shapes and sizes, master
+    local version workflows and provenance-captured analysis-execution, and you will get ideas for your
+    next data analysis project. Don’t forget to bring your computer and code along!
+  thumbnailUrl:
   prerequisite:
   links:
-    - website:
-    - documentation:
-    - youtube:
-    - channel:
-    - mattermost:
-  service: true
+    presentation: https://github.com/datalad-handbook/course/blob/master/talks/PDFs/OHBM.pdf
+    code: http://handbook.datalad.org/en/latest/code_from_chapters/OHBM.html
   language: en
-  complexity: "Beginner"
-  presentation: https://github.com/datalad-handbook/course/blob/master/talks/PDFs/OHBM.pdf
-  code: http://handbook.datalad.org/en/latest/code_from_chapters/OHBM.html
-  video: # link to crowdcast
+  complexity: Beginner
   subtype: pre-recorded / follow along
-  speakers: [6]
-  teaching_assistants:
-    - APAC:
-        -
-          id: 1
-          name:
-          surname:
-    - EMEA:
-        -
-          id: 1
-          name:
-          surname:
-    - Americas:
-        -
-          id: 1
-          name:
-          surname:
+  speakers: [adina_wagner] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
 
 -
   id: 310
@@ -350,35 +342,40 @@
 
 -
   id: 311
+  type: traintrack
   title: "Neuroimaging 101"
-  place: "Zoom"
-  description: "[In Chinese] Learn the basics to MATLAB programming for neuroimaging data analyses"
-  long_description: "During this lesson, the participants will learn how to use DPABI based tools to process their data using scripts."
+  place: "Crowdcast"
+  description: "[In Chinese] Learn the basics to programming for neuroimaging data analyses"
+  thumbnailUrl: /img/traintrack/101.jpg
+  prerequisite:
   links:
-    - website: http://rfmri.org/Course
-  service: true
-  subtype: Live / Follow-along tutorial
-  speakers: [11]
   language: en
-  complexity: "Beginner"
-  presentation: # slides
-  video: # link to crowdcast
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [chao_gan_yan] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    APAC: []
+    EMEA: []
+    Americas: []
+
 
 # Asynchronous activities...
 -
   id: 401
+  type: hacktrack
   title: "Go and explore"
   place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some
-  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
-  service: true
+  description: >
+    Use the extra time that falls within working hours in your time zone to spend some
+    time with your mentor/mentee, follow our online resources, or continue hacking on your projects!
 
 - id: 402
+  type: hacktrack
   title: "Stretch up"
   place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some
-  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
-  service: true
+  description: >
+    Use the extra time that falls within working hours in your time zone to spend some
+    time with your mentor/mentee, follow our online resources, or continue hacking on your projects!
 
 
 # Sponsor sessions
