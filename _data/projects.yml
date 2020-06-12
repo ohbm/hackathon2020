@@ -3,14 +3,14 @@
 #   title: "Your awesome project"
 #   # images must be put in the img/hackathon folder. If there is no image you can use whatever.png
 #   image: whatever.png
-#   details: "PROJECT DESCRIPTION.<br>Tell us about what you want to achieve. More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"
-#   hub: "Americas/ Asia-Pacific / Europe-Middle East-Africa"
+#   details: "Tell us about what you want to achieve. More information here: <a href=https://github.com/ohbm/hackathon2020/issues/INSERT_ISSUE_NUMBER_HERE</a>"
+#   hub: "Americas/ Asia / Pacific / Europe / Middle-East / Africa"
 # -------------------------------------------------------------------------------------------------
 
 -
   title: "Learn and Enhance BrainIAK Tutorials: From Basics to Advanced fMRI Analyses"
   image: brainiak.png
-  details: "PROJECT DESCRIPTION.<br>This project will help participants learn fMRI analyses and enhance BrainIAK Tutorials (Kumar et al., 2020).
+  details: "This project will help participants learn fMRI analyses and enhance BrainIAK Tutorials (Kumar et al., 2020).
   Participants can practice a tutorial covering any topic of interest, from basics to advanced techniques.
   They can also contribute to the tutorials, by making edits, fixing bugs, or enhancing them by applying the techniques
   to their own datasets. We have a list an issue list for the tutorials that participants can pick an issue and work on.
@@ -21,7 +21,7 @@
 -
   title: "BIDS to NiftyTorch: data preparation for deep learning"
   image: NiftyTorch.png
-  details: "PROJECT DESCRIPTION.<br>We aim to build an automated pipeline to make a copy of BIDS formatted project for the purpose of deep learning
+  details: "We aim to build an automated pipeline to make a copy of BIDS formatted project for the purpose of deep learning
   and automatically evaluate the dataset. This includes, creating a randomly selected sets of training, validation and test
   dataset for deep learning, searching for missing data, evaluating consistency across image input using image size and modality,
   and maybe adding a module for quality assessment and preprocessing of the input data.
@@ -31,24 +31,24 @@
 -
   title: "Tracktools"
   image: tracktools.png
-  details: "PROJECT DESCRIPTION.<br>In the latest years, I have developed/collected some tools for brain tractography, from inclusion in html,
+  details: "In the latest years, I have developed/collected some tools for brain tractography, from inclusion in html,
   to 3Dprinter conversion to other manipulations. Codes is mostly in matlab and we should move in Python, moreover the converter
   from Trackvis to STL for 3Dprinting or Augmented Reality is not good. I am open minded to other ideas for tractography.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/84>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
 -
   title: "VB Index BIDS support / Pretty GUI"
   image: vb_index.png
-  details: "PROJECT DESCRIPTION.<br>I have been collaborating / leading a project that produced some software to 1) create 'cortical gradients'
+  details: "I have been collaborating / leading a project that produced some software to 1) create 'cortical gradients'
   and a simple edge detection technique called the VB Index (see <a href=http://psyarxiv.com/7vzbk/>preprint</a>).
   We have a python and matlab tool but are focussing on the <a href=https://github.com/VBIndex/py_vb_toolbox>python version</a>.
   The brainhack project will be simple, allow the toolbox to accept BIDS data and / or create a simple (but pretty) GUI.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/102>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
 -
   title: "Tools for Combatting Citation Bias"
   image: Tools_citation_bias.PNG
-  details: "PROJECT DESCRIPTION.<br>Recent work in neuroscience and other fields has identified a bias in citation practices such that papers from women
+  details: "Recent work in neuroscience and other fields has identified a bias in citation practices such that papers from women
   and other minorities are under-cited relative to the number of such papers in the field. For this project, we seek to further the
   development of two tools to help researchers combat these trends in their own citation practices. The first tool is an interactive jupyter
   notebook that provides probabilistic gender break down of first and last authors from a bibliography in a bibtex file. The second is a Google
@@ -58,7 +58,7 @@
 -
   title: "Wacky brain explosions Vol II."
   image: wackybrain.gif
-  details: "PROJECT DESCRIPTION.<br>Are you asking to yourself 'how can the year 2020 get more interesting?. The answer is simple: by using a particle simulator to explode
+  details: "Are you asking to yourself 'how can the year 2020 get more interesting?. The answer is simple: by using a particle simulator to explode
   some brains at the comfort of your home, in a completely safe virtual environment. <br>After concluding my <a href=https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues/7>previous hackaton project</a>
   with 'more research is needed', here I am planning to continue exploding more brains in many of ways. All in the name of neuro-science, of course!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/124>in this github issue</a>"
@@ -66,7 +66,7 @@
 -
   title: "shimming toolbox: Ecosystem for real-time shimming with MRI"
   image: shimming.png
-  details: "PROJECT DESCRIPTION.<br>A prerequisite to correcting/shimming the MR 'B0' field is of course to
+  details: "A prerequisite to correcting/shimming the MR 'B0' field is of course to
   measure it (commonly done using a dual-echo gradient-echo sequence). A recent paper
   by <a href=https://iopscience.iop.org/article/10.1088/1361-6560/aae570>Fatnassi and Zaidi</a>
   suggests that multi-echo (n>2) sequences may yield better accuracy and higher SNR.
@@ -76,7 +76,7 @@
 -
   title: "Hopfield Network Library"
   image: hopfield.png
-  details: "PROJECT DESCRIPTION.<br>The goal of this project is to create an easy-to-use library for undirected
+  details: "The goal of this project is to create an easy-to-use library for undirected
   neural networks, including Hopfield networks, Boltzmann machines, and Deep Belief
   networks. We also want to run empirical studies on the behavior of Hopfield networks,
   including memory capacity and time until convergence.
@@ -85,7 +85,7 @@
 -
   title: "Vector Embeddings of Brain Dynamics"
   image: vectorbraindynamics.png
-  details: "PROJECT DESCRIPTION.<br>Whereas we can build time-varying functional connectivity (TVFC) graphs
+  details: "Whereas we can build time-varying functional connectivity (TVFC) graphs
   easily and efficiently using instantaneous wavelet coherence. And whereas we can
   compare TVFC graphs using a host of graph-graph metrics---from simple edge-wise
   overlap, to more robust methods from topological data analysis. The capacity to
@@ -101,36 +101,36 @@
 -
   title: "Mapping the parameter space in EEG/MEG analyses"
   image: mapMEEG_Logo.png
-  details: "PROJECT DESCRIPTION.<br>The parameter space of M/EEG analysis pipelines is like a jungle.
+  details: "The parameter space of M/EEG analysis pipelines is like a jungle.
   We will map it! We will first identify and classify available pipelines (based on available pre-registrations)
   and identify common challenges researchers face, then come up with a semantic framework to create and compare different pipelines,
   map software options onto the different analysis steps, and finally start designing an adaptive app for M/EEG pre-registration!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/139>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
 -
   title: "Tutorial for cross decomposition algorithms (e.g. CCA, PLS) in Python"
   image: decompositionalgorithms.gif
-  details: "PROJECT DESCRIPTION.<br>Cross decomposition algorithms look for the relations between two (or more) blocks of variables.
+  details: "Cross decomposition algorithms look for the relations between two (or more) blocks of variables.
   These methods are particularly used in neuroimaging to analyze associations between physiological/behavioral variables and brain structure/function.
   Between unsupervised and supervised modeling, this family of algorithms has many members (e.g. CCA, PLS regression, PLS canonical, PLS-PM, etc.)
   and many approaches are possible to validate the trained model (e.g. cross validation, bootstrapping, permutation test, etc.).
   In this project, I propose to write several Python tutorials to help the application and interpretation of these models in practice.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/149>in this github issue</a>"
-  hub: "Asia-Pacific"
+  hub: "Asia / Pacific"
 -
   title: "git-annex special remote for the open science framework"
   image: git-annex-osf-logo.png
-  details: "PROJECT DESCRIPTION.<br>The <a href=https://osf.io/>Open Science Framework (OSF)</a> is an amazing infrastructure for open science.
+  details: "The <a href=https://osf.io/>Open Science Framework (OSF)</a> is an amazing infrastructure for open science.
   In this project, we attempt to create a <a href=https://git-annex.branchable.com/special_remotes/>git-annex special remote implementation</a> to leverage OSF filestorage and make the data storing that OSF provides even more useful.
   The git-annex OFS special remote would allow to transform OSF storage into git-annex repositories.
   Files in OSF storage could thus be consumed or exported fast and easily via git-annex or <a href=https://github.com/datalad/datalad>datalad</a>, and published to repository-hosting services (GitHub, GitLab, Bitbucket, ...) as lightweight repositories that constitute an alternative access to the data stored on the OSF - that is:
   you can <code>git clone</code> a repository from for example GitHub and get the data from the OSF from the command line or in your scripts.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/156>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
 -
   title: "Multi-modality neurofeedback and biofeedback to treat children with ADHD or anxiety"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>Children with ADHD, PTSD or generalized anxiety benefit from
+  details: "Children with ADHD, PTSD or generalized anxiety benefit from
   neurofeedback from an EEG while performing a task (e.g. focusing, calming) to develop cognitive skills
   that can assist them to cope and perform better throughout life. Some problems with this training
   a) the tools need to be easy to access and setup (e.g. wearable); b) the feedback should be engaging
@@ -145,53 +145,53 @@
 -
   title: "Bidsme -- bidsifier for multimodal datasets"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>One of the great ideas behind BIDS is unification of various modalities in the same dataset, sharing common metadata and providing
+  details: "One of the great ideas behind BIDS is unification of various modalities in the same dataset, sharing common metadata and providing
   a self-sufficient dataset ready to analyse. However various bidsificators target only one or two modalities. Bidsme project has been developed to provide a bidsificator
   as universal as possible, both in modalities and data formats. The project is based on two main ideas: <br>  1. everything that is laboratory-depending (log files, events,
   demographic info, psychological assessments, format conversions) must be treated via plugins. <br>  2. Data treated in object-oriented way: master class do the bidsifications,
   modality sub-class defines the BIDS-related parameters (entities, JSON fields etc...), data-format sub-sub-class implements how to read metadata. <br>Using this approach it
   is possible to integrate a new modality from scratch in one week, and fully create plugins for a given dataset in few days.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/158>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
 -
   title: "TRAMPOLINO: the Swiss Army Knife for tractography"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>I wrote TRAMPOLINO during BrainHack School with the idea of building a tool to easily do tractography across different packages.
+  details: "I wrote TRAMPOLINO during BrainHack School with the idea of building a tool to easily do tractography across different packages.
   My vision now is to make it become the Swiss Army Knife for tractography: a tool able to try out things, even when you do not have the right software installed (!!!).
   The dream would be typing just 'trampolino --corpus-callosum' and getting the tractogram for a corpus callosum to play with!
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/162>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
 -
   title: "Neuroimaging tutorials and resources: A list of tutorials and other resources useful to learn open science and neuroimaging"
   image: neurotutorials.gif
-  details: "PROJECT DESCRIPTION.<br>A list of tutorials and other resources useful to learn open science and neuroimaging. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
+  details: "A list of tutorials and other resources useful to learn open science and neuroimaging. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
   for more info.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/166>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
 -
   title: "Python library to handle confounds/covariate"
   image: confounds_card.jpg
-  details: "PROJECT DESCRIPTION.<br> Develop a python library of methods to handle confounds in
+  details: " Develop a python library of methods to handle confounds in
   various neuroscientific analyses, esp. statistics and predictive modeling.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/171>in this github issue</a>"
   hub: "Americas"
 -
   title: "Building 3R-BRAIN Neuroinformatics"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>An Open Resource for Reproducible, Replicable and Reliable
+  details: "An Open Resource for Reproducible, Replicable and Reliable
   Brain Research and Imaging Neuroscience
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/173>in this github issue</a>"
-  hub: "Asia-Pacific"
+  hub: "Asia / Pacific"
 -
   title: "Prediction of age and intelligence, a basic machine learning model"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>
+  details: "
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/174>in this github issue</a>"
-  hub: "Asia-Pacific"
+  hub: "Asia / Pacific"
 -
   title: "Virtual Neuro Machine (VNM)"
   image: virtualneuromachine.png
-  details: "PROJECT DESCRIPTION.<br>With the advent of container technology, cumbersome virtual machines
+  details: "With the advent of container technology, cumbersome virtual machines
   have been reduced to a single container file that can be easily run on multiple-environments. Containers
   can be run both interactively (e.g., within a Virtual Machine on the cloud) and in batch processing
   (e.g., on HPC), thus contributing to reproducibility across stages of the analysis. The goal of this
@@ -205,25 +205,26 @@
   upgrades, 3) develop a standard 'home screen' for the container, to provide common interface across host
   environments.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/177>in this github issue</a>"
-  hub: "Asia-Pacific"
+  hub: "Asia / Pacific"
 -
   title: "BIDS-prov examples"
   image: whatever.png
-  details: "PROJECT DESCRIPTION.<br>Provenance has already been discussed in the bids specification,
+  details: "Provenance has already been discussed in the bids specification,
   see <a href=https://github.com/bids-standard/bids-specification/pull/487>this commit</a>. Adding more
   examples in the form of json-ld files, would allow users to better picture workflows made possible by
   this.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/181>in this github issue</a>"
-  hub: "Europe-Middle East-Africa"
+  hub: "Europe / Middle-East / Africa"
+
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
 #   image: brain_lesion.png
-#   details: "PROJECT DESCRIPTION.<br>More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."
+#   details: "More information here <a href=\"https://github.com/barbrakr/CLF-python\">https://github.com/barbrakr/CLF-python</a>."
 # -
 #   title: "Multi-table PCA methods for group and individual functional connectivity"
 #   image: matrix.png
-#   details: "PROJECT DESCRIPTION.<br>C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference
+#   details: "C-MARINeR is a focused sub-project MARINeR: Multivariate Analysis and Resampling Inference
 #     for Neuroimaging in R. The C stands generally for connectivity, but specifically and statistically:
 #     covariance or correlation. The C-MARINeR project aims to develop and distribute an R package and
 #     ShinyApp. Together, R + Shiny allows for ease of use and, hopefully, simpler exploration of such
@@ -232,6 +233,6 @@
 # -
 #   title: "Bring your own method/data"
 #   image: whatever.png
-#   details: "PROJECT DESCRIPTION.<br>The three methods suggested above are just a starting point. If a group of participants wants to work
+#   details: "The three methods suggested above are just a starting point. If a group of participants wants to work
 #     on something else, this is of course possible. We have also prepare some data to use the methods above,
 #     but if you have your own data, please bring it with you and try to hack it with the methods presented."
