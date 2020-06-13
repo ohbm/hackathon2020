@@ -3,10 +3,10 @@ saskia_steffan_bollmann:
   surname: "Bollmann"
   location: "Australia"
   team: true
-  thumbnailUrl: SteffenSaskia.png
+  thumbnailUrl: steffen_saskia.png
   social:
-    - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
-    - {name: "github", link: "https://github.com/stebo85/"}
+    - { name: "twitter", link: "https://twitter.com/sbollmann_MRI" }
+    - { name: "github", link: "https://github.com/stebo85/" }
 
 steffan_bollmann:
   name: "Saskia & Steffan"
@@ -23,27 +23,27 @@ kendra_oudyk:
   surname: "Oudyk"
   location: "Brantford, Ontario, Canada"
   team: true
-  thumbnailUrl: Kendra_Oudyk.jpg
+  thumbnailUrl: kendra_oudyk.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/koudyk_"}
-    - {name: "github", link: "https://github.com/koudyk/"}
+    - { name: "twitter", link: "https://twitter.com/koudyk_" }
+    - { name: "github", link: "https://github.com/koudyk/" }
 
 agah_karakuzu:
   name: "Agah"
   surname: "Karakuzu"
   location: "Kayseri, Turkey"
   team: true
-  thumbnailUrl: Agah_Karakuzu.jpg
+  thumbnailUrl: agah_karakuzu.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/agahkarakuzu"}
-    - {name: "github", link: "https://github.com/agahkarakuzu/"}
+    - { name: "twitter", link: "https://twitter.com/agahkarakuzu" }
+    - { name: "github", link: "https://github.com/agahkarakuzu/" }
 
 aurina_arnatkeviciute:
   name: "Aurina"
   surname: "Arnatkeviciute"
   location: ""
   team: true
-  thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
+  thumbnailUrl: aurina_arnatkeviciute.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/AurinaArn/"}
     - {name: "github", link: "https://github.com/AurinaBMH/"}
@@ -55,8 +55,8 @@ sam_nastase:
   team: true
   thumbnailUrl: sam_nastase.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/samnastase"}
-    - {name: "github", link: "https://github.com/snastase/"}
+    - { name: "twitter", link: "https://twitter.com/samnastase" }
+    - { name: "github", link: "https://github.com/snastase/" }
 
 adina_wagner:
   name: "Adina"
@@ -65,8 +65,8 @@ adina_wagner:
   team: true
   thumbnailUrl: adina_wagner.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
-    - {name: "github", link: "https://github.com/adswa"}
+    - { name: "twitter", link: "https://twitter.com/AdinaKrik" }
+    - { name: "github", link: "https://github.com/adswa" }
 
 tom_shaw:
   name: "Tom"
@@ -75,8 +75,8 @@ tom_shaw:
   team: true
   thumbnailUrl: tom_shaw.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/thomcat992"}
-    - {name: "github", link: "https://github.com/thomshaw92/"}
+    - { name: "twitter", link: "https://twitter.com/thomcat992" }
+    - { name: "github", link: "https://github.com/thomshaw92/" }
 
 michael_dayan:
   name: "Michael"
@@ -85,7 +85,7 @@ michael_dayan:
   team: true
   thumbnailUrl: michael_dayan.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/brainhiker"}
+    - { name: "twitter", link: "https://twitter.com/brainhiker" }
 
 brain_art_sig:
   name: "Brain Art"
@@ -93,7 +93,7 @@ brain_art_sig:
   location: ""
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/OHBM_BrainArt"}
+    - { name: "twitter", link: "https://twitter.com/OHBM_BrainArt" }
 
 chao_gan_yan:
   name: "Chao-Gan"
