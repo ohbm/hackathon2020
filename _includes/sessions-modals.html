@@ -27,12 +27,8 @@
 						    <iframe class="embed-responsive-item" src="{{ session.links.youtube }}"></iframe>
 						</div>
 						{% else %}
-						<div>
-								<figure>
-									<img  height="10px" width="auto"
-												src="{{ site.baseurl | append: session.thumbnailUrl }}"
-												alt="{{ session.title }}">
-								</figure>
+						<div class="theme-image">
+							<figure class="waves-effect waves-block waves-light" style="height: 200px; background-image: url({{ site.baseurl | append: session.thumbnailUrl }})"></figure>
 						</div>
 						{% endif %}
 

@@ -61,6 +61,14 @@ $modal-highlight-color: #212121;
             color: $modal-highlight-color;
         }
     }
+    .theme-image {
+        margin: 20px 0;
+        figure {
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center center;
+        }
+    }
     .theme-video {
         margin: 20px 0;
     }

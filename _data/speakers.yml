@@ -3,7 +3,7 @@ saskia_steffan_bollmann:
   surname: "Bollmann"
   location: "Australia"
   team: true
-  thumbnailUrl: steffen_saskia.png
+  thumbnailUrl: SteffenSaskia.png
   social:
     - { name: "twitter", link: "https://twitter.com/sbollmann_MRI" }
     - { name: "github", link: "https://github.com/stebo85/" }
@@ -33,7 +33,7 @@ agah_karakuzu:
   surname: "Karakuzu"
   location: "Kayseri, Turkey"
   team: true
-  thumbnailUrl: agah_karakuzu.jpg
+  thumbnailUrl: Agah_Karakuzu.jpg
   social:
     - { name: "twitter", link: "https://twitter.com/agahkarakuzu" }
     - { name: "github", link: "https://github.com/agahkarakuzu/" }
@@ -43,7 +43,7 @@ aurina_arnatkeviciute:
   surname: "Arnatkeviciute"
   location: ""
   team: true
-  thumbnailUrl: aurina_arnatkeviciute.jpg
+  thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/AurinaArn/"}
     - {name: "github", link: "https://github.com/AurinaBMH/"}
