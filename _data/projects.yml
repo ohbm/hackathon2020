@@ -229,6 +229,14 @@
   specification <a href=https://github.com/bids-standard/bids-specification/issues/423>issue 423</a>.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/183>in this github issue</a>"
   hub: "Americas"
+-
+  title: "HyPyP – The Hyperscanning Python Pipeline"
+  image: Hypyp.png
+  details: "HyPyP is the first open source toolkit for the analysis of hyperscanning recording i.e. 
+  neural activity across multiple brains. Here we provide a Python library based on the 
+  <a href=https://mne.tools/>MNE Python</a> ecosystem.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/187>in this github issue</a>"
+  hub: "Europe / Middle-East / Africa"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
