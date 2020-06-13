@@ -159,12 +159,15 @@
 -
   id: 302
   type: traintrack
-  title: "Good coding practices with matlab"
+  title: "Divide and conquer m-scripts"
   place: "Crowdcast"
-  description: "Learn to trust your own code so sharing it feels less scary."
+  description: "We will take a spaghetti script written in MATLAB and turn it into an understandable
+   and reusable code living happily in a powerful GitHub repository."
   thumbnailUrl: /img/traintrack/matlab_octave.svg
   prerequisite:
   links:
+    eda_repository: https://github.com/agahkarakuzu/eda_refactored
+    jim_analysis: https://osf.io/pkqts/ 
   language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
