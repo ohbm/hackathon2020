@@ -174,23 +174,23 @@
     EMEA: []
     Americas: []
 
--
-  id: 303
-  type: traintrack
-  title: "Good coding practices with python"
-  place: "Crowdcast"
-  description: "Learn to trust your own code so sharing it feels less scary."
-  thumbnailUrl: /img/traintrack/python.png
-  prerequisite:
-  links:
-  language: en
-  complexity: Beginner
-  subtype: pre-recorded / follow along
-  speakers: [aurina_arnatkeviciute] # from speakers.yml
-  teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+# -
+#   id: 303
+#   type: traintrack
+#   title: "Good coding practices with python"
+#   place: "Crowdcast"
+#   description: "Learn to trust your own code so sharing it feels less scary."
+#   thumbnailUrl: /img/traintrack/python.png
+#   prerequisite:
+#   links:
+#   language: en
+#   complexity: Beginner
+#   subtype: pre-recorded / follow along
+#   speakers: [aurina_arnatkeviciute] # from speakers.yml
+#   teaching_assistants: # from teaching_assistants.yml
+#     APAC: []
+#     EMEA: []
+#     Americas: []
 
 -
   id: 304
@@ -275,23 +275,23 @@
     EMEA: []
     Americas: []
 
--
-  id: 308
-  type: traintrack
-  title: "Jupyter notebook"
-  place: "Crowdcast"
-  description: "..."
-  thumbnailUrl:
-  prerequisite:
-  links:
-  language: en
-  complexity: Beginner
-  subtype: pre-recorded / follow along
-  speakers: [michael_dayan] # from speakers.yml
-  teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+# -
+#   id: 308
+#   type: traintrack
+#   title: "Jupyter notebook"
+#   place: "Crowdcast"
+#   description: "..."
+#   thumbnailUrl:
+#   prerequisite:
+#   links:
+#   language: en
+#   complexity: Beginner
+#   subtype: pre-recorded / follow along
+#   speakers: [michael_dayan] # from speakers.yml
+#   teaching_assistants: # from teaching_assistants.yml
+#     APAC: []
+#     EMEA: []
+#     Americas: []
 
 -
   id: 309
