@@ -154,6 +154,9 @@ nav {
     transition: $base-transition;
     opacity: 1;
     display: block;
+    position: absolute;
+    right: 20px;
+    top: 60px;
     &:nth-of-type(1) {
         margin-right: 65px;
     }
