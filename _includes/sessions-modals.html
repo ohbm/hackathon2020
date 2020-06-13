@@ -41,11 +41,15 @@
 						<p class="theme-description">{{ session.long_description }}</p>
 
 						{% if session.links != null and session.links.presentation != null %}
-						<a class="theme-presentation" href="{{ session.links.presentation }}" title="Presentation" target="_blank">View slides</a>
+						<div>
+							<a class="theme-presentation" href="{{ session.links.presentation }}" title="Presentation" target="_blank">View slides</a>
+						</div>
 						{% endif %}
 
 						{% if session.links != null and session.links.code != null %}
-						<a class="theme-code" href="{{ session.links.code }}" title="Code" target="_blank">View code</a>
+						<div>
+							<a class="theme-code" href="{{ session.links.code }}" title="Code" target="_blank">View code</a>
+						</div>
 						{% endif %}
 						<hr>
 						<div class="people-details">

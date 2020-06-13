@@ -168,7 +168,7 @@
   language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
-  speakers: [agah_karakuzu aurina_arnatkeviciute] # from speakers.yml
+  speakers: [agah_karakuzu, aurina_arnatkeviciute] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     APAC: []
     EMEA: []
@@ -227,7 +227,7 @@
     the data, display the results, communicate the information, as well as change the way we perceive the world.
     The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
     and make the brain visualization novel, creative, aesthetic and fun to the community.
-  thumbnailUrl: 
+  thumbnailUrl:
   prerequisite:
   links:
   language: english
@@ -251,7 +251,7 @@
   language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
-  speakers: [steffan_bollmann tom_shaw] # from speakers.yml
+  speakers: [steffan_bollmann, tom_shaw] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     APAC: []
     EMEA: []
