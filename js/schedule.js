@@ -1,11 +1,21 @@
 (function() {
   var $tz = $("#timezone");
   var baseTz = $tz.data('base-tz');
+  var timeElSelector = $tz.data('time-selector');
   var guessedTz = moment.tz.guess() || baseTz;
+
+  var initializeSchedule = function() {
+    var storageTz = localStorage.getItem('timezone');
+    if (storageTz && storageTz != 'null') {
+      $tz[0].selectize.setValue(storageTz);
+    }
+    updateSchedule();
+  }
 
   var updateSchedule = function() {
     var selectedTz = $tz.val();
-    $.each($("time"), function(i, time) {
+    localStorage.setItem('timezone', selectedTz);
+    $.each($(timeElSelector), function(i, time) {
       var value = $(this).data('value');
       if (!value.includes("&")) {
         var parsedTime = moment.tz(value, baseTz);
@@ -19,7 +29,7 @@
   });
 
   $tz.selectize({
+    onInitialize: initializeSchedule,
     onChange: updateSchedule,
-    onInitialize: updateSchedule
   });
 })();
