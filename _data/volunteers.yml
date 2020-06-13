@@ -425,6 +425,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/ufangyang/"}
         - {name: "github", link: "https://github.com/ufangYang/"}
+    -
+      id: 12
+      name: "Nora"
+      surname: "Hagopian"
+      title: "Welcome desk"
+      location: "Amsterdam, The Netherlands"
+      thumbnailUrl: nora_hagopian.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/NoraHgpn/"}
+        - {name: "github", link: "https://github.com/Norahgpn/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
 # -------------------------------------------------------------------------------------------------#
@@ -608,6 +619,27 @@
       social:
         - {name: "twitter", link: "https://twitter.com/therealyohanyee/"}
         - {name: "github", link: "https://github.com/yohanyee/"}
+    -
+      id: 16
+      name: "Michael"
+      surname: "Joseph"
+      title: "TA for Git+Github and BIDS+BIDS apps"
+      location: "Toronto, Canada"
+      thumbnailUrl: michael_joseph.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/josephmje/"}
+    -
+      id: 17
+      name: "Xihe"
+      surname: "Xie"
+      title: "TA for Docker/Singularity"
+      location: "New York City, USA"
+      thumbnailUrl: xihe_xie.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/axiezai/"}
+        - {name: "github", link: "https://github.com/axiezai/"}
 # -------------------------------------------------------------------------------------------------#
 # Cross-hub coordination team
 # -------------------------------------------------------------------------------------------------#
