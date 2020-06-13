@@ -1,12 +1,12 @@
 #  TEMPLATE SUGGESTION
 # -
 #   id:
-#   title: 
-#   place: 
+#   title:
+#   place:
 #   description: >
-#     
+#
 #   long_description: >
-      
+
 #   type: social / hacktrack / traintrack
 #   thumbnailUrl: /img/traintrack/git.png
 
@@ -168,7 +168,7 @@
   language: en
   complexity: Beginner
   subtype: pre-recorded / follow along
-  speakers: [agah_karakuzu] # from speakers.yml
+  speakers: [agah_karakuzu aurina_arnatkeviciute] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     APAC: []
     EMEA: []
