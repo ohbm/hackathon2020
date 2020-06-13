@@ -59,7 +59,7 @@
 									<div class="col-md-2 col-sm-2">
 										<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/team/' | append: speaker.thumbnailUrl }})"></div>
 									</div>
-									<div class="col-md-10 col-sm-10 details">
+									<div class="col-md-10 col-sm-10 col-xs-10 details">
 										<p class="name">
 											{{ speaker.name }} {{ speaker.surname }}
 											<span class="position">{% if speaker.title %}{{ speaker.title }},{% endif %} {{ speaker.company }}</span>
@@ -79,6 +79,36 @@
 									</div>
 								</div>
 							{% endfor %}
+							{% if page.schedule != null and session.teaching_assistants[page.schedule].size > 0 %}
+								<hr />
+								<h5>Teaching Assistants</h5>
+								{% for session_ta in session.teaching_assistants[page.schedule] %}
+									{% assign ta = site.data.teaching_assistants[session_ta] %}
+									<div class="row">
+										<div class="col-md-2 col-sm-2 col-xs-2">
+											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: ta.thumbnailUrl }})"></div>
+										</div>
+										<div class="col-md-10 col-sm-10 col-xs-10 details">
+											<p class="name">
+												{{ ta.name }} {{ ta.surname }}
+												<span class="position">{% if ta.title %}{{ ta.title }},{% endif %} {{ ta.company }}</span>
+												{% if ta.location %}<span class="position">{{ ta.location }}</span>{% endif %}
+											</p>
+											<ul class="social">
+												{% for social in ta.social %}
+													<li>
+														<a href="{{ social["link"] }}" target="_blank">
+															<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+																<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+															</svg>
+														</a>
+													</li>
+												{% endfor %}
+											</ul>
+										</div>
+									</div>
+								{% endfor %}
+							{% endif %}
 						</div>
 					</div>
 				</div>

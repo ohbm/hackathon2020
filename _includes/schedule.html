@@ -3,7 +3,8 @@
 <section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
     <div class="content-wrapper" style="margin: 0 1em;">
         <div style="margin:0 auto;text-align:left;max-width:450px;" class="tz-selector">
-          <label for=timezone>Schedule times are currently displayed in the following time zone:</label><select id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
+          <label for=timezone>Schedule times are currently displayed in the following time zone:</label>
+          <select id="timezone" data-time-selector="#schedule .schedule-table time" data-base-tz="{{ schedule[0].tz }}"></select>
         </div>
 
         {% for day in schedule %}
