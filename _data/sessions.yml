@@ -227,7 +227,7 @@
     the data, display the results, communicate the information, as well as change the way we perceive the world.
     The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
     and make the brain visualization novel, creative, aesthetic and fun to the community.
-  thumbnailUrl:
+  thumbnailUrl: /img/traintrack/brainviz.png
   prerequisite:
   links:
   language: english
@@ -262,7 +262,7 @@
   type: traintrack
   title: "Maching learning using Nilearn + Sklearn"
   place: "Crowdcast"
-  description: "Hands-on machine learning tutorial for neuroimaging"
+  description: "Hands-on machine learning tutorial for neuroimaging."
   thumbnailUrl: /img/traintrack/nilearn-logo.png
   prerequisite:
   links:
@@ -324,7 +324,7 @@
   type: traintrack
   title: "CONP: Introducing a platform for the open sharing of data and pipelines"
   place: "Crowdcast"
-  description: "An introduction and demo of the Canadian Open Neuroscience Platform"
+  description: "An introduction and demo of the Canadian Open Neuroscience Platform."
   long_description: "The Canadian Open Neuroscience Platform is a decentralized web platform for the open sharing of data and
    pipelines. We will present the main features of the Canadian Open Neuroscience Platform, including: (1) finding and
    downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool.
@@ -348,7 +348,7 @@
   type: traintrack
   title: "Neuroimaging 101"
   place: "Crowdcast"
-  description: "Learn the basics to programming for neuroimaging data analyses"
+  description: "Learn the basics to programming for neuroimaging data analyses."
   thumbnailUrl: /img/traintrack/101.jpg
   prerequisite:
   links:
