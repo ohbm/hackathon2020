@@ -215,7 +215,28 @@
   this.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/181>in this github issue</a>"
   hub: "Europe / Middle-East / Africa"
-
+-
+  title: "BIDS Specification Terms PDF Table Generator"
+  image: BIDS_logo.jpg
+  details: "The project aims to create a user-friendly python tool allowing the BIDS group to select, 
+  search, or add BIDS specification terms and export a PDF table of the chosen BIDS term along with 
+  appropriate term properties and instructions on adding new terms. If the user chooses to add a new 
+  term, the tool will create and export a new BIDS specification term as a JSON-LD file and push it to 
+  our <a href=https://github.com/NIDM-Terms/terms/tree/master/terms/BIDS_Terms>terms</a> repository where discussion surrounding the new term can be captured using git/github. Such 
+  an effort will provide the BIDS working group with a user-friendly tool to build tables for the BIDS 
+  documentation while ensuring they have not re-purposed an existing BIDS specification term giving it 
+  conflicting definitions. For additional information on the background for this project see BIDS 
+  specification <a href=https://github.com/bids-standard/bids-specification/issues/423>issue 423</a>.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/183>in this github issue</a>"
+  hub: "Americas"
+-
+  title: "HyPyP – The Hyperscanning Python Pipeline"
+  image: Hypyp.png
+  details: "HyPyP is the first open source toolkit for the analysis of hyperscanning recording i.e. 
+  neural activity across multiple brains. Here we provide a Python library based on the 
+  <a href=https://mne.tools/>MNE Python</a> ecosystem.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/187>in this github issue</a>"
+  hub: "Europe / Middle-East / Africa"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
