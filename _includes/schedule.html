@@ -56,7 +56,7 @@
                                                 <ul class="slot-speakers">
                                                     {% for session_speaker in session.speakers %}
                                                         {% assign speaker = site.data.speakers[session_speaker] %}
-                                                        <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                                        <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/team/' | append: speaker.thumbnailUrl }})"></div>
                                                             <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}</p>
                                                         </li>
                                                     {% endfor %}
