@@ -28,10 +28,10 @@
 						</div>
 						{% endif %}
 
-						<p class="theme-description">{{ session.description }}</p>
+						<p class="theme-description">{{ session.long_description }}</p>
 
 						{% if session.links != null and session.links.presentation != null %}
-						<a class="theme-presentation" href="{{ session.links.presentation }}" title="Presentation" target="_blank">View presentation</a>
+						<a class="theme-presentation" href="{{ session.links.presentation }}" title="Presentation" target="_blank">View slides</a>
 						{% endif %}
 
 						{% if session.links != null and session.links.code != null %}
