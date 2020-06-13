@@ -22,7 +22,7 @@
 #     douyu:
 #
 #   # For traintrack
-#   language: en
+#   language: english
 #   complexity: Beginner
 #   subtype: pre-recorded / follow along
 #   speakers: [] # from speakers.yml
@@ -127,7 +127,7 @@
   thumbnailUrl: /img/traintrack/git.png
   prerequisite:
   links:
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [saskia_steffan_bollmann] # from speakers.yml
@@ -147,7 +147,7 @@
   thumbnailUrl: /img/traintrack/GitHub.png
   prerequisite:
   links:
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [kendra_oudyk] # from speakers.yml
@@ -165,7 +165,7 @@
   thumbnailUrl: /img/traintrack/matlab_octave.svg
   prerequisite:
   links:
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [agah_karakuzu aurina_arnatkeviciute] # from speakers.yml
@@ -183,7 +183,7 @@
 #   thumbnailUrl: /img/traintrack/python.png
 #   prerequisite:
 #   links:
-#   language: en
+#   language: english
 #   complexity: Beginner
 #   subtype: pre-recorded / follow along
 #   speakers: [aurina_arnatkeviciute] # from speakers.yml
@@ -203,7 +203,7 @@
   thumbnailUrl: /img/traintrack/BIDS_logo.jpg
   prerequisite:
   links:
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [sam_nastase] # from speakers.yml
@@ -230,7 +230,7 @@
   thumbnailUrl: /img/traintrack/BIDS_logo.png
   prerequisite:
   links:
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [brain_art_sig] # from speakers.yml
@@ -248,10 +248,10 @@
   thumbnailUrl: /img/traintrack/docker_singularity.png
   prerequisite:
   links:
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
-  speakers: [tom_shaw] # from speakers.yml
+  speakers: [steffan_bollmann tom_shaw] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     APAC: []
     EMEA: []
@@ -266,7 +266,7 @@
   thumbnailUrl: /img/traintrack/nilearn-logo.png
   prerequisite:
   links:
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [michael_dayan] # from speakers.yml
@@ -284,7 +284,7 @@
 #   thumbnailUrl:
 #   prerequisite:
 #   links:
-#   language: en
+#   language: english
 #   complexity: Beginner
 #   subtype: pre-recorded / follow along
 #   speakers: [michael_dayan] # from speakers.yml
@@ -310,13 +310,13 @@
   links:
     presentation: https://github.com/datalad-handbook/course/blob/master/talks/PDFs/OHBM.pdf
     code: http://handbook.datalad.org/en/latest/code_from_chapters/OHBM.html
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [adina_wagner] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     APAC: []
-    EMEA: []
+    EMEA: [benjamin_poldrack]
     Americas: []
 
 -
@@ -334,7 +334,7 @@
   prerequisite:
   links:
     website: http://portal.conp.ca
-  language: en
+  language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [tristan_gatlard, samir_das] # from speakers.yml
@@ -353,7 +353,7 @@
   prerequisite:
   links:
     website: http://rfmri.org/Course
-  language: zh
+  language: chinese
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [chao_gan_yan] # from speakers.yml

@@ -7,3 +7,12 @@ anibal_solon:
   social:
     - {name: "twitter", link: "https://twitter.com/anibalsolon"}
     - {name: "github", link: "https://github.com/anibalsolon"}
+
+benjamin_poldrack:
+  name: "Benjamin"
+  surname: "Poldrack"
+  location: "Jülich, Germany"
+  hub: EMEA
+  social:
+    - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
+    - {name: "github", link: "https://github.com/bpoldrack/"}
