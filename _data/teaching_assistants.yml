@@ -1,13 +1,3 @@
-anibal_solon:
-  name: "Anibal"
-  surname: "Solon"
-  location: "Austin, Texas, USA"
-  hub: Americas
-  thumbnailUrl: anibal_solon.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/anibalsolon"}
-    - {name: "github", link: "https://github.com/anibalsolon"}
-
 benjamin_poldrack:
   name: "Benjamin"
   surname: "Poldrack"

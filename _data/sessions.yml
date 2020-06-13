@@ -134,7 +134,7 @@
   teaching_assistants: # from teaching_assistants.yml
     apac: []
     emea: []
-    americas: [anibal_solon]
+    americas: []
 
 -
   id: 301
