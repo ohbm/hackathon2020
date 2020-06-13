@@ -27,9 +27,9 @@
 #   subtype: pre-recorded / follow along
 #   speakers: [] # from speakers.yml
 #   teaching_assistants: # from teaching_assistants.yml
-#     APAC: []
-#     EMEA: []
-#     Americas: []
+#     apac: []
+#     emea: []
+#     americas: []
 
 
 # 000 Breaks, socials and that sort of things
@@ -132,9 +132,9 @@
   subtype: pre-recorded / follow along
   speakers: [saskia_steffan_bollmann] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: [anibal_solon]
+    apac: []
+    emea: []
+    americas: [anibal_solon]
 
 -
   id: 301
@@ -152,9 +152,9 @@
   subtype: pre-recorded / follow along
   speakers: [kendra_oudyk] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 -
   id: 302
@@ -170,9 +170,9 @@
   subtype: pre-recorded / follow along
   speakers: [agah_karakuzu, aurina_arnatkeviciute] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 # -
 #   id: 303
@@ -208,9 +208,9 @@
   subtype: pre-recorded / follow along
   speakers: [sam_nastase] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 -
   id: 305
@@ -235,9 +235,9 @@
   subtype: pre-recorded / follow along
   speakers: [brain_art_sig] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 -
   id: 306
@@ -253,9 +253,9 @@
   subtype: pre-recorded / follow along
   speakers: [steffan_bollmann, tom_shaw] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 -
   id: 307
@@ -271,9 +271,9 @@
   subtype: pre-recorded / follow along
   speakers: [michael_dayan] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 # -
 #   id: 308
@@ -339,9 +339,9 @@
   subtype: pre-recorded / follow along
   speakers: [tristan_gatlard, samir_das] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 -
   id: 311
@@ -358,9 +358,9 @@
   subtype: pre-recorded / follow along
   speakers: [chao_gan_yan] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
+    apac: []
+    emea: []
+    americas: []
 
 
 -
