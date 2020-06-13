@@ -261,6 +261,7 @@ DEPENDENCIES
   compass
   github-pages
   jekyll
+  jekyll-redirect-from
   rake (~> 12)
   sass-media_query_combiner
 
