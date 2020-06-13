@@ -162,7 +162,7 @@
   title: "Good coding practices with matlab"
   place: "Crowdcast"
   description: "Learn to trust your own code so sharing it feels less scary."
-  thumbnailUrl: /img/traintrack/matlab_octave.png
+  thumbnailUrl: /img/traintrack/matlab_octave.svg
   prerequisite:
   links:
   language: en
@@ -200,7 +200,7 @@
   description: >
     How to organize your data, so you will never hate your past 'self' ever again.
     We will also go over tools that are compatible with BIDS and how to run them.
-  thumbnailUrl: /img/traintrack/BIDS_logo.png
+  thumbnailUrl: /img/traintrack/BIDS_logo.jpg
   prerequisite:
   links:
   language: en
@@ -305,7 +305,7 @@
     analysis. You’ll get to see, create, and install DataLad datasets of many shapes and sizes, master
     local version workflows and provenance-captured analysis-execution, and you will get ideas for your
     next data analysis project. Don’t forget to bring your computer and code along!
-  thumbnailUrl:
+  thumbnailUrl: /img/traintrack/datalad.png
   prerequisite:
   links:
     presentation: https://github.com/datalad-handbook/course/blob/master/talks/PDFs/OHBM.pdf
