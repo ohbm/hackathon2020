@@ -117,4 +117,5 @@ samir_das:
   surname: "Das"
   location: "Montreal, QC"
   team: true
+  thumbnailUrl: john_jane_doe.png
   social:
