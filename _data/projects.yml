@@ -320,6 +320,16 @@
   Using this database, we will extract useful information for this recommendation system.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/197>in this github issue</a>"
   hub: "Americas"
+-
+  title: "PyNets"
+  image: pynets.png
+  details: "PyNets leverages the Nipype workflow engine, along with Nilearn and Dipy fMRI and dMRI libraries, to sample individual structural 
+  and functional connectomes. Uniquely, PyNets enables the user to specify any of a variety of methodological choices (i.e. that impact node 
+  and/or edge definitions) and sampling the resulting connectome estimates in a massively scalable and parallel framework. PyNets is a 
+  post-processing workflow, which means that it can be run manually on virtually any preprocessed fMRI or dMRI data. Further, it can be deployed 
+  as a BIDS application that takes BIDS derivatives and makes BIDS derivatives.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/200>in this github issue</a>"
+  hub: "Americas"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
