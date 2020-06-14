@@ -330,6 +330,14 @@
   as a BIDS application that takes BIDS derivatives and makes BIDS derivatives.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/200>in this github issue</a>"
   hub: "Americas"
+-
+  title: "Matching white matter fiber tracts across subjects"
+  image: WMfiber.png
+  details: "With diffusion MRI, we can track the axon fibers in the brain white matter. Although a certain level of variability exists, 
+  we still believe that there are a substantial amount of fiber bundles/tracts that are common across subjects. Thus, matching the fiber 
+  bundles across subjects could help us understand the common architecture of white matter in the human brain.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/204>in this github issue</a>"
+  hub: "Asia / Pacific"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
