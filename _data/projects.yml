@@ -306,10 +306,10 @@
 -
   title: "physiopy/phys2bids: BIDS formatting of physiological recordings"
   image: phys2bids_card.jpg
-  details: "<a href="https://github.com/physiopy/phys2bids">Physiopy</a> is a github organisation that aims to offer open development solutions for physiology in MRI.
-  <a href="https://github.com/physiopy/phys2bids">phys2bids</a> is the flagship library of physiopy, and it consists in a python3 library meant to format physiological
+  details: "<a href=https://github.com/physiopy/phys2bids>Physiopy</a> is a github organisation that aims to offer open development solutions for physiology in MRI.
+  <a href=https://github.com/physiopy/phys2bids>phys2bids</a> is the flagship library of physiopy, and it consists in a python3 library meant to format physiological
   (cardiac, respiratory, or gas signals) files in BIDS. <br>During this hackathon, we would love to involve new contributors to integrate new features, such as
-  automatic recognition of the file content, support for eyetracking, and integration with other bidsificators (such as <a href="https://bidscoin.readthedocs.io">bidscoin</a>) 
+  automatic recognition of the file content, support for eyetracking, and integration with other bidsificators (such as <a href=https://bidscoin.readthedocs.io>bidscoin</a>) 
   Next to phys2bids, we’re starting the development of phys2denoise, a library dedicated to prepare physiological signal for fMRI denoising.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/193>in this github issue</a>"
   hub: "Americas & Europe / Middle-East / Africa"
