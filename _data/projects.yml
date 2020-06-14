@@ -300,6 +300,17 @@
   is a demo application that leverages Pydra together with scikit-learn to perform model comparison across a set of classifiers.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/192>in this github issue</a>"
   hub: "Americas"
+-
+  title: "physiopy/phys2bids: BIDS formatting of physiological recordings"
+  image: pydra_logo.png
+  details: "<a href=https://github.com/physiopy>Physiopy</a> is a github organisation maintained by (at the moment) 12 volunteers that aims to offer 
+  open development solutions for physiology in MRI. <a href=https://github.com/physiopy/phys2bids>phys2bids</a> is the flagship library of physiopy, 
+  and consists in a python3 library meant to format physiological (cardiac, respiratory, or gas signals) files in BIDS. It was born for AcqKnowledge 
+  (BIOPAC) files, and at the moment it also supports LabChart (ADInstruments). It doesn’t support physiological files recorded with the MRI (yet).
+  <br>Next to phys2bids, we’re starting the development of <a href=https://github.com/physiopy/phys2denoise>phys2denoise</a>, a library dedicated to 
+  prepare physiological signal for fMRI denoising.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/193>in this github issue</a>"
+  hub: "Americas & Europe / Middle-East / Africa"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
