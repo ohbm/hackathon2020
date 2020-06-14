@@ -240,18 +240,18 @@
 -
   title: "Sharing datasets and pipelines in the Canadian Open Neuroscience Platform"
   image: conp.png
-  details: "The Canadian Open Neuroscience Platform (<a href="http://conp.ca">CONP</a>)
+  details: "The Canadian Open Neuroscience Platform (<a href=http://conp.ca>CONP</a>)
   is a web portal and DataLad repository to share open and restricted-access
   datasets and tools in the neuroimaging community. Datasets are uniformly
-  described using the Data Tags Suite (<a href="https://academic.oup.com/gigascience/article/9/2/giz165/5730051">DATS</a>),
-  available for download through <a href="http://www.datalad.org">DataLad</a>,
-  regularly monitored using <a href="http://circleci.com">CircleCI</a>, and
+  described using the Data Tags Suite (<a href=https://academic.oup.com/gigascience/article/9/2/giz165/5730051>DATS</a>),
+  available for download through <a href=http://www.datalad.org>DataLad</a>,
+  regularly monitored using <a href=http://circleci.com>CircleCI</a>, and
   searchable through the CONP web portal. The data itself remains under the
   control of its owners, as it can be stored in various backends including
-  <a href="http://loris.ca">LORIS</a>, <a href="https://zenodo.org/">Zenodo</a>,
-  the <a href="http://osf.io">Open Science Framework</a>, or any other backend
+  <a href=http://loris.ca>LORIS</a>, <a href=https://zenodo.org/>Zenodo</a>,
+  the <a href=http://osf.io>Open Science Framework</a>, or any other backend
   supported by DataLad (http, ftp, etc). Tools are shared on Zenodo through the
-  <a href="http://boutiques.github.io">Boutiques</a> framework.
+  <a href=http://boutiques.github.io>Boutiques</a> framework.
   The goal of this project is to port additional tools and pipelines to the
   CONP. Please join us if you would like to share your dataset, your pipeline,
   or just learn about the technologies!
