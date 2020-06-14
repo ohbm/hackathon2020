@@ -103,11 +103,11 @@ Think in particular about what different types of contributions could be?
 
 It is not all about coding! Are you interested in collaborating with someone with a good flair for
 good visualization? Someone with more experience who can make a good user interface? Someone who
-knows how to develop good, tidy and clear documentation ?
+knows how to develop good, tidy and clear documentation?
 
 #### Coding skills
 
-##### Programmation languages
+##### Programming languages
 
 -   no coding skills required
 
@@ -122,9 +122,9 @@ or use the table below
 | Unix command line | beginner / confirmed / expert |
 | other             | beginner / confirmed / expert |
 
-##### neuro-software specific sills
+##### neuro-software specific skills
 
--   no software specific sills required
+-   no software specific skills required
 
 or use one of the tables below
 
@@ -195,7 +195,7 @@ Try to estimate the maximum number of people you would be comfortable having on 
 ### Credit and onboarding
 
 How would your project onboard new members with different skillsets -- physicist/imager/clinician/psychologist/computational
-scientist/maker/artist/lawyer -- as a projectcollaborator?
+scientist/maker/artist/lawyer -- as a project collaborator?
 
 We recommend that you read through Mozilla Open Leadership material on
 [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
@@ -231,13 +231,13 @@ and `PROJECT DESCRIPTION` and the `ISSUE_NUMBER`of your project in the snippet o
 also provide an image for your project.
 
 If you want you can then open a pull-request to add this code in the
-[`_data/project.yml`](https://github.com/ohbm/hackathon2020/blob/master/_data/project.yml)
+[`_data/projects.yml`](https://github.com/ohbm/hackathon2020/blob/master/_data/projects.yml)
 file. If you have no idea how to do this, don't worry: we are here
 to help.
 
 If you want to add an image to illustrate your project it should go in the
 [`img/hackathon`](https://github.com/ohbm/hackathon2020/tree/master/img/hackathon) folder.
-If you don't have any image you can use `whatever.png`
+If you don't have any image you can use `whatever.png`.
 
 
 ```
