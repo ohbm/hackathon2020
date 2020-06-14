@@ -217,7 +217,7 @@
   hub: "Europe / Middle-East / Africa"
 -
   title: "BIDS Specification Terms PDF Table Generator"
-  image: BIDS_logo.jpg
+  image: BIDSPDFgenerator.png
   details: "The project aims to create a user-friendly python tool allowing the BIDS group to select,
   search, or add BIDS specification terms and export a PDF table of the chosen BIDS term along with
   appropriate term properties and instructions on adding new terms. If the user chooses to add a new
