@@ -365,6 +365,31 @@
     emea: []
     americas: []
 
+-
+  id: 312
+  type: traintrack
+  title: "Leveraging the best of both worlds: OHBM-INCF collaborations to eliminate open science silos"
+  place: "Crowdcast"
+  description: "INCF is a standards organization for open and FAIR neuroscience. 
+                INCF supports open science working groups and groups that provide training on open science practices. 
+                Since 2013, INCF has supported OHBM’s open science efforts; yet there has been little crossover between 
+                OHBM’s open science community and INCF. The purpose of this session is to present INCF’s open science 
+                efforts and discuss how the OHBM community can support the open science efforts of INCF, what resources/services 
+                INCF should offer in order to maximize the efforts of the community, and why an open science practitioner or 
+                advocate would choose or not choose to become a member and support such an organization such as INCF."
+  thumbnailUrl: /img/traintrack/incf.png
+  prerequisite: 
+  links:
+    website: incf.org
+  language: english
+  complexity: Beginner
+  subtype: moderated discussion
+  speakers: [helena_ludmyr, mathew_abrams] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: []
+    emea: []
+    americas: []
+
 
 -
   id: 311

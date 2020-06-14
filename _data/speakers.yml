@@ -92,6 +92,7 @@ brain_art_sig:
   surname: "OHBM SIG"
   location: ""
   team: true
+  thumbnailUrl: /img/traintrack/brainviz.png
   social:
     - { name: "twitter", link: "https://twitter.com/OHBM_BrainArt" }
 
@@ -119,3 +120,21 @@ samir_das:
   team: true
   thumbnailUrl: john_jane_doe.png
   social:
+
+helena_ludmyr:
+  name: "Helena"
+  surname: "Ludmyr"
+  location: "Stockholm, Sweden"
+  team: true
+  thumbnailUrl: john_jane_doe.png
+  social:
+
+mathew_abrams:
+  name: "Mathew"
+  surname: "Abrams"
+  location: "Stockholm, Sweden"
+  team: true
+  thumbnailUrl: john_jane_doe.png
+  social:
+
+
