@@ -181,18 +181,18 @@
   details: "An Open Resource for Reproducible, Replicable and Reliable
   Brain Research and Imaging Neuroscience.
   <br>During the hack time, we are going to build a neuroinformatic resource for the 3R-BRAIN data sharing. This includes the resources for OHBM
-  education course 'Population Neuroimaging: How to responsibly handle big data in the age of biobanks', sharing big data of 3R-BRAIN, and the 
+  education course 'Population Neuroimaging: How to responsibly handle big data in the age of biobanks', sharing big data of 3R-BRAIN, and the
   implementation of reliability analysis toolkit into an online connectome computation system (CCS).
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/173>in this github issue</a>"
   hub: "Asia / Pacific"
 -
   title: "Prediction of age and intelligence, a basic machine learning model"
   image: AgeIQmachinelearning.png
-  details: "Emerging evidence suggests the outstanding utility of multimodal neuroimaging data in predicting individual variation in age and cognition. 
-  However, it is unclear whether the predictive utility of such measures is a global effect or is consistently attributed to certain localized patterns 
-  of brain structure and connectivity. <br>This project aims to evaluate and develop an analysis framework for optimal performance of age and behavior 
-  (e.g. fluid intelligence) prediction using measures of brain structure and connectivity. The goal is to achieve both overall high prediction accuracy 
-  in cross-validated samples and high consistency in the estimated predictors (e.g. regions/connections) if possible. A secondary aim of the project is 
+  details: "Emerging evidence suggests the outstanding utility of multimodal neuroimaging data in predicting individual variation in age and cognition.
+  However, it is unclear whether the predictive utility of such measures is a global effect or is consistently attributed to certain localized patterns
+  of brain structure and connectivity. <br>This project aims to evaluate and develop an analysis framework for optimal performance of age and behavior
+  (e.g. fluid intelligence) prediction using measures of brain structure and connectivity. The goal is to achieve both overall high prediction accuracy
+  in cross-validated samples and high consistency in the estimated predictors (e.g. regions/connections) if possible. A secondary aim of the project is
   to investigate the potential markers of sub-clinical cognitive decline through simultaneous prediction of age and cognition in a healthy adult cohort.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/174>in this github issue</a>"
   hub: "Asia / Pacific"
@@ -286,9 +286,9 @@
 -
   title: "ReproSchema and Library: A JSON-LD schema to harmonize behavioral, cognitive, and neuropsych assessments"
   image: whatever.png
-  details: "Harmonizing data after acquisition is resource intensive. ReproSchema is an attempt to harmonize data by design by enforcing 
+  details: "Harmonizing data after acquisition is resource intensive. ReproSchema is an attempt to harmonize data by design by enforcing
   consistency at the data acquisition stage. An implementation of the schema can specify scoring logic, branching logic, and user interface rendering
-  options. The schema allows internationalization (multiple languages), is implementation agnostic, and tracks variations in assessments (e.g., PHQ-9, 
+  options. The schema allows internationalization (multiple languages), is implementation agnostic, and tracks variations in assessments (e.g., PHQ-9,
   PHQ-8). <br>This open and accessible schema library with appropriate conversion (e.g., to RedCap) and data collection tools (e.g., MindLogger, LORIS,
   RedCap) enables more consistent acquisition across projects, with results being harmonized by design.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/189>in this github issue</a>"
@@ -296,87 +296,87 @@
 -
   title: "Pyrda's relatives and friends: providing Pydra's support for FitLins, Nipype interfaces and ML model comparison"
   image: pydra_logo.png
-  details: "<a href=https://github.com/nipype/pydra>Pyrda</a>is a lightweight, Py3.7+ dataflow engine for computational graph construction, 
-  manipulation, and distributed execution. Pydra is a part of the second generation of the <a href=https://github.com/nipy/nipype>Nipype</a> ecosystem, 
-  but it is designed as a general-purpose engine to support analytics in any scientific domain.<br><a href=https://github.com/poldracklab/fitlins>FitLins</a> 
-  is a tool for estimating linear models, defined by the BIDS Stats Models specification proposal, to BIDS-formatted datasets. <a href=https://github.com/nipype/pydra-ml<Pydra-ML</a> 
+  details: "<a href=https://github.com/nipype/pydra>Pyrda</a>is a lightweight, Py3.7+ dataflow engine for computational graph construction,
+  manipulation, and distributed execution. Pydra is a part of the second generation of the <a href=https://github.com/nipy/nipype>Nipype</a> ecosystem,
+  but it is designed as a general-purpose engine to support analytics in any scientific domain.<br><a href=https://github.com/poldracklab/fitlins>FitLins</a>
+  is a tool for estimating linear models, defined by the BIDS Stats Models specification proposal, to BIDS-formatted datasets. <a href=https://github.com/nipype/pydra-ml<Pydra-ML</a>
   is a demo application that leverages Pydra together with scikit-learn to perform model comparison across a set of classifiers.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/192>in this github issue</a>"
   hub: "Americas"
 -
   title: "physiopy/phys2bids: BIDS formatting of physiological recordings"
   image: phys2bids_card.jpg
-  details: "<a href=https://github.com/physiopy>Physiopy</a> is a github organisation maintained by (at the moment) 12 volunteers that aims to offer 
-  open development solutions for physiology in MRI. <a href=https://github.com/physiopy/phys2bids>phys2bids</a> is the flagship library of physiopy, 
-  and consists in a python3 library meant to format physiological (cardiac, respiratory, or gas signals) files in BIDS. It was born for AcqKnowledge 
+  details: "<a href=https://github.com/physiopy>Physiopy</a> is a github organisation maintained by (at the moment) 12 volunteers that aims to offer
+  open development solutions for physiology in MRI. <a href=https://github.com/physiopy/phys2bids>phys2bids</a> is the flagship library of physiopy,
+  and consists in a python3 library meant to format physiological (cardiac, respiratory, or gas signals) files in BIDS. It was born for AcqKnowledge
   (BIOPAC) files, and at the moment it also supports LabChart (ADInstruments). It doesn’t support physiological files recorded with the MRI (yet).
-  <br>Next to phys2bids, we’re starting the development of <a href=https://github.com/physiopy/phys2denoise>phys2denoise</a>, a library dedicated to 
+  <br>Next to phys2bids, we’re starting the development of <a href=https://github.com/physiopy/phys2denoise>phys2denoise</a>, a library dedicated to
   prepare physiological signal for fMRI denoising.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/193>in this github issue</a>"
   hub: "Americas & Europe / Middle-East / Africa"
 -
   title: "Creating a dashboard and recommender system for CONP DataLad datasets and Boutiques pipelines"
   image: whatever.png
-  details: "Our ultimate goal is to implement a dashboard and recommender system for <a href=http://boutiques.github.io/>Boutiques</a> pipelines 
+  details: "Our ultimate goal is to implement a dashboard and recommender system for <a href=http://boutiques.github.io/>Boutiques</a> pipelines
   and <a href=http://www.datalad.org/>DataLad</a> datasets, in the context of the Canadian Open Neuroscience Platform (<a href=http://conp.ca/>CONP</a>).
-  In this project we will focus on implementing a database to track information on pipelines, datasets and available execution records. 
+  In this project we will focus on implementing a database to track information on pipelines, datasets and available execution records.
   Using this database, we will extract useful information for this recommendation system.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/197>in this github issue</a>"
   hub: "Americas"
 -
   title: "PyNets"
   image: pynets.png
-  details: "PyNets leverages the Nipype workflow engine, along with Nilearn and Dipy fMRI and dMRI libraries, to sample individual structural 
-  and functional connectomes. Uniquely, PyNets enables the user to specify any of a variety of methodological choices (i.e. that impact node 
-  and/or edge definitions) and sampling the resulting connectome estimates in a massively scalable and parallel framework. PyNets is a 
-  post-processing workflow, which means that it can be run manually on virtually any preprocessed fMRI or dMRI data. Further, it can be deployed 
+  details: "PyNets leverages the Nipype workflow engine, along with Nilearn and Dipy fMRI and dMRI libraries, to sample individual structural
+  and functional connectomes. Uniquely, PyNets enables the user to specify any of a variety of methodological choices (i.e. that impact node
+  and/or edge definitions) and sampling the resulting connectome estimates in a massively scalable and parallel framework. PyNets is a
+  post-processing workflow, which means that it can be run manually on virtually any preprocessed fMRI or dMRI data. Further, it can be deployed
   as a BIDS application that takes BIDS derivatives and makes BIDS derivatives.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/200>in this github issue</a>"
   hub: "Americas"
 -
   title: "Matching white matter fiber tracts across subjects"
   image: WMfiber.png
-  details: "With diffusion MRI, we can track the axon fibers in the brain white matter. Although a certain level of variability exists, 
-  we still believe that there are a substantial amount of fiber bundles/tracts that are common across subjects. Thus, matching the fiber 
+  details: "With diffusion MRI, we can track the axon fibers in the brain white matter. Although a certain level of variability exists,
+  we still believe that there are a substantial amount of fiber bundles/tracts that are common across subjects. Thus, matching the fiber
   bundles across subjects could help us understand the common architecture of white matter in the human brain.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/204>in this github issue</a>"
   hub: "Asia / Pacific"
 -
   title: "BIDS Connectivity data schema"
   image: BIDSconschema.png
-  details: "The Generic BIDS connectivity data schema is a BIDS proposal submitted to explore the development of standards for representing 
-  connectivity data BIDS derivative schemas across modalities. This would enable easier integration of multimodal data in tools, and ease the 
-  expansion of BIDS to cover more modalities. Now derivative schemas across more modalities are becoming more mature, and simpler elements of 
-  data representation have been addressed, now is a good time to review the status of connectivity data representation and determine what a 
-  "meta" schema might be able to provide in this context.
+  details: "The Generic BIDS connectivity data schema is a BIDS proposal submitted to explore the development of standards for representing
+  connectivity data BIDS derivative schemas across modalities. This would enable easier integration of multimodal data in tools, and ease the
+  expansion of BIDS to cover more modalities. Now derivative schemas across more modalities are becoming more mature, and simpler elements of
+  data representation have been addressed, now is a good time to review the status of connectivity data representation and determine what a
+  'meta' schema might be able to provide in this context.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/203>in this github issue</a>"
   hub: "Europe / Middle East / Africa"
 -
   title: "mrpeek: a sixel-based terminal image viewer for MRtrix3"
   image: Bmrpeek.png
-  details: "Displaying images on a remote server is very difficult / impossible currently using <a href=https://www.mrtrix.org/>MRtrix3</a>'s mrview, 
-  due the incompatibility of OpenGL 3+ with X11 forwarding (<a href=https://community.mrtrix.org/t/remote-display-issues/2547>see here for details</a>). 
-  It will be some time before the technology is updated to fix this. In the meantime, @wasserth's <a href=https://github.com/MIC-DKFZ/niicat>niicat project</a> 
-  shows that it is possible to allow some (limited) display functionality using <a href=https://en.wikipedia.org/wiki/Sixel>sixel</a>. 
+  details: "Displaying images on a remote server is very difficult / impossible currently using <a href=https://www.mrtrix.org/>MRtrix3</a>'s mrview,
+  due the incompatibility of OpenGL 3+ with X11 forwarding (<a href=https://community.mrtrix.org/t/remote-display-issues/2547>see here for details</a>).
+  It will be some time before the technology is updated to fix this. In the meantime, @wasserth's <a href=https://github.com/MIC-DKFZ/niicat>niicat project</a>
+  shows that it is possible to allow some (limited) display functionality using <a href=https://en.wikipedia.org/wiki/Sixel>sixel</a>.
   The <a href=https://saitoha.github.io/libsixel/>libsixel project</a> provides an implementation that seems like a good starting point for a C++ command.
-  <br>The aim of this project is to create a simple command for interactive display of MR images within the terminal, build on the 
-  <a href=https://www.mrtrix.org/>MRtrix3</a> codebase, so that it can be used for quick inspection of images both locally and remotely. If successful, 
-  changes will be included in a future update to the MRtrix3 software. <a href=https://github.com/MRtrix3/mrtrix3/blob/master/CONTRIBUTING.md>Contributors</a> 
-  will be included in the built-in git <a href=https://github.com/MRtrix3/mrtrix3/graphs/contributors>contribution statistics</a>. We additionally credit 
-  contributors by showing their avatar at the bottom of the <a href=https://www.mrtrix.org/>MRtrix3 website front page</a>, and in the changelog as 
+  <br>The aim of this project is to create a simple command for interactive display of MR images within the terminal, build on the
+  <a href=https://www.mrtrix.org/>MRtrix3</a> codebase, so that it can be used for quick inspection of images both locally and remotely. If successful,
+  changes will be included in a future update to the MRtrix3 software. <a href=https://github.com/MRtrix3/mrtrix3/blob/master/CONTRIBUTING.md>Contributors</a>
+  will be included in the built-in git <a href=https://github.com/MRtrix3/mrtrix3/graphs/contributors>contribution statistics</a>. We additionally credit
+  contributors by showing their avatar at the bottom of the <a href=https://www.mrtrix.org/>MRtrix3 website front page</a>, and in the changelog as
   reported on the community forum (<a href=https://community.mrtrix.org/t/mrtrix-3-0-rc3-3-0-0-changelog/3552>example</a>).
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/202>in this github issue</a>"
   hub: "Europe / Middle East / Africa"
 -
   title: "Evaluating the pipeline stability though the libmath fuzzy environment"
   image: fuzzy.png
-  details: "Data analysis pipelines are known to be impacted by the operating system updates, presumably due to the creation, 
+  details: "Data analysis pipelines are known to be impacted by the operating system updates, presumably due to the creation,
   propagation, and amplification of numerical noises. These are uncontrolled noises that are originated in updates of low-level libraries
-  by third-party developers. In practice, these numerical instabilities are caused by truncation and round-off errors due to the precision 
+  by third-party developers. In practice, these numerical instabilities are caused by truncation and round-off errors due to the precision
   limitation of the floating-point arithmetic. The finite precision of the floating-point numbers leads to represent an approximation of
-  a real number that may be different on the computers with various precision formats. A possible method to investigate operating system related 
-  effects more comprehensively is to introduce controlled numerical perturbations in the math library functions (libmath), which could be done by 
-  introducing noise in floating-point computations through Monte-Carlo Arithmetic (MCA) using the Verificarlo tool. <br>For the hackathon we'll be 
+  a real number that may be different on the computers with various precision formats. A possible method to investigate operating system related
+  effects more comprehensively is to introduce controlled numerical perturbations in the math library functions (libmath), which could be done by
+  introducing noise in floating-point computations through Monte-Carlo Arithmetic (MCA) using the Verificarlo tool. <br>For the hackathon we'll be
   looking to test the validity of the instrumented libmath library functions and also evaluate the stability of the existing neuroimaging pipelines.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/201>in this github issue</a>"
   hub: "Americas"
