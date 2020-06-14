@@ -349,7 +349,7 @@
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/203>in this github issue</a>"
   hub: "Europe / Middle East / Africa"
 -
-  title: "Bmrpeek: a sixel-based terminal image viewer for MRtrix3"
+  title: "mrpeek: a sixel-based terminal image viewer for MRtrix3"
   image: Bmrpeek.png
   details: "Displaying images on a remote server is very difficult / impossible currently using <a href=https://www.mrtrix.org/>MRtrix3</a>'s mrview, 
   due the incompatibility of OpenGL 3+ with X11 forwarding (<a href=https://community.mrtrix.org/t/remote-display-issues/2547>see here for details</a>). 
@@ -364,6 +364,19 @@
   reported on the community forum (<a href=https://community.mrtrix.org/t/mrtrix-3-0-rc3-3-0-0-changelog/3552>example</a>).
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/202>in this github issue</a>"
   hub: "Europe / Middle East / Africa"
+-
+  title: "Evaluating the pipeline stability though the libmath fuzzy environment"
+  image: fuzzy.png
+  details: "Data analysis pipelines are known to be impacted by the operating system updates, presumably due to the creation, 
+  propagation, and amplification of numerical noises. These are uncontrolled noises that are originated in updates of low-level libraries
+  by third-party developers. In practice, these numerical instabilities are caused by truncation and round-off errors due to the precision 
+  limitation of the floating-point arithmetic. The finite precision of the floating-point numbers leads to represent an approximation of
+  a real number that may be different on the computers with various precision formats. A possible method to investigate operating system related 
+  effects more comprehensively is to introduce controlled numerical perturbations in the math library functions (libmath), which could be done by 
+  introducing noise in floating-point computations through Monte-Carlo Arithmetic (MCA) using the Verificarlo tool. <br>For the hackathon we'll be 
+  looking to test the validity of the instrumented libmath library functions and also evaluate the stability of the existing neuroimaging pipelines.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/201>in this github issue</a>"
+  hub: "Americas"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
