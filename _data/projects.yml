@@ -338,6 +338,16 @@
   bundles across subjects could help us understand the common architecture of white matter in the human brain.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/204>in this github issue</a>"
   hub: "Asia / Pacific"
+-
+  title: "BIDS Connectivity data schema"
+  image: BIDSconschema.png
+  details: "The Generic BIDS connectivity data schema is a BIDS proposal submitted to explore the development of standards for representing 
+  connectivity data BIDS derivative schemas across modalities. This would enable easier integration of multimodal data in tools, and ease the 
+  expansion of BIDS to cover more modalities. Now derivative schemas across more modalities are becoming more mature, and simpler elements of 
+  data representation have been addressed, now is a good time to review the status of connectivity data representation and determine what a 
+  "meta" schema might be able to provide in this context.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/203>in this github issue</a>"
+  hub: "Europe / Middle East / Africa"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
