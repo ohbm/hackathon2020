@@ -380,6 +380,18 @@
   looking to test the validity of the instrumented libmath library functions and also evaluate the stability of the existing neuroimaging pipelines.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/201>in this github issue</a>"
   hub: "Americas"
+
+-
+  title: "Pydra's Relatives and Friends: providing Pydra's support for FitLins, Nipype interfaces and ML model comparison"
+  image: pydra_nipy.png
+  details: "Pydra is a part of the second generation of the Nipype ecosystem. It is a lightweight, Py3.7+
+  general-purpose dataflow engine to support analytics in any scientific domain.
+  During the hackathon, we might be working on the engine itself, but we will mostly concentrate on Pydra's support
+  to the other projects, including Nipype interfaces, FitLins, and Pydra-ML.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/192>in this github issue</a>"
+  hub: "Americas"
+
+
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
