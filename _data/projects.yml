@@ -348,6 +348,22 @@
   "meta" schema might be able to provide in this context.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/203>in this github issue</a>"
   hub: "Europe / Middle East / Africa"
+-
+  title: "Bmrpeek: a sixel-based terminal image viewer for MRtrix3"
+  image: Bmrpeek.png
+  details: "Displaying images on a remote server is very difficult / impossible currently using <a href=https://www.mrtrix.org/>MRtrix3</a>'s mrview, 
+  due the incompatibility of OpenGL 3+ with X11 forwarding (<a href=https://community.mrtrix.org/t/remote-display-issues/2547>see here for details</a>). 
+  It will be some time before the technology is updated to fix this. In the meantime, @wasserth's <a href=https://github.com/MIC-DKFZ/niicat>niicat project</a> 
+  shows that it is possible to allow some (limited) display functionality using <a href=https://en.wikipedia.org/wiki/Sixel>sixel</a>. 
+  The <a href=https://saitoha.github.io/libsixel/>libsixel project</a> provides an implementation that seems like a good starting point for a C++ command.
+  <br>The aim of this project is to create a simple command for interactive display of MR images within the terminal, build on the 
+  <a href=https://www.mrtrix.org/>MRtrix3</a> codebase, so that it can be used for quick inspection of images both locally and remotely. If successful, 
+  changes will be included in a future update to the MRtrix3 software. <a href=https://github.com/MRtrix3/mrtrix3/blob/master/CONTRIBUTING.md>Contributors</a> 
+  will be included in the built-in git <a href=https://github.com/MRtrix3/mrtrix3/graphs/contributors>contribution statistics</a>. We additionally credit 
+  contributors by showing their avatar at the bottom of the <a href=https://www.mrtrix.org/>MRtrix3 website front page</a>, and in the changelog as 
+  reported on the community forum (<a href=https://community.mrtrix.org/t/mrtrix-3-0-rc3-3-0-0-changelog/3552>example</a>).
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/202>in this github issue</a>"
+  hub: "Europe / Middle East / Africa"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
