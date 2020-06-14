@@ -184,8 +184,13 @@
   hub: "Asia / Pacific"
 -
   title: "Prediction of age and intelligence, a basic machine learning model"
-  image: whatever.png
-  details: "
+  image: AgeIQmachinelearning.png
+  details: "Emerging evidence suggests the outstanding utility of multimodal neuroimaging data in predicting individual variation in age and cognition. 
+  However, it is unclear whether the predictive utility of such measures is a global effect or is consistently attributed to certain localized patterns 
+  of brain structure and connectivity. <br>This project aims to evaluate and develop an analysis framework for optimal performance of age and behavior 
+  (e.g. fluid intelligence) prediction using measures of brain structure and connectivity. The goal is to achieve both overall high prediction accuracy 
+  in cross-validated samples and high consistency in the estimated predictors (e.g. regions/connections) if possible. A secondary aim of the project is 
+  to investigate the potential markers of sub-clinical cognitive decline through simultaneous prediction of age and cognition in a healthy adult cohort.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/174>in this github issue</a>"
   hub: "Asia / Pacific"
 -
