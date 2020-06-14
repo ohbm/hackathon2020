@@ -218,25 +218,65 @@
 -
   title: "BIDS Specification Terms PDF Table Generator"
   image: BIDS_logo.jpg
-  details: "The project aims to create a user-friendly python tool allowing the BIDS group to select, 
-  search, or add BIDS specification terms and export a PDF table of the chosen BIDS term along with 
-  appropriate term properties and instructions on adding new terms. If the user chooses to add a new 
-  term, the tool will create and export a new BIDS specification term as a JSON-LD file and push it to 
-  our <a href=https://github.com/NIDM-Terms/terms/tree/master/terms/BIDS_Terms>terms</a> repository where discussion surrounding the new term can be captured using git/github. Such 
-  an effort will provide the BIDS working group with a user-friendly tool to build tables for the BIDS 
-  documentation while ensuring they have not re-purposed an existing BIDS specification term giving it 
-  conflicting definitions. For additional information on the background for this project see BIDS 
+  details: "The project aims to create a user-friendly python tool allowing the BIDS group to select,
+  search, or add BIDS specification terms and export a PDF table of the chosen BIDS term along with
+  appropriate term properties and instructions on adding new terms. If the user chooses to add a new
+  term, the tool will create and export a new BIDS specification term as a JSON-LD file and push it to
+  our <a href=https://github.com/NIDM-Terms/terms/tree/master/terms/BIDS_Terms>terms</a> repository where discussion surrounding the new term can be captured using git/github. Such
+  an effort will provide the BIDS working group with a user-friendly tool to build tables for the BIDS
+  documentation while ensuring they have not re-purposed an existing BIDS specification term giving it
+  conflicting definitions. For additional information on the background for this project see BIDS
   specification <a href=https://github.com/bids-standard/bids-specification/issues/423>issue 423</a>.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/183>in this github issue</a>"
   hub: "Americas"
 -
   title: "HyPyP – The Hyperscanning Python Pipeline"
   image: Hypyp.png
-  details: "HyPyP is the first open source toolkit for the analysis of hyperscanning recording i.e. 
-  neural activity across multiple brains. Here we provide a Python library based on the 
+  details: "HyPyP is the first open source toolkit for the analysis of hyperscanning recording i.e.
+  neural activity across multiple brains. Here we provide a Python library based on the
   <a href=https://mne.tools/>MNE Python</a> ecosystem.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/187>in this github issue</a>"
   hub: "Europe / Middle-East / Africa"
+-
+  title: "Sharing datasets and pipelines in the Canadian Open Neuroscience Platform"
+  image: conp.png
+  details: "The Canadian Open Neuroscience Platform (<a href=http://conp.ca>CONP</a>)
+  is a web portal and DataLad repository to share open and restricted-access
+  datasets and tools in the neuroimaging community. Datasets are uniformly
+  described using the Data Tags Suite (<a href=https://academic.oup.com/gigascience/article/9/2/giz165/5730051>DATS</a>),
+  available for download through <a href=http://www.datalad.org>DataLad</a>,
+  regularly monitored using <a href=http://circleci.com>CircleCI</a>, and
+  searchable through the CONP web portal. The data itself remains under the
+  control of its owners, as it can be stored in various backends including
+  <a href=http://loris.ca>LORIS</a>, <a href=https://zenodo.org/>Zenodo</a>,
+  the <a href=http://osf.io>Open Science Framework</a>, or any other backend
+  supported by DataLad (http, ftp, etc). Tools are shared on Zenodo through the
+  <a href=http://boutiques.github.io>Boutiques</a> framework.
+  The goal of this project is to port additional tools and pipelines to the
+  CONP. Please join us if you would like to share your dataset, your pipeline,
+  or just learn about the technologies!
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/194>in this github issue</a>"
+  hub: "Americas"
+-
+  title: "Diffusion MRI brain masking (\"dwi2mask\")"
+  image: dwi2mask.png
+  details: "Deriving a binary brain mask from diffusion MRI data in an automated fashion can be
+  deceptively challenging. This project aims to provide a standardised interface to multiple different
+  algorithms for performing this task, and incorporate it into the MRtrix3 software.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/195>in this github issue</a>"
+  hub: "Asia / Pacific"
+-
+  title: "BIDS Curation GUI"
+  image: BIDS_GUI.png
+  details: "Getting data into the <a href=https://bids.neuroimaging.io/>Brain Imaging Data Structure (BIDS)</a>
+  format is non-trivial. Ideally, you set scan acquisition parameters in preparation for BIDS, but mistakes
+  will be made. Non-ideally, you have an old set of scans you want to BIDSify. Wouldn't it be great if you
+  could 'see' the entire situation so you can easily locate and understand the problems? Wouldn't you like this
+  picture to come alive to help you curate your data?
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/188>in this github issue</a>"
+  hub: "Americas"
+
+
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
