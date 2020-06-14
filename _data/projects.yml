@@ -285,7 +285,7 @@
   hub: "Americas"
 -
   title: "ReproSchema and Library: A JSON-LD schema to harmonize behavioral, cognitive, and neuropsych assessments"
-  image: whatever.png
+  image: reproschema.png
   details: "Harmonizing data after acquisition is resource intensive. ReproSchema is an attempt to harmonize data by design by enforcing
   consistency at the data acquisition stage. An implementation of the schema can specify scoring logic, branching logic, and user interface rendering
   options. The schema allows internationalization (multiple languages), is implementation agnostic, and tracks variations in assessments (e.g., PHQ-9,
