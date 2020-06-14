@@ -237,6 +237,14 @@
   <a href=https://mne.tools/>MNE Python</a> ecosystem.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/187>in this github issue</a>"
   hub: "Europe / Middle-East / Africa"
+-
+  title: "Diffusion MRI brain masking (\"dwi2mask\")"
+  image: dwi2mask.png
+  details: "Deriving a binary brain mask from diffusion MRI data in an automated fashion can be
+  deceptively challenging. This project aims to provide a standardised interface to multiple different
+  algorithms for performing this task, and incorporate it into the MRtrix3 software.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/195>in this github issue</a>"
+  hub: "Asia / Pacific"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
