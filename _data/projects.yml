@@ -179,7 +179,10 @@
   title: "Building 3R-BRAIN Neuroinformatics"
   image: whatever.png
   details: "An Open Resource for Reproducible, Replicable and Reliable
-  Brain Research and Imaging Neuroscience
+  Brain Research and Imaging Neuroscience.
+  <br>During the hack time, we are going to build a neuroinformatic resource for the 3R-BRAIN data sharing. This includes the resources for OHBM
+  education course 'Population Neuroimaging: How to responsibly handle big data in the age of biobanks', sharing big data of 3R-BRAIN, and the 
+  implementation of reliability analysis toolkit into an online connectome computation system (CCS).
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/173>in this github issue</a>"
   hub: "Asia / Pacific"
 -
