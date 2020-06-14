@@ -265,6 +265,18 @@
   algorithms for performing this task, and incorporate it into the MRtrix3 software.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/195>in this github issue</a>"
   hub: "Asia / Pacific"
+-
+  title: "BIDS Curation GUI"
+  image: BIDS_GUI.png
+  details: "Getting data into the <a href=https://bids.neuroimaging.io/>Brain Imaging Data Structure (BIDS)</a>
+  format is non-trivial. Ideally, you set scan acquisition parameters in preparation for BIDS, but mistakes
+  will be made. Non-ideally, you have an old set of scans you want to BIDSify. Wouldn't it be great if you
+  could 'see' the entire situation so you can easily locate and understand the problems? Wouldn't you like this
+  picture to come alive to help you curate your data?
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/188>in this github issue</a>"
+  hub: "Americas"
+
+
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
