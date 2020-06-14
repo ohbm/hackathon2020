@@ -290,7 +290,16 @@
   RedCap) enables more consistent acquisition across projects, with results being harmonized by design.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/189>in this github issue</a>"
   hub: "Americas"
-
+-
+  title: "Pyrda's relatives and friends: providing Pydra's support for FitLins, Nipype interfaces and ML model comparison"
+  image: pydra_logo.png
+  details: "<a href=https://github.com/nipype/pydra>Pyrda</a>is a lightweight, Py3.7+ dataflow engine for computational graph construction, 
+  manipulation, and distributed execution. Pydra is a part of the second generation of the <a href=https://github.com/nipy/nipype>Nipype</a> ecosystem, 
+  but it is designed as a general-purpose engine to support analytics in any scientific domain.<br><a href=https://github.com/poldracklab/fitlins>FitLins</a> 
+  is a tool for estimating linear models, defined by the BIDS Stats Models specification proposal, to BIDS-formatted datasets. <a href=https://github.com/nipype/pydra-ml<Pydra-ML</a> 
+  is a demo application that leverages Pydra together with scikit-learn to perform model comparison across a set of classifiers.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/192>in this github issue</a>"
+  hub: "Americas"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
