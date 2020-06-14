@@ -280,7 +280,16 @@
   picture to come alive to help you curate your data?
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/188>in this github issue</a>"
   hub: "Americas"
-
+-
+  title: "ReproSchema and Library: A JSON-LD schema to harmonize behavioral, cognitive, and neuropsych assessments"
+  image: whatever.png
+  details: "Harmonizing data after acquisition is resource intensive. ReproSchema is an attempt to harmonize data by design by enforcing 
+  consistency at the data acquisition stage. An implementation of the schema can specify scoring logic, branching logic, and user interface rendering
+  options. The schema allows internationalization (multiple languages), is implementation agnostic, and tracks variations in assessments (e.g., PHQ-9, 
+  PHQ-8). <br>This open and accessible schema library with appropriate conversion (e.g., to RedCap) and data collection tools (e.g., MindLogger, LORIS,
+  RedCap) enables more consistent acquisition across projects, with results being harmonized by design.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/189>in this github issue</a>"
+  hub: "Americas"
 
 # EXAMPLES
 # -
