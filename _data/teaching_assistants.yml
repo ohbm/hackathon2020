@@ -15,8 +15,8 @@ tom_shaw:
   thumbnailUrl: tom_shaw.jpg
   hub: APAC
   social:
-    - { name: "twitter", link: "https://twitter.com/thomcat992" }
-    - { name: "github", link: "https://github.com/thomshaw92/" }
+    - {name: "twitter", link: "https://twitter.com/thomcat992"}
+    - {name: "github", link: "https://github.com/thomshaw92/"}
 
 tom_close:
   name: "Tom"
@@ -76,6 +76,15 @@ morgan_mcintyre:
     # - {name: "twitter", link: "https://twitter.com/"}
     # - {name: "github", link: "https://github.com/"}
 
+agah_karakuzu:
+  name: "Agah"
+  surname: "Karakuzu"
+  location: "Kayseri, Turkey"
+  thumbnailUrl: Agah_Karakuzu.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/agahkarakuzu" }
+    - { name: "github", link: "https://github.com/agahkarakuzu/" }
+
 
 # ------------------------------------------------------------------------------------------------ #
 # ------------------------------------------------------------------------------------------------ #
@@ -107,8 +116,8 @@ adina_wagner:
   thumbnailUrl: adina_wagner.jpg
   hub: EMEA
   social:
-    - { name: "twitter", link: "https://twitter.com/AdinaKrik" }
-    - { name: "github", link: "https://github.com/adswa" }
+    - {name: "twitter", link: "https://twitter.com/AdinaKrik"}
+    - {name: "github", link: "https://github.com/adswa"}
 
 
 # ------------------------------------------------------------------------------------------------ #
@@ -130,8 +139,8 @@ sam_nastase:
   thumbnailUrl: sam_nastase.jpg
   hub: Americas
   social:
-    - { name: "twitter", link: "https://twitter.com/samnastase" }
-    - { name: "github", link: "https://github.com/snastase/" }
+    - {name: "twitter", link: "https://twitter.com/samnastase"}
+    - {name: "github", link: "https://github.com/snastase/"}
 
 kendra_oudyk:
   name: "Kendra"
@@ -151,4 +160,92 @@ yarik_halchenko:
   hub: Americas
   social:
     - {name: "twitter", link: "https://twitter.com/yarikoptic"}
-    - {name: "github", link: "https://github.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+dan_gale:
+  name: "Dan"
+  surname: "Gale"
+  location: ""
+  thumbnailUrl: dan_gale.png
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+jake_vogel:
+  name: "Jake"
+  surname: "Vogel"
+  location: ""
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+thomas_funck:
+  name: "Thomas"
+  surname: "Funck"
+  location: ""
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+xihe_xie:
+  name: "Xihe"
+  surname: "Xie"
+  location: ""
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+qawi_telesford:
+  name: "Qawi"
+  surname: "Telesford"
+  location: ""
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+leonaro_laccarino:
+  name: "Leonaro"
+  surname: "Laccarino"
+  location: ""
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+reinder_vosdewael:
+  name: "Reinder"
+  surname: "Vos de Wael"
+  location: ""
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+casey_paquola:
+  name: "Casey"
+  surname: "Paquola"
+  location: ""
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+michael_dayan:
+  name: "Michael"
+  surname: "Dayan"
+  location: ""
+  thumbnailUrl: michael_dayan.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/brainhiker" }

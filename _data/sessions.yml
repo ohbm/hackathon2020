@@ -208,7 +208,7 @@
   speakers: [agah_karakuzu] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     apac: []
-    emea: []
+    emea: [agah_karakuzu]
     americas: []
 
 -
@@ -290,29 +290,34 @@
   language: english
   complexity: Beginner
   subtype: introductory material / pre-recorded
-  speakers: [brain_art_sig] # from speakers.yml
+  speakers: [qawi_telesford, leonaro_laccarino, reinder_vosdewael] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    apac: []
-    emea: []
-    americas: []
+    apac: [reinder_vosdewael]
+    emea: [casey_paquola]
+    americas: [qawi_telesford, leonaro_laccarino, reinder_vosdewael]
 
 -
   id: 306
   type: traintrack
-  title: "Docker / Singularity"
+  title: "Containerization - Docker and Singularity"
   place: "Crowdcast"
-  description: "Mody dock and a black hole walk into a bar."
+  description: "We are covering what containers are and how they can be built and used in different scenarios."
+  long_description: >
+    We cover how containers can be useful for running the same software on different platforms and
+    sharing analysis pipelines with other researchers. We will show how to build docker containers
+    from scratch and using Neurodocker. Finally we will cover how to use containers on an HPC
+    with singularity.
   thumbnailUrl: /img/traintrack/docker_singularity.png
-  prerequisite:
+  prerequisite: Familiarity with the unix command line can help but is NOT required
   links:
   language: english
   complexity: Beginner
-  subtype: pre-recorded / follow along
+  subtype: Tutorial & Demo / Pre-recorded - Live
   speakers: [steffan_bollmann, tom_shaw] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    apac: []
-    emea: []
-    americas: []
+    apac: [tom_close, sina_mansour]
+    emea: [steffan_bollmann, tom_shaw]
+    americas: [xihe_xie, thomas_funck]
 
 -
   id: 307
@@ -329,8 +334,8 @@
   speakers: [michael_dayan] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     apac: []
-    emea: []
-    americas: []
+    emea: [michael_dayan]
+    americas: [dan_gale, jake_vogel]
 
 # -
 #   id: 308
@@ -372,9 +377,9 @@
   subtype: pre-recorded / follow along
   speakers: [adina_wagner] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: [ ] #[Steffen Bollmann]
-    EMEA: [adina_wagner, benjamin_poldrack]
-    Americas: [ ] #[Sam Nastase, Yarik Halchenko]
+    apac: [steffan_bollmann]
+    emea: [adina_wagner, benjamin_poldrack]
+    americas: [sam_nastase, yarik_halchenko]
 
 -
   id: 311
