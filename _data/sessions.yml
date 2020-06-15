@@ -193,39 +193,53 @@
   type: traintrack
   title: "Divide and conquer m-scripts"
   place: "Crowdcast"
-  description: "We will take a spaghetti script written in MATLAB and turn it into an understandable
-   and reusable code living happily in a powerful GitHub repository."
+  description: >
+    We will take a spaghetti script written in MATLAB and turn it into an understandable
+    and reusable code living happily in a powerful GitHub repository.
   thumbnailUrl: /img/traintrack/matlab_octave.svg
-  prerequisite:
+  prerequisite: >
+    Familiarity with matlab / git / github will be a plus.
   links:
-    eda_repository: https://github.com/agahkarakuzu/eda_refactored
-    jim_analysis: https://osf.io/pkqts/
+    code: https://github.com/agahkarakuzu/eda_refactored
+    presentation: https://osf.io/pkqts/
   language: english
   complexity: Beginner
-  subtype: pre-recorded / follow along
-  speakers: [agah_karakuzu, aurina_arnatkeviciute] # from speakers.yml
+  subtype: pre-recorded / demo
+  speakers: [agah_karakuzu] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     apac: []
     emea: []
     americas: []
 
-# -
-#   id: 303
-#   type: traintrack
-#   title: "Good coding practices with python"
-#   place: "Crowdcast"
-#   description: "Learn to trust your own code so sharing it feels less scary."
-#   thumbnailUrl: /img/traintrack/python.png
-#   prerequisite:
-#   links:
-#   language: english
-#   complexity: Beginner
-#   subtype: pre-recorded / follow along
-#   speakers: [aurina_arnatkeviciute] # from speakers.yml
-#   teaching_assistants: # from teaching_assistants.yml
-#     APAC: []
-#     EMEA: []
-#     Americas: []
+-
+  id: 303
+  type: traintrack
+  title: "Good coding practices in matlab"
+  place: "Zoom"
+  description: >
+    Presentation on coding tips, example of fixing a bad code, practical part, where people try to
+    write their own functions and create documentation on github.
+  long_description: >
+    The session is tailored to a person, who starts their first project using matlab. First, it will
+    include a brief introduction to good coding practices highlighting that matlab can also be used
+    to share code. Then I’ll give some general matlab coding tips with some examples and will go
+    line-by-line through some old 'inherited' code demonstrating what’s wrong with it and showing an
+    example of how it can be re-written in a more usable way. After, I’ll outline how to share the
+    code on github, what should be included in the documentation, so the code can be easily used by others.
+    At the end, there will be a task to create a couple of functions (to plot provided data), make a
+    github repository and give documentation on github.
+  thumbnailUrl: /img/traintrack/matlab_octave.svg
+  prerequisite: >
+    Familiarity with matlab / git / github is useful, but not required.
+  links:
+  language: english
+  complexity: Beginner
+  subtype: live / workshop
+  speakers: [aurina_arnatkeviciute] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [angela_renton, saampras_ganesan, morgan_mcintyre]
+    emea: []
+    americas: []
 
 -
   id: 304
