@@ -128,6 +128,8 @@ helena_ludmyr:
   team: true
   thumbnailUrl: john_jane_doe.png
   social:
+    - {name: "twitter", link: "https://twitter.com/Helena_LB"}
+
 
 mathew_abrams:
   name: "Mathew"

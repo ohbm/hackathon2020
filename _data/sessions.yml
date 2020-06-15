@@ -372,33 +372,9 @@
   subtype: pre-recorded / follow along
   speakers: [adina_wagner] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: [benjamin_poldrack]
-    Americas: []
-
--
-  id: 310
-  type: traintrack
-  title: "CONP: Introducing a platform for the open sharing of data and pipelines"
-  place: "Crowdcast"
-  description: "An introduction and demo of the Canadian Open Neuroscience Platform."
-  long_description: "The Canadian Open Neuroscience Platform is a decentralized web platform for the open sharing of data and
-   pipelines. We will present the main features of the Canadian Open Neuroscience Platform, including: (1) finding and
-   downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool.
-   The demo will be recorded and could also serve as a tutorial. Only a web browser will be required to follow this tutorial,
-  although advanced features would require Docker and DataLad."
-  thumbnailUrl: /img/traintrack/conp.jpg
-  prerequisite:
-  links:
-    website: http://portal.conp.ca
-  language: english
-  complexity: Beginner
-  subtype: pre-recorded / follow along
-  speakers: [tristan_gatlard, samir_das] # from speakers.yml
-  teaching_assistants: # from teaching_assistants.yml
-    apac: []
-    emea: []
-    americas: []
+    APAC: [ ] #[Steffen Bollmann]
+    EMEA: [adina_wagner, benjamin_poldrack]
+    Americas: [ ] #[Sam Nastase, Yarik Halchenko]
 
 -
   id: 311
@@ -419,30 +395,7 @@
     emea: []
     americas: []
 
--
-  id: 312
-  type: traintrack
-  title: "Leveraging the best of both worlds: OHBM-INCF collaborations to eliminate open science silos"
-  place: "Crowdcast"
-  description: "INCF is a standards organization for open and FAIR neuroscience.
-                INCF supports open science working groups and groups that provide training on open science practices.
-                Since 2013, INCF has supported OHBM’s open science efforts; yet there has been little crossover between
-                OHBM’s open science community and INCF. The purpose of this session is to present INCF’s open science
-                efforts and discuss how the OHBM community can support the open science efforts of INCF, what resources/services
-                INCF should offer in order to maximize the efforts of the community, and why an open science practitioner or
-                advocate would choose or not choose to become a member and support such an organization such as INCF."
-  thumbnailUrl: /img/traintrack/incf.png
-  prerequisite:
-  links:
-    website: incf.org
-  language: english
-  complexity: Beginner
-  subtype: moderated discussion
-  speakers: [helena_ludmyr, mathew_abrams] # from speakers.yml
-  teaching_assistants: # from teaching_assistants.yml
-    apac: []
-    emea: []
-    americas: []
+
 
 
 # Asynchronous activities...
@@ -465,15 +418,54 @@
 
 
 # Sponsor sessions
-- id: 501
-  title: "Discover CONP"
-  place: "Crowdcast"
-  description: "Discover the Canadian Open Neuroscience Platform."
-  service: true
 
-# Sponsor sessions
-- id: 502
-  title: "Group discussion on collaborative open neuroscience"
+-
+  id: 501
+  type: traintrack
+  title: "CONP: Introducing a platform for the open sharing of data and pipelines"
   place: "Crowdcast"
-  description: "Together with INCF, let's discuss what can community members do to support open science."
-  service: true
+  description: "An introduction and demo of the Canadian Open Neuroscience Platform."
+  long_description: "The Canadian Open Neuroscience Platform is a decentralized web platform for the open sharing of data and
+   pipelines. We will present the main features of the Canadian Open Neuroscience Platform, including: (1) finding and
+   downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool.
+   The demo will be recorded and could also serve as a tutorial. Only a web browser will be required to follow this tutorial,
+  although advanced features would require Docker and DataLad."
+  thumbnailUrl: /img/traintrack/conp.jpg
+  prerequisite:
+  links:
+    website: http://portal.conp.ca
+  language: english
+  complexity: Beginner
+  subtype: pre-recorded / demo and tutorial
+  speakers: [tristan_gatlard, samir_das] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: []
+    emea: []
+    americas: []
+
+
+-
+  id: 502
+  type: traintrack
+  title: "OHBM-INCF: Leveraging the best of both worlds"
+  place: "Crowdcast"
+  description: "Collaborations to eliminate open science silos"
+  long_description: "INCF is a standards organization for open and FAIR neuroscience.
+                INCF supports open science working groups and groups that provide training on open science practices.
+                Since 2013, INCF has supported OHBM’s open science efforts; yet there has been little crossover between
+                OHBM’s open science community and INCF. The purpose of this session is to present INCF’s open science
+                efforts and discuss how the OHBM community can support the open science efforts of INCF, what resources/services
+                INCF should offer in order to maximize the efforts of the community, and why an open science practitioner or
+                advocate would choose or not choose to become a member and support such an organization such as INCF."
+  thumbnailUrl: /img/traintrack/incf.png
+  prerequisite:
+  links:
+    website: https://www.incf.org/
+  language: english
+  complexity: Beginner
+  subtype: live / moderated discussion
+  speakers: [helena_ludmyr, mathew_abrams] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: []
+    emea: []
+    americas: []

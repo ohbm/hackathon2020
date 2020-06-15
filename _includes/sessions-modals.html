@@ -47,6 +47,13 @@
 							<a class="theme-code" href="{{ session.links.code }}" title="Code" target="_blank">View code</a>
 						</div>
 						{% endif %}
+
+						{% if session.links != null and session.links.website != null %}
+						<div>
+							<a class="theme-code" href="{{ session.links.website }}" title="Code" target="_blank">Website</a>
+						</div>
+						{% endif %}
+
 						<hr>
 						<div class="people-details">
 							{% for session_speaker in session.speakers %}
