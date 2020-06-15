@@ -144,7 +144,7 @@
   hub: "Americas"
 -
   title: "Bidsme -- bidsifier for multimodal datasets"
-  image: whatever.png
+  image: BIDSifier.png
   details: "One of the great ideas behind BIDS is unification of various modalities in the same dataset, sharing common metadata and providing
   a self-sufficient dataset ready to analyse. However various bidsificators target only one or two modalities. Bidsme project has been developed to provide a bidsificator
   as universal as possible, both in modalities and data formats. The project is based on two main ideas: <br>  1. everything that is laboratory-depending (log files, events,
