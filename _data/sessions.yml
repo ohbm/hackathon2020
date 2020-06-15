@@ -187,3 +187,18 @@
   description: "Use the extra time that falls within working hours in your time zone to spend some
   time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
   service: true
+
+
+# Sponsor sessions
+- id: 501
+  title: "Discover CONP"
+  place: "Crowdcast"
+  description: "Discover the Canadian Open Neuroscience Platform."
+  service: true
+
+# Sponsor sessions
+- id: 502
+  title: "Group discussion on collaborative open neuroscience"
+  place: "Crowdcast"
+  description: "Together with INCF, let's discuss what can community members do to support open science."
+  service: true
