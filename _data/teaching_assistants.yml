@@ -6,3 +6,43 @@ benjamin_poldrack:
   social:
     - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
     - {name: "github", link: "https://github.com/bpoldrack/"}
+
+tom_close:
+  name: "Tom"
+  surname: "Close"
+  location: "Melbourne, Australia"
+  thumbnailUrl: tom_close.jpg
+  hub: APAC
+  social:
+    - {name: "twitter", link: "https://twitter.com/TomGClose/"}
+    - {name: "github", link: "https://github.com/tclose/"}
+
+sina_mansour:
+  name: "Sina"
+  surname: "Mansour L."
+  location: "Melbourne, Australia"
+  thumbnailUrl: Sina_Mansour.JPG
+  hub: APAC
+  social:
+    - {name: "twitter", link: "https://twitter.com/Sina_Mansour_L/"}
+    - {name: "github", link: "https://github.com/sina-mansour/"}
+
+kendra_oudyk:
+  name: "Kendra"
+  surname: "Oudyk"
+  location: "Brantford, Canada"
+  thumbnailUrl: Kendra_Oudyk.jpg
+  hub: Americas
+  social:
+    - {name: "twitter", link: "https://twitter.com/koudyk_/"}
+    - {name: "github", link: "https://github.com/koudyk/"}
+
+michael_joseph:
+  name: "Michael"
+  surname: "Joseph"
+  location: ""
+  thumbnailUrl:
+  hub: EMEA
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
