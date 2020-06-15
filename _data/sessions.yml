@@ -62,11 +62,29 @@
 # Intro, wrap up, project pitches
 
 -
-  id: 101
+  id: 1010
   type: hacktrack
   title: "Welcome"
   place: "Crowdcast"
-  description: ""
+  description: "Welcoming ceremony for the APAC hub"
+  links:
+    presentation: #https://osf.io/
+-
+  id: 1011
+  type: hacktrack
+  title: "Welcome"
+  place: "Crowdcast"
+  description: "Welcoming ceremony for the EMEA hub"
+  links:
+    presentation: #https://osf.io/
+-
+  id: 1012
+  type: hacktrack
+  title: "Welcome"
+  place: "Crowdcast"
+  description: "Welcoming ceremony for the Americas hub"
+  links:
+    presentation: #https://osf.io/
 -
   id: 102
   type: hacktrack
