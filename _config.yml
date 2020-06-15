@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['README.md', 'LICENSE.txt', 'CNAME', vendor]
 
 
 # Site Settings
@@ -64,6 +64,7 @@ rightNavigationButtons:
 heroImage: "mtl_photo.jpg"
 heroTitle: "OHBM Brainhack <typeout>"
 eventDate: "June 16-18th 2020"
+hubStreamingInfo: "Americas and EMEA hubs' content will be broadcasted via Crowdcast. APAC hub will be using Zoom."
 typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
 heroButtons:
