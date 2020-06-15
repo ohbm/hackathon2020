@@ -158,7 +158,7 @@
       id: 13
       name: "Sina"
       surname: "Mansour L."
-      title: "Project review & teaching assistant"
+      title: "Project review, Teaching assistant"
       location: "Melbourne, Australia"
       thumbnailUrl: Sina_Mansour.JPG
       team: true
@@ -169,7 +169,7 @@
       id: 14
       name: "Aurina"
       surname: "Arnatkeviciute"
-      title: "Traintrack instructor & Social team"
+      title: "Traintrack instructor, Social team"
       location: "Melbourne, Australia"
       thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
       team: true
@@ -284,7 +284,28 @@
       social:
         - {name: "twitter", link: "https://twitter.com/sidchop/"}
         - {name: "github", link: "https://github.com/Sidchop/"}
-
+    -
+      id: 25
+      name: "Dragan"
+      surname: "Rangelov"
+      title: "Instructor - BIDS"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Dragan_Rangelov.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/neuromist/"}
+        - {name: "github", link: "https://github.com/draran/"}
+    -
+      id: 26
+      name: "FuTe"
+      surname: "Wong"
+      title: "Helpdesk"
+      location: "Taiwan"
+      thumbnailUrl: fute_wong.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/zuxfoucault"}
+        - {name: "github", link: "https://github.com/zuxfoucault"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
@@ -342,7 +363,7 @@
       id: 3
       name: "Adina"
       surname: "Wagner"
-      title: "Traintrack instructor, teaching assistant"
+      title: "Traintrack instructor, Teaching assistant"
       location: "Braunschweig, Germany"
       thumbnailUrl: adina_wagner.jpg
       team: true
@@ -375,7 +396,7 @@
       id: 7
       name: "Isil"
       surname: "Poyraz Bilgin"
-      title: "Hub manager & project review"
+      title: "Hub manager, Project review"
       location: "UK"
       thumbnailUrl: isil_p.jpg
       team: true
@@ -436,6 +457,27 @@
       social:
         - {name: "twitter", link: "https://twitter.com/NoraHgpn/"}
         - {name: "github", link: "https://github.com/Norahgpn/"}
+    -
+      id: 13
+      name: "Hao-Ting"
+      surname: "Wang"
+      title: "Teaching assistant"
+      location: "UK"
+      thumbnailUrl: hao_ting_wang.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/htwangtw"}
+        - {name: "twitter", link: "https://twitter.com/HaoTing713"}
+    -
+      id: 14
+      name: "Michael"
+      surname: "Joseph"
+      title: "Teaching assistant"
+      location: "Toronto, Canada"
+      thumbnailUrl: michael_joseph.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/josephmje/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
 # -------------------------------------------------------------------------------------------------#
@@ -493,7 +535,7 @@
       id: 4
       name: "Sam"
       surname: "Nastase"
-      title: "Traintrack instructor, teaching assistant"
+      title: "Traintrack instructor, Teaching assistant"
       location: "Princeton, NJ, USA"
       thumbnailUrl: sam_nastase.jpg
       team: true
@@ -504,7 +546,7 @@
       id: 5
       name: "Agah"
       surname: "Karakuzu"
-      title: "Traintrack instructor, teaching assistant"
+      title: "Traintrack instructor, Teaching assistant"
       location: "Kayseri, Turkey"
       thumbnailUrl: Agah_Karakuzu.jpg
       team: true
@@ -537,7 +579,7 @@
       id: 8
       name: "Damion"
       surname: "Demeter"
-      title: "Buddy & helpdesk"
+      title: "Buddy, Helpdesk"
       location: "Austin, USA"
       thumbnailUrl: damion_400x400.jpg
       team: true
@@ -569,7 +611,7 @@
       id: 11
       name: "Jon Haitz"
       surname: "Legarreta Gorroño"
-      title: "Project review & Helpdesk"
+      title: "Project review, Helpdesk"
       location: "Sherbrooke, Canada"
       thumbnailUrl: jhlegarreta.jpg
       team: true
@@ -620,20 +662,10 @@
         - {name: "twitter", link: "https://twitter.com/therealyohanyee/"}
         - {name: "github", link: "https://github.com/yohanyee/"}
     -
-      id: 16
-      name: "Michael"
-      surname: "Joseph"
-      title: "TA for Git+Github and BIDS+BIDS apps"
-      location: "Toronto, Canada"
-      thumbnailUrl: michael_joseph.jpg
-      team: true
-      social:
-        - {name: "github", link: "https://github.com/josephmje/"}
-    -
       id: 17
       name: "Xihe"
       surname: "Xie"
-      title: "TA for Docker/Singularity"
+      title: "Teaching assistant"
       location: "New York City, USA"
       thumbnailUrl: xihe_xie.jpg
       team: true

@@ -144,7 +144,7 @@
   hub: "Americas"
 -
   title: "Bidsme -- bidsifier for multimodal datasets"
-  image: whatever.png
+  image: BIDSifier.png
   details: "One of the great ideas behind BIDS is unification of various modalities in the same dataset, sharing common metadata and providing
   a self-sufficient dataset ready to analyse. However various bidsificators target only one or two modalities. Bidsme project has been developed to provide a bidsificator
   as universal as possible, both in modalities and data formats. The project is based on two main ideas: <br>  1. everything that is laboratory-depending (log files, events,
@@ -155,7 +155,7 @@
   hub: "Europe / Middle-East / Africa"
 -
   title: "TRAMPOLINO: the Swiss Army Knife for tractography"
-  image: whatever.png
+  image: Trampolino.jpg
   details: "I wrote TRAMPOLINO during BrainHack School with the idea of building a tool to easily do tractography across different packages.
   My vision now is to make it become the Swiss Army Knife for tractography: a tool able to try out things, even when you do not have the right software installed (!!!).
   The dream would be typing just 'trampolino --corpus-callosum' and getting the tractogram for a corpus callosum to play with!
@@ -164,7 +164,9 @@
 -
   title: "Neuroimaging tutorials and resources: A list of tutorials and other resources useful to learn open science and neuroimaging"
   image: neurotutorials.gif
-  details: "A list of tutorials and other resources useful to learn open science and neuroimaging. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
+  details: "The purpose of this project is to gather courses, software and any resources that can help any newcomer 
+  (e.g. neuroscientist, computer scientist). In other words, if you wonder Where can I find a good: Tutorial on X? Software to do Y?, 
+  we hope that this project will answer your question. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
   for more info.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/166>in this github issue</a>"
   hub: "Europe / Middle-East / Africa"
@@ -379,6 +381,28 @@
   looking to test the validity of the instrumented libmath library functions and also evaluate the stability of the existing neuroimaging pipelines.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/201>in this github issue</a>"
   hub: "Americas"
+-
+  title: "Building Citizen Science Quality Control Exploratory Data Analysis & Other Tools"
+  image: SwipesForScience.png
+  details: "Swipes For Science is a citizen science game framework brought to life by Anisha Keshavan, PhD, et al, inspired by Tinder. 
+  Citizen scientists swipe left or right to judge an image as Pass or Fail and each vote is recorded into a live online database. We have a unique
+  opportunity at this OHBM Brainhack 2020 for you to both setup your own Swipes For Science site and to create exploratory data analysis tools 
+  with anonymized data collected from an existent Swipes For Science site. You can imagine answering questions like:
+  <br>- For all the images associated with one subject's data, should that entire subject be considered a Pass or Fail for inclusion in further analysis?
+  <br>- For all ratings provided by citizen scientist ABC, how reliably does ABC vote compared to the gold standard data?
+  <br>- Among all citizen scientists, who are the best raters?
+  <br>- What is the inter-rater reliability on image XYZ?
+  <br>... and more!
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/210>in this github issue</a>"
+  hub: "Americas"
+-
+  title: "Integration of EEG in the Connectome-Mapper 3"
+  image: container_cmp3.png
+  details: "Flexible pipelines for both diffusion MRI and functional MRI have been implemented in different software such as the 
+  Connectome Mapper 3, an open-source pipeline software, released as a BIDS App, for mapping hierarchical multi-scale connectomes 
+  from multi-modal datasets, but solutions for EEG and MEG are still lacking. This project intents to extends Connectome Mapper 3 to EEG.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/214>in this github issue</a>"
+  hub: "Europe / Middle East / Africa"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
