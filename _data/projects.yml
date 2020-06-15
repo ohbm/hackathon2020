@@ -379,6 +379,11 @@
   looking to test the validity of the instrumented libmath library functions and also evaluate the stability of the existing neuroimaging pipelines.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/201>in this github issue</a>"
   hub: "Americas"
+-
+  title: "Integration of EEG inside Connectome-Mapper 3"
+  image: cmp3.png
+  details: "Flexible pipelines for both diffusion MRI and functional MRI have been implemented in different software such as the <a href=https://connectome-mapper-3.readthedocs.io/en/latest/>Connectome Mapper 3</a>, an open-source pipeline software, released as a BIDS App, for mapping hierarchical multi-scale connectomes from multi-modal datasets, but solutions for EEG and MEG are still lacking. This project intents to extends Connectome Mapper 3 with an EEG connectome mapping pipeline.
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/214>in this github issue</a>"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
