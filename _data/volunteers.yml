@@ -284,7 +284,28 @@
       social:
         - {name: "twitter", link: "https://twitter.com/sidchop/"}
         - {name: "github", link: "https://github.com/Sidchop/"}
-
+    -
+      id: 25
+      name: "Dragan"
+      surname: "Rangelov"
+      title: "Instructor - BIDS"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Dragan_Rangelov.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/neuromist/"}
+        - {name: "github", link: "https://github.com/draran/"}
+    -
+      id: 26
+      name: "FuTe"
+      surname: "Wong"
+      title: "Helpdesk"
+      location: "Taiwan"
+      thumbnailUrl: fute_wong.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/zuxfoucault"}
+        - {name: "github", link: "https://github.com/zuxfoucault"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
@@ -436,6 +457,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/NoraHgpn/"}
         - {name: "github", link: "https://github.com/Norahgpn/"}
+ -
+      id: 13
+      name: "Hao-Ting"
+      surname: "Wang"
+      title: "TA"
+      location: "UK"
+      thumbnailUrl: hao_ting_wang.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/htwangtw"}
+        - {name: "twitter", link: "https://twitter.com/HaoTing713"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
 # -------------------------------------------------------------------------------------------------#
