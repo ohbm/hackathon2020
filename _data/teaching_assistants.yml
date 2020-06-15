@@ -80,3 +80,12 @@ morgan_mcintyre:
   social:
     # - {name: "twitter", link: "https://twitter.com/"}
     # - {name: "github", link: "https://github.com/"}
+
+hao_ting_wang:
+  name: "Hao-Ting"
+  surname: "Wang"
+  location: "UK"
+  thumbnailUrl: hao_ting_wang.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/HaoTing713"}
+    - {name: "github", link: "https://github.com/htwangtw"}

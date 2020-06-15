@@ -244,22 +244,30 @@
 -
   id: 304
   type: traintrack
-  title: "BIDS and BIDS apps"
+  title: "The benefits of BIDS"
   place: "Crowdcast"
   description: >
-    How to organize your data, so you will never hate your past 'self' ever again.
-    We will also go over tools that are compatible with BIDS and how to run them.
+    Organize your data according to the Brain Imaging Data Structure (BIDS) —
+    your future self will thank you!
+  long_description: >
+    The Brain Imaging Data Structure (BIDS) is seeing widespread adoption as a standard for data
+    organization, data sharing, and automated processing. This TrainTrack session provides an
+    introduction to the organizational principles of BIDS with examples from the fMRI literature.
+    We’ll touch on the expanding BIDS ecosystem (BIDS derivatives and extensions), as well as tools
+    for facilitating BIDS conversion and data sharing. Finally, we’ll discuss automated processing
+    workflows that capitalize on BIDS—i.e. BIDS Apps—for fMRI quality control (MRIQC) and
+    preprocessing (fMRIPrep).
   thumbnailUrl: /img/traintrack/BIDS_logo.jpg
   prerequisite:
   links:
   language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
-  speakers: [sam_nastase] # from speakers.yml
+  speakers: [sam_nastase, dragan_rangelov] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    apac: []
-    emea: []
-    americas: []
+    apac: [angela_renton]
+    emea: [hao_ting_wang]
+    americas: [sam_nastase, michael_joseph]
 
 -
   id: 305
@@ -281,7 +289,7 @@
   links:
   language: english
   complexity: Beginner
-  subtype: pre-recorded / follow along
+  subtype: introductory material / pre-recorded
   speakers: [brain_art_sig] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     apac: []

@@ -137,4 +137,12 @@ mathew_abrams:
   thumbnailUrl: john_jane_doe.png
   social:
 
-
+dragan_rangelov:
+  name: "Dragan"
+  surname: "Rangelov"
+  location: "Brisbane, Australia"
+  team: true
+  thumbnailUrl: jDragan_Rangelov.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/neuronomist" }
+    - { name: "github", link: "https://github.com/draran/" }
