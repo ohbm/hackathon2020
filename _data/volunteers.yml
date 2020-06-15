@@ -468,6 +468,16 @@
       social:
         - {name: "github", link: "https://github.com/htwangtw"}
         - {name: "twitter", link: "https://twitter.com/HaoTing713"}
+    -
+      id: 14
+      name: "Michael"
+      surname: "Joseph"
+      title: "TA"
+      location: "Toronto, Canada"
+      thumbnailUrl: michael_joseph.jpg
+      team: true
+      social:
+        - {name: "github", link: "https://github.com/josephmje/"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB THE AMERICAS
 # -------------------------------------------------------------------------------------------------#
@@ -651,16 +661,6 @@
       social:
         - {name: "twitter", link: "https://twitter.com/therealyohanyee/"}
         - {name: "github", link: "https://github.com/yohanyee/"}
-    -
-      id: 16
-      name: "Michael"
-      surname: "Joseph"
-      title: "TA for Git+Github and BIDS+BIDS apps"
-      location: "Toronto, Canada"
-      thumbnailUrl: michael_joseph.jpg
-      team: true
-      social:
-        - {name: "github", link: "https://github.com/josephmje/"}
     -
       id: 17
       name: "Xihe"
