@@ -379,6 +379,20 @@
   looking to test the validity of the instrumented libmath library functions and also evaluate the stability of the existing neuroimaging pipelines.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/201>in this github issue</a>"
   hub: "Americas"
+-
+  title: "Building Citizen Science Quality Control Exploratory Data Analysis & Other Tools"
+  image: SwipesForScience.png
+  details: "Swipes For Science is a citizen science game framework brought to life by Anisha Keshavan, PhD, et al, inspired by Tinder. 
+  Citizen scientists swipe left or right to judge an image as Pass or Fail and each vote is recorded into a live online database. We have a unique
+  opportunity at this OHBM Brainhack 2020 for you to both setup your own Swipes For Science site and to create exploratory data analysis tools 
+  with anonymized data collected from an existent Swipes For Science site. You can imagine answering questions like:
+  <br>- For all the images associated with one subject's data, should that entire subject be considered a Pass or Fail for inclusion in further analysis?
+  <br>- For all ratings provided by citizen scientist ABC, how reliably does ABC vote compared to the gold standard data?
+  <br>- Among all citizen scientists, who are the best raters?
+  <br>- What is the inter-rater reliability on image XYZ?
+  <br>... and more!
+  <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/210>in this github issue</a>"
+  hub: "Americas"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
