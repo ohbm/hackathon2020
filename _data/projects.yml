@@ -400,7 +400,7 @@
   Connectome Mapper 3, an open-source pipeline software, released as a BIDS App, for mapping hierarchical multi-scale connectomes 
   from multi-modal datasets, but solutions for EEG and MEG are still lacking. This project intents to extends Connectome Mapper 3 to EEG.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/214>in this github issue</a>"
-  hub: "Americas"
+  hub: "Europe / Middle East / Africa"
 # EXAMPLES
 # -
 #   title: "Automated Cortical Lesion Detection using Python Tools"
