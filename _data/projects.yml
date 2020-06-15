@@ -155,7 +155,7 @@
   hub: "Europe / Middle-East / Africa"
 -
   title: "TRAMPOLINO: the Swiss Army Knife for tractography"
-  image: whatever.png
+  image: Trampolino.jpg
   details: "I wrote TRAMPOLINO during BrainHack School with the idea of building a tool to easily do tractography across different packages.
   My vision now is to make it become the Swiss Army Knife for tractography: a tool able to try out things, even when you do not have the right software installed (!!!).
   The dream would be typing just 'trampolino --corpus-callosum' and getting the tractogram for a corpus callosum to play with!
