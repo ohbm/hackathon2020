@@ -397,7 +397,7 @@
   hub: "Americas"
 -
   title: "Integration of EEG in the Connectome-Mapper 3"
-  image: whatever.png
+  image: container_cmp3.png
   details: "Flexible pipelines for both diffusion MRI and functional MRI have been implemented in different software such as the 
   Connectome Mapper 3, an open-source pipeline software, released as a BIDS App, for mapping hierarchical multi-scale connectomes 
   from multi-modal datasets, but solutions for EEG and MEG are still lacking. This project intents to extends Connectome Mapper 3 to EEG.
