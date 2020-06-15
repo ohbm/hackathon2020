@@ -164,7 +164,9 @@
 -
   title: "Neuroimaging tutorials and resources: A list of tutorials and other resources useful to learn open science and neuroimaging"
   image: neurotutorials.gif
-  details: "A list of tutorials and other resources useful to learn open science and neuroimaging. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
+  details: "The purpose of this project is to gather courses, software and any resources that can help any newcomer 
+  (e.g. neuroscientist, computer scientist). In other words, if you wonder Where can I find a good: Tutorial on X? Software to do Y?, 
+  we hope that this project will answer your question. See <a href=https://learn-neuroimaging.github.io/tutorials-and-resources/>this link</a>
   for more info.
   <br>More information <a href=https://github.com/ohbm/hackathon2020/issues/166>in this github issue</a>"
   hub: "Europe / Middle-East / Africa"
