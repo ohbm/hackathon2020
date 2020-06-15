@@ -15,7 +15,7 @@
       # Welcome
         startTime: "09:00",
         endTime: "09:30",
-        sessionIds: [101]
+        sessionIds: [1010]
     }
     - {
       # Pitches
@@ -49,7 +49,7 @@
     - {
       startTime: "12:30",
       endTime: "13:15",
-      sessionIds: [301, 201]
+      sessionIds: [300, 201]
     }
     - {
       startTime: "13:15",
@@ -98,7 +98,7 @@
     - {
     	startTime: "09:15",
     	endTime: "11:00",
-    	sessionIds: [302,201]
+    	sessionIds: [303,201]
     }
     - {
     	startTime: "11:00",
@@ -113,7 +113,7 @@
     - {
     	startTime: "12:45",
     	endTime: "14:45",
-    	sessionIds: [310,201]
+    	sessionIds: [309,201]
     }
     - {
       startTime: "14:45",

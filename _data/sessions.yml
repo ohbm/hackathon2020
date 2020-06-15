@@ -1,204 +1,476 @@
-# Dummy
--
-  id: 999
-  title: " "
-  place: " "
-  service: true
-  description: " "
+#  TEMPLATE SUGGESTION
+# -
+#   id:
+#   title:
+#   place:
+#   description: >
+#
+#   long_description: >
+
+#   type: social / hacktrack / traintrack
+#   thumbnailUrl: /img/traintrack/git.png
+
+#   prerequisite:
+#   links:
+#     website:
+#     documentation:
+#     riot:
+#     mattermost:
+#     presentation:
+#     code: # jupyter notebook
+#     youtube:
+#     douyu:
+#
+#   # For traintrack
+#   language: english
+#   complexity: Beginner
+#   subtype: pre-recorded / follow along
+#   speakers: [] # from speakers.yml
+#   teaching_assistants: # from teaching_assistants.yml
+#     apac: []
+#     emea: []
+#     americas: []
 
 
 # 000 Breaks, socials and that sort of things
 
 -
   id: 000
+  type: social
   title: "Coffee / Breakfast / Lunch"
   place: "Breakout room"
-  service: true
   description: "Join if you feel like"
 -
   id: 001
+  type: social
   title: "Social / Coffee / Food break"
   place: "Breakout room"
   description: "The best time to start talking with others"
-  service: true
 -
   id: 002
+  type: social
   title: "Social / Coffee / Food break + Unconference !!!"
   place: "Crowdcast"
   description: "The best time to start talking with others"
-  service: true
-
 -
   id: 003
+  type: social
   title: "Live discussions"
   place: "Breakout room"
   description: "The best time to start talking with others"
-  service: true
 
 # Intro, wrap up, project pitches
 
 -
-  id: 101
+  id: 1010
+  type: hacktrack
   title: "Welcome"
   place: "Crowdcast"
-  service: true
-  description: ""
+  description: "Welcoming ceremony for the APAC hub"
+  links:
+    presentation: #https://osf.io/
+-
+  id: 1011
+  type: hacktrack
+  title: "Welcome"
+  place: "Crowdcast"
+  description: "Welcoming ceremony for the EMEA hub"
+  links:
+    presentation: #https://osf.io/
+-
+  id: 1012
+  type: hacktrack
+  title: "Welcome"
+  place: "Crowdcast"
+  description: "Welcoming ceremony for the Americas hub"
+  links:
+    presentation: #https://osf.io/
 -
   id: 102
+  type: hacktrack
   title: "Project Pitches"
   place: "Crowdcast"
-  service: true
   description: "Project leaders have 2 minutes to describe their project."
 -
   id: 103
+  type: hacktrack
   title: "Project Q&A"
   place: "Crowdcast"
-  service: true
   description: "All the attendees can go and meet the project leaders in their video breakout room
   to talk with thelm about the project."
 -
   id: 104
+  type: hacktrack
   title: "Project kickoff"
   place: "Crowdcast"
-  service: true
   description: "The first time all the project team 'gathers around a table', discuss how they want
   to work together and how to get started."
-
 -
   id: 105
+  type: hacktrack
   title: "Daily intro and presentation of the Traintrack"
   place: "Crowdcast"
-  service: true
   description: ""
-
 -
   id: 106
+  type: hacktrack
   title: "Daily wrap-up"
   place: "Crowdcast"
-  service: true
   description: ""
-
 -
   id: 107
+  type: hacktrack
   title: "Final wrap-up"
   place: "Crowdcast"
-  service: true
   description: "We all get together to hear what was accomplished in the past 3 days."
-
 
 # Hacking... More hacking
 -
   id: 201
+  type: hacktrack
   title: "Hacking"
   place: "Home"
   description: "Don't say 'hackathon' but say 'hack at home'"
-  service: true
 
 
 # Traintrack...
 -
+  id: 300
+  type: traintrack
+  title: "Git"
+  place: "APAC: zoom ; EMEA / Americas: Crowdcast"
+  description: >
+    Introduction to version control using git and github.
+  long_description: >
+    We cover common scenarios where git can be useful. We start with cloning a repository and keeping
+    it up to date. We then show how to create and use your own repository. Finally we will show how
+    to contribute to other projects via forking and pull requests.
+  thumbnailUrl: /img/traintrack/git.png
+  prerequisite: >
+    Familiarity with the unix command line can help but is NOT required. We need Git
+    (and Visual Studio Code and Python if you want to follow all examples).
+  links:
+    presentation: https://osf.io/c5tg6/
+    code:
+  language: english
+  complexity: Beginner
+  subtype: tutorial / pre-recorded / follow along
+  speakers: [saskia_steffan_bollmann] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [tom_close, sina_mansour]
+    emea: [michael_joseph]
+    americas: [kendra_oudyk]
+
+-
   id: 301
-  title: "Git - GitHub"
-  place: "Crowdcast"
-  description: "Learn to version control your code and to work collaboratively with others
-  wherever they are."
-  service: true
+  type: traintrack
+  title: "GitHub"
+  place: "APAC: zoom ; EMEA / Americas: Crowdcast"
+  description: >
+    Introduction to version control using git and github.
+  long_description: >
+    We cover common scenarios where git can be useful. We start with cloning a repository and keeping
+    it up to date. We then show how to create and use your own repository. Finally we will show how
+    to contribute to other projects via forking and pull requests.
+  thumbnailUrl: /img/traintrack/GitHub.png
+  prerequisite: >
+    Familiarity with the unix command line can help but is NOT required. We need Git
+    (and Visual Studio Code and Python if you want to follow all examples).
+  links:
+    presentation: https://osf.io/c5tg6/
+    code:
+  language: english
+  complexity: Beginner
+  subtype: tutorial / pre-recorded / follow along
+  speakers: [saskia_steffan_bollmann] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [tom_close, sina_mansour]
+    emea: [michael_joseph]
+    americas: [kendra_oudyk]
+
 -
   id: 302
-  title: "Good coding practices with matlab"
+  type: traintrack
+  title: "Divide and conquer m-scripts"
   place: "Crowdcast"
-  description: "Learn to trust your own code so sharing it feels less scary."
-  service: true
+  description: >
+    We will take a spaghetti script written in MATLAB and turn it into an understandable
+    and reusable code living happily in a powerful GitHub repository.
+  thumbnailUrl: /img/traintrack/matlab_octave.svg
+  prerequisite: >
+    Familiarity with matlab / git / github will be a plus.
+  links:
+    code: https://github.com/agahkarakuzu/eda_refactored
+    presentation: https://osf.io/pkqts/
+  language: english
+  complexity: Beginner
+  subtype: pre-recorded / demo
+  speakers: [agah_karakuzu] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: []
+    emea: [agah_karakuzu]
+    americas: []
+
 -
   id: 303
-  title: "Good coding practices with python"
-  place: "Crowdcast"
-  description: "Learn to trust your own code so sharing it feels less scary."
-  service: true
+  type: traintrack
+  title: "Good coding practices in matlab"
+  place: "Zoom"
+  description: >
+    Presentation on coding tips, example of fixing a bad code, practical part, where people try to
+    write their own functions and create documentation on github.
+  long_description: >
+    The session is tailored to a person, who starts their first project using matlab. First, it will
+    include a brief introduction to good coding practices highlighting that matlab can also be used
+    to share code. Then I’ll give some general matlab coding tips with some examples and will go
+    line-by-line through some old 'inherited' code demonstrating what’s wrong with it and showing an
+    example of how it can be re-written in a more usable way. After, I’ll outline how to share the
+    code on github, what should be included in the documentation, so the code can be easily used by others.
+    At the end, there will be a task to create a couple of functions (to plot provided data), make a
+    github repository and give documentation on github.
+  thumbnailUrl: /img/traintrack/matlab_octave.svg
+  prerequisite: >
+    Familiarity with matlab / git / github is useful, but not required.
+  links:
+  language: english
+  complexity: Beginner
+  subtype: live / workshop
+  speakers: [aurina_arnatkeviciute] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [angela_renton, saampras_ganesan, morgan_mcintyre]
+    emea: []
+    americas: []
+
 -
   id: 304
-  title: "BIDS and BIDS apps"
+  type: traintrack
+  title: "The benefits of BIDS"
   place: "Crowdcast"
-  description: "How to organize your data, so you will never hate your past 'self' ever again. 
-                We will also go over tools that are compatible with BIDS and how to run them."
-  service: true
+  description: >
+    Organize your data according to the Brain Imaging Data Structure (BIDS) —
+    your future self will thank you!
+  long_description: >
+    The Brain Imaging Data Structure (BIDS) is seeing widespread adoption as a standard for data
+    organization, data sharing, and automated processing. This TrainTrack session provides an
+    introduction to the organizational principles of BIDS with examples from the fMRI literature.
+    We’ll touch on the expanding BIDS ecosystem (BIDS derivatives and extensions), as well as tools
+    for facilitating BIDS conversion and data sharing. Finally, we’ll discuss automated processing
+    workflows that capitalize on BIDS—i.e. BIDS Apps—for fMRI quality control (MRIQC) and
+    preprocessing (fMRIPrep).
+  thumbnailUrl: /img/traintrack/BIDS_logo.jpg
+  prerequisite:
+  links:
+  language: english
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [sam_nastase, dragan_rangelov] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [angela_renton]
+    emea: [hao_ting_wang]
+    americas: [sam_nastase, michael_joseph]
+
 -
   id: 305
+  type: traintrack
   title: "Brain visualization"
   place: "Crowdcast"
-  description: "A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
-  It is an informative and efficient way to represent our data and results, which follows the scientific
-  principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize
-  the data, display the results, communicate the information, as well as change the way we perceive the world.
-  The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
-  and make the brain visualization novel, creative, aesthetic and fun to the community."
-  service: true
+  description: >
+    A beautiful visualization is not just a good-looking colored brain.
+    It is an informative and efficient way to represent our data and results.
+  long_description: >
+    A beautiful visualization is not just a good-looking piece of graph, chart, or colored brain.
+    It is an informative and efficient way to represent our data and results, which follows the scientific
+    principles (e.g. honesty truth, consistency etc.). A compelling visualization is essential to organize
+    the data, display the results, communicate the information, as well as change the way we perceive the world.
+    The Brain Art special interest group  will walk you through the basics, share the skills of brain visualization,
+    and make the brain visualization novel, creative, aesthetic and fun to the community.
+  thumbnailUrl: /img/traintrack/brainviz.png
+  prerequisite:
+  links:
+  language: english
+  complexity: Beginner
+  subtype: introductory material / pre-recorded
+  speakers: [qawi_telesford, leonaro_laccarino, reinder_vosdewael] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [reinder_vosdewael]
+    emea: [casey_paquola]
+    americas: [qawi_telesford, leonaro_laccarino, reinder_vosdewael]
+
 -
   id: 306
-  title: "Docker / Singularity"
+  type: traintrack
+  title: "Containerization - Docker and Singularity"
   place: "Crowdcast"
-  description: "Mody dock and a black hole walk into a bar."
-  service: true
+  description: "We are covering what containers are and how they can be built and used in different scenarios."
+  long_description: >
+    We cover how containers can be useful for running the same software on different platforms and
+    sharing analysis pipelines with other researchers. We will show how to build docker containers
+    from scratch and using Neurodocker. Finally we will cover how to use containers on an HPC
+    with singularity.
+  thumbnailUrl: /img/traintrack/docker_singularity.png
+  prerequisite: Familiarity with the unix command line can help but is NOT required
+  links:
+  language: english
+  complexity: Beginner
+  subtype: Tutorial & Demo / Pre-recorded - Live
+  speakers: [steffan_bollmann, tom_shaw] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [tom_close, sina_mansour]
+    emea: [steffan_bollmann, tom_shaw]
+    americas: [xihe_xie, thomas_funck]
+
 -
   id: 307
+  type: traintrack
   title: "Maching learning using Nilearn + Sklearn"
   place: "Crowdcast"
-  description: "Hands-on machine learning tutorial for neuroimaging"
-  service: true
--
-  id: 308
-  title: "Jupyter notebook"
-  place: "Crowdcast"
-  description: "..."
-  service: true
+  description: "Hands-on machine learning tutorial for neuroimaging."
+  thumbnailUrl: /img/traintrack/nilearn-logo.png
+  prerequisite:
+  links:
+  language: english
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [michael_dayan] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: []
+    emea: [michael_dayan]
+    americas: [dan_gale, jake_vogel]
+
+# -
+#   id: 308
+#   type: traintrack
+#   title: "Jupyter notebook"
+#   place: "Crowdcast"
+#   description: "..."
+#   thumbnailUrl:
+#   prerequisite:
+#   links:
+#   language: english
+#   complexity: Beginner
+#   subtype: pre-recorded / follow along
+#   speakers: [michael_dayan] # from speakers.yml
+#   teaching_assistants: # from teaching_assistants.yml
+#     APAC: []
+#     EMEA: []
+#     Americas: []
+
 -
   id: 309
-  title: "Nilearn / Sklearn"
-  place: "Crowdcast"
-  description: "..."
-  service: true
--
-  id: 310
+  type: traintrack
   title: "Datalad"
   place: "Crowdcast"
   description: "Version control applied to your data... and much more."
-  service: true
-
+  long_description: >
+    Datalad is a versatile data management and data publication multitool. In this
+    session, you can learn the basic concepts and commands for version control and reproducible data
+    analysis. You’ll get to see, create, and install DataLad datasets of many shapes and sizes, master
+    local version workflows and provenance-captured analysis-execution, and you will get ideas for your
+    next data analysis project. Don’t forget to bring your computer and code along!
+  thumbnailUrl: /img/traintrack/datalad.png
+  prerequisite:
+  links:
+    presentation: https://github.com/datalad-handbook/course/blob/master/talks/PDFs/OHBM.pdf
+    code: http://handbook.datalad.org/en/latest/code_from_chapters/OHBM.html
+  language: english
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [adina_wagner] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [steffan_bollmann]
+    emea: [adina_wagner, benjamin_poldrack]
+    americas: [sam_nastase, yarik_halchenko]
 
 -
   id: 311
+  type: traintrack
   title: "Neuroimaging 101"
   place: "Crowdcast"
-  description: "[In Chinese] Learn the basics to programming for neuroimaging data analyses"
-  service: true
+  description: "Learn the basics to programming for neuroimaging data analyses."
+  thumbnailUrl: /img/traintrack/101.jpg
+  prerequisite:
+  links:
+    website: http://rfmri.org/Course
+  language: chinese
+  complexity: Beginner
+  subtype: pre-recorded / follow along
+  speakers: [chao_gan_yan] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: [xiao_chen]
+    emea: []
+    americas: []
+
+
+
 
 # Asynchronous activities...
 -
   id: 401
+  type: hacktrack
   title: "Go and explore"
   place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some
-  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
-  service: true
+  description: >
+    Use the extra time that falls within working hours in your time zone to spend some
+    time with your mentor/mentee, follow our online resources, or continue hacking on your projects!
 
 - id: 402
+  type: hacktrack
   title: "Stretch up"
   place: "Home"
-  description: "Use the extra time that falls within working hours in your time zone to spend some
-  time with your mentor/mentee, follow our online resources, or continue hacking on your projects!"
-  service: true
+  description: >
+    Use the extra time that falls within working hours in your time zone to spend some
+    time with your mentor/mentee, follow our online resources, or continue hacking on your projects!
 
 
 # Sponsor sessions
-- id: 501
-  title: "Discover CONP"
-  place: "Crowdcast"
-  description: "Discover the Canadian Open Neuroscience Platform."
-  service: true
 
-# Sponsor sessions
-- id: 502
-  title: "Group discussion on collaborative open neuroscience"
+-
+  id: 501
+  type: traintrack
+  title: "CONP: Introducing a platform for the open sharing of data and pipelines"
   place: "Crowdcast"
-  description: "Together with INCF, let's discuss what can community members do to support open science."
-  service: true
+  description: "An introduction and demo of the Canadian Open Neuroscience Platform."
+  long_description: "The Canadian Open Neuroscience Platform is a decentralized web platform for the open sharing of data and
+   pipelines. We will present the main features of the Canadian Open Neuroscience Platform, including: (1) finding and
+   downloading a dataset, (2) finding and running a pipeline, (3) uploading a dataset, and (4) uploading a tool.
+   The demo will be recorded and could also serve as a tutorial. Only a web browser will be required to follow this tutorial,
+  although advanced features would require Docker and DataLad."
+  thumbnailUrl: /img/traintrack/conp.jpg
+  prerequisite:
+  links:
+    website: http://portal.conp.ca
+  language: english
+  complexity: Beginner
+  subtype: pre-recorded / demo and tutorial
+  speakers: [tristan_gatlard, samir_das] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: []
+    emea: []
+    americas: []
+
+
+-
+  id: 502
+  type: traintrack
+  title: "OHBM-INCF: Leveraging the best of both worlds"
+  place: "Crowdcast"
+  description: "Collaborations to eliminate open science silos"
+  long_description: "INCF is a standards organization for open and FAIR neuroscience.
+                INCF supports open science working groups and groups that provide training on open science practices.
+                Since 2013, INCF has supported OHBM’s open science efforts; yet there has been little crossover between
+                OHBM’s open science community and INCF. The purpose of this session is to present INCF’s open science
+                efforts and discuss how the OHBM community can support the open science efforts of INCF, what resources/services
+                INCF should offer in order to maximize the efforts of the community, and why an open science practitioner or
+                advocate would choose or not choose to become a member and support such an organization such as INCF."
+  thumbnailUrl: /img/traintrack/incf.png
+  prerequisite:
+  links:
+    website: https://www.incf.org/
+  language: english
+  complexity: Beginner
+  subtype: live / moderated discussion
+  speakers: [helena_ludmyr, mathew_abrams] # from speakers.yml
+  teaching_assistants: # from teaching_assistants.yml
+    apac: []
+    emea: []
+    americas: []

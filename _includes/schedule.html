@@ -3,7 +3,8 @@
 <section id="schedule" class="schedule" style="max-width: 1200px; margin: 0 auto;">
     <div class="content-wrapper" style="margin: 0 1em;">
         <div style="margin:0 auto;text-align:left;max-width:450px;" class="tz-selector">
-          <label for=timezone>Schedule times are currently displayed in the following time zone:</label><select id="timezone" data-base-tz="{{ schedule[0].tz }}"></select>
+          <label for=timezone>Schedule times are currently displayed in the following time zone:</label>
+          <select id="timezone" data-time-selector="#schedule .schedule-table time" data-base-tz="{{ schedule[0].tz }}"></select>
         </div>
 
         {% for day in schedule %}
@@ -40,45 +41,33 @@
                         {% assign slotIndex = forloop.index0 %}
                         {% if slot != 404 %}
                             {% for session in site.data.sessions %}
-                                {% if slot == session.id and session.service == null %}
-                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
-                                    <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
-                                    <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
-                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                        <span class="slot-language">{{session.language | upcase}}</span>
-                                        {% if session.description != null %}
-                                        <p class="service-description">{{ session.description }}</p>
-                                        {% endif %}
-                                        <ul class="slot-speakers">
-                                            {% for speaker in site.data.speakers %}
-                                                {% for session_speaker in session.speakers %}
-                                                    {% if session_speaker == speaker.id %}
-                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
-
-                                                    <p class="speaker-name">{{ speaker.name }}
-                                                        <span class="speaker-position">{{ speaker.title }}</span>
-                                                    </p>
-                                                    </li>
-                                                    {% endif %}
-                                                {% endfor %}
-                                            {% endfor %}
-                                        </ul>
-                                    </div>
-                                </div>
-                                {% elsif slot == session.id and session.service != null %}
-                                <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
-                                    <div class="color-line"></div>
-                                    <div class="slot-content">
-                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                        {% if session.description != null %}
-                                        <p class="service-description">{{ session.description }}</p>
-                                        {% endif %}
-                                    </div>
-                                </div>
+                                {% if slot == session.id %}
+                                    {% if session.type == 'traintrack' %}
+                                        <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    {% else %}
+                                        <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}">
+                                    {% endif %}
+                                            <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                                            <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+                                                <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                                <span class="slot-language">{{session.language | upcase}}</span>
+                                                {% if session.description != null %}
+                                                    <p class="service-description">{{ session.description }}</p>
+                                                {% endif %}
+                                                <ul class="slot-speakers">
+                                                    {% for session_speaker in session.speakers %}
+                                                        {% assign speaker = site.data.speakers[session_speaker] %}
+                                                        <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/team/' | append: speaker.thumbnailUrl }})"></div>
+                                                            <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}</p>
+                                                        </li>
+                                                    {% endfor %}
+                                                </ul>
+                                            </div>
+                                        </div>
                                 {% endif %}
                             {% endfor %}
                         {% else %}
-                        <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
+                            <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
                         {% endif %}
                     {% endfor %}
                 </div>

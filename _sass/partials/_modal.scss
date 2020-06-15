@@ -22,6 +22,14 @@ $modal-highlight-color: #212121;
             font-size: 29px;
         }
     }
+    h5 {
+        font-size: 20px;
+        font-weight: $regular;
+        color: $modal-highlight-color;
+        @media (max-width: 767px) {
+            font-size: 18px;
+        }
+    }
 }
 .modal-backdrop {
     position: fixed;
@@ -53,6 +61,14 @@ $modal-highlight-color: #212121;
             color: $modal-highlight-color;
         }
     }
+    .theme-image {
+        margin: 20px 0;
+        figure {
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center center;
+        }
+    }
     .theme-video {
         margin: 20px 0;
     }
@@ -62,22 +78,25 @@ $modal-highlight-color: #212121;
     .theme-presentation {
         font-size: 15px;
     }
+    .theme-code {
+        font-size: 15px;
+    }
     .people-details {
         .row {
             margin-top: 20px;
         }
         .people-img {
-            width: 100px;
-            height: 100px;
-            margin: 10px;
+            width: 80px;
+            height: 80px;
+            margin: 0 auto;
             @media (max-width: 767px) {
-                width: 120px;
-                height: 120px;
-                margin: 10px auto;
+                width: 60px;
+                height: 60px;
+                margin: 0 10px;
             }
         }
         .details {
-            padding-left: 30px;
+            padding: 0;
             @media (max-width: 767px) {
                 padding: 0;
             }
@@ -96,7 +115,7 @@ $modal-highlight-color: #212121;
             padding: 0;
             list-style: none;
             @media (max-width: 767px) {
-                text-align: center;
+                // text-align: center;
             }
             li {
                 display: inline-block;

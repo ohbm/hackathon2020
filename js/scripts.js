@@ -103,7 +103,7 @@
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {
@@ -226,7 +226,8 @@
             iframe.attr('src', iframe.attr('src'));
         });
         $('.slot').click(function() {
-            location.hash = $(this).attr('id');
+            // location.hash = $(this).attr('id');
+            history.replaceState(undefined, undefined, "#" + $(this).attr('id'))
         });
 
 
@@ -483,7 +484,7 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
-            
+
             function calcRouteFromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {
