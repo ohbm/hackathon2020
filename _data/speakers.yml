@@ -92,7 +92,7 @@ brain_art_sig:
   surname: "OHBM SIG"
   location: ""
   team: true
-  thumbnailUrl: /img/traintrack/brainviz.png
+  thumbnailUrl:
   social:
     - { name: "twitter", link: "https://twitter.com/OHBM_BrainArt" }
 
@@ -144,7 +144,7 @@ dragan_rangelov:
   surname: "Rangelov"
   location: "Brisbane, Australia"
   team: true
-  thumbnailUrl: jDragan_Rangelov.jpg
+  thumbnailUrl: Dragan_Rangelov.jpg
   social:
     - { name: "twitter", link: "https://twitter.com/neuronomist" }
     - { name: "github", link: "https://github.com/draran/" }
