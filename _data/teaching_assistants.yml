@@ -46,3 +46,10 @@ michael_joseph:
   social:
     # - {name: "twitter", link: "https://twitter.com/"}
     # - {name: "github", link: "https://github.com/"}
+
+xiao_chen:
+  name: "Xiao"
+  surname: "Chen"
+  location: "Beijing, China"
+  thumbnailUrl: Xiao_Chen.jpeg
+  social:

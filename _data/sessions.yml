@@ -160,7 +160,7 @@
     (and Visual Studio Code and Python if you want to follow all examples).
   links:
     presentation: https://osf.io/c5tg6/
-    code: 
+    code:
   language: english
   complexity: Beginner
   subtype: tutorial / pre-recorded / follow along
@@ -375,7 +375,7 @@
   subtype: pre-recorded / follow along
   speakers: [chao_gan_yan] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    apac: []
+    apac: [xiao_chen]
     emea: []
     americas: []
 
@@ -403,25 +403,6 @@
     apac: []
     emea: []
     americas: []
-
-
--
-  id: 311
-  type: traintrack
-  title: "Neuroimaging 101"
-  place: "Crowdcast"
-  description: "[In Chinese] Learn the basics to programming for neuroimaging data analyses"
-  thumbnailUrl: /img/traintrack/101.jpg
-  prerequisite:
-  links:
-  language: en
-  complexity: Beginner
-  subtype: pre-recorded / follow along
-  speakers: [chao_gan_yan] # from speakers.yml
-  teaching_assistants: # from teaching_assistants.yml
-    APAC: []
-    EMEA: []
-    Americas: []
 
 
 # Asynchronous activities...
