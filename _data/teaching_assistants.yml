@@ -1,11 +1,22 @@
-benjamin_poldrack:
-  name: "Benjamin"
-  surname: "Poldrack"
-  location: "Jülich, Germany"
-  hub: EMEA
+steffan_bollmann:
+  name: "Steffan"
+  surname: "Bollmann"
+  location: "Australia"
+  thumbnailUrl: steffen_bollmann.jpg
+  hub: APAC
   social:
-    - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
-    - {name: "github", link: "https://github.com/bpoldrack/"}
+    - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
+    - {name: "github", link: "https://github.com/stebo85/"}
+
+tom_shaw:
+  name: "Tom"
+  surname: "Shaw"
+  location: "Brisbane, Queensland, Australia"
+  thumbnailUrl: tom_shaw.jpg
+  hub: APAC
+  social:
+    - { name: "twitter", link: "https://twitter.com/thomcat992" }
+    - { name: "github", link: "https://github.com/thomshaw92/" }
 
 tom_close:
   name: "Tom"
@@ -27,6 +38,101 @@ sina_mansour:
     - {name: "twitter", link: "https://twitter.com/Sina_Mansour_L/"}
     - {name: "github", link: "https://github.com/sina-mansour/"}
 
+xiao_chen:
+  name: "Xiao"
+  surname: "Chen"
+  location: "Beijing, China"
+  thumbnailUrl: Xiao_Chen.jpeg
+  hub: APAC
+  social:
+
+angela_renton:
+  name: "Angela"
+  surname: "Renton"
+  location: "Brisbane, Australia"
+  thumbnailUrl: Angela_Renton.png
+  hub: APAC
+  social:
+    - {name: "twitter", link: "https://twitter.com/angier2310/"}
+    - {name: "github", link: "https://github.com/air2310/"}
+
+saampras_ganesan:
+  name: "Saampras"
+  surname: "Ganesan"
+  location: "Melbourne, Australia"
+  thumbnailUrl: Saampras_Ganesan.jpeg
+  hub: APAC
+  social:
+    - {name: "twitter", link: "https://twitter.com/SaamprasG/"}
+    - {name: "github", link: "https://github.com/Saampras/"}
+
+morgan_mcintyre:
+  name: "Morgan"
+  surname: "McIntyre"
+  location: ""
+  thumbnailUrl:
+  hub: APAC
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+
+# ------------------------------------------------------------------------------------------------ #
+# ------------------------------------------------------------------------------------------------ #
+
+benjamin_poldrack:
+  name: "Benjamin"
+  surname: "Poldrack"
+  location: "Jülich, Germany"
+  thumbnailUrl: benjamin_poldrack.jpeg
+  hub: EMEA
+  social:
+    - {name: "twitter", link: "https://twitter.com/SurfaceBen/"}
+    - {name: "github", link: "https://github.com/bpoldrack/"}
+
+hao_ting_wang:
+  name: "Hao-Ting"
+  surname: "Wang"
+  location: "UK"
+  thumbnailUrl: hao_ting_wang.jpg
+  hub: EMEA
+  social:
+    - {name: "twitter", link: "https://twitter.com/HaoTing713"}
+    - {name: "github", link: "https://github.com/htwangtw"}
+
+adina_wagner:
+  name: "Adina"
+  surname: "Wagner"
+  location: "Braunschweig, Germany"
+  thumbnailUrl: adina_wagner.jpg
+  hub: EMEA
+  social:
+    - { name: "twitter", link: "https://twitter.com/AdinaKrik" }
+    - { name: "github", link: "https://github.com/adswa" }
+
+
+# ------------------------------------------------------------------------------------------------ #
+# ------------------------------------------------------------------------------------------------ #
+
+michael_joseph:
+  name: "Michael"
+  surname: "Joseph"
+  location: "Toronto, Canada"
+  thumbnailUrl: michael_joseph.jpg
+  hub: Americas
+  social:
+    - {name: "github", link: "https://github.com/josephmje"}
+
+sam_nastase:
+  name: "Sam"
+  surname: "Nastase"
+  location: "Princeton, NJ, USA"
+  thumbnailUrl: sam_nastase.jpg
+  hub: Americas
+  social:
+    - { name: "twitter", link: "https://twitter.com/samnastase" }
+    - { name: "github", link: "https://github.com/snastase/" }
+
 kendra_oudyk:
   name: "Kendra"
   surname: "Oudyk"
@@ -37,55 +143,12 @@ kendra_oudyk:
     - {name: "twitter", link: "https://twitter.com/koudyk_/"}
     - {name: "github", link: "https://github.com/koudyk/"}
 
-michael_joseph:
-  name: "Michael"
-  surname: "Joseph"
+yarik_halchenko:
+  name: "Yarik"
+  surname: "Halchenko"
   location: ""
   thumbnailUrl:
-  hub: EMEA
+  hub: Americas
   social:
-    # - {name: "twitter", link: "https://twitter.com/"}
-    # - {name: "github", link: "https://github.com/"}
-
-xiao_chen:
-  name: "Xiao"
-  surname: "Chen"
-  location: "Beijing, China"
-  thumbnailUrl: Xiao_Chen.jpeg
-  social:
-
-angela_renton:
-  name: "Angela"
-  surname: "Renton"
-  location: "Brisbane, Australia"
-  thumbnailUrl: Angela_Renton.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/angier2310/"}
-    - {name: "github", link: "https://github.com/air2310/"}
-
-saampras_ganesan:
-  name: "Saampras"
-  surname: "Ganesan"
-  location: "Melbourne, Australia"
-  thumbnailUrl: Saampras_Ganesan.jpeg
-  social:
-    - {name: "twitter", link: "https://twitter.com/SaamprasG/"}
-    - {name: "github", link: "https://github.com/Saampras/"}
-
-morgan_mcintyre:
-  name: "morgan"
-  surname: "McIntyre"
-  location: ""
-  thumbnailUrl:
-  social:
-    # - {name: "twitter", link: "https://twitter.com/"}
-    # - {name: "github", link: "https://github.com/"}
-
-hao_ting_wang:
-  name: "Hao-Ting"
-  surname: "Wang"
-  location: "UK"
-  thumbnailUrl: hao_ting_wang.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/HaoTing713"}
-    - {name: "github", link: "https://github.com/htwangtw"}
+    - {name: "twitter", link: "https://twitter.com/yarikoptic"}
+    - {name: "github", link: "https://github.com/"}

@@ -18,25 +18,15 @@ steffan_bollmann:
     - {name: "twitter", link: "https://twitter.com/sbollmann_MRI"}
     - {name: "github", link: "https://github.com/stebo85/"}
 
-kendra_oudyk:
-  name: "Kendra"
-  surname: "Oudyk"
-  location: "Brantford, Ontario, Canada"
+dragan_rangelov:
+  name: "Dragan"
+  surname: "Rangelov"
+  location: "Brisbane, Australia"
   team: true
-  thumbnailUrl: kendra_oudyk.jpg
+  thumbnailUrl: Dragan_Rangelov.jpg
   social:
-    - { name: "twitter", link: "https://twitter.com/koudyk_" }
-    - { name: "github", link: "https://github.com/koudyk/" }
-
-agah_karakuzu:
-  name: "Agah"
-  surname: "Karakuzu"
-  location: "Kayseri, Turkey"
-  team: true
-  thumbnailUrl: Agah_Karakuzu.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/agahkarakuzu" }
-    - { name: "github", link: "https://github.com/agahkarakuzu/" }
+    - { name: "twitter", link: "https://twitter.com/neuronomist" }
+    - { name: "github", link: "https://github.com/draran/" }
 
 aurina_arnatkeviciute:
   name: "Aurina"
@@ -48,15 +38,38 @@ aurina_arnatkeviciute:
     - {name: "twitter", link: "https://twitter.com/AurinaArn/"}
     - {name: "github", link: "https://github.com/AurinaBMH/"}
 
-sam_nastase:
-  name: "Sam"
-  surname: "Nastase"
-  location: "Princeton, NJ, USA"
+chao_gan_yan:
+  name: "Chao-Gan"
+  surname: "Yan"
+  location: "Beijing, China"
   team: true
-  thumbnailUrl: sam_nastase.jpg
+  thumbnailUrl: chao_gan.jpg
   social:
-    - { name: "twitter", link: "https://twitter.com/samnastase" }
-    - { name: "github", link: "https://github.com/snastase/" }
+
+tom_shaw:
+  name: "Tom"
+  surname: "Shaw"
+  location: "Brisbane, Queensland, Australia"
+  team: true
+  thumbnailUrl: tom_shaw.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/thomcat992" }
+    - { name: "github", link: "https://github.com/thomshaw92/" }
+
+
+# ------------------------------------------------------------------------------------------------ #
+# ------------------------------------------------------------------------------------------------ #
+
+
+agah_karakuzu:
+  name: "Agah"
+  surname: "Karakuzu"
+  location: "Kayseri, Turkey"
+  team: true
+  thumbnailUrl: Agah_Karakuzu.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/agahkarakuzu" }
+    - { name: "github", link: "https://github.com/agahkarakuzu/" }
 
 adina_wagner:
   name: "Adina"
@@ -68,15 +81,27 @@ adina_wagner:
     - { name: "twitter", link: "https://twitter.com/AdinaKrik" }
     - { name: "github", link: "https://github.com/adswa" }
 
-tom_shaw:
-  name: "Tom"
-  surname: "Shaw"
-  location: "Brisbane, Queensland, Australia"
+helena_ludmyr:
+  name: "Helena"
+  surname: "Ludmyr"
+  location: "Stockholm, Sweden"
   team: true
-  thumbnailUrl: tom_shaw.jpg
+  thumbnailUrl: john_jane_doe.png
   social:
-    - { name: "twitter", link: "https://twitter.com/thomcat992" }
-    - { name: "github", link: "https://github.com/thomshaw92/" }
+    - {name: "twitter", link: "https://twitter.com/Helena_LB"}
+
+mathew_abrams:
+  name: "Mathew"
+  surname: "Abrams"
+  location: "Stockholm, Sweden"
+  team: true
+  thumbnailUrl: john_jane_doe.png
+  social:
+
+
+# ------------------------------------------------------------------------------------------------ #
+# ------------------------------------------------------------------------------------------------ #
+
 
 michael_dayan:
   name: "Michael"
@@ -96,14 +121,6 @@ brain_art_sig:
   social:
     - { name: "twitter", link: "https://twitter.com/OHBM_BrainArt" }
 
-chao_gan_yan:
-  name: "Chao-Gan"
-  surname: "Yan"
-  location: "Beijing, China"
-  team: true
-  thumbnailUrl: chao_gan.jpg
-  social:
-
 tristan_gatlard:
   name: "Tristan"
   surname: "Glatard"
@@ -120,31 +137,25 @@ samir_das:
   team: true
   thumbnailUrl: john_jane_doe.png
   social:
+    - {name: "twitter", link: "https://twitter.com/samirdas"}
+samirdas
 
-helena_ludmyr:
-  name: "Helena"
-  surname: "Ludmyr"
-  location: "Stockholm, Sweden"
+sam_nastase:
+  name: "Sam"
+  surname: "Nastase"
+  location: "Princeton, NJ, USA"
   team: true
-  thumbnailUrl: john_jane_doe.png
+  thumbnailUrl: sam_nastase.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/Helena_LB"}
+    - { name: "twitter", link: "https://twitter.com/samnastase" }
+    - { name: "github", link: "https://github.com/snastase/" }
 
-
-mathew_abrams:
-  name: "Mathew"
-  surname: "Abrams"
-  location: "Stockholm, Sweden"
+kendra_oudyk:
+  name: "Kendra"
+  surname: "Oudyk"
+  location: "Brantford, Ontario, Canada"
   team: true
-  thumbnailUrl: john_jane_doe.png
+  thumbnailUrl: kendra_oudyk.jpg
   social:
-
-dragan_rangelov:
-  name: "Dragan"
-  surname: "Rangelov"
-  location: "Brisbane, Australia"
-  team: true
-  thumbnailUrl: Dragan_Rangelov.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/neuronomist" }
-    - { name: "github", link: "https://github.com/draran/" }
+    - { name: "twitter", link: "https://twitter.com/koudyk_" }
+    - { name: "github", link: "https://github.com/koudyk/" }
