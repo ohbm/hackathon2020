@@ -1,16 +1,193 @@
--
-  id: 1
-  name: "prof. em. Riitta Hari (Aalto University)"
-  title: "We know about the brain almost everything, except how it works. So what?"
-  thumbnailUrl: hari.jpg
-  rockstar: true
+saskia_steffan_bollmann:
+  name: "Saskia & Steffan"
+  surname: "Bollmann"
+  location: "Australia"
+  team: true
+  thumbnailUrl: SteffenSaskia.png
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
-  id: 2
-  name: "prof. Lauri Parkkonen (Aalto University)"
-  title: "The unseen in brain imaging"
-  thumbnailUrl: parkkonen.jpg
-  rockstar: true
+    - { name: "twitter", link: "https://twitter.com/sbollmann_MRI" }
+    - { name: "github", link: "https://github.com/stebo85/" }
+
+steffan_bollmann:
+  name: "Steffan"
+  surname: "Bollmann"
+  location: "Australia"
+  team: true
+  thumbnailUrl: steffen_bollmann.jpg
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - { name: "twitter", link: "https://twitter.com/sbollmann_MRI" }
+    - { name: "github", link: "https://github.com/stebo85/" }
+
+dragan_rangelov:
+  name: "Dragan"
+  surname: "Rangelov"
+  location: "Brisbane, Australia"
+  team: true
+  thumbnailUrl: Dragan_Rangelov.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/neuronomist" }
+    - { name: "github", link: "https://github.com/draran/" }
+
+aurina_arnatkeviciute:
+  name: "Aurina"
+  surname: "Arnatkeviciute"
+  location: ""
+  team: true
+  thumbnailUrl: AURINA_ARNATKEVICIUTE.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/AurinaArn/"}
+    - { name: "github", link: "https://github.com/AurinaBMH/"}
+
+chao_gan_yan:
+  name: "Chao-Gan"
+  surname: "Yan"
+  location: "Beijing, China"
+  team: true
+  thumbnailUrl: chao_gan.jpg
+  social:
+
+tom_shaw:
+  name: "Tom"
+  surname: "Shaw"
+  location: "Brisbane, Queensland, Australia"
+  team: true
+  thumbnailUrl: tom_shaw.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/thomcat992" }
+    - { name: "github", link: "https://github.com/thomshaw92/" }
+
+
+# ------------------------------------------------------------------------------------------------ #
+# ------------------------------------------------------------------------------------------------ #
+
+
+agah_karakuzu:
+  name: "Agah"
+  surname: "Karakuzu"
+  location: "Kayseri, Turkey"
+  team: true
+  thumbnailUrl: Agah_Karakuzu.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/agahkarakuzu" }
+    - { name: "github", link: "https://github.com/agahkarakuzu/" }
+
+adina_wagner:
+  name: "Adina"
+  surname: "Wagner"
+  location: "Braunschweig, Germany"
+  team: true
+  thumbnailUrl: adina_wagner.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/AdinaKrik" }
+    - { name: "github", link: "https://github.com/adswa" }
+
+helena_ludmyr:
+  name: "Helena"
+  surname: "Ludmyr"
+  location: "Stockholm, Sweden"
+  team: true
+  thumbnailUrl: john_jane_doe.png
+  social:
+    - { name: "twitter", link: "https://twitter.com/Helena_LB" }
+
+mathew_abrams:
+  name: "Mathew"
+  surname: "Abrams"
+  location: "Stockholm, Sweden"
+  team: true
+  thumbnailUrl: john_jane_doe.png
+  social:
+
+
+# ------------------------------------------------------------------------------------------------ #
+# ------------------------------------------------------------------------------------------------ #
+
+
+michael_dayan:
+  name: "Michael"
+  surname: "Dayan"
+  location: ""
+  team: true
+  thumbnailUrl: michael_dayan.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/brainhiker" }
+
+brain_art_sig:
+  name: "Brain Art"
+  surname: "OHBM SIG"
+  location: ""
+  team: true
+  thumbnailUrl:
+  social:
+    - { name: "twitter", link: "https://twitter.com/OHBM_BrainArt" }
+
+tristan_gatlard:
+  name: "Tristan"
+  surname: "Glatard"
+  location: "Montreal, QC"
+  team: true
+  thumbnailUrl: tristan_glatard.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/TristanGlatard" }
+
+samir_das:
+  name: "Samir"
+  surname: "Das"
+  location: "Montreal, QC"
+  team: true
+  thumbnailUrl: samir_das.png
+  social:
+    - { name: "twitter", link: "https://twitter.com/samirdas" }
+
+sam_nastase:
+  name: "Sam"
+  surname: "Nastase"
+  location: "Princeton, NJ, USA"
+  team: true
+  thumbnailUrl: sam_nastase.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/samnastase" }
+    - { name: "github", link: "https://github.com/snastase/" }
+
+kendra_oudyk:
+  name: "Kendra"
+  surname: "Oudyk"
+  location: "Brantford, Ontario, Canada"
+  team: true
+  thumbnailUrl: kendra_oudyk.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/koudyk_" }
+    - { name: "github", link: "https://github.com/koudyk/" }
+
+qawi_telesford:
+  name: "Qawi"
+  surname: "Telesford"
+  location: ""
+  team: true
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+leonaro_laccarino:
+  name: "Leonaro"
+  surname: "Laccarino"
+  location: ""
+  team: true
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}
+
+reinder_vosdewael:
+  name: "Reinder"
+  surname: "Vos de Wael"
+  location: ""
+  team: true
+  thumbnailUrl:
+  hub: Americas
+  social:
+    # - {name: "twitter", link: "https://twitter.com/"}
+    # - {name: "github", link: "https://github.com/"}

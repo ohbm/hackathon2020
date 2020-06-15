@@ -17,7 +17,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     @media (min-width: 768px) {
        padding: 34px 0 30px 34px;
     }
-    @media (max-width: 991px) {
+    @media (max-width: $screen-md-max) {
        padding: 34px 34px 0px 34px;
     }
     &.after-scroll {
@@ -25,7 +25,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         @media (min-width: 768px) {
            padding: 0px 0 0px 34px;
         }
-        @media (max-width: 991px) {
+        @media (max-width: $screen-md-max) {
            padding: 0px 34px 0px 34px;
         }
     }
@@ -38,12 +38,12 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     display: block;
     transform: translateY(20px);
     transition: $base-transition;
-    @media (max-width: 991px) {
+    @media (max-width: $screen-md-max) {
         transform: translateX(-45px);
     }
     .top-header.after-scroll & {
         transform: translateY(1px);
-        @media (max-width: 991px) {
+        @media (max-width: $screen-md-max) {
             transform: translateX(-45px);
         }    
     }
@@ -55,7 +55,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         margin-right: 20px;
         transform: scale(.7);
         vertical-align: middle;
-         @media (max-width: 991px) {
+         @media (max-width: $screen-md-max) {
             transform: scale(.6);
         }
     }
@@ -68,7 +68,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     vertical-align: middle;
 }
 nav {
-    @media (max-width: 991px) {
+    @media (max-width: $screen-md-max) {
         position: fixed;
         z-index: 100;
         top: 0;
@@ -92,7 +92,7 @@ nav {
         text-align: left;
         transform: translateY(40px);
         transition: $base-transition;
-        @media (max-width: 991px) {
+        @media (max-width: $screen-md-max) {
             line-height: 20px;
             width: 95%;
             margin: 20px 0 0 5px;
@@ -100,7 +100,7 @@ nav {
         }
         .top-header.after-scroll & {
             transform: translateY(20px);  
-            @media (max-width: 991px) {
+            @media (max-width: $screen-md-max) {
                 transform: translateY(0);  
             }
         }
@@ -109,7 +109,7 @@ nav {
         display: inline-block;
         padding: 0 8px;
         vertical-align: middle;
-        @media (max-width: 991px) {
+        @media (max-width: $screen-md-max) {
             display: block;
         }
         a {
@@ -118,7 +118,7 @@ nav {
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
-            @media (max-width: 991px) {
+            @media (max-width: $screen-md-max) {
                 font-size: 16px;
                 display: block;
                 padding: 13px 15px 13px 15px;
@@ -130,18 +130,18 @@ nav {
             &.current, &:hover {
                 text-decoration: none;
                 color: $nav-color-hover;
-                @media (max-width: 991px) {
+                @media (max-width: $screen-md-max) {
                     color: $main-color;
                 }
             }
             .top-header.after-scroll & {
                 color: $nav-scroll-color;
-                @media (max-width: 991px) {
+                @media (max-width: $screen-md-max) {
                     top: 20px;
                 }
                 &.current, &:hover {
                     color: $nav-scroll-color-hover;
-                    @media (max-width: 991px) {
+                    @media (max-width: $screen-md-max) {
                         color: $main-color;
                     }
                 }
@@ -154,6 +154,9 @@ nav {
     transition: $base-transition;
     opacity: 1;
     display: block;
+    position: absolute;
+    right: 20px;
+    top: 60px;
     &:nth-of-type(1) {
         margin-right: 65px;
     }
@@ -168,7 +171,7 @@ nav {
 .icon-menu {
     width: 20px;
     height: 20px;
-    fill: #e6e6e6;
+    fill: #777;
     .top-header.after-scroll & {
         fill: #464646;
     }
