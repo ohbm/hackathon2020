@@ -156,7 +156,7 @@ yarik_halchenko:
   name: "Yarik"
   surname: "Halchenko"
   location: ""
-  thumbnailUrl:
+  thumbnailUrl: yarik_halchenko.jpeg
   hub: Americas
   social:
     - {name: "twitter", link: "https://twitter.com/yarikoptic"}
