@@ -83,10 +83,10 @@ adina_wagner:
 
 helena_ludmyr:
   name: "Helena"
-  surname: "Ludmyr"
+  surname: "Ledmyr"
   location: "Stockholm, Sweden"
   team: true
-  thumbnailUrl: john_jane_doe.png
+  thumbnailUrl: Helena_Ledmyr.jpg
   social:
     - { name: "twitter", link: "https://twitter.com/Helena_LB" }
 
@@ -95,7 +95,7 @@ mathew_abrams:
   surname: "Abrams"
   location: "Stockholm, Sweden"
   team: true
-  thumbnailUrl: john_jane_doe.png
+  thumbnailUrl: Abrams_Mathew.jpg
   social:
 
 
