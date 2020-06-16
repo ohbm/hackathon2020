@@ -324,9 +324,15 @@
   type: traintrack
   title: "Maching learning using Nilearn + Sklearn"
   place: "Crowdcast"
-  description: "Hands-on machine learning tutorial for neuroimaging."
+  description: "Mix of presentation and hands-on to get acquainted with the main machine learning
+    concepts and apply them to neuroimaging datasets."
+  long_description: >
+    This traintrack session aims at providing an overview of the main machine learning concepts and
+    apply them “live” in a dedicated Jupyter notebook. The main prerequisite is familiarity with
+    Python and git, but no previous machine learning knowledge is required (this is an introduction
+    to machine learning!). In addition to a toy dataset we will also explore real neuroimaging datasets.
   thumbnailUrl: /img/traintrack/nilearn-logo.png
-  prerequisite:
+  prerequisite: Familiarity with git. Python basics (pandas a plus).
   links:
   language: english
   complexity: Beginner

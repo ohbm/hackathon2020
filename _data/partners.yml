@@ -11,7 +11,8 @@
    # - {name: "QBIN", description: "QBIN", link: "https://www.rbiq-qbin.qc.ca/Accueil", imageUrl: "QBIN_logo.png"}
     # - {name: "Child mind institute", description: "Child mind institute", link: "https://childmind.org/", imageUrl: "child_mind_institute.png"}
     - {name: "Ludmer center", description: "Ludmer center", link: "http://ludmercentre.ca/", imageUrl: "ludmer_center.png"}
-    
+    - {name: "UNIQUE Center Neuro-AI", description: "UNIQUE Center Neuro-AI", link: "http://unique.quebec", imageUrl: "UNIQUE.png"}
+
 -
   group: "With the support of"
   elements:

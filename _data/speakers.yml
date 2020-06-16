@@ -164,7 +164,7 @@ qawi_telesford:
   surname: "Telesford"
   location: ""
   team: true
-  thumbnailUrl:
+  thumbnailUrl: Qawi_Telesford.jpg
   hub: Americas
   social:
     # - {name: "twitter", link: "https://twitter.com/"}
