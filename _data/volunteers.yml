@@ -306,6 +306,17 @@
       social:
         - {name: "twitter", link: "https://twitter.com/zuxfoucault"}
         - {name: "github", link: "https://github.com/zuxfoucault"}
+    -
+      id: 27
+      name: "Morgan"
+      surname: "McIntyre"
+      title: "Teaching assistant"
+      location: "Brisbane, Australia"
+      thumbnailUrl: Morgan_McIntyre.jpg
+      team: true
+      social:
+        - {name: "twitter", link: "https://twitter.com/Morg_anMcIntyre"}
+        - {name: "github", link: "https://github.com/morganmcintyre"}
 # -------------------------------------------------------------------------------------------------#
 #                                      HUB EUROPE MIDDLE-EAST AFRICA
 # -------------------------------------------------------------------------------------------------#
