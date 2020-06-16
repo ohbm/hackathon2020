@@ -407,12 +407,13 @@
       id: 8
       name: "Sofie"
       surname: "Van Den Bossche"
-      title: " " # Hackathon buddies
+      title: "Welcome desk, Helpdesk, Streaming" #Hackathon buddies
       location: "Ghent, Belgium"
       thumbnailUrl: sofie_400x400.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+        - {name: "github", link: "https://github.com/sofievdbos"}
     -
       id: 9
       name: "Matthias"
@@ -740,12 +741,13 @@
       id: 5
       name: "Sofie"
       surname: "Van Den Bossche"
-      title: " " # Hackathon buddies
+      title: "Welcome desk, Helpdesk, Streaming" #Hackathon buddies
       location: "Ghent, Belgium"
       thumbnailUrl: sofie_400x400.jpg
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+        - {name: "github", link: "https://github.com/sofievdbos"}
     -
       id: 6
       name: "Camille"
@@ -830,6 +832,7 @@
       team: true
       social:
         - {name: "twitter", link: "https://twitter.com/sofie_vdbos"}
+        - {name: "github", link: "https://github.com/sofievdbos"}
     -
       id: 4
       name: "Peer"
