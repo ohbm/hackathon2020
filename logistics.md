@@ -175,7 +175,7 @@ If you are not familiar with mattermost, make sure you check out the [user-guide
   * [Town Square](https://mattermost.brainhack.org/brainhack/channels/town-square)
 * Project channel: Each project will have its own channel
 * Help desk: We have set up some channels that we will be using during the brainhack to facilate people
-asking for help. Each channel is associated with a jitsi video chat in case some face to face 
+asking for help. Each channel is associated with a jitsi video chat in case some face to face
 interaction and screen sharing is needed to trouble shoot some of the problems.
   - [Help desk - general](https://mattermost.brainhack.org/brainhack/channels/help_desk-general)
   - [Help desk - docker](https://mattermost.brainhack.org/brainhack/channels/help_desk-docker)
@@ -570,13 +570,11 @@ Unfortunately, Docker for Windows is a bit of a mess.
 The recommended version of Docker to install varies dramatically depending not only on which version of Windows you have installed (e.g., Windows 10 Home versus Professional/Enterprise/Education), but also which _build_ of Windows you have.
 As such, developing a comprehensive set of instructions for installing Docker is rather difficult.
 
-For this course, you will need to install either [Docker Toolbox for Windows](https://docs.docker.com/toolbox/toolbox_install_windows/) or [Docker for Windows Desktop](https://docs.docker.com/docker-for-windows/install/).
-Which you install will depend on your OS.
-**PLEASE NOTE** that installing Docker for Windows Desktop will disable VirtualBox on your computer.
-If you actively use VirtualBox we recommend you install Docker Toolbox.
+Having said that, if you're lucky enough to have Windows 10 Professional/Enterprise/Education (i.e. it is _not_ Windows 10 Home), and you don't use VirtualBox (or if you don't know what VirtualBox is), then you can download and install [Docker for Windows Desktop](https://docs.docker.com/docker-for-windows/install/). Follow the instructions at that link.
 
-(Note: the below instructions assume you are installing Docker Toolbox.
-Because there are fewer requirements for Docker Toolbox, it is likely that you will be able to install this more easily.)
+If you are using Windows 10 Home, or any other version of Windows, then the best option may be to install [Docker Toolbox for Windows](https://docs.docker.com/toolbox/toolbox_install_windows/).
+
+Instructions for installing Docker Toolbox for Windows:
 
 1. Download the latest [Docker Toolbox installer](https://github.com/docker/toolbox/releases/download/v19.03.1/DockerToolbox-19.03.1.exe) (note: that link will automatically download the file)
 1. Run the downloaded `.exe` file and leave all the defaults during the installation procedure.
