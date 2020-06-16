@@ -1,4 +1,7 @@
 -
+  name: "Kristina Sabaroedin"
+  image: kristinasabaroedin.jpg
+-
   name: "Remi Gau"
   image: alain-bonnardeaux-S5upBrrNEHs-unsplash.jpg
   url: https://unsplash.com/photos/S5upBrrNEHs
@@ -11,11 +14,12 @@
 -
   name: "Steffen and Saskia Bollmann"
   image: Stebo85.jpg
-  
 -
-name: "Roshini Randeniya"
-image: Roshini.jpg
-
+  name: "Roshini Randeniya"
+  image: Roshini.jpg
+-
+  name: "Jeryn Chang"
+  image: jeryn.png
 # -
 #   name: "Remi Gau"
 #   image: alain-bonnardeaux-S5upBrrNEHs-unsplash.jpg
