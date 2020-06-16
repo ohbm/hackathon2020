@@ -294,7 +294,7 @@
   teaching_assistants: # from teaching_assistants.yml
     apac: [reinder_vosdewael]
     emea: [casey_paquola]
-    americas: [qawi_telesford, leonaro_laccarino, reinder_vosdewael]
+    #americas: [qawi_telesford, leonaro_laccarino, reinder_vosdewael]
 
 -
   id: 306

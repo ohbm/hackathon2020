@@ -178,16 +178,16 @@ leonaro_iaccarino:
   thumbnailUrl: leonardo_iaccarino.jpg
   hub: Americas
   social:
-    # - {name: "twitter", link: "https://twitter.com/"}
-    # - {name: "github", link: "https://github.com/"}
+     - {name: "twitter", link: "https://twitter.com/leoiacca"}
+     #- {name: "github", link: "https://github.com/"}
 
 reinder_vosdewael:
   name: "Reinder"
   surname: "Vos de Wael"
   location: ""
   team: true
-  thumbnailUrl:
+  thumbnailUrl: reinder_vosdewael.png
   hub: Americas
   social:
-    # - {name: "twitter", link: "https://twitter.com/"}
-    # - {name: "github", link: "https://github.com/"}
+     - {name: "twitter", link: "https://twitter.com/reindervosdwael"}
+     - {name: "github", link: "https://github.com/ReinderVosDeWael"}
