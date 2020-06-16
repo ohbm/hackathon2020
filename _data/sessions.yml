@@ -290,7 +290,7 @@
   language: english
   complexity: Beginner
   subtype: introductory material / pre-recorded
-  speakers: [qawi_telesford, leonaro_laccarino, reinder_vosdewael] # from speakers.yml
+  speakers: [qawi_telesford, leonaro_iaccarino, reinder_vosdewael] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
     apac: [reinder_vosdewael]
     emea: [casey_paquola]

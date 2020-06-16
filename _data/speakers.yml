@@ -170,12 +170,12 @@ qawi_telesford:
     # - {name: "twitter", link: "https://twitter.com/"}
     # - {name: "github", link: "https://github.com/"}
 
-leonaro_laccarino:
+leonaro_iaccarino:
   name: "Leonaro"
-  surname: "Laccarino"
+  surname: "Iaccarino"
   location: ""
   team: true
-  thumbnailUrl:
+  thumbnailUrl: leonardo_iaccarino.jpg
   hub: Americas
   social:
     # - {name: "twitter", link: "https://twitter.com/"}
