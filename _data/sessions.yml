@@ -327,10 +327,10 @@
   description: "Mix of presentation and hands-on to get acquainted with the main machine learning
     concepts and apply them to neuroimaging datasets."
   long_description: >
-    We cover how containers can be useful for running the same software on different platforms and
-    sharing analysis pipelines with other researchers. We will show how to build docker containers
-    from scratch and using Neurodocker. Finally we will cover how to use containers on an HPC
-    with singularity.
+    This traintrack session aims at providing an overview of the main machine learning concepts and
+    apply them “live” in a dedicated Jupyter notebook. The main prerequisite is familiarity with
+    Python and git, but no previous machine learning knowledge is required (this is an introduction
+    to machine learning!). In addition to a toy dataset we will also explore real neuroimaging datasets.
   thumbnailUrl: /img/traintrack/nilearn-logo.png
   prerequisite: Familiarity with git. Python basics (pandas a plus).
   links:
