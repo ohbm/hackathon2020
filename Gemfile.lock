@@ -266,7 +266,7 @@ DEPENDENCIES
   sass-media_query_combiner
 
 RUBY VERSION
-   ruby 2.7.0p0
+   ruby 2.5.1p57
 
 BUNDLED WITH
    2.1.4
