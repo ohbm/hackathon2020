@@ -50,9 +50,14 @@
 -
   name: "Jeryn Chang"
   image: jeryn.png
-
+-
   name: "Yohan Yee"
   image: yohanyee.jpg
+-
+  name: "jeryn"
+  image: jeryn.png
+
+
 # -
 #   name: "Remi Gau"
 #   image: alain-bonnardeaux-S5upBrrNEHs-unsplash.jpg
