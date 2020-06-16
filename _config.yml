@@ -57,9 +57,8 @@ navigationLinks:
  - {permalink: "/venue", text: "Venue"}
 
 bottomNavigationLinks:
- - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
+
 rightNavigationButtons:
- - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
 
 # Hero Block
 heroImage: "mtl_photo.jpg"
@@ -69,7 +68,6 @@ hubStreamingInfo: "Americas and EMEA hubs' content will be broadcasted via <a hr
 typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
 heroButtons:
-   - {link: "http://www.humanbrainmapping.org/HackathonReg/", text: "Register NOW!"}
    - {link: "https://ohbm.github.io/hackathon2020/hacktrack/", text: "Join a project"}
    - {link: "https://neurostars.org/t/ohbm-brainhack-2020/6192/8?u=remi-gau", text: "Want to help?"}
 
