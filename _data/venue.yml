@@ -1,4 +1,16 @@
 -
+  name: "Isabella Breukelaar"
+  image: City_of_Sydney.jpg
+-
+  name: "warmxue"
+  image: GITHUB_warmxue.jpg
+-
+  name: "Sina Mansour L."
+  image: sina-mansour.jpeg
+-
+  name: "Kristina Sabaroedin"
+  image: kristinasabaroedin.jpg
+-
   name: "Remi Gau"
   image: alain-bonnardeaux-S5upBrrNEHs-unsplash.jpg
   url: https://unsplash.com/photos/S5upBrrNEHs
@@ -11,11 +23,28 @@
 -
   name: "Steffen and Saskia Bollmann"
   image: Stebo85.jpg
-
+-
+  name: "Johanna Bayer"
+  image: 20191020_180412.jpg
+-
+  name: "Roshini Randeniya"
+  image: Roshini.jpg
+-
+  name: "Raffy and Meeko"
+  image: ashleyYork.jpg
+-
+  name: "Saampras Ganesan"
+  image: saampras.JPG
+-
+  name: "Megan and Leonie HMRI Kookaburra"
+  image: meganEJcampbell.jpeg
+-
+  name: "Jeryn Chang"
+  image: jeryn.png
 # -
-#   name: "Remi Gau"
-#   image: alain-bonnardeaux-S5upBrrNEHs-unsplash.jpg
-#   url: https://unsplash.com/photos/S5upBrrNEHs
+#   name: Johanna Bayer
+#   image: 20200613_203843.jpg
+#
 # -
 #   name: "Remi Gau"
 #   image: alain-bonnardeaux-S5upBrrNEHs-unsplash.jpg
