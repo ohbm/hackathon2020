@@ -478,7 +478,7 @@ If you have questions during the installation procedure please check that link f
 
 3. Press `Enter` again when prompted to reboot your computer.
 4. Once your computer has rebooted, open the Microsoft Store and search for "Ubuntu."
-   Install the program labelled "Ubuntu 18.04" (not "Ubuntu 16.04" or "Ubuntu") by clicking the tile, pressing `Get`, and then `Install`.
+   Install the program labelled "Ubuntu 18.04" (NOT "Ubuntu 20.04" (bug in gpg that makes git clone from https fail) NOT "Ubuntu 16.04" NOT "Ubuntu") by clicking the tile, pressing `Get`, and then `Install`.
 5. Search for and open Ubuntu from your applications.
    There will be a slight delay (of a few minutes) while it finishes installing.
 6. You will be prompted to `Enter new UNIX username`.
