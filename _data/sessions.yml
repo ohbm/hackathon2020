@@ -200,7 +200,7 @@
   prerequisite: >
     Familiarity with matlab / git / github will be a plus.
   links:
-    code: https://github.com/agahkarakuzu/eda_refactored
+    code: https://github.com/agahkarakuzu/eda_organized
     presentation: https://osf.io/pkqts/
   language: english
   complexity: Beginner
@@ -445,6 +445,7 @@
   prerequisite:
   links:
     website: http://portal.conp.ca
+    youtube: https://www.youtube.com/watch?v=yT7JxuWZeII&list=PLpq4Yg4gJPD9F-Qt3IK4YphSwJGq68gus&index=3
   language: english
   complexity: Beginner
   subtype: pre-recorded / demo and tutorial
