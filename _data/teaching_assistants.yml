@@ -175,12 +175,12 @@ dan_gale:
 jake_vogel:
   name: "Jake"
   surname: "Vogel"
-  location: ""
-  thumbnailUrl:
+  location: "Montreal, QC"
+  thumbnailUrl: jake_vogel.png
   hub: Americas
   social:
-    # - {name: "twitter", link: "https://twitter.com/"}
-    # - {name: "github", link: "https://github.com/"}
+     - {name: "twitter", link: "https://twitter.com/_JakeVogel_"}
+     - {name: "github", link: "https://github.com/illdopjake"}
 
 thomas_funck:
   name: "Thomas"
