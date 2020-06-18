@@ -185,17 +185,17 @@ jake_vogel:
 thomas_funck:
   name: "Thomas"
   surname: "Funck"
-  location: ""
-  thumbnailUrl:
+  location: "Montreal, QC"
+  thumbnailUrl: thomas_funck.jpg
   hub: Americas
   social:
-    # - {name: "twitter", link: "https://twitter.com/"}
-    # - {name: "github", link: "https://github.com/"}
+     - {name: "twitter", link: "https://twitter.com/tffunck"}
+     - {name: "github", link: "https://github.com/tfunck"}
 
 xihe_xie:
   name: "Xihe"
   surname: "Xie"
-  location: ""
+  location: "New York City"
   thumbnailUrl:
   hub: Americas
   social:
@@ -249,3 +249,12 @@ michael_dayan:
   thumbnailUrl: michael_dayan.jpg
   social:
     - { name: "twitter", link: "https://twitter.com/brainhiker" }
+
+liza_levitis:
+  name: "Liza"
+  surname: "Levitis"
+  thumbnailUrl: liza_levitis.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/LevitisLiza"}
+    - {name: "github", link: "https://github.com/llevitis"}

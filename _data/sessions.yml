@@ -334,12 +334,13 @@
   thumbnailUrl: /img/traintrack/nilearn-logo.png
   prerequisite: Familiarity with git. Python basics (pandas a plus).
   links:
+    code: https://github.com/mick-d/introml-sklearn-nilearn
   language: english
   complexity: Beginner
   subtype: pre-recorded / follow along
   speakers: [michael_dayan] # from speakers.yml
   teaching_assistants: # from teaching_assistants.yml
-    apac: []
+    apac: [liza_levitis]
     emea: [michael_dayan]
     americas: [dan_gale, jake_vogel]
 
