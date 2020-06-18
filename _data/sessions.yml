@@ -287,6 +287,8 @@
   thumbnailUrl: /img/traintrack/brainviz.png
   prerequisite:
   links:
+    website: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3911&activateFull=true
+    competition: https://www.neurobureau.org/brainart/brain-art-competition-2020/
   language: english
   complexity: Beginner
   subtype: introductory material / pre-recorded
@@ -295,7 +297,6 @@
     apac: [reinder_vosdewael]
     emea: [casey_paquola]
     #americas: [qawi_telesford, leonaro_laccarino, reinder_vosdewael]
-
 -
   id: 306
   type: traintrack
@@ -474,6 +475,7 @@
   prerequisite:
   links:
     website: https://www.incf.org/
+    youtube: https://www.youtube.com/watch?v=teFJ_W6nVUY&feature=youtu.be
   language: english
   complexity: Beginner
   subtype: live / moderated discussion

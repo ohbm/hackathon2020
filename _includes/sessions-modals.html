@@ -53,6 +53,11 @@
 							<a class="theme-code" href="{{ session.links.website }}" title="Code" target="_blank">Website</a>
 						</div>
 						{% endif %}
+						{% if session.links != null and session.links.competition != null %}
+						<div>
+							<a class="theme-code" href="{{ session.links.competition }}" title="Code" target="_blank">Brain Art Competition</a>
+						</div>
+						{% endif %}
 
 						<hr>
 						<div class="people-details">
