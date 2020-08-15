@@ -64,7 +64,7 @@ rightNavigationButtons:
 heroImage: "mtl_photo.jpg"
 heroTitle: "OHBM Brainhack <typeout>"
 eventDate: "June 16-18th 2020"
-hubStreamingInfo: "Americas and EMEA hubs' content will be broadcasted via <a href=https://www.crowdcast.io/ossig2019>Crowdcast</a>. <br>APAC hub will be using Zoom."
+hubStreamingInfo: ""
 typeoutTextValues: '"June 16-18th, 2020", "Worldwide!", ""'
 typeoutFallback: ""
 heroButtons:
