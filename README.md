@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# OHBM 2020 Brainhack
+# OHBM 2020 Brainhack - The end of search is here
 
 The [Open Science Special Interest Group](https://ossig.netlify.com/) is very happy to announce that the 8th Annual OHBM Brainhack will be held on June 16-18 as online.
 
