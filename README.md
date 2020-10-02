@@ -5,19 +5,19 @@
 
 # OHBM 2020 Brainhack
 
-The [Open Science Special Interest Group](https://ossig.netlify.com/) is very happy to announce that the 8th Annual OHBM Brainhack will be held on June 16-18 as online.
+The [Open Science Special Interest Group](https://ossig.netlify.com/) is very happy to announce that the 8th Annual OHBM Brainhack will be held on June 16-18 via online mode.
 
 ![landing_image](img/landing_hackathon_2020.jpg)
 
 ## What is a Brainhack?
 
-At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials are provided. Brainhacks differ from typical academic conference in that attendees can actively take part in the program and co-learn from each other such that they will be actively trying to create something rather than passively attending. Although many Brainhack projects might involve coding, it is not a requirement and many projects can be done without coding skills.
+At the OHBM Brainhack , members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials are provided. Brainhack differs from typical academic conference ,attendees here can actively participate in the program and co-learn from each other such that they will be actively trying to create something rather than passively attending. Although many Brainhack projects might involve coding, it is not a requirement and many projects can be done without coding skills.
 
-For this year’s Brainhack, we want to create an atmosphere where people who have never attended such an event before can feel welcome. We want to make sure that attendees not only have the opportunity to learn new open-science skills in the TrainTrack that will help them in their future work but that they also get the chance to directly practice some of those skills by joining and collaborating on a Brainhack project.
+For this year’s Brainhack, we want to create an atmosphere wherein people who have never attended such an event before can feel salute. We would make sure that attendees not only have the opportunity to learn new open-science skills in the TrainTrack that will help them in their future work, but also get the chance to directly practice some of those skills by joining and collaborating on a Brainhack project.
 
 ## What kind of projects can you find in a Brainhack?
 
-The projects can be things the project leader is already working on, or a project they would like to receive contribution/opinion/help, or a completely new project they would like to accomplish with group work.
+A project can be things the project leader is already working on, or would like to receive contribution/opinion/help, or a completely new project to be accomplished with the respectve team.
 
 You can find example of projects listed in the different [brainhack events](http://www.brainhack.org/) or directly on the websites of previous Brainhacks :
 
@@ -31,14 +31,14 @@ You can find example of projects listed in the different [brainhack events](http
 
 Yes. The OS-SIG is providing 50 mini-grants worth 100 USD each to help Brainhack attendees set up for online conferencing. Apply via the registration link.
 
-In addition, the OS-SIG is committed to making the OHBM Brainhack more accessible. In particular, if the Brainhack fees make it impossible for you to attend the OHBM Brainhack, please send us an email at: ossig2019@inria.fr sharing some details about your situation. We will consider waving those fees as necessary.
+In addition, the OS-SIG is committed to making the OHBM Brainhack more accessible. In particular, if the Brainhack fees makes it impossible for you to attend the OHBM Brainhack, please send us email at: ossig2019@inria.fr sharing brief details about your situation. We will consider waving those fees as necessary.
 
 ## Do I need to register for the OHBM conference to attend the OHBM Brainhack?
 
 No.
 The main conference and the OHBM Brainhack are separate events and you can choose to register for Brainhack only.
 
-You do not need to be an OHBM member to register and the price of registration will be the same regardless of your membership status.
+You do not need to be an OHBM member to register and the price of registration will be same regardless of your membership status.
 
 ## For more information
 
